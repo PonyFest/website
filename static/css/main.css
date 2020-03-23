@@ -8,11 +8,31 @@ header {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+footer {
+    margin-top: 30px;
+    color: #555;
+    text-align: center;
+}
+
+footer a {
+    color: inherit;
+}
+
+.content {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content h1 {
+    text-align: center;
+}
+
 nav {
     flex-grow: 1;
     display: flex;
-    justify-content: space-around;
-    align-self: center;
+    justify-content: flex-end;
     flex-wrap: wrap;
     flex-direction: row;
 
@@ -24,11 +44,13 @@ nav {
 
 nav a
 {
-    font-size:30pt;
+    font-size:20pt;
     padding: 10pt;
-    color:#FFFFFF;
-    background-color: #99c6dc;
+    color: blue;
+    border-radius: 10px;
+    display: block;
     text-decoration:none;
+
 }
 
 a.discord
@@ -40,7 +62,7 @@ a.discord
     background-image: url(/images/discord.png);
     background-size: contain;
     background-repeat: no-repeat;
-    border-radius: 2px;
+    border-radius: 5px;
     width: 180px;
     height: 60px;
     margin: 5px;

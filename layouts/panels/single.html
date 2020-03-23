@@ -2,10 +2,17 @@
 	<head>
 		<title>hello</title>
 		{{partial "head.html" .}}
+		<link href="https://vjs.zencdn.net/7.6.6/video-js.css" rel="stylesheet" />
 	</head>
 	<body>
 		{{partial "header.html" .}}
-		<video class="main-stream" src="{{.Params.streamURL}}" controls autoplay muted></video>
-		<h1>How to con<span class="panelist"> — Simul</span></h1>
+		<div class="main-stream">
+		<video class="video-js" data-setup='{"fluid": true, "crossorigin": "anonymous"}'  controls autoplay>
+			<source src="{{.Params.streamURL}}" type="application/x-mpegURL">
+			<p class="vjs-no-js">more js pls</p>
+		</video>
+		</div>
+		<h1>Test stream</h1>
+		<script src="https://vjs.zencdn.net/7.6.6/video.js"></script>
 	</body>
 </html>

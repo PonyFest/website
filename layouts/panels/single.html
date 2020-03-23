@@ -1,10 +1,10 @@
 <html>
 	<head>
 		<title>hello</title>
-		{{partial "head.html"}}
+		{{partial "head.html" .}}
 	</head>
 	<body>
-		{{partial "header.html"}}
+		{{partial "header.html" .}}
 		<video class="main-stream" src="{{.Params.streamURL}}" controls autoplay muted></video>
 		<h1>How to con<span class="panelist"> — Simul</span></h1>
 	</body>

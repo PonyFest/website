@@ -7,14 +7,14 @@ url: /staff
 
 PonyFest Online could not have existed without the tireless (and frantic!) work of the following:
 
+- **B.B.** - Tabletop Gaming
+- **Dawnfire** - Mascot Design
 - **Dexanth** - Lead Facilitator
-- **Ruef** - Vendor Lead
-- **Simul** - Events Lead
-- **Screw Loose** - Design Lead
+- **Fizzbuzz** - Video Room
+- **Katharine** - Web Development
 - **Kevin** - Social Media Lead
 - **Kibbie** - Social Media Memeposter
-- **Larcis** - A/V / Streaming Lead
-- **Katharine** - Web Lead
-- **Fizzbuzz** - Video Room
-- **B.B.** - Tabletop
-- **Dawnfire** - Mascot Design
+- **Larcis** - A/V / Streaming
+- **Ruef** - Vendor Manager
+- **Screw Loose** - Design Lead
+- **Simul** - Events / Scheduling

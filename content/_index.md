@@ -27,7 +27,7 @@ p {
 }
 </style>
 <div style="display: flex; flex-wrap: wrap;">
-	<div style="text-align: center; flex-grow: 1;"><img style="padding-right: 20px;" src="/images/mascot-sketch.png"></div>
+	<div style="text-align: center; flex-grow: 1;"><img style="padding-right: 20px;" src="/images/mascot.png"></div>
 	<div style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
 			<h1 style="font-size: 3em; margin: 0;">PonyFest Online!</h1>

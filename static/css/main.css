@@ -1,0 +1,58 @@
+body {
+	font-family: Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+nav {
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    min-width:100px;
+    text-align:left;
+
+    padding:10px 20px;
+}
+
+nav a
+{
+    font-size:30pt;
+    padding: 10pt;
+    color:#FFFFFF;
+    background-color: #99c6dc;
+    text-decoration:none;
+}
+
+a.discord
+{
+    font-size:30pt;
+    color:#FFFFFF;
+    background-color: #7289DA;
+    text-decoration:none;
+    background-image: url(/images/discord.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    width: 180px;
+    height: 60px;
+    margin: 5px;
+    display: block;
+}
+
+.main-stream {
+	width: 100%;
+	max-height: 90vh;
+}
+
+.panelist {
+	font-size: 20pt;
+	color: #333;
+}

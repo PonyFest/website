@@ -81,6 +81,14 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 <div style="break-inside: avoid;">
 
+## Web
+- **Katharine** - Lead
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
 ## Special Thanks
 - **Joey**
 - **Jamis**

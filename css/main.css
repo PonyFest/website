@@ -7,6 +7,9 @@ header {
     display: -webkit-flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
@@ -38,19 +41,27 @@ nav {
 
     min-width:100px;
     text-align:left;
+    align-items: center;
+}
 
-    padding:10px 20px;
+a {
+    color: #375fda;
 }
 
 nav a
 {
     font-size:20pt;
     padding: 10pt;
-    color: blue;
+    padding-right: 0;
+    padding-left: 20px;
     border-radius: 10px;
     display: block;
     text-decoration:none;
 
+}
+
+p {
+    font-size: 1.2em;
 }
 
 a.discord
@@ -79,3 +90,30 @@ a.discord
 	font-size: 20pt;
 	color: #333;
 }
+
+.guest {
+    background-color: #e5ebff;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 1px;
+    margin-bottom: 30px;
+}
+
+.guest-desc {
+    display: flex;
+}
+
+.headshot {
+    padding-right: 20px;
+}
+
+.headshot img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 3px;
+}
+
+.staff-list h2 {
+    margin-top: 0;
+}
+

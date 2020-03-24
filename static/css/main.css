@@ -1,5 +1,6 @@
 body {
-	font-family: Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    background-color: #f7f9ff;
 }
 
 header {
@@ -81,14 +82,14 @@ a.discord
 }
 
 .main-stream {
-	width: 100%;
-	/*max-height: 500px;*/
+    width: 100%;
+    /*max-height: 500px;*/
     /*height: 80vh;*/
 }
 
 .panelist {
-	font-size: 20pt;
-	color: #333;
+    font-size: 20pt;
+    color: #333;
 }
 
 .guest {
@@ -99,8 +100,20 @@ a.discord
     margin-bottom: 30px;
 }
 
+.guest h2:last-child {
+    margin-bottom: 0;
+}
+
 .guest-desc {
     display: flex;
+}
+
+.guest-desc p:first-child {
+    margin-top: 0;
+}
+
+.guest-desc p:last-child {
+    margin-bottom: 0;
 }
 
 .headshot {

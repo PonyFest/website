@@ -37,6 +37,14 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 <div style="break-inside: avoid;">
 
+## Video Lounge
+- **Fizzbuzz** - Lead
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
 ## Gaming
 - **Leslie** - Coordinator
 - **yokaimask** - Coordinator
@@ -67,6 +75,14 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Social Media
 - **Kevin** - Lead
 - **Kibbie** - Memeposter
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
+## Vendors
+- **Reuf** - Lead
 
 </div>
 

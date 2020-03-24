@@ -12,7 +12,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Coordination
-- **Dexanth** - Lead Coordinator
+- **Dexanth** - Princess / Mom
 
 </div>
 

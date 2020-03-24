@@ -1,3 +1,3 @@
 ---
-streamURL: http://rtmp.ponyfest.horse/hls/test-stream.m3u8
+streamURL: https://rtmp.ponyfest.horse/hls/test-stream.m3u8
 ---

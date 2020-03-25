@@ -22,7 +22,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Events
 - **Simul** - Lead
 - **MidnightDynasty** - Staff
-- **Foalpapers** - Staff
+- **Foal Papers** - Staff
 
 </div>
 

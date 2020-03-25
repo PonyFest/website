@@ -8,7 +8,7 @@ url: /about
 Right! We know what you’re thinking: What the _hay_ is PonyFest Online? Where did you come from? This wasn’t a thing a week ago!
 
 You’d be right! PonyFest Online is an online Pony Convention with a one week turnaround - Our entire organization, schedule,
-everything has been built this week! We were inspired by Ruef’s awesome [online Vendor Hall](bit.ly/SupportVendors) for our
+everything has been built this week! We were inspired by Ruef’s awesome [online Vendor Hall](https://bit.ly/SupportVendors) for our
 friends and family who’ve been directly hurt by the loss of in-person pony conventions.
 
 PonyFest Online is a celebration of our community, a space for us to come together in challenging times and find a way to love,

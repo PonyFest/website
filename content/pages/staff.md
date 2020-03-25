@@ -23,6 +23,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 - **Simul** - Lead
 - **MidnightDynasty** - Staff
 - **Foal Papers** - Staff
+- **Lycan** - Staff
 
 </div>
 
@@ -39,6 +40,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Video Lounge
 - **Fizzbuzz** - Lead
+- **yokaimask** - Coordinator
+- **Adamtheamazing64** - Coordinator
 
 </div>
 
@@ -66,6 +69,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 - **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
 - **Viwrastupr** - Staff Artist
+- **Amodwithoutamark** - Staff Artist
+- **AmyNewBlue** - Staff Artist
 
 </div>
 
@@ -73,7 +78,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Social Media
-- **Kevin** - Lead
+- **Kevin from TrotCon** - Lead
 - **Kibbie** - Memeposter
 
 </div>
@@ -90,7 +95,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Discord
-- **Ethereal Vision** - Lead
+- **Ethereal Vision** - Staff
+- **Perrydotto** - Staff
 
 </div>
 
@@ -98,7 +104,15 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Web
-- **Katharine** - Lead
+- **Katharine Berry** - Lead
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
+## Changelings
+- **Jamis** - Staff
 
 </div>
 
@@ -107,7 +121,6 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Special Thanks
 - **Joey**
-- **Jamis**
 - **Skygunner**
 - **Gajinka**
 

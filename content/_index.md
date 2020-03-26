@@ -2,13 +2,13 @@
 
 ---
 <style type="text/css">
-.vendors {
+.discord-box {
 	margin-left: auto;
 	margin-right: auto;
 	width: 480px;
 	max-width: 90vw;
-	border: 1px solid rgb(255, 227, 0);
-	background-color: rgb(255, 255, 236);
+	border: 1px solid #aebbea;
+	background-color: #dbe1f5;
 	border-radius: 5px;
 	padding: 10px;
 	text-align: center;
@@ -34,13 +34,28 @@ p {
 			<p style="font-size: 2.5em; margin: 0;">Saturday March 28th, 2020</p>
 		</div>
 		<div>
-			<p>Get together online for PonyFest Online, an online pony convention <strong>this Saturday</strong>!</p>
+			<p>Get together online for PonyFest Online, a Discord-based online pony convention <strong>this Saturday</strong>!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and plenty of hanging out.</p>
 		</div>
-		<div class="vendors">
-			<h2>Vendors</h2>
-			<p>Want to vend at PonyFest Online? <a href="https://forms.gle/ahD8fwGHH49zTjzR6">Sign up here!</a></p>
-			<p>The deadline for vendor applications is <strong>this Wednesday, March 25th</strong>.
+<!-- 		<div class="discord-box">
+			<p style="font-weight: bold;">Pick up your badge here!</p>
+			<p><a href="https://discord.gg/" class="discord" style="height: 100px; width: 300px;"></a><br><span id="onlineSpan" style="font-weight: normal;"></span></p>
 		</div>
-	</div>
+	</div> -->
 </div>
+
+<!-- <script type="text/javascript">
+var onlineSpan = document.getElementById('onlineSpan');
+if (window.fetch) {
+	async function update() {
+		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
+		let json = await result.json()
+		let online = json['presence_count'];
+		if (online) {
+			onlineSpan.innerHTML =  ""+online + ' online now!';
+		}
+	}
+	update();
+	setTimeout(update, 60000);
+}
+</script> -->

@@ -78,7 +78,21 @@ a.discord
     width: 180px;
     height: 60px;
     margin: 5px;
-    display: block;
+    display: inline-block;
+}
+
+a.discord-icon
+{
+    font-size:30pt;
+    text-decoration:none;
+    background-image: url(/images/discord-icon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    display: inline-block;
 }
 
 .main-stream {
@@ -121,7 +135,7 @@ a.discord
 }
 
 .headshot img {
-    max-height: 200px;
+    max-height: 350px;
     max-width: 200px;
     border-radius: 3px;
 }

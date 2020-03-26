@@ -102,8 +102,8 @@ a.discord-icon
 }
 
 .panelist {
-    font-size: 20pt;
-    color: #333;
+    margin: 0;
+    font-style: italic;
 }
 
 .guest {
@@ -142,5 +142,14 @@ a.discord-icon
 
 .staff-list h2 {
     margin-top: 0;
+}
+
+#schedule-frame {
+    width: 100%;
+    height: 1500px;
+}
+
+.panel-list h2 {
+    margin-bottom: 0;
 }
 

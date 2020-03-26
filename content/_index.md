@@ -37,14 +37,14 @@ p {
 			<p>Get together online for PonyFest Online, a Discord-based online pony convention <strong>this Saturday</strong>!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and plenty of hanging out.</p>
 		</div>
-<!-- 		<div class="discord-box">
+		<div class="discord-box">
 			<p style="font-weight: bold;">Pick up your badge here!</p>
-			<p><a href="https://discord.gg/" class="discord" style="height: 100px; width: 300px;"></a><br><span id="onlineSpan" style="font-weight: normal;"></span></p>
+			<p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br><span id="onlineSpan" style="font-weight: normal;"></span></p>
 		</div>
-	</div> -->
+	</div>
 </div>
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 var onlineSpan = document.getElementById('onlineSpan');
 if (window.fetch) {
 	async function update() {
@@ -56,6 +56,6 @@ if (window.fetch) {
 		}
 	}
 	update();
-	setTimeout(update, 60000);
+	setTimeout(update, 300000);
 }
-</script> -->
+</script>

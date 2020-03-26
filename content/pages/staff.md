@@ -40,8 +40,6 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Video Lounge
 - **Fizzbuzz** - Lead
-- **yokaimask** - Coordinator
-- **Adamtheamazing64** - Coordinator
 
 </div>
 
@@ -51,6 +49,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Gaming
 - **Leslie** - Coordinator
 - **yokaimask** - Coordinator
+- **Adamtheamazing64** - Coordinator
 
 </div>
 

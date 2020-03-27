@@ -86,7 +86,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Vendors
-- **Reuf** - Lead
+- **Ruef** - Lead
 
 </div>
 

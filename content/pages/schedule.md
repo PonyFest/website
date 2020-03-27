@@ -76,7 +76,7 @@ A panel of convention organizers featuring Simul of EFNW, Shir of BronyCon, Tyle
 to create a con from the ground up and how to keep them working in an evolving fandom.
 
 ## IDW Artists Extravaganza
-<p class="panelist">Tony Fleecs, Trish Forstner, Silver Quill</p>
+<p class="panelist">Tony Fleecs, Trish Forstner, Katie Cook, Silver Quill</p>
 
 Come hang out with Tony Fleecs and other members of the IDW gang! Enjoy an hour of chill fun with some of the awesome talent behind the MLP comics.
 

@@ -77,14 +77,17 @@ to create a con from the ground up and how to keep them working in an evolving f
 
 ## IDW Artists Extravaganza
 <p class="panelist">Tony Fleecs, Trish Forstner, Silver Quill</p>
+
 Come hang out with Tony Fleecs and other members of the IDW gang! Enjoy an hour of chill fun with some of the awesome talent behind the MLP comics.
 
 ## Sketches From a Hat
 <p class="panelist">Viwrastupr, bobdude0, Dawnfire, Silfoe, Lilfunkman, Foal Papers, Dexanth</p>
+
 The classic improv game turned art panel, Sketches From a Hat is at PonyFest Online! Suggest a sketch or scene you'd like to see drawn, drop it into our digital "hat", and our panel of experienced horse artists will do their best to speed draw as many as they can! Featuring bobdude0, Dawnfire, viwrastupr, ncmares, and more!
 
 ## Big Jim's Big Panel
 <p class="panelist">Jim Miller, Foal Papers</p>
+
 Join 'Big Jim' Miller as he shares insights into his 10+ years helping to make MLP:FiM, and relates the lessons he learned along the way. He'll also
 be taking some of your questions, so bring your very best!
 

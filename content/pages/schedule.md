@@ -70,9 +70,9 @@ pieces of My Little Pony fan-fiction ever conceived!
 Join Peter New, voice of Big McIntosh, for an hour of... himself!
 
 ## How to Con - Behind the Scenes of Making Cons Work
-<p class="panelist">Dexanth, Shir Goldbird, Simul, Tyler Gray</p>
+<p class="panelist">Dexanth, Shir Goldbird, Simul, TekCharlie, Tyler Gray</p>
 
-A panel of convention organizers featuring Simul of EFNW, Shir of BronyCon, Tyler of HarmonyCon, and perhaps more discuss the ins and outs of how
+A panel of convention organizers featuring Simul of EFNW, Shir of BronyCon, Tyler of HarmonyCon, and TekCharlie of WCPC/PVCF discuss the ins and outs of how
 to create a con from the ground up and how to keep them working in an evolving fandom.
 
 ## IDW Artists Extravaganza

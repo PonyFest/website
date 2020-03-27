@@ -1,3 +1,3 @@
 ---
-streamURL: https://rtmp.ponyfest.horse/hls/test-stream.m3u8
+streamURL: https://loadgroup.furrycdn.net/hls/Main/senshihasafloofycurl.m3u8
 ---

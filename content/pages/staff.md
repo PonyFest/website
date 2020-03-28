@@ -23,7 +23,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 - **Simul** - Lead
 - **MidnightDynasty** - Staff
 - **Foal Papers** - Staff
-- **Lycan** - Staff
+- **Lycan** - Music Lead
 
 </div>
 
@@ -32,6 +32,9 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## A/V
 - **Larscis** - Lead
+- **Callum** - Staff
+- **Reiuji** - Staff
+- **Senshi** - Staff
 
 </div>
 
@@ -58,6 +61,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Tabletop
 - **B.B.** - Lead
+- **Eliwood Sain** - Staff
 
 </div>
 
@@ -67,9 +71,9 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Design
 - **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
-- **Viwrastupr** - Staff Artist
-- **Amodwithoutamark** - Staff Artist
-- **AmyNewBlue** - Staff Artist
+- **Viwrastupr** - Design Team
+- **Amodwithoutamark** - Design Team
+- **AmyNewBlue** - Design Team
 
 </div>
 
@@ -96,6 +100,10 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Discord
 - **Ethereal Vision** - Staff
 - **Perrydotto** - Staff
+- **Midny** - Staff
+- **Gajinka** - Staff
+- **Pizzahorse** - Staff
+- **Sirris** - Staff
 
 </div>
 
@@ -121,7 +129,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Special Thanks
 - **Joey**
 - **Skygunner**
-- **Gajinka**
+- **Sonyalynn**
 
 </div>
 </div>

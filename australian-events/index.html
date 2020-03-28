@@ -3,7 +3,7 @@
 <a href=/guests>Guests</a>
 <a href=/schedule>Schedule</a>
 <a href=https://discord.gg/nSDGJCg class=discord-icon style=margin-top:20px></a></nav></header><div class=main-stream><div id=stream-holder><video class=video-js id=panel-stream controls autoplay>
-<source src=https://stream.ponyfest.horse/397873603250953180717344.m3u8 type=application/x-mpegurl><p class=vjs-no-js>more js pls</p></video></div></div><div class=metadata><h1 id=panel-title>PonyFest Offline!</h1></div><script src=https://vjs.zencdn.net/7.6.6/video.js></script><script>(function(){const now=Math.round((new Date()).getTime()/1000);let player=null;if(now<1585402200){console.log("it's too early, waiting...")
+<source src=https://aus.stream.ponyfest.horse/397873603250953180717344.m3u8 type=application/x-mpegurl><p class=vjs-no-js>more js pls</p></video></div></div><div class=metadata><h1 id=panel-title>PonyFest Offline!</h1></div><script src=https://vjs.zencdn.net/7.6.6/video.js></script><script>(function(){const now=Math.round((new Date()).getTime()/1000);let player=null;if(now<1585402200){console.log("it's too early, waiting...")
 const timeout=(1585402200-now)*1000+60;document.getElementById('stream-holder').innerHTML="<img src='/images/offline.png' style='max-width: 100%; max-height: calc(100vh - 200px); margin-left: auto; margin-right: auto; display: block;'>";console.log("waiting "+timeout+"ms to start");setTimeout(()=>{location.reload();},timeout);return;}
 player=videojs("panel-stream",{fluid:false,crossorigin:"anonymous"});window.onresize=()=>{let width=window.innerWidth;let height=Math.max(window.innerHeight-200,400);if(height>width/16*9){height=width/16*9;}else if(width>height/9*16){width=height/9*16;}
 player.height(height);player.width(width);document.getElementById('stream-holder').style.width=''+width+'px';}
@@ -12,10 +12,10 @@ document.getElementById('panel-title').innerText=title;}
 player.on('error',()=>{if(early){return;}
 console.log("something broke! retrying in five seconds...",player.error())
 setTimeout(()=>{console.log("retrying")
-const code=player.error().code;if(code===2||code==4){player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},5000);})
+const code=player.error().code;if(code===2||code==4){player.error(null);player.pause();player.src("https:\/\/aus.stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},5000);})
 let playing=false;let early=false;player.on('waiting',(e)=>{if(early){return;}
 console.log("waiting!",e);playing=false;setTimeout(()=>{if(!playing){console.log("retrying")
-player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},5000);});player.on('playing',(e)=>{playing=true;console.log('playing!');});player.on('ended',(e)=>{console.log("stream ended! trying to start it again in five seconds...")
+player.error(null);player.pause();player.src("https:\/\/aus.stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},5000);});player.on('playing',(e)=>{playing=true;console.log('playing!');});player.on('ended',(e)=>{console.log("stream ended! trying to start it again in five seconds...")
 setTimeout(()=>{console.log("retrying")
-player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();},5000);})
+player.error(null);player.pause();player.src("https:\/\/aus.stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();},5000);})
 updateMetadata();setInterval(updateMetadata,10000);})();</script></body></html>

@@ -17,7 +17,7 @@ setTimeout(()=>{console.log("retrying")
 const code=player.error().code;if(code===2||code==4){player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},10000);})
 let playing=false;let early=false;player.on('waiting',(e)=>{if(early){return;}
 console.log("waiting!",e);playing=false;setTimeout(()=>{if(!playing){console.log("retrying")
-player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},20000);});player.on('playing',(e)=>{playing=true;console.log('playing!');});player.on('ended',(e)=>{console.log("stream ended! trying to start it again in ten seconds...")
+player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();}},30000);});player.on('playing',(e)=>{playing=true;console.log('playing!');});player.on('ended',(e)=>{console.log("stream ended! trying to start it again in ten seconds...")
 setTimeout(()=>{console.log("retrying")
 player.error(null);player.pause();player.src("https:\/\/stream.ponyfest.horse\/397873603250953180717344.m3u8");player.play();},5000);})
 updateMetadata();setInterval(updateMetadata,10000);})();</script></body></html>

@@ -19,6 +19,11 @@
 			margin-right: auto;
 		}
 
+		.metadata {
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
 		video:focus {
 			outline: none;
 		}
@@ -34,7 +39,9 @@
 				</video>
 			</div>
 		</div>
-		<h1>Test stream</h1>
+		<div class="metadata">
+			<h1 id="panel-title">Test stream</h1>
+		</div>
 		<script src="https://vjs.zencdn.net/7.6.6/video.js"></script>
 		<script>
 		let player = videojs("panel-stream", {fluid: false, crossorigin: "anonymous"});
@@ -51,6 +58,124 @@
 			document.getElementById('stream-holder').style.width = ''+width + 'px';
 		}
 		window.onresize();
+
+		let panels = [{
+			start: 1585404000,
+			title: "Opening Ceremonies"
+		}, {
+			start: 1585405800,
+			title: "Artist Showcase",
+		}, {
+			start: 1585407600,
+			title: "Copious Continuity!"
+		}, {
+			start: 1585411200,
+			title: "Keeping Friendship Magic: The End is the Beginning"
+		}, {
+			start: 1585414800,
+			title: "Let's build an MLP Lunchbox Guitar!",
+		}, {
+			start: 1585418400,
+			title: "Drawing Tips & Tricks"
+		}, {
+			start: 1585422000,
+			title: "Jackbox with the Gang!"
+		}, {
+			start: 1585427400,
+			title: "Convention History - From WorldCon to BronyCon"
+		}, {
+			start: 1585432800,
+			title: "Riffing Rainbow!",
+		}, {
+			start: 1585436400,
+			title: "Peter New Power Hour!",
+		}, {
+			start: 1585440000,
+			title: "How to Con - Behind the Scenes of Making Cons Work",
+		}, {
+			start: 1585443600,
+			title: "IDW Artists Extravaganza"
+		}, {
+			start: 1585447200,
+			title: "Sketches from a Hat"
+		}, {
+			start: 1585450800,
+			title: "Big Jim's Big Panel"
+		}, {
+			start: 1585454400,
+			title: "Concert: Lavender Harmony"
+		}, {
+			start: 1585458000,
+			title: "Concert: Mystery performer"
+		}, {
+			start: 1585459800,
+			title: "Concert: Faulty",
+		}, {
+			start: 1585461600,
+			title: "Concert: 4EverfreeBrony"
+		}, {
+			start: 1585463400,
+			title: "Concert: Francis Vace"
+		}, {
+			start: 1585465200,
+			title: "Closing Ceremonies",
+		}];
+
+		function updateMetadata() {
+			const now = Math.round((new Date()).getTime() / 1000);
+			let title = "Pre-Event";
+			for (let panel of panels) {
+				if (now > panel.start) {
+					title = panel.title;
+					break;
+				}
+			}
+			document.getElementById('panel-title').innerText = title;
+		}
+
+		player.on('error', () => {
+			console.log("something broke! retrying in five seconds...", player.error())
+			setTimeout(() => {
+				console.log("retrying")
+				const code = player.error().code;
+		        if(code === 2 || code == 4) {
+		            player.error(null);
+		            player.pause();
+		            player.src("{{.Params.streamURL}}");
+		            player.play();
+		        }
+		    }, 5000);
+		})
+		let playing = false;
+		player.on('waiting', (e) => {
+			console.log("waiting!", e);
+			playing = false;
+			setTimeout(() => {
+				if (!playing) {
+					console.log("retrying")
+		            player.error(null);
+		            player.pause();
+		            player.src("{{.Params.streamURL}}");
+		            player.play();
+		        }
+		    }, 5000);
+		});
+		player.on('playing', (e) => {
+			playing = true;
+			console.log('playing!');
+		});
+		player.on('ended', (e) => {
+			console.log("stream ended! trying to start it again in five seconds...")
+			setTimeout(() => {
+				console.log("retrying")
+	            player.error(null);
+	            player.pause();
+	            player.src("{{.Params.streamURL}}");
+	            player.play();
+		    }, 5000);
+		})
+		updateMetadata();
+		setInterval(updateMetadata, 10000);
 		</script>
 	</body>
 </html>

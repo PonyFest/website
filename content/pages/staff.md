@@ -13,6 +13,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Coordination
 - **Dexanth** - Princess / Mom
+- **Katharine Berry** - Not-so-Princess
 
 </div>
 
@@ -33,7 +34,7 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## A/V
 - **Larscis** - Lead
 - **Callum** - Staff
-- **Reiuji** - Staff
+- **Reiuiji** - Staff
 - **Senshi** - Staff
 
 </div>
@@ -102,16 +103,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 - **Perrydotto** - Staff
 - **Midny** - Staff
 - **Gajinka** - Staff
-- **Pizzahorse** - Staff
+- **PizzaHorse** - Staff
 - **Sirris** - Staff
-
-</div>
-
-
-<div style="break-inside: avoid;">
-
-## Web
-- **Katharine Berry** - Lead
 
 </div>
 

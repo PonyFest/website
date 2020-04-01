@@ -34,7 +34,7 @@ p {
 			<p style="font-size: 2.5em; margin: 0;">Saturday, April 25th, 2020</p>
 		</div>
 		<div class="discord-box">
-			<p>Have an idea for a panel?<br><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel applications are now open!</a></p>
+			<p>Have an idea for a panel?<br><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel applications are now open!</a><br>Please submit your panels by Friday, April 10th.</p>
 		</div>
 		<div>
 			<p>Thank you so much! Whether you were a panelist, vendor, staff, or one of our 4,000 "attendees", we couldn't have done this without you. Thanks to you all, PonyFest Online! was more successful than we ever imagined. So successful, in fact, that we're going to do it again! Join us on Saturday, April 25th for PonyFest Online! 2.0.</p>

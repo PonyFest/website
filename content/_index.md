@@ -34,11 +34,12 @@ p {
 			<p style="font-size: 2.5em; margin: 0;">Saturday, April 25th, 2020</p>
 		</div>
 		<div class="discord-box">
-			<p>Have an idea for a panel?<br><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel applications are now open!</a><br>Please submit your panels by Friday, April 10th.</p>
+			<p>Have an idea for a panel?<br><strong><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel applications are now open</a></strong>!<br>Please submit your panels by Friday, April 10th.</p>
+			<p>Additionally, <strong><a href="https://forms.gle/ondsJzFpKLHp5x8bA">Vendor applications are also open</a></strong>.</p>
 		</div>
 		<div>
 			<p>Thank you so much! Whether you were a panelist, vendor, staff, or one of our 4,000 "attendees", we couldn't have done this without you. Thanks to you all, PonyFest Online! was more successful than we ever imagined. So successful, in fact, that we're going to do it again! Join us on Saturday, April 25th for PonyFest Online! 2.0.</p>
-			<p><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel applications are now open</a>, and more applications will be coming soon.<br>We also have a <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYpgn0hZaLvISMZuizri-MKJ9xSVQX-wGy6BJlaOm_afSMLg/viewform">survey for you to fill in</a>.</p>
+			<p><a href="https://forms.gle/Zx1BjChWe27xzH1b8">Panel</a> and <a href="https://forms.gle/ondsJzFpKLHp5x8bA">vendor</a> applications are now open.<br>We also have a <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYpgn0hZaLvISMZuizri-MKJ9xSVQX-wGy6BJlaOm_afSMLg/viewform">survey for you to fill in</a>.</p>
 			<p>For now, you can still hang out with us in the hotel lobby <a href="https://discord.gg/nSDGJCg">on Discord</a>.</p>
 		</div>
 		<div>

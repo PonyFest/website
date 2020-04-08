@@ -1,0 +1,150 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #f7f9ff;
+}
+
+header {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    margin-top: 30px;
+    color: #555;
+    text-align: center;
+}
+
+footer a {
+    color: inherit;
+}
+
+.content {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+nav {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    min-width:100px;
+    text-align:left;
+    align-items: center;
+}
+
+a {
+    color: #375fda;
+}
+
+nav a
+{
+    font-size:20pt;
+    padding: 10pt;
+    padding-right: 0;
+    padding-left: 20px;
+    border-radius: 10px;
+    display: block;
+    text-decoration:none;
+
+}
+
+p, li {
+    font-size: 1.2em;
+}
+
+a.discord
+{
+    font-size:30pt;
+    color:#FFFFFF;
+    background-color: #7289DA;
+    text-decoration:none;
+    background-image: url(/1.0/images/discord.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    width: 180px;
+    height: 60px;
+    margin: 5px;
+    display: inline-block;
+}
+
+a.discord-icon
+{
+    font-size:30pt;
+    text-decoration:none;
+    background-image: url(/1.0/images/discord-icon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    display: inline-block;
+}
+
+
+.panelist {
+    margin: 0;
+    font-style: italic;
+}
+
+.guest {
+    background-color: #e5ebff;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 1px;
+    margin-bottom: 30px;
+}
+
+.guest h2:last-child {
+    margin-bottom: 0;
+}
+
+.guest-desc {
+    display: flex;
+}
+
+.guest-desc p:first-child {
+    margin-top: 0;
+}
+
+.guest-desc p:last-child {
+    margin-bottom: 0;
+}
+
+.headshot {
+    padding-right: 20px;
+}
+
+.headshot img {
+    max-height: 350px;
+    max-width: 200px;
+    border-radius: 3px;
+}
+
+.staff-list h2 {
+    margin-top: 0;
+}
+
+#schedule-frame {
+    width: 100%;
+    height: 1500px;
+}
+
+.panel-list h2 {
+    margin-bottom: 0;
+}
+

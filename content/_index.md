@@ -51,22 +51,22 @@ p {
 </div>
 
 <script type="text/javascript">
-var onlineSpan = document.getElementById('onlineSpan');
-if (window.fetch) {
-	async function update() {
-		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
-		let json = await result.json()
-		let online = json['presence_count'];
-		if (online) {
-			if (online.toLocaleString) {
-				online = online.toLocaleString();
-			} else {
-				online = online.toString();
-			}
-			onlineSpan.innerHTML =  online + ' online now!';
-		}
-	}
-	update();
-	setTimeout(update, 300000);
-}
+// var onlineSpan = document.getElementById('onlineSpan');
+// if (window.fetch) {
+// 	async function update() {
+// 		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
+// 		let json = await result.json()
+// 		let online = json['presence_count'];
+// 		if (online) {
+// 			if (online.toLocaleString) {
+// 				online = online.toLocaleString();
+// 			} else {
+// 				online = online.toString();
+// 			}
+// 			onlineSpan.innerHTML =  online + ' online now!';
+// 		}
+// 	}
+// 	update();
+// 	setTimeout(update, 300000);
+// }
 </script>

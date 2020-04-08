@@ -31,7 +31,7 @@ p {
 	<div style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
 			<h1 style="font-size: 3em; margin: 0;">PonyFest Online! 2.0</h1>
-			<p style="font-size: 2.5em; margin: 0;">Saturday April 25th, 2020</p>
+			<p style="font-size: 2.5em; margin: 0;">Saturday, April 25th, 2020</p>
 		</div>
 		<div>
 			<p>Get together online for PonyFest Online, a Discord-based online pony convention!</p>

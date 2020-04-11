@@ -39,12 +39,7 @@ p {
 		</div>
 		<div class="discord-box">
             <p>
-                Have an idea for a panel?
-                <br><strong><a href=https://forms.gle/Zx1BjChWe27xzH1b8>Panel applications are now open</a></strong>!
-                <br>Please submit your panels by Friday, April 10th.
-            </p>
-            <p>
-                Additionally, <strong><a href=https://forms.gle/ondsJzFpKLHp5x8bA>vendor applications are also open</a></strong>.
+                <strong><a href=https://forms.gle/ondsJzFpKLHp5x8bA>Vendor applications are open until April 12th</a></strong>.
             </p>
 		</div>
 	</div>

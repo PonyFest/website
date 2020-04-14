@@ -39,7 +39,7 @@ p {
 		</div>
 		<div class="discord-box">
             <p>
-                <strong><a href=https://forms.gle/ondsJzFpKLHp5x8bA>Vendor applications are open until April 12th</a></strong>.
+                <strong>Want to help out?<br><a href="https://forms.gle/znEAjTK2dUorcktE7">Apply to be a server moderator!</a></strong>.
             </p>
 		</div>
 	</div>

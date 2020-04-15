@@ -50,7 +50,6 @@ footer a {
     margin-right: auto;
     padding-top: 2em;
     margin-left: calc(160px + 2em);
-    margin-right: 2em;
     display: flex;
     flex-direction: column;
     min-height: calc(100vh - 2em);
@@ -62,6 +61,14 @@ footer a {
         margin-right: auto;
     }
 }
+
+@media screen and (max-width: 730px) {
+    #bitrate {
+        padding-right: 0;
+        max-width: 100%;
+    }
+}
+
 
 .content > div {
     flex-grow: 1;
@@ -104,6 +111,12 @@ footer a {
 
 .menu {
     padding-top: 20px;
+}
+
+@media screen and (max-width: 730px) {
+    .menu {
+        padding-top: 0;
+    }
 }
 
 .logo {

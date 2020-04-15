@@ -26,8 +26,8 @@ p {
 	margin-bottom: 0;
 }
 </style>
-<div style="display: flex; flex-wrap: wrap;" class="main">
-	<div style="text-align: center; flex-grow: 1;"><img style="padding-right: 20px;" src="/images/mascot.png"></div>
+<div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px" class="main">
+	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/mascot.png"></div>
 	<div style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
 			<h1 style="font-size: 3em; margin: 0">PonyFest Online! 2.0</h1>

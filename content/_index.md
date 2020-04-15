@@ -8,7 +8,7 @@
 	width: 480px;
 	max-width: 90vw;
 	border: 1px solid #aebbea;
-	background-color: #dbe1f5;
+	background-color: #104466;
 	border-radius: 5px;
 	padding: 10px;
 	text-align: center;
@@ -26,15 +26,15 @@ p {
 	margin-bottom: 0;
 }
 </style>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;" class="main">
 	<div style="text-align: center; flex-grow: 1;"><img style="padding-right: 20px;" src="/images/mascot.png"></div>
 	<div style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 3em; margin: 0;">PonyFest Online! 2.0</h1>
-			<p style="font-size: 2.5em; margin: 0;">Saturday, April 25th, 2020</p>
+			<h1 style="font-size: 3em; margin: 0">PonyFest Online! 2.0</h1>
+			<p style="font-size: 2.5em; margin: 0">Saturday, April 25th, 2020</p>
 		</div>
 		<div>
-			<p>Get together online for PonyFest Online, a Discord-based online pony convention!</p>
+			<p>Get together in cyberspace for PonyFest Online, a Discord-based online pony convention!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and plenty of hanging out.</p>
 		</div>
 		<div class="discord-box">

@@ -4,6 +4,7 @@ url: /staff
 ---
 
 # Staff
+<hr><br />
 
 PonyFest Online could not have existed without the tireless (and frantic!) work of the following:
 

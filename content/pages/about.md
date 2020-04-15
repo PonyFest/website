@@ -4,6 +4,7 @@ url: /about
 ---
 
 # About PonyFest Online!
+<hr><br />
 
 Right! We know what you’re thinking: What the _hay_ is PonyFest Online? Where did you come from? This wasn’t a thing a week ago!
 

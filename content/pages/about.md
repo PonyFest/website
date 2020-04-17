@@ -4,7 +4,7 @@ url: /about
 ---
 
 # About PonyFest Online!
-<hr><br />
+<div class="text-box" style="text-align: left">
 
 Right! We know what you’re thinking: What the _hay_ is PonyFest Online? Where did you come from? This wasn’t a thing a week ago!
 
@@ -23,3 +23,5 @@ We’re going to present a full day including:
 5. Open chat & voice channels for community-driven content
 
 This Saturday, come join us and spend all day with your fellow friends and fans! Together, we’ll once again demonstrate that Friendship is Magic!
+
+</div>

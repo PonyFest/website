@@ -4,11 +4,13 @@ url: /staff
 ---
 
 # Staff
-<hr><br />
+<div style="text-align: center">
 
 PonyFest Online could not have existed without the tireless (and frantic!) work of the following:
 
-<div style="columns: 2;" class="staff-list">
+<div>
+
+<div style="columns: 2; text-align: left" class="staff-list text-box">
 
 <div style="break-inside: avoid;">
 

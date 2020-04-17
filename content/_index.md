@@ -28,7 +28,7 @@ p {
 </style>
 <div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px" class="main">
 	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/mascot.png"></div>
-	<div style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
+	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
 			<h1 style="font-size: 3em; margin: 0">PonyFest Online! 2.0</h1>
 			<p style="font-size: 2.5em; margin: 0">Saturday, April 25th, 2020</p>
@@ -37,7 +37,8 @@ p {
 			<p>Get together in cyberspace for PonyFest Online, a Discord-based online pony convention!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and plenty of hanging out.</p>
 		</div>
-		<div class="discord-box">
+		<!-- <div class="discord-box"> -->
+		<div>
             <p>
                 Have an idea for a panel?
                 <br><strong><a href=https://forms.gle/Zx1BjChWe27xzH1b8>Panel applications are now open</a></strong>!

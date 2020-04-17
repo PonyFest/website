@@ -35,6 +35,17 @@ html {
     min-height: 100%;
 }
 
+.text-box {
+    /* width: 500px; */
+    max-width: 80vw;
+    border: 1px solid #aebbea;
+    background-color: #193568d2;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
 footer {
     color: lightgray;
     text-align: center;
@@ -47,7 +58,7 @@ footer a {
 }
 
 .content {
-    margin-right: auto;
+    margin-right: 2em;
     padding-top: 2em;
     margin-left: calc(160px + 2em);
     display: flex;

@@ -1,22 +1,56 @@
 body {
     font-family: Helvetica, sans-serif;
-    background-color: #f7f9ff;
+    background-image: url("../images/PFO_background_flipped.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: #f5d899;
+    text-shadow: 1px 1px 3px black;
+    margin: 0;
 }
 
-header {
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    width: 50%;
+  }
+
+/* header {
     display: flex;
     display: -webkit-flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    max-width: 1000px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.459);
+} */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.text-box {
+    /* width: 500px; */
+    max-width: 80vw;
+    border: 1px solid #aebbea;
+    background-color: #193568d2;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
 }
 
 footer {
-    margin-top: 30px;
-    color: #555;
+    color: lightgray;
     text-align: center;
+    overflow: hidden;
+    width: 100%;
 }
 
 footer a {
@@ -24,12 +58,79 @@ footer a {
 }
 
 .content {
-    max-width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 2em;
+    padding-top: 2em;
+    margin-left: calc(160px + 2em);
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 2em);
+}
+
+@media screen and (max-width: 730px) {
+    .content {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    #bitrate {
+        padding-right: 0;
+        max-width: 100%;
+    }
+}
+
+
+.content > div {
+    flex-grow: 1;
 }
 
 .content h1 {
+    text-align: center;
+}
+
+.topbar {
+    height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 730px) {
+    .topbar {
+        display: flex;
+        display: -webkit-flex;
+        justify-content: space-around;
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        position: unset;
+    }
+}
+
+.topbar a:hover {
+    color: #f39ccc;
+}
+
+.menu {
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 730px) {
+    .menu {
+        padding-top: 0;
+    }
+}
+
+.logo {
     text-align: center;
 }
 
@@ -38,11 +139,18 @@ nav {
     display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
 
     min-width:100px;
-    text-align:left;
+    text-align:center;
     align-items: center;
+}
+
+@media screen and (max-width: 730px) {
+    nav {
+        flex-direction: row;
+        justify-content: center;
+    }
 }
 
 a {
@@ -51,14 +159,21 @@ a {
 
 nav a
 {
-    font-size:20pt;
-    padding: 10pt;
-    padding-right: 0;
-    padding-left: 20px;
-    border-radius: 10px;
-    display: block;
-    text-decoration:none;
+    padding: 6px 8px 6px 8px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #a1a1a1;
+  display: block;
+}
 
+div a {
+    color: #f17bac;
+    font-weight: bold;
+}
+
+footer a {
+    color: lightgray;
+    font-weight: 400;
 }
 
 p, li {
@@ -77,7 +192,6 @@ a.discord
     border-radius: 5px;
     width: 180px;
     height: 60px;
-    margin: 5px;
     display: inline-block;
 }
 
@@ -88,9 +202,10 @@ a.discord-icon
     background-image: url(/images/discord-icon.png);
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
     border-radius: 5px;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     margin: 5px;
     display: inline-block;
 }

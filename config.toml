@@ -5,4 +5,4 @@ googleAnalytics = "UA-161603031-1"
 
 # this lets use use HTML in our pages if we are so inclined.
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true

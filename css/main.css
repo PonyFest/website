@@ -237,6 +237,14 @@ a.discord-icon
     margin-bottom: 0;
 }
 
+/* Main page screen sizes */
+/* @media screen and (min-width: 1146px) {
+    .main {
+        margin-top: 150px;
+    }
+} */
+
+
 /* Mobile Styles open styles */
 @media screen and (max-width: 730px) {
     nav {

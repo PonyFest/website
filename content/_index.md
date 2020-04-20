@@ -25,8 +25,12 @@ p {
 .vendors p:last-child {
 	margin-bottom: 0;
 }
+
+.content > div {
+	display: flex;
+}
 </style>
-<div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px" class="main">
+<div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
 	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/mascot.png"></div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>

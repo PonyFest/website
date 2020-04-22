@@ -237,6 +237,32 @@ a.discord-icon
     margin-bottom: 0;
 }
 
+/* Vendor page styles */
+.vendor-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.vendor-container > div {
+    width: calc(49% - 40px);
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+/* General mobile styles */
+@media screen and (max-width: 1020px) {
+    .vendor-container > div {
+        width: unset;
+    }
+    
+}
+
 /* Main page screen sizes */
 /* @media screen and (min-width: 1146px) {
     .main {

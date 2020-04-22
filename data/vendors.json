@@ -1,0 +1,373 @@
+{
+    "vendors": [
+        {
+            "Name": "AfroThunder",
+            "Desc": "You like big buttons and you cannot lie! I mean, I got BIG buttons. 3.5 inches of pony love, folks. Show off your Best Pony Faves! And I also have some enamel pins!",
+            "Image": "/images/vendor-images/afro.png",
+            "Social":
+            {
+                "Twitter": "https://twitter.com/LaschitaW",
+                "Facebook": "https://facebook.com/SuperSecretProjectX",
+                "DeviantArt": "https://deviantart.com/nubiankitten"
+            }
+        },
+        {
+            "Name": "Amodwithoutamark",
+            "Desc": "I'm selling a little bit of everything, from charms and stickers, to hand-painted watercolors and digital commissions. Swing on by to check out my wares, and to grab a sticker to remind you to go wash your hands, ya nasties!",
+            "Image": "/images/vendor-images/amodwithoutamark.png",
+            "Social": {
+                "Twitter": "https://twitter.com/Amandyalmonds",
+                "Tumblr": "https://amodwithoutamark.tumblr.com/"
+            }
+        },
+        {
+            "Name": "AR.GI.BI. Creative Studio",
+            "Desc": "Hello! We sell our own original artwork featured on fine art prints, tote bags, cinch bags, fanny packs, stickers, decals, enamel pins, patches, sketchbooks, lanyards, wristbands, t-shirts, bandanas! Pretty much everything but the kitchen sink! (but if the price is right we'll find a way!)",
+            "Image": "/images/vendor-images/argibi.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/argibi_art/",
+                "Instagram": "https://www.instagram.com/argibi_art/"
+            }
+        },
+        {
+            "Name": "Artwork by Helicity",
+            "Desc": "I will be selling enamel pins, acrylic kirin charms, and lanyards. I have a selection of enamel pins, including the \"salty Trixie\" pin!",
+            "Image": "/images/vendor-images/arthelicity.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/helicityponi",
+                "DeviantArt": "https://deviantart.com/helicityponi"
+            }
+        },
+        {
+            "Name": "ARTNPrints",
+            "Desc": "Mousepads, Game mats, Wallets, Messenger bags, Glass coasters, Cork coasters, Key chains, Magnets, Glass cutting boards, Mega posters, Large buttons, Bottle openers, Luggage tags, Pillow covers, Body pillow cover, Dakimakura / Body pillows (safe for work)",
+            "Image": "/images/vendor-images/artn.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/Art_N_Prints"
+            }
+        },
+        {
+            "Name": "CaptainHoers",
+            "Desc": "Comics, board games and some miscellaneous goods from the artist behind Spitfire's Day Off, Ask the Sunjackers, Fallout Equestria: Duck and Cover, and more!",
+            "Image": "/images/vendor-images/captain.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/captainhoers",
+                "Patreon": "https://www.patreon.com/CaptainHoers",
+                "Tumblr": "https://askfirestarterspitfire.tumblr.com/",
+                "Youtube": "https://www.youtube.com/user/CaptainHoers"
+            }
+        },
+        {
+            "Name": "Corey's Corner",
+            "Desc": "We offer pillows and plushies for every geek and fandom from anime to video games. If you want to cuddle up with Luna and wake up with Ralof, Corey's Corner has you covered!",
+            "Image": "/images/vendor-images/corey.png",
+            "Social": {
+                "Facebook": "https://www.facebook.com/CoreysCornerCrafts/",
+                "Instagram": "https://www.instagram.com/coreyscornercrafts/"
+            }
+        },
+        {
+            "Name": "CosmicKeyframe Productions",
+            "Desc": "I sell Prints, Posters, Charms, Buttons, Clocks, and Papercraft",
+            "Image": "/images/vendor-images/cosmickeyframe.png",
+            "Social": {
+                "Twitter": "https://twitter.com/CosmicKeyframe",
+                "DeviantArt": "https://www.deviantart.com/cosmicchrissy"
+            }
+        },
+        {
+            "Name": "CrescentScript",
+            "Desc": "Minimalist prints, \"TamaPoni\" acrylic charms, and a few vinyl stickers ♡",
+            "Image": "/images/vendor-images/crescent.jpg",
+            "Social": {
+                "Instagram": "https://instagram.com/crescentscript"
+            }
+        },
+        {
+            "Name": "Dawn Designs Art",
+            "Desc": "Hey you! Yeah you! Do you like cute chibi sculptures? Abstract Prints? How about tiny buttons and stickers? Commissions? Then I have everything you want and more, so come on down and check out what I've got!",
+            "Image": "/images/vendor-images/dawn-designs.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/dawn-designs-art"
+            }
+        },
+        {
+            "Name": "Dawnfire's Art",
+            "Desc": "Tiny prints (new varieties in stock!), stickers, lanyards, and a second round of mailable crayon commissions taken on stream!",
+            "Image": "/images/vendor-images/dawnfire.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/dawnf1re",
+                "DeviantArt": "https://www.deviantart.com/dawnf1re",
+                "Instagram": "https://www.instagram.com/dawnfireart/",
+                "Patreon": "https://www.patreon.com/Dawnfire"
+            }
+        },
+        {
+            "Name": "Earth-Pony Creations",
+            "Desc": "Laser cut ponies, made collaboratively with artists from around the fandom! Get magnets, keychains or wall hangings of your favorite characters in laser etched wood.",
+            "Image": "/images/vendor-images/earth-pony.png",
+            "Social": {
+                "Twitter": "https://twitter.com/Blazing_Beams",
+                "Etsy": "https://etsy.com/shop/EarthPonyCreations"
+            }
+        },
+        {
+            "Name": "fautbarb",
+            "Desc": "I sell cute, poorly drawn animals and Pokémon on a variety of merch. I sell shirts, mugs, buttons, weatherproof vinyl stickers, pouches, totes, and enamel pins. I also do poorly drawn commissions and MS paint and with pen and crayon for $10.",
+            "Image": "/images/vendor-images/fautbarb.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/fautbarb",
+                "Instagram": "https://instagram.com/fautbarb",
+                "Facebook": "https://facebook.com/fautbarb",
+                "Patreon": "https://patreon.com/fautbarb",
+                "Ko-Fi": "https://ko-fi.com/fautbarb",
+                "Website": "https://fautbarb.com"
+            }
+        },
+        {
+            "Name": "Hearth & Home Woodcrafts",
+            "Desc": "Laser engraved glass and hand made woodworkings",
+            "Image": "/images/vendor-images/hearth-home.jpg",
+            "Social": {
+                "DeviantArt": "https://ruirik.deviantart.com/",
+                "Twitter": "https://twitter.com/RuiriksHat"
+            }
+        },
+        {
+            "Name": "Horseplay Toys",
+            "Desc": "inflatable pony merch & dakimakura",
+            "Image": "/images/vendor-images/horseplay.png",
+            "Social": {
+                "DeviantArt": "https://deviantart.com/horseplayinflatables",
+                "Twitter": "https://twitter.com/horseplaytoys",
+                "Website": "https://horseplay-toys.com"
+            }
+        },
+        {
+            "Name": "InkKey Studios",
+            "Desc": "Traditional Badges, Digital Commissions, Prints, Acrylic Charms and Mares a Card Game.",
+            "Image": "/images/vendor-images/inkkey.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/bumblebun",
+                "Twitter": "https://twitter.com/InkKeyStudios",
+                "FurAffinity": "https://www.furaffinity.net/user/bumblebun/",
+                "Patreon": "https://www.patreon.com/Bumblebun"
+            }
+        },
+        {
+            "Name": "Julunis14",
+            "Desc": "My Little Pony and Pokémon related traditional commissions (from pencils to promarkers!) and digital ones as well :3. I have prints, stickers, badges, pendants and pins with my best drawings! ",
+            "Image": "/images/vendor-images/julunis.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/julunis14",
+                "Twitter": "https://www.twitter.com/Julunis14",
+                "Youtube": "https://www.youtube.com/user/Julunis14",
+                "Patreon": "http://www.patreon.com/julunis14"
+            }
+        },
+        {
+            "Name": "Lumis Plush",
+            "Desc": "Hello there! I sell handmade plushies made of the cuddliest minky with smooth embroidered details! My plush range from handheld micro beanies that fit perfectly in your pocket for all adventures, up to giant griffons with interchangeable wings that stand imposing on a shelf. Perfect for any collector! I draft all of my own patterns with love and care. Every plush has so much attention to detail. No two plush will ever be the same, as is the nature of handmade. But that makes them so much more special! If you're looking for a unique, precious little snuggle buddy then you will stopped at the right shop! ",
+            "Image": "/images/vendor-images/lumis.jpg",
+            "Social": {
+                "Facebook": "https://facebook.com/lumisplush",
+                "Twitter": "https://twitter.com/lumithekirin"
+            }
+        },
+        {
+            "Name": "MechaShibe",
+            "Desc": "Here at MechaShibe we will have fantabulous buttons,Our convention exclusive mugs limited stock, smooth acrylic keychains,TSSSF decks and expansions, and even commission physical badges.",
+            "Image": "/images/vendor-images/mecha.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/mechashibe"
+            }
+        },
+        {
+            "Name": "Mistress Louvely",
+            "Desc": "You always dreamed to wear a shirt with a draw of your mistress? Or better, a key chain crochet of the mane 6 made by the littles hands of your totally favorite mistress? Well, good for you. I'm here. And if you're lucky I could have some necklaces.",
+            "Image": "/images/vendor-images/misslouvely.png",
+            "Social": {
+                "Twitter": "https://twitter.com/MistressLouvely"
+            }
+        },
+        {
+            "Name": "Outlaw Creations",
+            "Desc": "We're a partnership of artists specializing in plushies, leatherwork, etched glass, capes, embroidery, and other handcrafts.",
+            "Image": "/images/vendor-images/outlaw.png",
+            "Social": {
+                "Twitter": "https://twitter.com/OutlawArtists"
+            }
+        },
+        {
+            "Name": "partylikeanartist",
+            "Desc": "I'm partylike! I'm from Western Australia and am excited to bring you art from the MLP, furry and anime fandoms! I have stickers, pins, prints, mousepads, and my newest venture - customised Nintendo Switch skins! Feel free to ask me any questions you may have about my art!",
+            "Image": "/images/vendor-images/partylike.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/party__like",
+                "Linktree": "https://linktr.ee/party__like"
+            }
+        },
+        {
+            "Name": "PBUKShop",
+            "Desc": "Traditional Artist, Ponies and Anthro! Making products for fandoms that hold a special place in my heart. Badges, Stickers, Charms, Mini Dakimakuras, Acrylic Standee's, Custom OC Commissions and Items. Fast Turnaround times!",
+            "Image": "/images/vendor-images/pbuk.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/ponebooth",
+                "FurAffinity": "https://www.furaffinity.net/user/ponebooth/",
+                "Etsy": "https://etsy.com/shop/PBUKShop"
+            }
+        },
+        {
+            "Name": "Perry Does Things",
+            "Desc": "Prints, square pillows, buttons, mugs, and commissions!",
+            "Image": "/images/vendor-images/perry.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/perrydraws"
+            }
+        },
+        {
+            "Name": "Pirate Dash's Treasure Chest",
+            "Desc": "Ahoy all! The moderator of Ask Pirate Dash will be selling prints. buttons, and badges from his collection, as well as taking commissions during the weekend!",
+            "Image": "/images/vendor-images/pirate-dash.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/TJMC_art",
+                "DeviantArt": "https://www.deviantart.com/toonboy92484/gallery/"
+            }
+        },
+        {
+            "Name": "RatofDrawn",
+            "Desc": "Drawing cute and colorful characters!",
+            "Image": "/images/vendor-images/ratofdrawn.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/RatofDrawn",
+                "DeviantArt": "https://www.deviantart.com/ratofdrawn"
+            }
+        },
+        {
+            "Name": "RileyIsHereHide",
+            "Desc": "Dakimakuras",
+            "Image": "/images/vendor-images/riley.png",
+            "Social": {
+                "Twitter": "https://twitter.com/RileyIsHereHide"
+            }
+        },
+        {
+            "Name": "Ruef n' Beeb",
+            "Desc": "Ruef n' Beeb are a fandom dynamic duo selling all sorts of merchandise, including t-shirts, enamel pins, body pillow covers and much, much more!",
+            "Image": "/images/vendor-images/ruef.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/ruefnbeeb"
+            }
+        },
+        {
+            "Name": "Sakukitty Boutique",
+            "Desc": "Hello! my name is sakukitty, im a Mlp digital artist,not a lot at the moment but I sell stickers and buttons!",
+            "Image": "/images/vendor-images/sakukitty.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/Sakukitty98"
+            }
+        },
+        {
+            "Name": "Samoht Lion Creations",
+            "Desc": "Custom OC Badges, Shadowboxes, Clocks, Layered Paper Craft Cutouts, Pop Up Cards, buttons, and posters. Store Site https://www.samohtlioncreations.com/ Videos about my works Watch Pony: https://www.youtube.com/watch?v=OdVhh3IfjGs , Keyframe: https://www.youtube.com/watch?v=Bmbz5rgU5-g, https://www.youtube.com/watch?v=S8OyDXSHQbI",
+            "Image": "/images/vendor-images/samoht.png",
+            "Social": {
+                "Twitter": "https://twitter.com/SamohtLion",
+                "Website": "https://www.samohtlioncreations.com/",
+                "Instagram": "https://www.instagram.com/samohtlion/?hl=en",
+                "Etsy": "https://www.etsy.com/shop/SamohtLionCreations",
+                "DeviantArt": "https://www.deviantart.com/samoht-lion",
+                "Youtube": "https://www.youtube.com/user/samohtlion"
+            }
+        },
+        {
+            "Name": "Sapphire-Burns-Art",
+            "Desc": "Selling hand burned woodburned commisions",
+            "Image": "/images/vendor-images/sapphire-burns.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/sapphire-burns-art"
+            }
+        },
+        {
+            "Name": "Sciggles",
+            "Desc": "Hello! I sell custom digital images of OCs and show characters! You can also purchase badge versions as well as have the image custom engraved on items! You can see the kinds of items I offer by going here https://www.furaffinity.net/gallery/sciggles/folder/54742/Conventions",
+            "Image": "/images/vendor-images/sciggles.png",
+            "Social": {
+                "FurAffinity": "https://www.furaffinity.net/user/sciggles",
+                "Twitter": "http://www.twitter.com/Sciggles"
+            }
+        },
+        {
+            "Name": "Shiny Things",
+            "Desc": "I run the table \"Shiny Things\" which specializes in all that sparkles and shines! I create anime/gaming themed jewelry and pins which are crafted from acrylic. You want wearable Elements of Harmony? I GOTCHU. You want some pins for that ita bag or your display board? I GOTCHU.",
+            "Image": "/images/vendor-images/shiny-things.jpg",
+            "Social": {
+                "Etsy": "https://www.etsy.com/shop/Miyuka"
+            }
+        },
+        {
+            "Name": "Silver Games LLC",
+            "Desc": "Books, coins, plushes, adventure!!!",
+            "Image": "/images/vendor-images/silver-games.png",
+            "Social": {
+                "Twitter": "https://twitter.com/SilverGamesLLC"
+            }
+        },
+        {
+            "Name": "SockJems-Creations",
+            "Desc": "Hi I'm Jem and I make fashion items with fabrics from all generations of My Little Pony and custom Ita bags too themed around characters. My items are perfect for showing off your fandom's and I love a challenge so am happy to take custom orders from you awesome lot, just send me a message. On the facebook page you will find an album of fabrics we have available. Any of these can be used to make your order for you, if we don't have what you are looking for we can always try and source it for you! from bows to bags I have something for everyone!",
+            "Image": "/images/vendor-images/sockjem.jpg",
+            "Social": {
+                "Facebook": "https://www.facebook.com/SockJems",
+                "Twitter": "https://twitter.com/SockJems",
+                "DeviantArt": "https://www.deviantart.com/sockjems",
+                "Website": "https://www.sockjems.co.uk/"
+            }
+        },
+        {
+            "Name": "Techycutie",
+            "Desc": "Hey I'm Techy! I sell a large assortment of cute pony keychains as well as buttons, enamel pins, mouse pads, and body pillows. We get new stuff every few weeks, so there's always something new in store! Literally!",
+            "Image": "/images/vendor-images/techycutie.png",
+            "Social": {
+                "Twitter": "https://twitter.com/Techycutie"
+            }
+        },
+        {
+            "Name": "Violet Rose Stitches & Sews",
+            "Desc": "I make plushies, ranging from the small and cute to the giant and custom. You may have seen my magnum opus at a previous PlushieCon: a 3-foot-tall pony with a removable head! While plushies are my bread and butter, I have also been entrusted with what's left of Equestrian Textiles, meaning I also have a few shirts, hoodies, and patches to offer.",
+            "Image": "/images/vendor-images/violet-rose.jpg",
+            "Social": {
+                "Tumblr": "https://one-violet-rose.tumblr.com",
+                "Twitter": "https://twitter.com/onevioletrose",
+                "DeviantArt": "https://one-violet-rose.deviantart.com",
+                "Etsy": "https://onevioletrose.etsy.com"
+            }
+        },
+        {
+            "Name": "Viw's Art",
+            "Desc": "I'm selling woodcuts! The laser is up and running and at this con only I'm offering custom woodcuts as: standees, pins, fridge magnets and coasters. Also, amazing blankets, unique puzzles and that one really big piece.",
+            "Image": "/images/vendor-images/viw.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/viwrastupr/",
+                "DeviantArt": "https://viwrastupr.deviantart.com/gallery/"
+            }
+        },
+        {
+            "Name": "Waffle Wishes",
+            "Desc": "Dakis, Blankets, Plushies, Pants, and Shirts!",
+            "Image": "/images/vendor-images/waffle.png",
+            "Social": {
+                "Website": "https://dakidreams.com/",
+                "Twitter": "https://twitter.com/AaronWaffles"
+            }
+        },
+        {
+            "Name": "Wintre Arts",
+            "Desc": "We sell broken dreams and stale memes! We have a very large selection of daki designs all done by a number of fandom artists!",
+            "Image": "/images/vendor-images/wintre.png",
+            "Social": {
+                "Twitter": "https://twitter.com/stephenwintre"
+            }
+        }
+    ]
+}

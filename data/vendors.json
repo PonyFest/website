@@ -12,6 +12,15 @@
             }
         },
         {
+            "Name": "Amodwithoutamark",
+            "Desc": "I'm selling a little bit of everything, from charms and stickers, to hand-painted watercolors and digital commissions. Swing on by to check out my wares, and to grab a sticker to remind you to go wash your hands, ya nasties!",
+            "Image": "/images/vendor-images/amodwithoutamark.png",
+            "Social": {
+                "Twitter": "https://twitter.com/Amandyalmonds",
+                "Tumblr": "https://amodwithoutamark.tumblr.com/"
+            }
+        },
+        {
             "Name": "AR.GI.BI. Creative Studio",
             "Desc": "Hello! We sell our own original artwork featured on fine art prints, tote bags, cinch bags, fanny packs, stickers, decals, enamel pins, patches, sketchbooks, lanyards, wristbands, t-shirts, bandanas! Pretty much everything but the kitchen sink! (but if the price is right we'll find a way!)",
             "Image": "/images/vendor-images/argibi.jpg",
@@ -179,15 +188,6 @@
             "Image": "/images/vendor-images/misslouvely.png",
             "Social": {
                 "Twitter": "https://twitter.com/MistressLouvely"
-            }
-        },
-        {
-            "Name": "Amodwithoutamark",
-            "Desc": "I'm selling a little bit of everything, from charms and stickers, to hand-painted watercolors and digital commissions. Swing on by to check out my wares, and to grab a sticker to remind you to go wash your hands, ya nasties!",
-            "Image": "/images/vendor-images/modwithoutamark.png",
-            "Social": {
-                "Twitter": "https://twitter.com/Amandyalmonds",
-                "Tumblr": "https://amodwithoutamark.tumblr.com/"
             }
         },
         {

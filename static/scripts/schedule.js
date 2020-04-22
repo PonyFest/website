@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     let times = sched.times;
     let rooms = sched.rooms;
+    let roomOrder = sched.roomOrder;
     let popDivs = [];
     {
         const col = makeColumn('schedule-time-col');
@@ -85,8 +86,8 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
 
 
-        for (const key in rooms) {
-            if (sched.rooms.hasOwnProperty(key)) {
+        for (const key of roomOrder) {
+            if (rooms.hasOwnProperty(key)) {
                 const events = rooms[key];
                 events.forEach( (value) => {
                     value.startTime = moment.tz(value.startTime, 'America/New_York');

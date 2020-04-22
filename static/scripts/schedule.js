@@ -1,0 +1,116 @@
+'use strict';
+
+const schedClick = function(clickEvent, myEvent) {
+
+};
+
+document.addEventListener('DOMContentLoaded', async function() {
+    const cellBlockHeight = 3; //em
+    const blockTimeUnit = 30; // minutes
+    const schedRoot = $('.schedule-main');
+    if(schedRoot.length == 0) { return; }
+
+    moment.locale();
+    const userTz = moment.tz.guess();
+    
+    let sched = null;
+    try {
+        const resp = await fetch(pfoSchedApi, { cache: 'no-cache', headers: { 'Accept': 'application/json' } });
+        sched = await resp.json();
+    } catch(e) {
+        console.error(e);
+        schedRoot.text('Unable to fetch the schedule :(');
+        return;
+    }
+
+    const grid = $('<div class="schedule-grid"></div>');
+    schedRoot.append(grid);
+
+    const makeColumn = function(extraClasses) { return $(`<div class="schedule-column ${extraClasses}"></div>`); };
+    const makeCell = function(extraClasses){ return $(`<div class="schedule-cell ${extraClasses}"></div>`); };
+
+    let times = sched.times;
+    let rooms = sched.rooms;
+    {
+        const col = makeColumn('schedule-time-col');
+        grid.append(col);
+
+        { // Add time header
+            const colhead = makeCell('schedule-time-header');
+            colhead.text(`Time (${moment.tz(userTz).format('z')})`);
+            col.append(colhead);
+        }
+
+        for(let i = 0; i < times.length; i++) {
+            // convert times to moments
+            times[i] = moment.tz(times[i], 'America/New_York');
+
+            const cell = makeCell('schedule-time-cell');
+            cell.text(times[i].tz(userTz).format('h:mm A'))
+            col.append(cell);
+        }
+
+
+        for (const key in rooms) {
+            if (sched.rooms.hasOwnProperty(key)) {
+                const events = rooms[key];
+                events.forEach( (value) => {
+                    value.startTime = moment.tz(value.startTime, 'America/New_York');
+                    value.endTime = moment.tz(value.endTime, 'America/New_York');
+                    value.color = 'event';
+                });
+
+                const renderBlocks = [];
+                // Build a full column in empty space too
+                for(const atTime of times) {
+                    // search for an event for the current time
+                    let atEvent = null;
+                    for (const event of events) {
+                        if(atTime.isBetween(event.startTime, event.endTime, null, '[)')) {
+                            atEvent = event;
+                            break;
+                        } else if(atTime.isBefore(event.startTime)) { // quit searching as this time be before any that will follow
+                            break;
+                        }
+                    }
+
+                    if(atEvent === null) {
+                        const endTime = atTime.clone().add(blockTimeUnit, 'm');
+                        atEvent = { id: '-blank-', color: 'blank', startTime: atTime, endTime: endTime};
+                    }
+
+                    // check for extension
+                    if(renderBlocks.length > 0 && renderBlocks[renderBlocks.length - 1].id === atEvent.id ) {
+                        renderBlocks[renderBlocks.length - 1].endTime = atEvent.endTime;
+                    } else {
+                        renderBlocks.push({
+                            id: atEvent.id,
+                            startTime: atEvent.startTime,
+                            endTime: atEvent.endTime,
+                            event: atEvent
+                        });
+                    }
+                }
+
+                // Render
+                const roomCol = makeColumn('schedule-room-col');
+                grid.append(roomCol);
+
+                { // header
+                    const colhead = makeCell('schedule-room-header');
+                    colhead.text(key);
+                    roomCol.append(colhead);
+                }
+                // cells
+                for(const block of renderBlocks) {
+                    const cell = makeCell(`schedule-room-cell schedule-room-${block.event.color}`);
+                    cell.text(block.event.title);
+                    const height = cellBlockHeight * (moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit);
+                    cell.height(`${height}em`);
+                    cell.click( (e) => schedClick(e, block.event) );
+                    roomCol.append(cell);
+                }
+            }
+        }
+    }
+});

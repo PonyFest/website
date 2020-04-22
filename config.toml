@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "PonyFest"
 googleAnalytics = "UA-161603031-1"
 
+[params]
+  #scheduleApiUri = "http://localhost:8080/schedule/"
+  scheduleApiUri = "https://schedule-api.ponyfest.horse/schedule/"
+
 # this lets use use HTML in our pages if we are so inclined.
 [markup.goldmark.renderer]
 unsafe = true

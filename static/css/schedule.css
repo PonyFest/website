@@ -1,0 +1,26 @@
+
+div.schedule-grid {
+    display: flex;
+}
+
+div.schedule-column {
+
+}
+div.schedule-time-col {
+    width: 8em;
+}
+div.schedule-room-col {
+    width: 16em;
+}
+
+div.schedule-cell {
+    box-sizing: border-box;
+    height: 3em;
+    padding-top: 0.75em;
+}
+div.schedule-room-blank {
+
+}
+div.schedule-room-event {
+    border: 1px solid white
+}

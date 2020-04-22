@@ -1,8 +1,5 @@
 'use strict';
 
-const schedClick = function(clickEvent, myEvent) {
-
-};
 
 document.addEventListener('DOMContentLoaded', async function() {
     const cellBlockHeight = 3; //em
@@ -28,9 +25,46 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     const makeColumn = function(extraClasses) { return $(`<div class="schedule-column ${extraClasses}"></div>`); };
     const makeCell = function(extraClasses){ return $(`<div class="schedule-cell ${extraClasses}"></div>`); };
+    const schedClick = function(e, event) {
+        $('.schedule-event-pop').hide();
+        event.pop.show();
+        var targetCal = $(e.target).closest(".schedule-grid");
+        var calOffset = targetCal.offset();
+        var offsetX = e.pageX - calOffset.left;
+        var offsetY = e.pageY - calOffset.top;
+        offsetX = Math.min(offsetX, targetCal.width());
+        offsetY = Math.min(offsetY, targetCal.height() - event.pop.get()[0].getBoundingClientRect().height);
+        const domPop = event.pop.get()[0]
+        domPop.style.left = offsetX;
+        domPop.style.top = offsetY;
+    };
+    const eventPopClick = function() {
+        $('.schedule-event-pop').hide();
+    }
+    const makeEventPop = function(myEvent, extraClasses) {
+        const eventDesc = $(`<div class="schedule-event-pop ${extraClasses}"></div>`);
+        // Title
+        let div = $('<div class="schedule-event-pop-title"></div>');
+        div.text(myEvent.title);
+        eventDesc.append(div);
+        // Time
+        div = $('<div class="schedule-event-pop-time"></div>');
+        div.text(`Time: ${myEvent.startTime.tz(userTz).format('h:mm A')} - ${myEvent.endTime.tz(userTz).format('h:mm A')}`);
+        eventDesc.append(div);
+        // Description
+        div = $('<div class="schedule-event-pop-desc"></div>');
+        div.text(myEvent.description);
+        eventDesc.append(div);
+        
+        eventDesc.hide();
+        eventDesc.click(eventPopClick);
+        return eventDesc;
+    }
+    
 
     let times = sched.times;
     let rooms = sched.rooms;
+    let popDivs = [];
     {
         const col = makeColumn('schedule-time-col');
         grid.append(col);
@@ -58,6 +92,8 @@ document.addEventListener('DOMContentLoaded', async function() {
                     value.startTime = moment.tz(value.startTime, 'America/New_York');
                     value.endTime = moment.tz(value.endTime, 'America/New_York');
                     value.color = 'event';
+                    value.pop = makeEventPop(value, '');
+                    popDivs.push(value.pop);
                 });
 
                 const renderBlocks = [];
@@ -107,10 +143,16 @@ document.addEventListener('DOMContentLoaded', async function() {
                     cell.text(block.event.title);
                     const height = cellBlockHeight * (moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit);
                     cell.height(`${height}em`);
-                    cell.click( (e) => schedClick(e, block.event) );
+                    if(block.id !== '-blank-') {
+                        cell.click( (e) => schedClick(e, block.event) );
+                    }
                     roomCol.append(cell);
                 }
             }
+        }
+
+        for(const pop of popDivs) {
+            schedRoot.append(pop);
         }
     }
 });

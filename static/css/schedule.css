@@ -1,16 +1,23 @@
-
+body, div.content, div.content > div, div.text-box, div.schedule-main {
+    position: relative;
+}
 div.schedule-grid {
+    overflow: auto;
     display: flex;
 }
 
-div.schedule-column {
-
+div.schedule-grid:first-child{
+    border-left: 1px solid #aebbea;
 }
+div.schedule-column {
+    border-right: 1px solid #aebbea;
+}
+
 div.schedule-time-col {
-    width: 8em;
+    min-width: 6em;
 }
 div.schedule-room-col {
-    width: 16em;
+    min-width: 12em;
 }
 
 div.schedule-cell {
@@ -22,5 +29,18 @@ div.schedule-room-blank {
 
 }
 div.schedule-room-event {
-    border: 1px solid white
+    border-top: 1px solid #aebbea;
+    border-bottom: 1px solid #aebbea;
+    background-color: #444e6eb4;/*rgb(40, 76, 143);*/
+}
+div.schedule-event-pop {
+    position: absolute;
+    border: 1px solid #aebbea;
+    /* background-color: #193568; */
+    background-color: #f5d899;
+    color: #000;
+    text-shadow: none;
+    border-radius: 5px;
+    padding: 20px;
+    width: 350px;
 }

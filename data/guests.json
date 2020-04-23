@@ -1,0 +1,14 @@
+{
+    "guests": [
+        {
+            "Name": "Lena Hall",
+            "Desc": "LENA HALL is a Tony Award winner and Grammy nominee who received widespread critical acclaim for her feature film debut as the title role in Becks (winner of the U.S. Fiction Award at the L.A. Film Festival). Following her Tony-winning Broadway run in Hedwig And The Angry Inch, Hall toured North America with Josh Groban on his Stages tour, and portrayed the dual starring roles of both Hedwig and Yitzhak in Hedwig and the Angry Inch in Los Angeles and San Francisco. She originated the role of Nicola in the Tony-winning musical Kinky Boots, and has been seen on HBO’s Girls, Amazon Prime’s Good Girls Revolt, and can be heard voicing the fan-favorite role of Countess Coloratura on My Little Pony: Friendship is Magic. Hall starred opposite Marisa Tomei in Lincoln Center Theatre’s How To Transcend A Happy Marriage. Hall's many solo musical revues played sold-out shows at the Legendary Café Carlyle and 54 Below and received rave reviews. Hall's 2018 passion project, Obsessed, paid tribute to her greatest musical inspirations with 12 EP releases that were accompanied by 54 music videos and a live concert tour. Hall can next be seen in her first series regular television role on TNT’s highly anticipated Snowpiercer opposite Jennifer Connelly and Daveed Diggs. The series is set to air May 17th of 2020. For more about Lena Hall and where to see her live, follow her on social media @lenarockerhall or visit her website.",
+            "Image": "/images/guests/lena-hall.jpg",
+            "Social":
+            {
+                "Twitter": "https://twitter.com/lenarockerhall",
+                "Website": "http://www.lenahall.com/"
+            }
+        }
+    ]
+}

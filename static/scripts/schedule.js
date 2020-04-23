@@ -85,17 +85,18 @@ document.addEventListener('DOMContentLoaded', async function() {
             col.append(cell);
         }
 
-
+        let colNum = 1;
         for (const key of roomOrder) {
             if (rooms.hasOwnProperty(key)) {
                 const events = rooms[key];
-                events.forEach( (value) => {
+                events.forEach( (value, index) => {
                     value.startTime = moment.tz(value.startTime, 'America/New_York');
                     value.endTime = moment.tz(value.endTime, 'America/New_York');
-                    value.color = 'event';
+                    value.color = `r${colNum}-${(index%2)==0?'even':'odd'}`;
                     value.pop = makeEventPop(value, '');
                     popDivs.push(value.pop);
                 });
+                colNum++;
 
                 const renderBlocks = [];
                 // Build a full column in empty space too
@@ -140,7 +141,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 }
                 // cells
                 for(const block of renderBlocks) {
-                    const cell = makeCell(`schedule-room-cell schedule-room-${block.event.color}`);
+                    const cell = makeCell(`schedule-room-cell schedule-${block.event.color}`);
                     cell.text(block.event.title);
                     const height = cellBlockHeight * (moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit);
                     cell.height(`${height}em`);

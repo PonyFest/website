@@ -4,9 +4,9 @@
         <h1>{{ .Name }}</h1>
         <img src="{{ .Image }}" style="max-height: 200px; max-width: 100%">
         <p>{{ .Desc }}</p>
-        {{ range $key, $value := .Social }}
-            <p style="margin: 5px"><a href="{{ $value }}">{{ $key }}</a></p>
-        {{ end }}
+        <p class="vendor-links" style="margin: 5px">
+            {{ range $key, $value := .Social }}<a href="{{ $value }}">{{ $key }}</a>{{ end }}
+        </p>
     </div>
 {{ end }}
 </div>

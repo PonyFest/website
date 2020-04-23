@@ -255,6 +255,15 @@ a.discord-icon
     word-break: break-word;
 }
 
+.vendor-links > a {
+    padding: 0 .5em;
+    border-right: 2px solid white
+}
+.vendor-links > a:last-child {
+    border-right: none;
+}
+
+
 /* General mobile styles */
 @media screen and (max-width: 1020px) {
     .vendor-container > div {

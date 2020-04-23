@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     }
 
     const grid = $('<div class="schedule-grid"></div>');
+    schedRoot.empty();schedRoot.text('');
     schedRoot.append(grid);
 
     const makeColumn = function(extraClasses) { return $(`<div class="schedule-column ${extraClasses}"></div>`); };

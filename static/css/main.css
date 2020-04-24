@@ -60,7 +60,7 @@ footer a {
 .content {
     margin-right: 2em;
     padding-top: 2em;
-    margin-left: calc(160px + 2em);
+    margin-left: calc(200px + 2em);
     display: flex;
     flex-direction: column;
     min-height: calc(100vh - 2em);
@@ -76,7 +76,7 @@ footer a {
 
 .topbar {
     height: 100%;
-  width: 160px;
+  width: 200px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -92,6 +92,11 @@ footer a {
 
 .menu {
     padding-top: 20px;
+}
+
+.menu-room-current-event {
+    margin-top: 0;
+    display: none;
 }
 
 /* .topbar.open {
@@ -118,7 +123,10 @@ nav {
     flex-grow: 1;
     display: flex;
     justify-content: flex-end;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    overflow: scroll;
+    max-height: 100vh;
+    -webkit-overflow-scrolling: touch;
     flex-direction: column;
 
     min-width:100px;
@@ -345,7 +353,7 @@ a.discord-icon
         height: 100vh;
         width: 100vw;
         flex-direction: column;
-        position: fixed;
+        position: absolute;
         padding-top: 10px;
     }
 
@@ -397,6 +405,9 @@ a.discord-icon
 
     .topbar.closed .menu {
         display: none;
+    }
+
+    .topbar {
     }
 
     .top {

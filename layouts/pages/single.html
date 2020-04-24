@@ -2,6 +2,8 @@
 	<head>
 		<title>PonyFest{{with .Title}} — {{.}}{{end}}</title>
 		{{partial "head.html" .}}
+		{{block "head-alt" .}}
+		{{end}}
 	</head>
 	<body>
 		{{partial "header.html" .}}

@@ -1,0 +1,8 @@
+{{define "head-alt"}}
+    <link rel="stylesheet" type="text/css" href="/css/schedule.css">
+    <script type="text/javascript">pfoSchedApi = '{{ if $.Site.IsServer }}{{ index $.Site.Params "scheduleApiUriDev" }}{{ else }}{{ index $.Site.Params "scheduleApiUri" }}{{ end }}';</script>
+    <script src="/scripts/lib/jquery.js" type="text/javascript"></script>
+    <script src="/scripts/lib/moment-locales.js" type="text/javascript"></script>
+    <script src="/scripts/lib/moment-tz.js" type="text/javascript"></script>
+    <script src="/scripts/schedule.js" type="text/javascript"></script>
+{{end}}

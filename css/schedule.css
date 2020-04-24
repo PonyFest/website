@@ -80,7 +80,7 @@ div.schedule-r4-odd {
     background: repeating-linear-gradient(to bottom, #3DAD46B4, #3DAD46B4 calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r4-even {
-    background: repeating-linear-gradient(to bottom, #3DAD46B4, #3DAD46B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, #7ed686b5, #7ed686b5 calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r5-odd {
     background: repeating-linear-gradient(to bottom, #CC875CB4, #CC875CB4 calc(3em - 1px), #aebbea 3em);

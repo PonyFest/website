@@ -43,30 +43,30 @@ p {
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>
-            <p>
-                <strong>Want to help out?<br><a href="https://forms.gle/znEAjTK2dUorcktE7">Apply to be a server moderator!</a></strong>.
-            </p>
+            <p style="font-weight: bold;">Pick up your badge here!</p>
+			<p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
+			<span id="onlineSpan" style="font-weight: normal;"></span></p>
 		</div>
 	</div>
 </div>
 
 <script type="text/javascript">
-// var onlineSpan = document.getElementById('onlineSpan');
-// if (window.fetch) {
-// 	async function update() {
-// 		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
-// 		let json = await result.json()
-// 		let online = json['presence_count'];
-// 		if (online) {
-// 			if (online.toLocaleString) {
-// 				online = online.toLocaleString();
-// 			} else {
-// 				online = online.toString();
-// 			}
-// 			onlineSpan.innerHTML =  online + ' online now!';
-// 		}
-// 	}
-// 	update();
-// 	setTimeout(update, 300000);
-// }
+var onlineSpan = document.getElementById('onlineSpan');
+if (window.fetch) {
+	async function update() {
+		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
+		let json = await result.json();
+		let online = json['presence_count'];
+		if (online) {
+			if (online.toLocaleString) {
+				online = online.toLocaleString();
+			} else {
+				online = online.toString();
+			}
+			onlineSpan.innerHTML =  online + ' online now!';
+		}
+	}
+	update();
+	setTimeout(update, 300000);
+}
 </script>

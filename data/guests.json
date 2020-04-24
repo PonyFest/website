@@ -9,6 +9,74 @@
                 "Twitter": "https://twitter.com/lenarockerhall",
                 "Website": "http://www.lenahall.com/"
             }
+        },
+        {
+            "Name": "ACRacebest",
+            "Desc": "He specializes in destroying cars, goofing off and eating burritos. With an accumulated 32 million views online, ACRacebest continues to produce comedy sketches, vlogs, and more, while entertaining live audiences on multiple stages and venues. There’s also rumor that he’s fond of Zootopia.",
+            "Image": "/images/guests/acracebest.jpg"
+        },
+        {
+            "Name": "Saberspark",
+            "Desc": "From video essays to crappy movie reviews, Saberspark brings fun and fresh topics to his viewers each week! Whether it is a new cartoon or some horrible movie from your childhood, nothing is off-limits and that’s part of the fun! Saber is also a well-seasoned emcee and has hosted many panels from past conventions. This ranges from improv shows all the way to interviewing talent from the animation industry.",
+            "Image": "/images/guests/saber.png"
+        },
+        {
+            "Name": "The Brony Chef",
+            "Desc": "As a Professional Chef, established in Mexico, he has been traveling for the past 6 years collecting flavours that help mark his kitchen as unique. Also, TV Chef at TV4 in Guanajuato, Corporate Chef at the Gamma Hotels, and well yeah, he likes those pastel colour equines. When he is not working on different projects he likes to play video games, specially League of Legends --- C9 best! Passionate about anything food related, and always in search of unknown flavours. ",
+            "Image": "/images/guests/thebronychef.jpg"
+        },
+        {
+            "Name": "Charlie Worthley",
+            "Desc": "Charlie Worthley, aka TekCharlie, is the 12-time Chair for Ponyville Ciderfest, Whinny City Pony Con, MLP-MSP F, and High Roller Pony Con. But without his wife, his staff, and the sponsors / vendors / musicians / guests / attendees that support the cons that he runs, he would just be a dude with a beard that drinks a LOT of craft beer.",
+            "Image": "/images/guests/tekcharlie.png"
+        },
+        {
+            "Name": "Ponies The Anthology",
+            "Desc": "Ponies The Anthology is a video group project among video editors and animators that's been involved in the MLP fandom since Anthology 1 debuted in 2011.  Across 6.5 major videos, we've been using the power of pop culture, memes, and colorful horses to make people laugh, smile, and celebrate the crazy phenomenon known as the MLP fandom.  We hope you join us again for a fun watch event during the 2nd PonyFest Online Con!",
+            "Image": "/images/guests/poniestheanthology.jpg"
+        },
+        {
+            "Name": "My Little Tesla",
+            "Desc": "Ponies The Anthology is a video group project among video editors and animators that's been involved in the MLP fandom since Anthology 1 debuted in 2011.  Across 6.5 major videos, we've been using the power of pop culture, memes, and colorful horses to make people laugh, smile, and celebrate the crazy phenomenon known as the MLP fandom.  We hope you join us again for a fun watch event during the 2nd PonyFest Online Con!",
+            "Image": "/images/guests/mylittletesla.png"
+        },
+        {
+            "Name": "Silver Quill",
+            "Desc": "Reviewer, artist, public speaker, moving target. Silver Quill has spent a good bit of time in the fandom expressing classic ideas alongside modern humor and getting blown up multiple times. Beginning with comics on DeviantArt, he gathered a following that carried over to his YouTube channel and eventually became a contributor to Equestria Daily and a regular feature on Bronies React. No matter what happens, he continues to enjoy presenting ideas to the fandom and exploring their expression.",
+            "Image": "/images/guests/silverquill.jpg"
+        },
+        {
+            "Name": "PrinceWhateverer",
+            "Desc": "PrinceWhateverer is a long-standing community musician based in the UK who's been making tunes for the MLP fandom since 2011! He's been performing live at MLP conventions since BonyCon 2013, and has since hit many cons around Europe and the US. He plays predominantly metal and rock music so if you're looking for high volume and high energy, you're in the right place!",
+            "Image": "/images/guests/princewhateverer.jpg",
+            "Social": {
+                "YouTube": "https://www.youtube.com/user/princewhateverer"
+            }
+        },
+        {
+            "Name": "Forest Rain",
+            "Desc": "Forest Rain is a transgender Pop/Punk & Alternative musician who makes original music & covers based on cartoons, TV shows, and video games. She shares her passion for music with a love for nature, art, photography, and spicy food! A brony musician since January 2012, Forest is the voice behind \"Great to be Different\", \"Join the Herd\" and \"Summer in the Stars\", creator and producer of \"The Massive Smile Project\", and co-creator of brony music show Elements of Harmony. She is looking forward to streaming an acoustic set LIVE for everyone at Ponyfest!",
+            "Image": "/images/guests/forestrain.png",
+            "Social": {
+                "YouTube": "https://www.youtube.com/forestrainmedia"
+            }
+        },
+        {
+            "Name": "Inkuma the Bewear",
+            "Desc": "Ink here. The now digital artist is back for another live set for everypony to enjoy. EDM music from all over the brony music scene is here to rejuvenate your lovely experience in the fandom!",
+            "Image": "/images/guests/inkuma.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/InklingBear"
+            }
+        },
+        {
+            "Name": "Rock Fox",
+            "Desc": "Rock Fox is a trance and hard dance DJ based in Sydney, Australia with a huge passion for music across the breadth of the fandom. They are the current host of The Full Spectrum on Ponyville FM, a weekly show with over 100 episodes dedicated to representing the finest horse music as well as tracks from beyond the fandom! If you've seen Rock Fox behind the decks at Alicon and Vanhoover Pony Expo or a smorgasboard of furcons and club residencies, you know to expect quick fire mixes with a hearty respect for the classics-and for those that haven't, prepare for a trip down memory lane!",
+            "Image": "/images/guests/rockfox.png",
+            "Social": {
+                "Facebook": "https://www.facebook.com/RockFoxDJ/",
+                "YouTube": "https://www.youtube.com/channel/UCdhC0BhIZtSCmlKw0rjTAGg"
+            }
         }
     ]
 }

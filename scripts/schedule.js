@@ -50,7 +50,11 @@ document.addEventListener('DOMContentLoaded', async function() {
         eventDesc.append(div);
         // Time
         div = $('<div class="schedule-event-pop-time"></div>');
-        div.text(`Time: ${myEvent.startTime.tz(userTz).format('h:mm A')} - ${myEvent.endTime.tz(userTz).format('h:mm A')}`);
+        div.text(`${myEvent.startTime.tz(userTz).format('h:mm A')} - ${myEvent.endTime.tz(userTz).format('h:mm A')}`);
+        eventDesc.append(div);
+        // Time
+        div = $('<div class="schedule-event-pop-panelists"></div>');
+        div.text(myEvent.panelists);
         eventDesc.append(div);
         // Description
         div = $('<div class="schedule-event-pop-desc"></div>');

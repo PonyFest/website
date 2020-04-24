@@ -158,6 +158,8 @@ document.addEventListener('DOMContentLoaded', async function() {
             }
         }
 
+        grid.append(col.clone());
+
         for(const pop of popDivs) {
             schedRoot.append(pop);
         }

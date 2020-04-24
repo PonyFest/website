@@ -46,6 +46,11 @@ div.schedule-room-event {
     /* border-bottom: 1px solid #aebbea; */
     background-color: #444e6eb4;/*rgb(40, 76, 143);*/
 }
+
+.schedule-room-cell:not(.schedule-blank) {
+    cursor: pointer;
+}
+
 div.schedule-event-pop {
     position: absolute;
     border: 1px solid #aebbea;

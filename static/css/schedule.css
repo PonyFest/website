@@ -103,3 +103,20 @@ div.schedule-r7-even {
 div.schedule-r8-odd, div.schedule-r8-even {
     background: repeating-linear-gradient(to bottom, #2B8531B4, #2B8531B4 calc(3em - 1px), #aebbea 3em);
 }
+
+.schedule-event-pop-title {
+    font-weight: bold;
+}
+
+.schedule-event-pop-panelists {
+    font-style: italic;
+}
+
+.text-box {
+    max-width: inherit;
+    padding: 0;
+}
+
+.schedule-event-pop-desc {
+    margin-top: 10px;
+}

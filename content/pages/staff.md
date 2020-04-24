@@ -6,8 +6,6 @@ url: /staff
 # Staff
 <div style="text-align: center">
 
-PonyFest Online could not have existed without the tireless (and frantic!) work of the following:
-
 <div>
 
 <div style="columns: 2; text-align: left" class="staff-list text-box">
@@ -15,8 +13,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Coordination
-- **Dexanth** - Princess / Mom
-- **Katharine Berry** - Not-so-Princess
+- **Dexanth** - Princess
+- **Katharine Berry** - Other Princess
 
 </div>
 
@@ -25,28 +23,30 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Events
 - **Simul** - Lead
-- **MidnightDynasty** - Staff
-- **Foal Papers** - Staff
 - **Lycan** - Music Lead
+- **Aphinity** - Staff
+- **Foal Papers** - Staff
 
 </div>
-
 
 <div style="break-inside: avoid;">
 
 ## A/V
 - **Larscis** - Lead
 - **Callum** - Staff
+- **Ramble** - Staff
 - **Reiuiji** - Staff
-- **Senshi** - Staff
+- **ServerRat** - Staff
+- **WaffleThief** - Staff
+- **winchester572** - Staff
 
 </div>
 
-
 <div style="break-inside: avoid;">
 
-## Video Lounge
-- **Fizzbuzz** - Lead
+## IT
+- **Taiko** - Staff
+- **Dani** - Staff
 
 </div>
 
@@ -54,9 +54,8 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 <div style="break-inside: avoid;">
 
 ## Gaming
-- **Leslie** - Coordinator
-- **yokaimask** - Coordinator
-- **Adamtheamazing64** - Coordinator
+- **Leslie** - Lead
+- **Adamtheamazing64** - Staff
 
 </div>
 
@@ -75,9 +74,11 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 ## Design
 - **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
-- **Viwrastupr** - Design Team
 - **Amodwithoutamark** - Design Team
 - **AmyNewBlue** - Design Team
+- **Perrydotto** - Design Team
+- **TechyCutie** - Design Team
+- **Viwrastupr** - Design Team
 
 </div>
 
@@ -98,16 +99,35 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 </div>
 
+<div style="break-inside: avoid;">
+
+## VIP Relations
+- **SonyaLynn** - Lead
+
+</div>
+
 
 <div style="break-inside: avoid;">
 
 ## Discord
-- **Ethereal Vision** - Staff
-- **Perrydotto** - Staff
-- **Midny** - Staff
-- **Gajinka** - Staff
-- **PizzaHorse** - Staff
-- **Sirris** - Staff
+- **Fizzbuzz** - Lead
+- **MidnightDynasty** - Staff
+- **Midny** - Moderator
+- **Sirris** - Moderator
+- **Allegrona Melody** - Watcher
+- **Ambassador Stormheart** - Watcher
+- **Flame** - Watcher
+- **IAmADeliciousPotato** - Watcher
+- **Illuminous** - Watcher
+- **Kind_CreepaLot** - Watcher
+- **Lord Midnight** - Watcher
+- **Midnight Aegis** - Watcher
+- **Ocean Breeze** - Watcher
+- **Omegacreeper** - Watcher
+- **PieforLife** - Watcher
+- **Pony Professor** - Watcher
+- **Rye of Shadows** - Watcher
+- **Strict** - Watcher
 
 </div>
 
@@ -116,16 +136,39 @@ PonyFest Online could not have existed without the tireless (and frantic!) work 
 
 ## Changelings
 - **Jamis** - Staff
+- **Tales** - Staff
+- **Gajinka** - Moderator
 
 </div>
 
+<div style="break-inside: avoid;">
+
+## Charity
+- **Perrydotto** - Lead
+- **CosmicKeyframe** - Staff
+
+</div>
+
+<div style="break-inside: avoid;">
+
+## Writing
+- **Xepher** - Lead
+- **Aquaman** - Staff
+- **BubbleBean** - Staff
+- **GrandMoffPony** - Staff
+- **Somber** - Staff
+- **Titanium Dragon** - Staff
+- **Winston** - Staff
+
+</div>
 
 <div style="break-inside: avoid;">
 
 ## Special Thanks
 - **Joey**
 - **Skygunner**
-- **Sonyalynn**
 
+</div>
+</div>
 </div>
 </div>

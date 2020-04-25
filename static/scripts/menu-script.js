@@ -14,8 +14,8 @@
             }
         });
 
-        // updatePanels();
-        // setInterval(updatePanels, 10000);
+        updatePanels();
+        setInterval(updatePanels, 10000);
     });
 
     async function updatePanels() {

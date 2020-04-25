@@ -76,7 +76,15 @@
             "Image": "/images/guests/mylittletesla.png"
         },
         {
-            "Name": "Silver Quill",
+            "Name": "Foal Papers",
+            "Desc": "Foal Papers, known (occasionally affectionately) as Foaly, has been a fan of candy-colored magical friendship horses since early 2011. The pilot episode left him intrigued; by “Winter Wrap Up” he was hooked. Since then, he’s presented on the links between MLP:FiM and Greek mythology at academic conferences and fan conventions around the world. He’s also moderated panels with many of the Powers That Be of the franchise, co-hosted a plethora of charity auctions in support of excellent causes, and run around a lot in a perpetual befuddled hurry. Online, he’s participated in a variety of livestreams and shows, helped actively shape the fan community on Twitter, and tracked the fandom’s charity and convention undertakings with his beloved spreadsheets. Foaly enjoys tea and Jaffa cakes more than can be healthy, and is uncomfortable yet vaguely amused describing himself in the third person. When he’s not getting ejected from libraries for smelling the books, you can find him tweeting too much on @foalpapers, be excellent to each other.",
+            "Image": "/images/guests/foalpapers.png",
+            "Social": {
+                "Twitter": "https://twitter.com/foalpapers"
+            }
+        },
+        {
+            "Name": "",
             "Desc": "Reviewer, artist, public speaker, moving target. Silver Quill has spent a good bit of time in the fandom expressing classic ideas alongside modern humor and getting blown up multiple times. Beginning with comics on DeviantArt, he gathered a following that carried over to his YouTube channel and eventually became a contributor to Equestria Daily and a regular feature on Bronies React. No matter what happens, he continues to enjoy presenting ideas to the fandom and exploring their expression.",
             "Image": "/images/guests/silverquill.jpg"
         },

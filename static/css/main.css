@@ -120,14 +120,13 @@ footer a {
 }
 
 nav {
-    flex-grow: 1;
     display: flex;
     justify-content: flex-end;
     flex-wrap: nowrap;
     overflow: auto;
-    max-height: 100vh;
     -webkit-overflow-scrolling: touch;
     flex-direction: column;
+    padding-bottom: 20px;
 
     min-width:100px;
     text-align:center;
@@ -350,8 +349,6 @@ a.discord-icon
         /* max-width: 1000px; */
         /* margin-left: auto;
         margin-right: auto; */
-        height: 100vh;
-        width: 100vw;
         flex-direction: column;
         position: absolute;
         padding-top: 10px;
@@ -407,7 +404,13 @@ a.discord-icon
         display: none;
     }
 
-    .topbar {
+    nav {
+        max-height: 100vh;
+    }
+
+    .topbar.open {
+        height: 100vh;
+        width: 100vw;
     }
 
     .top {

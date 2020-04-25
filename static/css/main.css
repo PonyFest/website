@@ -124,7 +124,7 @@ nav {
     display: flex;
     justify-content: flex-end;
     flex-wrap: nowrap;
-    overflow: scroll;
+    overflow: auto;
     max-height: 100vh;
     -webkit-overflow-scrolling: touch;
     flex-direction: column;

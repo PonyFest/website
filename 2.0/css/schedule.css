@@ -1,0 +1,127 @@
+body, div.content, div.content > div, div.text-box, div.schedule-main {
+    position: relative;
+}
+div.schedule-grid {
+    overflow: auto;
+    display: flex;
+}
+
+div.schedule-grid:first-child{
+    border-left: 1px solid #aebbea;
+}
+div.schedule-column {
+    border-right: 1px solid #aebbea;
+}
+
+div.schedule-time-col {
+    min-width: 6em;
+}
+div.schedule-room-col {
+    min-width: 12em;
+}
+
+div.schedule-cell {
+    box-sizing: border-box;
+    height: 3em;
+    padding: 0.15em 0.25em;
+    background: repeating-linear-gradient(to bottom, transparent, transparent calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-time-header, div.schedule-room-header {
+    border-bottom: 1px solid #aebbea;
+    padding-top: 0.75em;
+}
+/* div.schedule-time-cell {
+    padding-top: 0.1em;
+} */
+div.schedule-room-cell {
+    text-align: left;
+    color: #DFDFDF;
+    text-shadow: none;
+    /* font-weight: bold; */
+}
+div.schedule-room-blank {
+
+}
+div.schedule-room-event {
+    /* border-bottom: 1px solid #aebbea; */
+    background-color: #444e6eb4;/*rgb(40, 76, 143);*/
+}
+
+.schedule-room-cell:not(.schedule-blank) {
+    cursor: pointer;
+}
+
+div.schedule-event-pop {
+    position: absolute;
+    border: 1px solid #aebbea;
+    /* background-color: #193568; */
+    background-color: #f5d899;
+    color: #000;
+    text-shadow: none;
+    border-radius: 5px;
+    padding: 20px;
+    width: 350px;
+}
+
+div.schedule-r1-odd {
+    background: repeating-linear-gradient(to bottom, #8F5A75B4, #8F5A75B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r1-even {
+    background: repeating-linear-gradient(to bottom, #c27ba0B4, #c27ba0B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r2-odd {
+    background: repeating-linear-gradient(to bottom, #3A69B5B4, #3A69B5B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r2-even {
+    background: repeating-linear-gradient(to bottom, #4A86E8B4, #4A86E8B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r3-odd {
+    background: repeating-linear-gradient(to bottom, #AD5050B4, #AD5050B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r3-even {
+    background: repeating-linear-gradient(to bottom, #E06666B4, #E06666B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r4-odd {
+    background: repeating-linear-gradient(to bottom, #3DAD46B4, #3DAD46B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r4-even {
+    background: repeating-linear-gradient(to bottom, #7ed686b5, #7ed686b5 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r5-odd {
+    background: repeating-linear-gradient(to bottom, #CC875CB4, #CC875CB4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r5-even {
+    background: repeating-linear-gradient(to bottom, #FFA873B4, #FFA873B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r6-odd {
+    background: repeating-linear-gradient(to bottom, #7A5DB7B4, #7A5DB7B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r6-even {
+    background: repeating-linear-gradient(to bottom, #A37DF5B4, #A37DF5B4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r7-odd {
+    background: repeating-linear-gradient(to bottom, #CC3DAFB4, #CC3DAFB4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r7-even {
+    background: repeating-linear-gradient(to bottom, #FF21DFB4, #FF21DFB4 calc(3em - 1px), #aebbea 3em);
+}
+div.schedule-r8-odd, div.schedule-r8-even {
+    background: repeating-linear-gradient(to bottom, #2B8531B4, #2B8531B4 calc(3em - 1px), #aebbea 3em);
+}
+
+.schedule-event-pop-title {
+    font-weight: bold;
+}
+
+.schedule-event-pop-panelists {
+    font-style: italic;
+}
+
+.text-box {
+    max-width: inherit;
+    padding: 0;
+}
+
+.schedule-event-pop-desc {
+    margin-top: 10px;
+}

@@ -40,6 +40,7 @@ p {
 		<div>
 			<p>Get together in cyberspace for PonyFest Online, a Discord-based online pony convention!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and plenty of hanging out.</p>
+			<p><a style="font-weight: bold;" href="https://forms.gle/dSPnCPC7wApHbYdd7">Panel applications for 3.0</a> and <a style="font-weight: bold;" href="https://forms.gle/p51zTs2pgfSzqLZKA">and attendee survey for 2.0</a> are open now!</p>
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>

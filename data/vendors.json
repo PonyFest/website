@@ -1,3 +1,462 @@
 {
-    "vendors": []
+    "vendors": [
+        {
+            "Name": "Abigail Starling",
+            "Desc": "I'm a professional comic illustrator, but in addition to comics I have prints, keychains, buttons, and stationery! I love working in a cute and colorful style, and also offer goods for multiple fandoms in addition to Pony!",
+            "Image": "/images/vendor-images/abigail.jpg",
+            "Social":
+            {
+                "DeviantArt": "http://abbystarling.deviantart.com/",
+                "Instagram": "https://instagram.com/abigailstarling",
+                "Ko-Fi": "https://ko-fi.com/abigailstarling",
+                "Patreon": "https://www.patreon.com/AbigailStarling",
+                "Tumblr": "http://abbystarling.tumblr.com/",
+                "Twitter": "https://twitter.com/Abby_Starling"
+            }
+        },
+        {
+            "Name": "Alienkitty Designs",
+            "Desc": "Cute japanese inspired creations, with a touch of my own flare. I got buttons, stickers, and charms galore!",
+            "Image": "/images/vendor-images/alienKitty.png",
+            "Social":
+            {
+                "DeviantArt": "https://www.deviantart.com/alienkittykun",
+                "Facebook": "https://www.facebook.com/AlienkittyDesigns",
+                "Twitter": "https://twitter.com/kelsmister"
+            }
+        },
+        {
+            "Name": "ALOS shop",
+            "Desc": "Good day, everypony, long time no see! \n\nMy name is ALOS and you probably know me as an artist behind: ask Lola Cloudmaker, allthesassinessintheworld, some posts on Ask Night Stitch (all three on tumblr) and I've also been the colorist behind Shino's \"\"Space Ponyos\"\" issue #1!\n\nToday for sale I've got:\n~Mane 6 face postcards!~\nThose wonderfully cute postcards come with a custom message drawn on the other side, and will be shipped directly to YOU through mail! For the total cost of... Dun dun dunnn... 6 Euros! It includes everything, the postcard, the labor and the shipping cost!\nFor an additional euro I will add a non pony sticker, either randomly or from the selection of  27 different stickers (woo!)\nEach additional postcard/sticker/drawing will cost 1 Euro to the original price. You may ask me to remove the drawing and just send you the postcard, which will reduce 1 Euro from the original price.\n\n~Twitch Stream commissions~\nFrom a dumb sketch to a nice profile picture, I can draw it all! \nThe prices vary from 3 Euros for a silly sketch, to a 35 Euro of a fullbody drawing in the most complicated shading style possible. \n\nYou may look at all the prices available, if you mess around with this form: \nhttps://docs.google.com/forms/d/e/1FAIpQLSdKqpUvwLjZVwnDsJInZ1EQ3UMHg2ulJ2sn_Th1whss4WwqWw/viewform\n\nI highy recommend checking out the lineless section and get the smooth shaded icon (or any of the lineless icons), they look AMAZING on your profile picture!\n\nAnyway, everyone, have a good con!",
+            "Image": "/images/vendor-images/alos.jpg",
+            "Social":
+            {
+                "DeviantArt": "https://www.deviantart.com/alittleofsomething",
+                "Ko-Fi": "https://ko-fi.com/arosusama",
+                "Tumblr": "https://alittleofsomethingarts.tumblr.com/",
+                "Twitter": "https://twitter.com/AROSUsama"
+            }
+        },
+        {
+            "Name": "Bastlers Plushies and 3D Prints",
+            "Desc": "Small shoulder Plushies (Derpibooru OCs and canon)\nStanding Plushies\n3D printed Figures (3D Models by DJTHED)\nTwilicane and similar Canes (will be made on demand)\n3D printed prereformed Changelings",
+            "Image": "/images/vendor-images/bastler.png",
+            "Social":
+            {
+                "DeviantArt": "https://bastlerrj.deviantart.com",
+                "Thingiverse": "https://www.thingiverse.com/BastlerRJ/designs",
+                "Twitter": "https://twitter.com/Bastler4"
+            }
+        },
+        {
+            "Name": "BefishProductions",
+            "Desc": "Your one stop shop for cuties n bees! We've got landyards, charms, buttons, and ESPECIALLY stickers!~ All the cute art for your adorable needs!",
+            "Image": "/images/vendor-images/befish.png",
+            "Social":
+            {
+                "Twitter": "https://twitter.com/BefishProd",
+                "Website": "http://befishproductions.com/"
+            }
+        },
+        {
+            "Name": "Boiler & Sweetcream",
+            "Desc": "Art prints, apparel, pin, books, buttons badges and cards! pillows shirts and sundry! many more items in the story and commissions by request! come and see!",
+            "Image": "/images/vendor-images/boiler.jpg",
+            "Social":
+            {
+                "Twitter": "https://twitter.com/SweetCreamArts"
+            }
+        },
+        {
+            "Name": "Captain Showtime",
+            "Desc": "Ahoy there! This is yer Captain speakin'! I have a button for everything! Ya like commissions? I got traditional art, digital art, badges, and buttons! I have a lot of treasure to give away! Ya never know what treasure I might have next waiting for ya!",
+            "Image": "/images/vendor-images/captainShowtime.jpg",
+            "Social":
+            {
+                "DeviantArt": "https://www.deviantart.com/captshowtime",
+                "Etsy": "https://www.etsy.com/shop/CaptShowtime",
+                "Facebook": "https://www.facebook.com/CaptShowtime/",
+                "Patreon": "https://www.patreon.com/CaptShowtime",
+                "Twitter": "https://twitter.com/CaptShowtime"
+            }
+        },
+        {
+            "Name": "Compman Crafts Creations",
+            "Desc": "Compy is an artist based in California that's loves making pony art over anything else! They love creating art of all different mediums including but not limited to: crochet, cross stitch, pixel art, animation, sculpting/figure customizing, drawing, character design, painting, and drawing!\n\nOk I just wanted to add a few things, don't add this to the description. I don't have the ability to take pictures of my current works right now, and I don't have them posted on my social media, but I have examples of my stuff here: https://sta.sh/22adfmhiyy3i \n\nI plan on making a few pieces of bit rate that could be a few of the following: A crochet plush, a cross stitch piece with custom pixel art, a multi-layered felt piece, and a customized g4 figure. I plan on auctioning these off and giving part of the profits to coronavirus relief!",
+            "Image": "/images/vendor-images/compmanCrafts.jpg",
+            "Social":
+            {
+                "DeviantArt": "https://www.deviantart.com/computerstickman",
+                "Twitter": "https://twitter.com/Compylumpy"
+            }
+        },
+        {
+            "Name": "CosmicKeyframe Productions",
+            "Desc": "posters, prints, buttons, charms, clocks, framed papercrafts",
+            "Image": "/images/vendor-images/cosmic.png",
+            "Social": {
+                "Twitter": "https://twitter.com/CosmicKeyframe",
+                "Website": "https://www.cosmickeyframeshq.com/"
+            }
+        },
+        {
+            "Name": "Dawnfire's Art",
+            "Desc": "I sell prints, acrylic charms, lanyards, glasses cloths, bookmarks, stickers, and special crayon commissions taken only during PonyFest!",
+            "Image": "/images/vendor-images/dawnfire.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/dawnf1re",
+                "DeviantArt": "https://www.deviantart.com/dawnf1re",
+                "Instagram": "https://www.instagram.com/dawnfireart/"
+            }
+        },
+        {
+            "Name": "Discounted Shipping",
+            "Desc": "Everything is on sale over at shipfic.co! Be ready for the next convention season, stock up on all your Twilight Sparkle's Secret Shipfic Folder (TSSSF) game essentials and save 20% on Core Decks. All Mini Expansions are buy 2 get 1 free. Are you ready to help Twilight fulfill her narrative goals and make the ponies kiss for points?",
+            "Image": "/images/vendor-images/discountedShipping.jpg",
+            "Social": {
+                "ShipFic": "https://shipfic.co/"
+            }
+        },
+        {
+            "Name": "dojerodesigns",
+            "Desc": "DojeroDesigns is a LGBTQA+ freelance illustrator whom enjoys creating merchandise and memories through DnD, memes, furry, anime, and everything creepy and cute!\nButtons, stickers, prints, pins, coin bags, pencil bags, mousepads, at table commissions, custom badges, lanyards, keychains, and more!",
+            "Image": "/images/vendor-images/dojero.jpg",
+            "Social": {
+                "Etsy": "https://www.etsy.com/shop/DojeroDesigns",
+                "Facebook": "https://www.facebook.com/dojerodesigns/?ref=bookmarks",
+                "FurAffinity": "https://www.furaffinity.net/user/dojerodesigns/",
+                "Instagram": "https://www.instagram.com/dojerodesigns/",
+                "Patreon": "https://www.patreon.com/dojerodesigns/membership",
+                "Tumblr": "https://dojerodesigns.tumblr.com/",
+                "Twitter": "https://twitter.com/dojerodesigns"
+            }
+        },
+        {
+            "Name": "Dori-to",
+            "Desc": "Hi, I'm Dori-to and I love making comics! I also love drawing vehicles and silly stuff. I will be selling physical copies of my comic book and prints of my artwork.",
+            "Image": "/images/vendor-images/doriTo.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/dori-to",
+                "Tumblr": "https://sillylyracomic.tumblr.com/",
+                "Twitter": "https://twitter.com/TacohatStudios"
+            }
+        },
+        {
+            "Name": "dSana Store",
+            "Desc": ">>>>FEELS, DRAMA & SHIPPING! Grab your copy of my PDF fancomics, including \"A Storm's Lullaby Book 1\" with bonus content -- or order physical copies of official IDW comic with my covers on it -- signed if you wish! <<<<",
+            "Image": "/images/vendor-images/dsana.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/dsana",
+                "Patreon": "https://www.patreon.com/dsana",
+                "Twitter": "https://twitter.com/dSana_SKey"
+            }
+        },
+        {
+            "Name": "fannytastical",
+            "Desc": "fannytastical's got ya covered for acrylic charms, buttons, dakimakura, apparel and more!",
+            "Image": "/images/vendor-images/fannytastical.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/fannytastical/",
+                "Instagram": "https://www.instagram.com/fannytasticalart/",
+                "Twitter": "https://twitter.com/fannytastical",
+                "Website": "http://fannytastical.com/"
+            }
+        },
+        {
+            "Name": "FluffPawsDraws",
+            "Desc": "Hello! I sell digital art commissions, as well as high quality t shirts, hoodies, tank tops, leggings, die cut stickers and more!",
+            "Image": "/images/vendor-images/fluffPaws.png",
+            "Social": {
+                "Twitter": "https://twitter.com/FluffPawsDraws?s=09"
+            }
+        },
+        {
+            "Name": "Glittery Glisten",
+            "Desc": "Hi my name is Glittery Glisten! I've been a Furry artist for around 15 years and I'm new to the Brony fandom and wish to draw more ponies!!  I design, sell, and print mlp and furry merch such as shirts, mugs, decals, and much more. I print the mugs and vinyl shirts in house while full color shirts are done through Red Bubble.  I also take commissions from art to custom designed shirts, mugs, and more. I'm your one stop  pony shop!",
+            "Image": "/images/vendor-images/glittery.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/glitteryglisten",
+                "Redbubble": "https://www.redbubble.com/people/GlitteryGlisten/explore?asc=u&page=1",
+                "Twitch": "https://www.twitch.tv/glitteryglisten",
+                "Twitter": "https://twitter.com/glitteryglisten",
+                "Website": "https://www.inkydyez.com/"
+            }
+        },
+        {
+            "Name": "Hibiscus Stitch",
+            "Desc": "Here at Hibiscus Stitch, I sell professionally crafted hoof-made  plushies of all sizes and price points. I’ve been hoof-making plush for about 16 years now and I make sure each of them are the best for your snuggling and collecting needs! We also have buttons for those of you who want to sport pride for your favorite Equestrian! Please consider adopting a soft friend today. All plush made from the softest Minky with embroidered eyes, cutie marks, and details!",
+            "Image": "/images/vendor-images/hibiscus.jpeg",
+            "Social": {
+                "Instagram": "http://instagram.com/glacidea",
+                "Twitter": "http://twitter.com/glacideaday",
+                "Youtube": "https://m.youtube.com/channel/UC5gRSTIoE8z2mc3IPmdvuBg"
+            }
+        },
+        {
+            "Name": "Hyper Dash",
+            "Desc": "Hello! I'm Hyper Dash, and I make pony animations! I also make animations that don't move (also known as drawings)! I'm currently offering digital commissions of both art and animation, as well as traditional art commissions! There are also new shirt designs on my Teeupublic that you'll be able to pick up on sale for $14 this weekend! You can also purchase any of my Teepublic designs on the full array of available products, such as mugs, notebooks, pillow, and even masks!",
+            "Image": "/images/vendor-images/hyperDash.jpg",
+            "Social": {
+                "Derpibooru": "https://hyperda.sh/derpi",
+                "DeviantArt": "https://hyperda.sh/deviantart",
+                "Patreon": "https://hyperda.sh/patreon",
+                "Twitter": "https://hyperda.sh/twitter",
+                "Website": "https://hyperda.sh/",
+                "Youtube": "https://hyperda.sh/youtube"
+            }
+        },
+        {
+            "Name": "Japan Brony Artist Team",
+            "Desc": "Manga books, Acrylic charms, Art commissions by Michiyoshi",
+            "Image": "/images/vendor-images/japanbrony.jpg",
+            "Social": {
+            }
+        },
+        {
+            "Name": "KAT! Illustration and Artwork",
+            "Desc": "Elegance and cute, prints, stickers and more!",
+            "Image": "/images/vendor-images/katillustration.png",
+            "Social": {
+                "Twitter": "https://twitter.com/LaventaBreeze"
+            }
+        },
+        {
+            "Name": "kawaiipony2 / DShou",
+            "Desc": "We sell MLP and Anime related merch! Prints, Charms. Dakis, and more!",
+            "Image": "/images/vendor-images/kawaiipony.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/nyaseiru/gallery/73297244/featured-mlp-artworks"
+            }
+        },
+        {
+            "Name": "LeJenndary Shoppe",
+            "Desc": "Merch and apparel",
+            "Image": "/images/vendor-images/lejenndary.jpg",
+            "Social": {
+                "DeviantArt": "http://jenndylyon.deviantart.com",
+                "Twitter": "https://twitter.com/jenndylyon"
+            }
+        },
+        {
+            "Name": "Lytlelemurart",
+            "Desc": "Indie Comics /Prints/ and Commissions",
+            "Image": "/images/vendor-images/lytle.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/lytlethelemur",
+                "Etsy": "https://www.etsy.com/shop/lytlethelemur",
+                "Twitter": "https://twitter.com/lytlethelemur",
+                "Website": "https://www.lytlethelemur.com/"
+            }
+        },
+        {
+            "Name": "MidnightPremiere",
+            "Desc": "Howdy! I am selling posters, buttons, lens cloths, zesty memes, and all sorts of doodads! I realized that flat-rate boxes don't care HOW much you stuff in those babies, so grab a Mystery Box from me for a bit of everything!",
+            "Image": "/images/vendor-images/midnightprem.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/MidPrem"
+            }
+        },
+        {
+            "Name": "Miss Mele's Madness",
+            "Desc": "Hello! I'm miss Bramble Mele and welcome to my Madness! I am a small up and coming digital artist here to bring you custom and affordable merchandise and digital art commissions! I am pretty new to the vending game so I hope to please with the fruits of my labors and hope not to disappoint. Next to digital communications, you can find my art on my redbubble account where you'll find Mele Merchandise from clothing to bedding to bathroom accessories!  Here's where you'll find that: https://www.redbubble.com/people/missmelemadness/shop\n\nFrom prints, to charms, button badges, stickers and mugs, I sell it all! Pay no more than $20 for one item in my shop and come back wanting more!",
+            "Image": "/images/vendor-images/missmele.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/missmele-madness?rnrd=234113",
+                "Redbubble": "https://www.redbubble.com/people/missmelemadness/shop",
+                "Twitter": "https://twitter.com/MissBrambleMele"
+            }
+        },
+        {
+            "Name": "Moonbeam Designs",
+            "Desc": "I have all kinds of custom pieces available - from badges to sticker sheets and many things in between! You want something unique to you and your character? You can find it here!\nI also have sticker sheets, individual stickers, and unique ponyfest badges available!\nI'm able to draw furries, animals, ponies, and humans :3\nStop by, I have something for everyone!",
+            "Image": "/images/vendor-images/moonbeam.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/pretty-pretty-star",
+                "Facebook": "https://www.facebook.com/moonbeamarts1/",
+                "Twitter": "https://twitter.com/BFieldsForever"
+            }
+        },
+        {
+            "Name": "My Little Ties",
+            "Desc": "Ties, bow ties, lapel pins, keychains, necklaces, flasks, shot glasses, dog tags, bottle openers, omamori (japanese good luck charms), LED glowing badges, lots of other stuff",
+            "Image": "/images/vendor-images/mylittleties.png",
+            "Social": {
+                "Facebook": "http://www.facebook.com/MyLittleTies",
+                "Twitter": "http://www.twitter.com/mylittleties",
+                "Website": "http://www.mylittleties.com"
+            }
+        },
+        {
+            "Name": "Out of Work Derpy Arts",
+            "Desc": "The mane item I will be selling is my 'Out of Work Derpy: a Derpy Magic Show' Comic! (it comes with a free surprise inside ;3c) I will also be selling some TSSSF cards (out of work derpy expansion) , animated cards, trixie Aces cards, regular and holographic posters, art prints, buttons, some commissions, ect.  You can check everything out at the store: christomancy.square.site/",
+            "Image": "/images/vendor-images/outofwork.jpg",
+            "Social": {
+                "Derpibooru": "https://derpibooru.org/search?q=artist%3Aoutofworkderpy",
+                "DeviantArt": "https://www.deviantart.com/christomancy",
+                "Tumblr": "https://outofworkderpy.tumblr.com/",
+                "Twitter": "https://twitter.com/OutofWorkDerpy",
+                "Website": "https://christomancy.square.site/"            
+            }
+        },
+        {
+            "Name": "Perry Does Things",
+            "Desc": "We're still in the midst of struggling with job search and finances, so I'm back with more goodies and appreciative of any and all support you decide to throw my way! I'll be offering more PonyFest merch, my own prints and hopefully a new pillow or mug or even both - Plus the Pay What You Want Commissions return! Check out my channel and get in touch <3",
+            "Image": "/images/vendor-images/perry.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/perrydraws"
+            }
+        },
+        {
+            "Name": "Peruser's Plushies",
+            "Desc": "Proudly making pony plushies since 2013!  I make plushies of all shapes and sizes.  If you have a certain pony in mind, ask me about a commission!",
+            "Image": "/images/vendor-images/peruser.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/peruserofpieces",
+                "Twitter": "https://twitter.com/Peruserofpieces"
+            }
+        },
+        {
+            "Name": "PiriPaints (Pony Stickers & Pillows)",
+            "Desc": "Stickers, Posters and Pillows",
+            "Image": "/images/vendor-images/piri.jpg",
+            "Social": {
+                "Instagram": "https://www.instagram.com/piripaints/"
+            }
+        },
+        {
+            "Name": "PlanetPlush",
+            "Desc": "Handmade plush, commissions, manufactured plush, pins, charms",
+            "Image": "/images/vendor-images/planetplush.jpeg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/planetplush",
+                "Twitter": "https://twitter.com/PlanetPlush",
+                "Website": "https://planetplush.net/"            
+            }
+        },
+        {
+            "Name": "Ruef n' Beeb",
+            "Desc": "Ruef n' Beeb are a fandom dynamic duo selling all sorts of merchandise, including t-shirts, enamel pins, body pillow covers and much, much more!",
+            "Image": "/images/vendor-images/ruefNBeeb.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/ruefnbeeb"
+            }
+        },
+        {
+            "Name": "Sam Neukirch",
+            "Desc": "I'm a old-school pony vendor (sold at the first BroNYCon like 200 years ago) who recently came back to brony conventions and is having a blast! My virtual table has tons of original and fan art buttons (pony and non-pony), some bird keychains, zines, and more. You can commission me for custom badges or pins that I will mail to you, too! Check out my table at http://samdoesart.com/virtualcontable/",
+            "Image": "/images/vendor-images/samNeu.jpeg",
+            "Social": {
+                "Instagram": "http://www.instagram.com/samneukirch",
+                "Twitch": "http://www.twitch.tv/samneukirch ",
+                "Twitter": "http://www.twitter.com/samneukirch"
+            }
+        },
+        {
+            "Name": "Screwy Embroidery",
+            "Desc": "Custom Embroidery",
+            "Image": "/images/vendor-images/screwy.jpg",
+            "Social": {
+                "Twitter": "https://www.twitter.com/scrw_loose"
+            }
+        },
+        {
+            "Name": "spacekitsch",
+            "Desc": "I sell cute and colorful enamel pins, acrylic keychains, and stickers. I also take digital commissions!",
+            "Image": "/images/vendor-images/spacekitsch.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/spacekitsch",
+                "Etsy": "https://www.etsy.com/shop/spacekitsch",
+                "Twitter": "https://twitter.com/spacekitsch"
+            }
+        },
+        {
+            "Name": "Techycutie",
+            "Desc": "Hey I'm Techy! I sell a large assortment of cute pony keychains as well as buttons, enamel pins, mouse pads, and body pillows. We get new stuff every few weeks, so there's always something new in store! Literally!",
+            "Image": "/images/vendor-images/techy.png",
+            "Social": {
+                "Twitter": "https://twitter.com/Techycutie"
+            }
+        },
+        {
+            "Name": "The Chimera's Den",
+            "Desc": "Hi hello! Welcome to the Chimera's Den! I'm Chimera and owner of the shop! I am a digital fanartist and still new to vending, but I hope to do business with you soon! I sell prints and pre-orders for charms, and will be selling discounted commissions!",
+            "Image": "/images/vendor-images/theChimeraDen.jpg",
+            "Social": {
+                "DeviantArt": "https://chaoticchimeraart.deviantart.com",
+                "Etsy": "https://www.etsy.com/shop/TheChimerasDen",
+                "Twitter": "https://www.twitter.com/ChaoticChimera",
+                "Youtube": "https://www.youtube.com/ChaoticChimera"
+            }
+        },
+        {
+            "Name": "TomoCreations",
+            "Desc": "TomoCreations, come get yah anime, nonanime, animal, reptiles and more of charms, lanyards, sticker, prints, pins and commissions.\n\nI do take custom charm and sticker commissions!\n\nSticker commissions are $8 and 3in x3in can be as big as 5in x 5in.",
+            "Image": "/images/vendor-images/tomoCreations.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/tomocreations",
+                "Etsy": "https://www.etsy.com/shop/TomoCreation",
+                "FurAffinity": "https://www.furaffinity.net/user/tomoyuki/"
+            }
+        },
+        {
+            "Name": "Traveling Pony Museum",
+            "Desc": "The Traveling Pony Museum supports a collection of artists from around the world and has since 2012. Our shop has a little of everything and sales benefit the original artists! Minky soft artwork blankets, stickers and keychains, squishy cute mousepads, hardcover fanfiction books,  over 40 designs freshly pressed onto your choosing of size & color T-shirt or bag, and more! We pack every order with a free sticker (except Media Mail book orders, sorry - blame USPS rules!).",
+            "Image": "/images/vendor-images/travelingPonyMuseum.jpg",
+            "Social": {
+                "Etsy": "https://etsy.com/shop/LetYourArtTravel",
+                "Instagram": "https://instagram.com/TravelingPonyMuseum",
+                "Twitter": "https://twitter.com/MLPFIMTPM"
+            }
+        },
+        {
+            "Name": "Tsitra360 Illustration",
+            "Desc": "I do prints, LIVE commissions, and licensed bags and pillow sleeves I designed.",
+            "Image": "/images/vendor-images/tsitra.jpg",
+            "Social": {
+                "DeviantArt": "http://tsitra360.deviantart.com/",
+                "Twitter": "http://twitter.com/tsitra360"
+            }
+        },
+        {
+            "Name": "Twisted Sketch Productions",
+            "Desc": "Hi there, Twisted Sketch here! I sell all kinds of things from buttons, enamel pins, stickers, vinyl decals, earrings, charm bracelets, shirts, bottles, and best of all, Commissions!",
+            "Image": "/images/vendor-images/twistedSketch.jpg",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/twisted-sketch",
+                "Etsy": "https://www.etsy.com/shop/TwistedSketch",
+                "Patreon": "https://www.patreon.com/twistedsketch",
+                "Picarto": "https://picarto.tv/TwistedSketchProductions",
+                "Twitter": "https://twitter.com/ask_twisted"
+            }
+        },
+        {
+            "Name": "Viw's Art",
+            "Desc": "Selling blankets, puzzles, woodcuts & prints. Also digital commissions",
+            "Image": "/images/vendor-images/viw.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/viwrastupr/",
+                "DeviantArt": "https://viwrastupr.deviantart.com/gallery/"
+            }
+        },
+        {
+            "Name": "Watercolorheart",
+            "Desc": "Stickers, posters, clothing, prints, magnets",
+            "Image": "/images/vendor-images/waterColorHeart.png",
+            "Social": {
+                "DeviantArt": "https://www.deviantart.com/fyre-flies",
+                "Redbubble": "https://www.redbubble.com/people/ButtercupSaiyan/shop?ref=artist_title_name",
+                "Twitter": "https://twitter.com/OddmentsShop"
+            }
+        },
+        {
+            "Name": "Zorilita - Mary Bellamy",
+            "Desc": "Official MLP comics with my RI covers, mini prints, stickers, commissions",
+            "Image": "/images/vendor-images/zorilita.jpg",
+            "Social": {
+                "DeviantArt": "http://www.deviantart.com/marybellamy",
+                "Instagram": "https://www.instagram.com/zorilita/",
+                "Twitter": "https://twitter.com/zorilita"
+            }
+        }
+    ]
 }

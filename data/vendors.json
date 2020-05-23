@@ -27,7 +27,7 @@
         },
         {
             "Name": "ALOS shop",
-            "Desc": "Good day, everypony, long time no see! \n\nMy name is ALOS and you probably know me as an artist behind: ask Lola Cloudmaker, allthesassinessintheworld, some posts on Ask Night Stitch (all three on tumblr) and I've also been the colorist behind Shino's \"\"Space Ponyos\"\" issue #1!\n\nToday for sale I've got:\n~Mane 6 face postcards!~\nThose wonderfully cute postcards come with a custom message drawn on the other side, and will be shipped directly to YOU through mail! For the total cost of... Dun dun dunnn... 6 Euros! It includes everything, the postcard, the labor and the shipping cost!\nFor an additional euro I will add a non pony sticker, either randomly or from the selection of  27 different stickers (woo!)\nEach additional postcard/sticker/drawing will cost 1 Euro to the original price. You may ask me to remove the drawing and just send you the postcard, which will reduce 1 Euro from the original price.\n\n~Twitch Stream commissions~\nFrom a dumb sketch to a nice profile picture, I can draw it all! \nThe prices vary from 3 Euros for a silly sketch, to a 35 Euro of a fullbody drawing in the most complicated shading style possible. \n\nYou may look at all the prices available, if you mess around with this form: \nhttps://docs.google.com/forms/d/e/1FAIpQLSdKqpUvwLjZVwnDsJInZ1EQ3UMHg2ulJ2sn_Th1whss4WwqWw/viewform\n\nI highy recommend checking out the lineless section and get the smooth shaded icon (or any of the lineless icons), they look AMAZING on your profile picture!\n\nAnyway, everyone, have a good con!",
+            "Desc": "Good day, everypony, long time no see! \n\nMy name is ALOS and you probably know me as an artist behind: ask Lola Cloudmaker, allthesassinessintheworld, some posts on Ask Night Stitch (all three on tumblr) and I've also been the colorist behind Shino's \"\"Space Ponyos\"\" issue #1!",
             "Image": "/images/vendor-images/alos.jpg",
             "Social":
             {
@@ -82,7 +82,7 @@
         },
         {
             "Name": "Compman Crafts Creations",
-            "Desc": "Compy is an artist based in California that's loves making pony art over anything else! They love creating art of all different mediums including but not limited to: crochet, cross stitch, pixel art, animation, sculpting/figure customizing, drawing, character design, painting, and drawing!\n\nOk I just wanted to add a few things, don't add this to the description. I don't have the ability to take pictures of my current works right now, and I don't have them posted on my social media, but I have examples of my stuff here: https://sta.sh/22adfmhiyy3i \n\nI plan on making a few pieces of bit rate that could be a few of the following: A crochet plush, a cross stitch piece with custom pixel art, a multi-layered felt piece, and a customized g4 figure. I plan on auctioning these off and giving part of the profits to coronavirus relief!",
+            "Desc": "Compy is an artist based in California that's loves making pony art over anything else! They love creating art of all different mediums including but not limited to: crochet, cross stitch, pixel art, animation, sculpting/figure customizing, drawing, character design, painting, and drawing!",
             "Image": "/images/vendor-images/compmanCrafts.jpg",
             "Social":
             {
@@ -288,9 +288,10 @@
         },
         {
             "Name": "Out of Work Derpy Arts",
-            "Desc": "The mane item I will be selling is my 'Out of Work Derpy: a Derpy Magic Show' Comic! (it comes with a free surprise inside ;3c) I will also be selling some TSSSF cards (out of work derpy expansion) , animated cards, trixie Aces cards, regular and holographic posters, art prints, buttons, some commissions, ect.  You can check everything out at the store: christomancy.square.site/",
+            "Desc": "The mane item I will be selling is my 'Out of Work Derpy: a Derpy Magic Show' Comic! (it comes with a free surprise inside ;3c) I will also be selling some TSSSF cards (out of work derpy expansion) , animated cards, trixie Aces cards, regular and holographic posters, art prints, buttons, some commissions, ect.  You can check everything out on my store!",
             "Image": "/images/vendor-images/outofwork.jpg",
             "Social": {
+                "Store": "https://christomancy.square.site/",
                 "Derpibooru": "https://derpibooru.org/search?q=artist%3Aoutofworkderpy",
                 "DeviantArt": "https://www.deviantart.com/christomancy",
                 "Tumblr": "https://outofworkderpy.tumblr.com/",
@@ -343,9 +344,10 @@
         },
         {
             "Name": "Sam Neukirch",
-            "Desc": "I'm a old-school pony vendor (sold at the first BroNYCon like 200 years ago) who recently came back to brony conventions and is having a blast! My virtual table has tons of original and fan art buttons (pony and non-pony), some bird keychains, zines, and more. You can commission me for custom badges or pins that I will mail to you, too! Check out my table at http://samdoesart.com/virtualcontable/",
+            "Desc": "I'm a old-school pony vendor (sold at the first BroNYCon like 200 years ago) who recently came back to brony conventions and is having a blast! My virtual table has tons of original and fan art buttons (pony and non-pony), some bird keychains, zines, and more. You can commission me for custom badges or pins that I will mail to you, too!",
             "Image": "/images/vendor-images/samNeu.jpeg",
             "Social": {
+                "Online Table": "http://samdoesart.com/virtualcontable/",
                 "Instagram": "http://www.instagram.com/samneukirch",
                 "Twitch": "http://www.twitch.tv/samneukirch ",
                 "Twitter": "http://www.twitter.com/samneukirch"

@@ -125,3 +125,8 @@ div.schedule-r8-odd, div.schedule-r8-even {
 .schedule-event-pop-desc {
     margin-top: 10px;
 }
+
+.event-opening-ceremonies, .event-closing-ceremonies {
+    background-color: red !important;
+    font-weight: bold !important;
+}

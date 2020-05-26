@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 }
                 // cells
                 for(const block of renderBlocks) {
-                    const cell = makeCell(`schedule-room-cell schedule-${block.event.color}`);
+                    const cell = makeCell(`schedule-room-cell schedule-${block.event.color} event-${(block.event.title || "").toLowerCase().replace(/[^a-z]/g, '-')}`);
                     cell.text(block.event.title);
                     const height = cellBlockHeight * (moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit);
                     cell.height(`${height}em`);

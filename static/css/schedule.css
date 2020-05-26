@@ -66,49 +66,49 @@ div.schedule-event-pop {
 }
 
 div.schedule-r1-odd {
-    background: repeating-linear-gradient(to bottom, #8F5A75B4, #8F5A75B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r1-even {
-    background: repeating-linear-gradient(to bottom, #c27ba0B4, #c27ba0B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r2-odd {
-    background: repeating-linear-gradient(to bottom, #3A69B5B4, #3A69B5B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(58, 105, 181, 0.71), rgba(58, 105, 181, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r2-even {
-    background: repeating-linear-gradient(to bottom, #4A86E8B4, #4A86E8B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(74, 134, 232, 0.71), rgba(74, 134, 232, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r3-odd {
-    background: repeating-linear-gradient(to bottom, #AD5050B4, #AD5050B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(173, 80, 80, 0.71), rgba(173, 80, 80, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r3-even {
-    background: repeating-linear-gradient(to bottom, #E06666B4, #E06666B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(224, 102, 102, 0.71), rgba(224, 102, 102, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r4-odd {
-    background: repeating-linear-gradient(to bottom, #3DAD46B4, #3DAD46B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(61, 173, 70, 0.71), rgba(61, 173, 70, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r4-even {
-    background: repeating-linear-gradient(to bottom, #7ed686b5, #7ed686b5 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(126, 214, 134, 0.71), rgba(126, 214, 134, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r5-odd {
-    background: repeating-linear-gradient(to bottom, #CC875CB4, #CC875CB4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(204, 135, 92, 0.71), rgba(204, 135, 92, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r5-even {
-    background: repeating-linear-gradient(to bottom, #FFA873B4, #FFA873B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(255, 168, 115, 0.71), rgba(255, 168, 115, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r6-odd {
-    background: repeating-linear-gradient(to bottom, #7A5DB7B4, #7A5DB7B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r6-even {
-    background: repeating-linear-gradient(to bottom, #A37DF5B4, #A37DF5B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r7-odd {
-    background: repeating-linear-gradient(to bottom, #CC3DAFB4, #CC3DAFB4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(204, 61, 175, 0.71), rgba(204, 61, 175, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r7-even {
-    background: repeating-linear-gradient(to bottom, #FF21DFB4, #FF21DFB4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(255, 33, 223, 0.71), rgba(255, 33, 223, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 div.schedule-r8-odd, div.schedule-r8-even {
-    background: repeating-linear-gradient(to bottom, #2B8531B4, #2B8531B4 calc(3em - 1px), #aebbea 3em);
+    background: repeating-linear-gradient(to bottom, rgba(43, 133, 49, 0.71), rgba(43, 133, 49, 0.71) calc(3em - 1px), #aebbea 3em);
 }
 
 .schedule-event-pop-title {

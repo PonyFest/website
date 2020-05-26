@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         grid.append(col.clone());
         grid.append($('<div class="euroline"></div>'));
-        grid.append($('<div class="euroexplanation">&uparrow; Early Pre-Stream<br>&downarrow; Main Event</div>'));
+        grid.append($('<div class="euroexplanation">&uparrow; European Pre-Stream<br>&downarrow; Main Event</div>'));
 
         for(const pop of popDivs) {
             schedRoot.append(pop);

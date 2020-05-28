@@ -71,5 +71,37 @@
             "Bandcamp": "https://odysseymusic.bandcamp.com",
             "Discord": "https://discord.gg/cKPQvUM"
         }
+    }, {
+        "Name": "Aphinity",
+        "Desc": "Fandom centric, action taker extraordinaire, Aphinity helps in many different fandoms and has a diverse interest set! He's known for his costume work in both professional and volunteer mascot circles, including the 501st legion, Helping Pawz, and many others. He collects MLP memorabilia including figures, CCG cards, and custom plush. A techie at heart, he builds, flies, and races FPV drones and co-runs a Tiny Whoop racing league called VanWhoop. He's extremely active with fandom conventions in brony, furry, and others, currently chair of both Vanhoover Pony Expo and Howloween.",
+        "Image": "/images/guests/aphinity.png"
+    }, {
+        "Name": "BronyCon Mascots",
+        "Desc": "You've seen them wandering the halls of the Baltimore Convention Center for the past several years, now see them online! Cosplayers Shelbeanie, Wiggles, and Simul are known for portraying the BronyCon mascots in person at BronyCon. Join them at 8:00 PM EDT during PonyFest Online 3.0 as they share anecdotes from their time playing the roles of Mane Event, Blank Canvas, and Hoof Beatz at the brony community's largest event.",
+        "Image": "/images/guests/bronycon-mascots.jpg"
+    }, {
+        "Name": "Forward Progress",
+        "Desc": "Where social science and pop culture meet, you will find Forward Progress. Founder of the Keeping Friendship Magic project and a constant student of fandom, his work dives into the deeper meaning found within the franchises we know and love to explore ways to bring us all closer together. Forward's content ranges from the ridiculous to the educational exploring the worlds of My Little Pony, anime, video games, and so much more.",
+        "Image": "/images/guests/forward-progress.jpg"
+    }, {
+        "Name": "RiffPonies",
+        "Desc": "The King of Kazoos, the madmen behind FUF, the riffers of Ponies; it's gotta be RIFFPONIES! Straight from the armpit of the country known simply as \"New Jersey\" comes the snarkiest panel team in the fandom, led by Pony panelist extraordinaire Thoth Penswell & acclaimed Pony fan-artist Acesential!  With 2 months-worth of horrible con memes left in their wake, there's NO TELLING what they have in-store this time...so you'll just have to find out for yourself!  The only question is; are YOU ready for more FUF?",
+        "Image": "/images/guests/riffponies.jpg"
+    }, {
+        "Name": "Igor (My Little Ties)",
+        "Desc": "A fan of the show since 2011, Igor has mostly been known for fine formalwear, such as ties and bow-ties, but lately even more so for making and etching all sorts of increasingly tiny things out of metal, including a super tiny Elements of Harmony book locket, and the world's smallest TSSSF cards out of titanium. \nIn addition to playing with lasers, Igor also has made a VR Ponyville world to hang out in and explore. ",
+        "Image": "/images/guests/igor.jpg"
+    }, {
+        "Name": "Imalou",
+        "Desc": "Pony fanatic since 2011, Pinkie Pie fan since season one, Ambassador of the Baguette since 1996. After 8 years of doodling ponies on her free time, she has mastered the art of painting our beloved pastel horses and now landed a job in character design at Hasbro's feature department. Drawing characters is her favorite thing to do and she is excited to let you all know about her pro tips during this event!",
+        "Image":"/images/guests/imalou.jpg"
+    }, {
+        "Name": "Bronies from Japan",
+        "Desc": "Sunchaser is originally from the USA but has lived in Japan on and off for a total of approximately eight years. He currently resides in Tokyo with his wife and daughter. Aside from being a brony, he is also an avid airsofter.\n\nHauntedTuba is from Japan and currently lives in Saitama Prefecture. He loves learning new English phrases and is into American cartoons (especially Disney).\n\nOmame is from Japan and lives in Tokyo. She loves to draw fanart inspired by Japanese anime and manga as well as American cartoons. Her other hobbies include watching movies, scuba diving, and relaxing in onsen.",
+        "Image": "/images/guests/japan.jpg"
+    }, {
+        "Name": "Chocolate Pony",
+        "Desc": "Chocolate Pony is known for their art and panels in the fandom from their flags and pins to their different tarot decks. They currently are involved with the Zootopia Minute podcast, the Talking Cons podcast, and the TransformARTive YouTube channel and is currently finishing up a book covering the history of fan conventions.",
+        "Image": "/images/guests/chocopony.png"
     }]
 }

@@ -71,6 +71,14 @@ url: /staff
 
 <div style="break-inside: avoid;">
 
+## HR
+- **EtherealVision** - Lead
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
 ## Design
 - **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
@@ -114,20 +122,31 @@ url: /staff
 - **MidnightDynasty** - Staff
 - **Midny** - Moderator
 - **Sirris** - Moderator
-- **Allegrona Melody** - Watcher
-- **Ambassador Stormheart** - Watcher
+- **Allegrano Melody** - Watcher
+- **Anthreal** - Watcher
+- **DjDoctorWhooves** - Watcher
+- **Electric Heart** - Watcher
 - **Flame** - Watcher
-- **IAmADeliciousPotato** - Watcher
-- **Illuminous** - Watcher
-- **Kind_CreepaLot** - Watcher
+- **Frolda "Dijkstra"** - Watcher
+- **Illumnious** - Watcher
+- **King_CreepaLot** - Watcher
+- **Lamedonyx** - Watcher
+- **Lewdie** - Watcher
 - **Lord Midnight** - Watcher
+- **Meganought** - Watcher
 - **Midnight Aegis** - Watcher
+- **mistercokehold8** - Watcher
+- **NotADeliciousPotato** - Watcher
 - **Ocean Breeze** - Watcher
 - **Omegacreeper** - Watcher
 - **PieforLife** - Watcher
+- **pipa943** - Watcher
 - **Pony Professor** - Watcher
+- **Queen Bliss** - Watcher
+- **RariJack** - Watcher
 - **Rye of Shadows** - Watcher
-- **Strict** - Watcher
+- **TheTopMostDog** - Watcher
+- **Tigress** - Watcher
 
 </div>
 

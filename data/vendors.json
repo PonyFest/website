@@ -441,16 +441,6 @@
             }
         },
         {
-            "Name": "Watercolorheart",
-            "Desc": "Stickers, posters, clothing, prints, magnets",
-            "Image": "/images/vendor-images/waterColorHeart.png",
-            "Social": {
-                "DeviantArt": "https://www.deviantart.com/fyre-flies",
-                "Redbubble": "https://www.redbubble.com/people/ButtercupSaiyan/shop?ref=artist_title_name",
-                "Twitter": "https://twitter.com/OddmentsShop"
-            }
-        },
-        {
             "Name": "Zorilita - Mary Bellamy",
             "Desc": "Official MLP comics with my RI covers, mini prints, stickers, commissions",
             "Image": "/images/vendor-images/zorilita.jpg",

@@ -13,8 +13,7 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Coordination
-- **Dexanth** - Princess
-- **Katharine Berry** - Other Princess
+- **Katharine Berry** - Princess
 
 </div>
 
@@ -63,7 +62,6 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Tabletop
-- **B.B.** - Lead
 - **Eliwood Sain** - Staff
 
 </div>
@@ -80,12 +78,12 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Design
+- **TechyCutie** - Lead
 - **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
 - **Amodwithoutamark** - Design Team
 - **AmyNewBlue** - Design Team
 - **Perrydotto** - Design Team
-- **TechyCutie** - Design Team
 - **Viwrastupr** - Design Team
 
 </div>
@@ -104,15 +102,19 @@ url: /staff
 
 ## Vendors
 - **Ruef** - Lead
+- **B.B.** - Staff
 
 </div>
 
+<!-- 
 <div style="break-inside: avoid;">
 
 ## VIP Relations
 - **SonyaLynn** - Lead
 
 </div>
+
+-->
 
 
 <div style="break-inside: avoid;">
@@ -176,7 +178,6 @@ url: /staff
 - **BubbleBean** - Staff
 - **GrandMoffPony** - Staff
 - **Somber** - Staff
-- **Titanium Dragon** - Staff
 - **Winston** - Staff
 
 </div>

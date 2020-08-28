@@ -1,3 +1,12 @@
 {
-    "guests": []
+    "guests": [{
+        "Name": "Devyn Dalton",
+        "Desc": "Devyn Dalton is a Canadian born actor, dancer, and stunt performer. Strongly recognized for her motion capture performance roles and voice work.She was scouted by an agent in her home town of Edmonton, who recruited her to the film industry in Vancouver, BC. Devyn continued her training in dance and theatre, performing throughout Canada and Worldwide. \n\nSome of her accomplishments include landing her first feature film \"Rise of the Planet of the Apes,\" playing two lead live-action roles. This was the start of Devyn's career as an established motion capture artist, having a chance to work alongside some of the best in the biz, Andy Serkis and Terry Notary. Ms.Dalton was brought back on board for the franchises third film, \"War of the Planet of the Apes,\" playing the role Cornelius. \n\nNickelodeon first snatched Devyn up to play the lead character of Christmas Carol in \"A Fairly Odd Christmas\" along side stars Drake Bell and Daniella Monet. Later they cast her as Gretel of the famous Hansel and Gretel duo, in the adventure film, \"Escape from Mr. Lemoncello's Library.\" Her latest and most rewarding accomplishment to date is having worked alongside legend Steven Spielberg in the feature \"The BFG.\" \n\nDevyn also expresses her talents as a professional stunt performer. Some of her many credits have been, Percy Jackson: The Sea of Monster, Godzilla, Once Upon A time, Arrow,Supernatural, A Series of Unfortunate Events, X-files, Wonder and Legion. Devyn more recently joined the star studded cast of three big time features, Marvels X-men: Dark Phoenix, Skyscraper and The Predator. \n\nDevyn's voiceover journey started when she joined \"Barbies Rock N' Royal\" movie, voicing the spunky rocker girl, Zia. You can also hear Devyn in the hit anime series \"Beyblade Burst\" voicing the role of Shasa. Joining the cast of \"My Little Pony: Friendship Is Magic\", as the loveable Ocellus, deems to be one of Devyn's favourite and most rewarding roles.",
+        "Image": "/images/guests/devyn-dalton.jpg",
+        "Type": "VIP",
+        "Social": {
+            "Twitter": "https://twitter.com/devyndalton",
+            "Instagram": "https://twitter.com/devyn.dalton"
+        }
+    }]
 }

@@ -296,6 +296,11 @@ a.discord-icon
     word-wrap: break-word;
     word-break: break-word;
 }
+
+.guest-container > div.guest-VIP {
+    width: 99%;
+}
+
 .guest-links > a {
     padding: 0 .5em;
     border-right: 2px solid white

@@ -17,5 +17,21 @@
             "Twitter": "https://twitter.com/G_Panton",
             "Instagram": "https://instagram.com/gilespanton"
         }
+    }, {
+        "Name": "Ian Hanlin",
+        "Desc": "Originally from the salty East Coast of Canada, Ian Hanlin now calls Vancouver home. After making the jump from coast to coast, Ian quickly found himself involved in the incredible world of voice over and has played a growing number of strange, silly and strangely silly characters in many cartoons and video games.\n\nIan can be heard as Owen Grady in Lego Jurassic World: The Secret Exhibit, Fire-Man/Air-Man/Man-Man in Mega Man: Fully Charged, Poseidon/Theseus/Chimera in Minecraft Miniseries: Mystery of The Greek Isles, Sunburst in My Little Pony: Friendship is Magic, Lance Richmond in Lego Nexo Knights, Trad Vasquez in Beyblade Burst, Alpha in Tobot Athlon, Mr. Magoo in Mr. Magoo, Dad Pocket in Polly Pocket, Durand in Summoners War: Friends and Rivals, Paimon in Line Rangers, Acronix in Ninjago, Larry Parker in Far Cry 5, Ralph in Fruit Ninja and many more.\n\nWhen not behind the mic, Ian can be found wondering where that spider in the shower went...",
+        "Image": "/images/guests/ian-hanlin.jpg",
+        "Type": "VIP",
+        "Social": {
+            "Twitter": "https://twitter.com/IanStuartHanlin"
+        }
+    }, {
+        "Name": "\"Big\" Jim Miller",
+        "Desc": "Big Jim is the former Supervising Series Director of MLP:FiM. He’s now working on the 2021 Johnny Test reboot. He’s staying at home as much as possible during this global crisis, and so should you.",
+        "Image": "/images/guests/jim-miller.jpg",
+        "Type": "VIP",
+        "Social": {
+            "Twitter": "https://twitter.com/TheBiggestJim"
+        }
     }]
 }

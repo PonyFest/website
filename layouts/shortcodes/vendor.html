@@ -5,7 +5,7 @@
         <img src="{{ .Image }}" style="max-height: 250px; max-width: 100%">
         <p>{{ .Desc }}</p>
         <p class="vendor-links" style="margin: 5px">
-            {{ range $key, $value := .Social }}<a href="{{ $value }}">{{ $key }}</a>{{ end }}
+            {{ range $key, $value := .Social }}<a href="{{ $value }}">{{ $key }}</a>&#8203;{{ end }}
         </p>
     </div>
 {{ end }}

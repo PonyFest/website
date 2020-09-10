@@ -176,6 +176,13 @@
             "Twitter": "https://twitter.com/RatofDrawn"
         }
     }, {
+        "Name": "Ruef n' Beeb",
+        "Desc": "Ruef n' Beeb are a fandom dynamic duo selling all sorts of merchandise, including t-shirts, enamel pins, body pillow covers and much, much more!",
+        "Image": "/images/vendors/ruef.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/ruefnbeeb"
+        }
+    }, {
         "Name": "Sciggles",
         "Desc": "Hello! We offer an incredible array of customizable options! From flasks to badges, shirts, mugs, and more! Whatever you want we can make! We also have the same amount available for show characters as well!",
         "Image": "/images/vendors/sciggles.jpg",

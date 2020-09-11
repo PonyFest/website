@@ -40,6 +40,7 @@ p {
 		<div>
 			<p>We're back! Get together in cyberspace for PonyFest Online, a Discord-based online pony convention!</p>
 			<p>Featuring panels, vendors, gaming, ponies, and hanging out.</p>
+			<p>You can also now <a href="https://store.ponyfest.horse/">buy autographs and zoom calls</a> with some of our VIPs!</p>
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>

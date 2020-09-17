@@ -23,7 +23,6 @@ url: /staff
 ## Events
 - **Simul** - Lead
 - **Lycan** - Music Lead
-- **Aphinity** - Staff
 - **Foal Papers** - Staff
 
 </div>
@@ -32,20 +31,10 @@ url: /staff
 
 ## A/V
 - **Larscis** - Lead
-- **Callum** - Staff
-- **Ramble** - Staff
+- **Alex (Coach)** - Staff
 - **Reiuiji** - Staff
-- **ServerRat** - Staff
-- **WaffleThief** - Staff
+- **winter501st** - Staff
 - **winchester572** - Staff
-
-</div>
-
-<div style="break-inside: avoid;">
-
-## IT
-- **Taiko** - Staff
-- **Dani** - Staff
 
 </div>
 
@@ -54,7 +43,6 @@ url: /staff
 
 ## Gaming
 - **Leslie** - Lead
-- **Adamtheamazing64** - Staff
 
 </div>
 
@@ -62,15 +50,7 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Tabletop
-- **Eliwood Sain** - Staff
-
-</div>
-
-
-<div style="break-inside: avoid;">
-
-## HR
-- **EtherealVision** - Lead
+- **Eliwood Sain** - Lead
 
 </div>
 
@@ -79,12 +59,11 @@ url: /staff
 
 ## Design
 - **TechyCutie** - Lead
-- **Screw Loose** - Lead
 - **Dawnfire** - Bit Rate's Mom
-- **Amodwithoutamark** - Design Team
-- **AmyNewBlue** - Design Team
-- **Perrydotto** - Design Team
-- **Viwrastupr** - Design Team
+- **Amodwithoutamark** - Staff
+- **Leh** - Staff
+- **Twisted Sketch** - Staff
+- **Viwrastupr** - Staff
 
 </div>
 
@@ -93,7 +72,6 @@ url: /staff
 
 ## Social Media
 - **Kevin from TrotCon** - Lead
-- **Kibbie** - Memeposter
 
 </div>
 
@@ -106,49 +84,26 @@ url: /staff
 
 </div>
 
-<!-- 
 <div style="break-inside: avoid;">
 
 ## VIP Relations
-- **SonyaLynn** - Lead
+- **Sirris** - Lead
 
 </div>
-
--->
 
 
 <div style="break-inside: avoid;">
 
 ## Discord
 - **Fizzbuzz** - Lead
-- **MidnightDynasty** - Staff
-- **Midny** - Moderator
-- **Sirris** - Moderator
-- **Allegrano Melody** - Watcher
-- **Anthreal** - Watcher
-- **DjDoctorWhooves** - Watcher
-- **Electric Heart** - Watcher
+- **Midnight Aegis** - Moderator
 - **Flame** - Watcher
-- **Frolda "Dijkstra"** - Watcher
-- **Illumnious** - Watcher
-- **King_CreepaLot** - Watcher
 - **Lamedonyx** - Watcher
-- **Lewdie** - Watcher
-- **Lord Midnight** - Watcher
+- **Ledwie Ledws** - Watcher
 - **Meganought** - Watcher
-- **Midnight Aegis** - Watcher
-- **mistercokehold8** - Watcher
-- **NotADeliciousPotato** - Watcher
-- **Ocean Breeze** - Watcher
 - **Omegacreeper** - Watcher
 - **PieforLife** - Watcher
-- **pipa943** - Watcher
-- **Pony Professor** - Watcher
-- **Queen Bliss** - Watcher
-- **RariJack** - Watcher
-- **Rye of Shadows** - Watcher
-- **TheTopMostDog** - Watcher
-- **Tigress** - Watcher
+- **Scarlet Heart** - Watcher
 
 </div>
 
@@ -157,8 +112,7 @@ url: /staff
 
 ## Changelings
 - **Jamis** - Staff
-- **Tales** - Staff
-- **Gajinka** - Moderator
+- **Dexanth** - Staff
 
 </div>
 
@@ -166,7 +120,6 @@ url: /staff
 
 ## Charity
 - **Perrydotto** - Lead
-- **CosmicKeyframe** - Staff
 
 </div>
 
@@ -174,21 +127,9 @@ url: /staff
 
 ## Writing
 - **Xepher** - Lead
-- **Aquaman** - Staff
-- **BubbleBean** - Staff
-- **GrandMoffPony** - Staff
-- **Somber** - Staff
-- **Winston** - Staff
 
 </div>
 
-<div style="break-inside: avoid;">
-
-## Special Thanks
-- **Joey**
-- **Skygunner**
-
-</div>
 </div>
 </div>
 </div>

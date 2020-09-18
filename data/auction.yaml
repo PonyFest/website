@@ -1,20 +1,19 @@
 items:
   - name: The BronyCon Ultra Swag Box
     donator: Emily from shipfic.co
+    site: https://shipfic.co
     location: USA
     image: /images/charity/bc-swag.jpg
     desc: More BronyCon swag than you can shake a stick at! Includes assorted programmes, badges, access passes, lanyards, keycards, buttons, keychains, shot glasses, pins, stickers, a plushie, and more!
-    social:
-      Site: https://shipfic.co
   - name: "\"Magic Pegasus Snowball\" Fan Comic"
     donator: bakertoons
+    site: https://twitter.com/bakertoons
     location: USA
     image: /images/charity/magic-pegasus-snowball.jpg
     desc: This is a fan-made comic by bakertoons (MAD Magazine, SpongeBob Comics) featuring Rainbow Dash and Applejack getting into snowball fight! It's drawn on 11x17 Bristol Board with archival ink!
-    social:
-      Twitter: https://twitter.com/bakertoons
   - name: "\"Nevergreen Forest\" 7-page MLP Fan Comic"
     donator: bakertoons
+    site: https://twitter.com/bakertoons
     location: USA
     image: /images/charity/nevergreen-forest.jpg
     desc: |
@@ -24,10 +23,9 @@ items:
 
       All 7 pages were drawn on 11x17 cardstock. The last page has some paper warping in the bottom-left corner due to
       excess ink but otherwise are all in good condition!
-    social:
-      Twitter: https://twitter.com/bakertoons
   - name: 12" Custom Pony Plush Commission
     donator: Winston
+    site: https://www.deviantart.com/wdeleon
     location: USA
     image: /images/charity/plush-commission.jpg
     desc: |
@@ -38,51 +36,45 @@ items:
       Please note that since this is a custom item commission, the buyer should be willing to communicate with the artist
       in order to discuss what they would like to receive. Creating this item may take some time, likely from one to four
       weeks.
-    social:
-      DeviantArt: https://www.deviantart.com/wdeleon
   - name: Ponycon NYC Mascot Plushes
     donator: Emily from shipfic.co
+    site: https://shipfic.co
     location: USA
     image: /images/charity/ponycon-plushies.jpg
     desc: |
       Available only in Brooklyn on Hearts n' Hooves Day weekend 2015, Ponycon NYC convention mascots Liberty and Cabbie
       come to you in plush form. Limited to a run of only 500 each, these plush are spec'd at 12" tall, adorably soft and
       cuddly. Complete with original tags, including tush tag noting 2015 edition. :)
-    social:
-      Site: https://shipfic.co
   - name: A Digital Bust Commission
     donator: Depper
+    site: https://instagram.com/dr_depper
     location: The Internet
     image: /images/charity/depper-commission.jpg
     desc: A custom drawing of your OC. Fully shaded, lined, etc. with a detailed background and surroundings. You can choose what happens in the drawing!
-    social:
-      Instagram: https://instagram.com/dr_depper
   - name: Pony Art Commission
     donator: Leh
+    site: https://twitter.com/lehlatte
     image: /images/charity/leh-commission.png
     location: The Internet
     desc: A custom digital commission of a pony!
-    social:
-      Twitter: https://twitter.com/lehlatte
   - name: Unopened Hot Topic Maud Pie Funko Vinyl
     donator: Perrydotto
+    site: https://twitter.com/perrydotto
     location: Germany
     image: /images/charity/funko-maud.jpg
     desc: This is an unopened Maud Pie Funko Vinyl figure, from the original Hot Topic exclusive pre-release. The box has a few very minor blemishes from storage but is otherwise in fine condition, and the figure has never been taken out of the box.
-    social:
-     Twitter: https://twitter.com/perrydotto
   - name: Past Sins 1st Edition Hardcover (#33 of 937)
     donator: Katharine Berry
     location: USA
+    site: https://twitter.com/KatharineBerry
     image: /images/charity/past-sins.jpg
     desc: |
       A hardcover copy of Pen Stroke's Past Sins, from the first print run in 2013. Contains a label identifying it as
       book number 33 of 937. Has small illustrations for each chapter, and some full-colour fan-art at the back. Never
       actually read.
-    social:
-      Twitter: https://twitter.com/KatharineBerry
   - name: Pandemic Cleanliness Reminder!
     donator: Amandy
+    site: https://twitter.com/Amandyalmonds
     location: USA
     image: /images/charity/cleanliness-stickers.jpg
     desc: |
@@ -90,62 +82,55 @@ items:
       better way to do that than with your favorite ponies to remind you? These stickers are are vinyl, and will stare
       into your heart to remind you of this hectic year forever as you compulsively wash your hands yet again and stare
       into the void. They're all about 3" x 3".
-    social:
-      Twitter: https://twitter.com/Amandyalmonds
   - name: Miniature YCH Watercolour
     donator: Amandy
     location: USA
+    site: https://twitter.com/Amandyalmonds
     image: /images/charity/ych-watercolour.jpg
     desc: |
       Ever want a tiny version of your favorite pony or your OC in a minaturized, watercolor form? Well now you can!
       This item is a YCH watercolor commission for 1 character of your choice. The example picture shows you what you'd
       be getting! Each watercolor is hand-painted, and roughly 2.5" x 3" in size. It's perfect for a tiny frame, or to
       carry around in your wallet in you have a fancy one. Either way, this watercolor would be one-of-a-kind!
-    social:
-      Twitter: https://twitter.com/Amandyalmonds
   - name: Mane Six TamaPoni acrylic charms
     donator: SukiCat (CrescentScript)
     location: Canada
+    site: https://instagram.com/sukicatarts
     image: /images/charity/tamaponi.jpg
     desc: |
       These 2" acrylic charms feature a pony look-alike to the classic Tamagotchi keychain! The charms are double-boarded
       and epoxy domed, giving them a polished finish that protects the printed image. Each charm comes with a ball-chain
       clasp, colored to match its respective pony~!
-    social:
-      Instagram: https://instagram.com/sukicatarts
   - name: PonyCon Holland Merch Pack
     donator: PonyCon Holland
+    site: https://ponyconholland.com
     location: The Netherlands
     image: /images/charity/ponycon-holland.jpg
     desc: |
       3D Printed merch from the brand new PonyCon Holland convention, running its first iteration in 2021. Includes a
       facemask clip, 4 PonyCon Holland coins, a Stroopwafeltje fridge magnet, and a Stroopwafeltje figurine.
-    social:
-      Website: https://ponyconholland.com
   - name: Excluside Punk Rarity Enamel Pin
     donator: Ruef
+    site: https://twitter.com/Ruefers
     location: USA
     image: /images/charity/rarity-pin.jpg
     desc: An exclusive pin of Punk Rarity scream singing. She is one of only 100 made and sold through Ruef's pin club. She features dyed purple metal and a clear epoxy coating.
 
   - name: Incomplete set of BronyCon "stamps"
     donator: Gajinka
+    site: https://twitter.com/IshidaGajinka
     location: USA
     image: /images/charity/bc-stamps.jpg
     desc: Incomplete set of BronyCon 2018 "stamps".
-    social:
-      Twitter: https://twitter.com/IshidaGajinka
   - name: Everfree Northwest 2019 Hotel Key
     donator: Gajinka
+    site: https://twitter.com/IshidaGajinka
     location: USA
     image: /images/charity/efnw-key.jpg
     desc: Everfree Northwest hotel room key from 2019.
-    social:
-      Twitter: https://twitter.com/IshidaGajinka
   - name: 2019 BronyCon Stickers
     donator: Gajinka
+    site: https://twitter.com/IshidaGajinka
     location: USA
     image: /images/charity/bc-stickers.jpg
     desc: Full set of Bronycon stickers from 2019.
-    social:
-      Twitter: https://twitter.com/IshidaGajinka

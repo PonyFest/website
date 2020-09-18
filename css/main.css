@@ -426,3 +426,11 @@ a.discord-icon
     }
 
 }
+
+.donation-title {
+    margin-bottom: 0;
+}
+
+.donator {
+    margin-top: 2px;
+}

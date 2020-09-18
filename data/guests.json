@@ -36,5 +36,35 @@
         "Social": {
             "Twitter": "https://twitter.com/TheBiggestJim"
         }
+    }, {
+        "Name": "Faulty",
+        "Desc": "The Self proclaimed King of Progressive House in the current day Pony Fandom will be bringing you nothing but the best music of the Pony EDM scene!",
+        "Image": "/images/guests/faulty.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/faultyfelix"
+        }
+    }, {
+        "Name": "BlackIceMusic",
+        "Desc": "Producing music since 2014, BlackIceMusic was originally inspired by Martin Garrix on the commercial side and Woodentoaster/Glaze on the fandom side and more recently created a similar sound to his current idol Dirty Palm.\nWith the goal to create pony-themed Bounce and Future House and being mostly known for tracks like \"\"Sweet and Sour\"\", \"\"Updraft\"\" and \"\"The Fuff\"\", he has come quite a long way.\n\nHe recently picked up DJing as a hobby and had his first live performances at two small conventions, followed by several online events like BABSConline, Burning Mare and Trotcon. With a set mostly featuring Melbourne/Future Bounce, as well as Future House, BlackIceMusic is guaranteed to bring energy to your speakers and headphones.",
+        "Image": "/images/guests/blackicemusic.png",
+        "Social": {
+            "Social Media": "https://compiled.social/blackicemusic"
+        }
+    }, {
+        "Name": "Nevermourn",
+        "Desc": "Hi, I'm Nevermourn! You might have caught some of my sets at various US cons while we were still having those. I mainly produce and DJ drum and bass, and I've been on various community albums between Ponies at Dawn and A State of Sugar. I like to touch as many genres as I can in a set, so be sure to tune in for a taste of everything!",
+        "Image": "/images/guests/nevermourn.png",
+        "Social": {
+            "Twitter": "https://twitter.com/nevermournmusic"
+        }
+    }, {
+        "Name": "Drummershy",
+        "Desc": "Drummershy is a drummer/musician based out of Baltimore Maryland. He is a Certified Music and Audio Production Engineer. He is also the current drummer in the Baltimore band, Flying Jacob.\n\nHe has collaborated and Performed with many internet musicians such as Cyril The Wolf, 4Everfreebrony, Tarby, L Train, Luckrock, Vylet pony, Princewhateverer, Geekbrony, Djohn Mema, Stealing shad3z, MelodyBrony and many more.\n\nHe continues to drum for fandom's and internet music collaborations.",
+        "Image": "/images/guests/drummershy.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/_Drummershy_",
+            "YouTube": "https://www.youtube.com/user/DRUMMERSHY",
+            "Website": "https://drummershy.com/"
+        }
     }]
 }

@@ -8,6 +8,8 @@ aliases: [/charity]
 
 <div class="text-box" style="text-align: left">
 
+**PonyFest Online! 4.0's charity auction will benefit [NAMI](https://nami.org), the National Alliance on Mental Illness.**
+
 ## Disclaimer
 **PONYFEST IS IN NO WAY LIABLE FOR ANY TRANSACTIONS MADE DURING THE AUCTION!** 
 PonyFest as a group does not handle the money or auction items in any way, shape or form. The donation of money and
@@ -15,11 +17,20 @@ the shipping of items is arranged between the specific individuals involved. Pon
 between the parties involved. PonyFest is not able to assist in the case of items being lost, damaged or otherwise
 impacted in transit. 
 
+</div>
+
+# Items
+
+{{<auction-item>}}
+
+<div class="text-box" style="text-align: left">
+
 ## Bidding Instructions
 
-To participate in our auction, join us on the [PonyFest Discord](https://discord.gg/ponyfest) and follow these steps!
+To participate in our auction, join us on the [PonyFest Discord](https://discord.gg/ponyfest) at 2:30pm EDT on Saturday
+and follow these steps!
 
-1. Put on our stream on [Bit Rate's Stage](https://ponyfest.horse/) and join us in the #bit-rates-stage to watch the auction
+1. Put on our stream on [Bit Rate's Stage](https://ponyfest.horse/bit-rates-stage) and join us in the #bit-rates-stage to watch the auction
 happening!
 2. To actually bid on an item, we have a separate channel called #charity-auction, where our lovely and helpful
 Neural Net waits for your generous input!

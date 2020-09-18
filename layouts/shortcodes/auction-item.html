@@ -1,0 +1,17 @@
+<div class="vendor-container">
+    {{ range $.Site.Data.auction.items }}
+    <div class="text-box" style="margin-bottom: 20px">
+        <h1 class="donation-title">{{ .name }}</h1>
+        <p class="donator"><a href="{{.link}}">{{ .donator }}</a> ({{.location}})</p>
+        <p><a href="{{.image}}" target="_blank"><img src="{{ .image }}" style="max-height: 250px; max-width: 100%"></a></p>
+        {{ with .desc }}
+            {{ $markdown := . | markdownify }}
+            {{ if not ( strings.Contains $markdown "<p>" ) }}
+                <p>{{ $markdown }}</p>
+            {{ else }}
+                {{ $markdown }}
+            {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+</div>

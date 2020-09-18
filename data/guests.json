@@ -66,5 +66,28 @@
             "YouTube": "https://www.youtube.com/user/DRUMMERSHY",
             "Website": "https://drummershy.com/"
         }
+    }, {
+        "Name": "RiffPonies",
+        "Desc": "The King of Kazoos, the madmen to blame for FUF, the riffers of Ponies; it's gotta be RIFFPONIES! Straight from the armpit of the country known simply as \"New Jersey\" comes the snarkiest comedy duo in the fandom, led by pony panelist extraordinaire Thoth Penswell & acclaimed pony fan-artist Acesential! After laying dormant in their homes & living on scraps of ramen noodles & taylor ham for 4 months, the horses from NJ are back to bring you more fuf than you're able to handle!",
+        "Image": "/images/guests/riffponies.jpg"
+    }, {
+        "Name": "Foal Papers",
+        "Desc": "Foaly has been a pony fan since early 2011. He hosts things, drinks tea, and is clinically incapable of describing himself well in 600 or fewer characters. You can find him on Twitter as @foalpapers. Be excellent to each other.",
+        "Image": "/images/guests/foalpapers.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/foalpapers"
+        }
+    }, {
+        "Name": "Igor / My Little Ties",
+        "Desc": "A fan of the show since 2011, Igor's main goal has long been to create unique and fashionable formal-wear accessories, though that's mostly turned into laser engraving ponies on all sorts of things, with the addition of two laser engraving machines, wood, silver, titanium, stainless steel and more, all will be emblazoned with diminutive equines, including a detailed, miniature, sterling silver pendant of the Elements of Harmony book. This hobby may be slightly all consuming, but it also sure is fun.\n\nHe has also created a VR demo of Ponyville, because it needed to exist.",
+        "Image": "/images/guests/mylittleties.png"
+    }, {
+        "Name": "Fiaura the Tank Girl",
+        "Desc": "Fiaura The Tank Girl does scientific analysis of fandoms from 40K to My Little Pony. No fandom is beyond the look of the eye of science! In addition this, she is the writer and author of Fallout: Equestria Dead Tree and the Actress for Queen Quake of Babscon. Come see the insanity she has brought together or what science can wrought for Merchandise pieces from Glassware and Tins to Metallic Prints and Bottlecaps!",
+        "Image": "/images/guests/fiaura.png"
+    }, {
+        "Name": "Pirate Dash",
+        "Desc": "T.J. Carson, a.k.a. Pirate Dash, has done it all in the My Little Pony fandom. He's best known as the moderator of the Tumblr ask blog with the same name, along with a couple others based off original characters. PD has also been a community guest as a wide range of conventions; including TrotCon and Ponyville Ciderfest, where he's known to drop an annoyingly high amount of puns at everyone. And he's also been a staff member for many MLP conventions in a public relations role, drawing on his experience as a former news reporter. Come check him out on numerous panels at PonyFest!",
+        "Image": "/images/guests/piratedash.png"
     }]
 }

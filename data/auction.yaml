@@ -115,7 +115,22 @@ items:
     location: USA
     image: /images/charity/rarity-pin.jpg
     desc: An exclusive pin of Punk Rarity scream singing. She is one of only 100 made and sold through Ruef's pin club. She features dyed purple metal and a clear epoxy coating.
-
+  - name: Customized Pony Figure
+    donator: Compy
+    site: https://twitter.com/Compylumpy
+    location: USA
+    image: /images/charity/compy-commission.png
+    desc: A customized pony figure! Pretty much says it all there, but I'll be fully customizing a pony figure, that doesn't have to be the one in the photo, into whatever pony the buyer wants!
+  - name: Leather PonyFest 2.0 Engraved Flask
+    site: https://shop.sciggles.com
+    location: USA
+    image: /images/charity/leather-flask.jpg
+    desc: A laser-engraved leather flask featuring Bit Rate and Neural Net!
+  - name: Steel PonyFest 2.0 Engraved Flask
+    site: https://shop.sciggles.com
+    location: USA
+    image: /images/charity/steel-flask.jpg
+    desc: A laser-engraved stainless steel flask featuring Bit Rate and Neural Net!
   - name: Partial Set of BronyCon "stamps" (7/8)
     donator: Gajinka
     site: https://twitter.com/IshidaGajinka

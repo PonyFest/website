@@ -122,11 +122,13 @@ items:
     image: /images/charity/compy-commission.png
     desc: A customized pony figure! Pretty much says it all there, but I'll be fully customizing a pony figure, that doesn't have to be the one in the photo, into whatever pony the buyer wants!
   - name: Leather PonyFest 2.0 Engraved Flask
+    donator: Sciggles
     site: https://shop.sciggles.com
     location: USA
     image: /images/charity/leather-flask.jpg
     desc: A laser-engraved leather flask featuring Bit Rate and Neural Net!
   - name: Steel PonyFest 2.0 Engraved Flask
+    donator: Sciggles
     site: https://shop.sciggles.com
     location: USA
     image: /images/charity/steel-flask.jpg

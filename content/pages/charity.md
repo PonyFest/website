@@ -19,10 +19,6 @@ impacted in transit.
 
 </div>
 
-# Items
-
-{{<auction-item>}}
-
 <div class="text-box" style="text-align: left">
 
 ## Bidding Instructions
@@ -47,3 +43,7 @@ screenshot of your successful donation and DM it to @Perrydotto#7397 on Discord.
 the rest will be handled between you and them.
 
 </div>
+
+# Items
+
+{{<auction-item>}}

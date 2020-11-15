@@ -13,6 +13,7 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Coordination
+- **Lycan** - Event Lead
 - **Katharine Berry** - Princess
 
 </div>
@@ -20,10 +21,10 @@ url: /staff
 
 <div style="break-inside: avoid;">
 
-## Events
-- **Simul** - Lead
-- **Lycan** - Music Lead
-- **Foal Papers** - Staff
+## Music
+- **Luck Rock** - Staff
+- **ExplodingPonyToast** - Staff
+- **Blackened Blue** - Staff
 
 </div>
 
@@ -31,39 +32,16 @@ url: /staff
 
 ## A/V
 - **Larscis** - Lead
-- **Alex (Coach)** - Staff
-- **Reiuiji** - Staff
-- **winter501st** - Staff
-- **winchester572** - Staff
 
 </div>
 
-
-<div style="break-inside: avoid;">
-
-## Gaming
-- **Leslie** - Lead
-
-</div>
-
-
-<div style="break-inside: avoid;">
-
-## Tabletop
-- **Eliwood Sain** - Lead
-
-</div>
 
 
 <div style="break-inside: avoid;">
 
 ## Design
 - **TechyCutie** - Lead
-- **Dawnfire** - Bit Rate's Mom
-- **Amodwithoutamark** - Staff
-- **Leh** - Staff
-- **Twisted Sketch** - Staff
-- **Viwrastupr** - Staff
+- **Cassettepunk** - Staff
 
 </div>
 
@@ -76,34 +54,13 @@ url: /staff
 </div>
 
 
-<div style="break-inside: avoid;">
-
-## Vendors
-- **Ruef** - Lead
-- **B.B.** - Staff
-
-</div>
-
-<div style="break-inside: avoid;">
-
-## VIP Relations
-- **Sirris** - Lead
-
-</div>
-
 
 <div style="break-inside: avoid;">
 
 ## Discord
 - **Fizzbuzz** - Lead
+- **Gajinka** - Assistant Lead
 - **Midnight Aegis** - Moderator
-- **Flame** - Watcher
-- **Lamedonyx** - Watcher
-- **Ledwie Ledws** - Watcher
-- **Meganought** - Watcher
-- **Omegacreeper** - Watcher
-- **PieforLife** - Watcher
-- **Scarlet Heart** - Watcher
 
 </div>
 
@@ -112,7 +69,6 @@ url: /staff
 
 ## Changelings
 - **Jamis** - Staff
-- **Dexanth** - Staff
 
 </div>
 
@@ -123,12 +79,6 @@ url: /staff
 
 </div>
 
-<div style="break-inside: avoid;">
-
-## Writing
-- **Xepher** - Lead
-
-</div>
 
 </div>
 </div>

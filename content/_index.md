@@ -31,15 +31,14 @@ p {
 }
 </style>
 <div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
-	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/mascot.png"></div>
+	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/music_mascot.png"></div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 3em; margin: 0">PonyFest Online! 4.0</h1>
-			<p style="font-size: 2.5em; margin: 0">Saturday, September 19th, 2020</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 2020 Wrap-Up Concert</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, December 12th, 2020</p>
 		</div>
 		<div>
-			<p>We're back! Get together in cyberspace for PonyFest Online, a Discord-based online pony convention!</p>
-			<p>Featuring panels, vendors, gaming, ponies, and hanging out.</p>
+			<p>Join us to wrap up this <em>unprecedented</em> year with our dedicated concert event!</p>
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>

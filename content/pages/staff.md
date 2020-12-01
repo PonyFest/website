@@ -14,7 +14,7 @@ url: /staff
 
 ## Coordination
 - **Lycan** - Event Lead
-- **Katharine Berry** - Princess
+- **Katharine Berry** - Figurehead Princess
 
 </div>
 
@@ -40,8 +40,8 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Design
-- **TechyCutie** - Lead
-- **Cassettepunk** - Staff
+- **Techycutie** - Lead
+- **cassettepunk** - Staff
 
 </div>
 

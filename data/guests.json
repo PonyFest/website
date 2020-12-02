@@ -1,49 +1,23 @@
 {
     "guests": [{
-        "Name": "Devyn Dalton",
-        "Desc": "Devyn Dalton is a Canadian born actor, dancer, and stunt performer. Strongly recognized for her motion capture performance roles and voice work.She was scouted by an agent in her home town of Edmonton, who recruited her to the film industry in Vancouver, BC. Devyn continued her training in dance and theatre, performing throughout Canada and Worldwide. \n\nSome of her accomplishments include landing her first feature film \"Rise of the Planet of the Apes,\" playing two lead live-action roles. This was the start of Devyn's career as an established motion capture artist, having a chance to work alongside some of the best in the biz, Andy Serkis and Terry Notary. Ms.Dalton was brought back on board for the franchises third film, \"War of the Planet of the Apes,\" playing the role Cornelius. \n\nNickelodeon first snatched Devyn up to play the lead character of Christmas Carol in \"A Fairly Odd Christmas\" along side stars Drake Bell and Daniella Monet. Later they cast her as Gretel of the famous Hansel and Gretel duo, in the adventure film, \"Escape from Mr. Lemoncello's Library.\" Her latest and most rewarding accomplishment to date is having worked alongside legend Steven Spielberg in the feature \"The BFG.\" \n\nDevyn also expresses her talents as a professional stunt performer. Some of her many credits have been, Percy Jackson: The Sea of Monster, Godzilla, Once Upon A time, Arrow,Supernatural, A Series of Unfortunate Events, X-files, Wonder and Legion. Devyn more recently joined the star studded cast of three big time features, Marvels X-men: Dark Phoenix, Skyscraper and The Predator. \n\nDevyn's voiceover journey started when she joined \"Barbies Rock N' Royal\" movie, voicing the spunky rocker girl, Zia. You can also hear Devyn in the hit anime series \"Beyblade Burst\" voicing the role of Shasa. Joining the cast of \"My Little Pony: Friendship Is Magic\", as the loveable Ocellus, deems to be one of Devyn's favourite and most rewarding roles.",
-        "Image": "/images/guests/devyn-dalton.jpg",
-        "Type": "VIP",
-        "Autographs": "https://store.ponyfest.horse/category/devyn-dalton-ocellus",
+        "Name": "4EverfreeBrony",
+        "Desc": "Hey, I'm Garrison, or 4EverfreeBrony. Been a musician in the fandom for about 7 years now. Love ponies, and I love music. I'd like to thank the guys at PonyFest for putting on this awesome event, and for inviting me to perform. Let's have a great show!",
+        "Image":"/images/guests/4everfreebrony.jpg",
         "Social": {
-            "Twitter": "https://twitter.com/devyndalton",
-            "Instagram": "https://twitter.com/devyn.dalton"
+            "YouTube": "https://www.youtube.com/user/4everfreebrony",
+            "Twitter": "https://twitter.com/4everfreebrony",
+            "Bandcamp": "https://4everfreebrony.bandcamp.com/music"
         }
     }, {
-        "Name": "Giles Panton",
-        "Desc": "Raised in Vancouver, BC, Canada, Giles is an award winning actor who’s worked extensively in the film/television and voice fields.\n\nHis first job was playing the groom in a well known wedding commercial which ran for almost a decade. Since then his career has taken him all over North America and given him the opportunity to work on feature films, TV series, video games, and animation projects. He’s played leads, supporting leads, and guest stars on shows like Nexo Knights, My Little Pony, Batwoman, Voltron Force, Flash Gordon, and Far Cry 5 and he’s even had the privilege of voicing iconic characters such as Tarzan on Netflix’s Tarzan and Jane. Other career highlights include getting his first action figure for an animated series (Max Steel), awhole line of toys for his lead role on a Lego Series (Nexo Knights), as well as getting to star in a 4D movie for the same character at a major Lego theme park.\n\nThe past few years have brought a lot of momentum for Giles, landing him major roles on award-winning series like Amazon Prime’s ‘The Man in The High Castle’, giving him the opportunity to voice super villains such as Norman Osborn and Carnage for Marvel (recently landing him another best actor voice nomination), and having the huge honor of voicing Tony Stark for a new Marvel series. He’s currently working on several voice projects for companies such as Lego and Marvel and is very excited to share them in the near future.",
-        "Image": "/images/guests/giles-panton.jpg",
-        "Type": "VIP",
-        "Autographs": "https://store.ponyfest.horse/category/giles-panton-flash-magnus",
+        "Name": "General Mumble",
+        "Desc": "",
+        "Image": "/images/guests/generalmumble.png",
         "Social": {
-            "Twitter": "https://twitter.com/G_Panton",
-            "Instagram": "https://instagram.com/gilespanton"
+            "Bandcamp": "http://mumbleetc.com",
+            "Twitter": "https://twitter.com/generalmumble",
+            "YouTube": "https://youtube.com/mumbleetc"
         }
-    }, {
-        "Name": "Ian Hanlin",
-        "Desc": "Originally from the salty East Coast of Canada, Ian Hanlin now calls Vancouver home. After making the jump from coast to coast, Ian quickly found himself involved in the incredible world of voice over and has played a growing number of strange, silly and strangely silly characters in many cartoons and video games.\n\nIan can be heard as Owen Grady in Lego Jurassic World: The Secret Exhibit, Fire-Man/Air-Man/Man-Man in Mega Man: Fully Charged, Poseidon/Theseus/Chimera in Minecraft Miniseries: Mystery of The Greek Isles, Sunburst in My Little Pony: Friendship is Magic, Lance Richmond in Lego Nexo Knights, Trad Vasquez in Beyblade Burst, Alpha in Tobot Athlon, Mr. Magoo in Mr. Magoo, Dad Pocket in Polly Pocket, Durand in Summoners War: Friends and Rivals, Paimon in Line Rangers, Acronix in Ninjago, Larry Parker in Far Cry 5, Ralph in Fruit Ninja and many more.\n\nWhen not behind the mic, Ian can be found wondering where that spider in the shower went...",
-        "Image": "/images/guests/ian-hanlin.jpg",
-        "Type": "VIP",
-        "Autographs": "https://store.ponyfest.horse/category/ian-hanlin-sunburst",
-        "Social": {
-            "Twitter": "https://twitter.com/IanStuartHanlin"
-        }
-    }, {
-        "Name": "\"Big\" Jim Miller",
-        "Desc": "Big Jim is the former Supervising Series Director of MLP:FiM. He’s now working on the 2021 Johnny Test reboot. He’s staying at home as much as possible during this global crisis, and so should you.",
-        "Image": "/images/guests/jim-miller.jpg",
-        "Type": "VIP",
-        "Social": {
-            "Twitter": "https://twitter.com/TheBiggestJim"
-        }
-    }, {
-        "Name": "Faulty",
-        "Desc": "The Self proclaimed King of Progressive House in the current day Pony Fandom will be bringing you nothing but the best music of the Pony EDM scene!",
-        "Image": "/images/guests/faulty.png",
-        "Social": {
-            "YouTube": "https://www.youtube.com/faultyfelix"
-        }
-    }, {
+    },{
         "Name": "BlackIceMusic",
         "Desc": "Producing music since 2014, BlackIceMusic was originally inspired by Martin Garrix on the commercial side and Woodentoaster/Glaze on the fandom side and more recently created a similar sound to his current idol Dirty Palm.\nWith the goal to create pony-themed Bounce and Future House and being mostly known for tracks like \"\"Sweet and Sour\"\", \"\"Updraft\"\" and \"\"The Fuff\"\", he has come quite a long way.\n\nHe recently picked up DJing as a hobby and had his first live performances at two small conventions, followed by several online events like BABSConline, Burning Mare and Trotcon. With a set mostly featuring Melbourne/Future Bounce, as well as Future House, BlackIceMusic is guaranteed to bring energy to your speakers and headphones.",
         "Image": "/images/guests/blackicemusic.png",
@@ -58,6 +32,14 @@
             "Twitter": "https://twitter.com/nevermournmusic"
         }
     }, {
+        "Name": "The One Galen",
+        "Desc": "The One Galen has been a musician in the My Little Pony fandom for many years. As a member of the band The Wonderbolts!, he performed at over twenty-five conventions and became a mainstay of the rock and roll concert scene in the fandom.",
+        "Image": "/images/guests/theonegalen.png",
+        "Social": {
+            "Twitter": "http://twitter.com/theonegalen",
+            "Twitch": "http://twitch.tv/theonegalen"
+        }
+    },{
         "Name": "Drummershy",
         "Desc": "Drummershy is a drummer/musician based out of Baltimore Maryland. He is a Certified Music and Audio Production Engineer. He is also the current drummer in the Baltimore band, Flying Jacob.\n\nHe has collaborated and Performed with many internet musicians such as Cyril The Wolf, 4Everfreebrony, Tarby, L Train, Luckrock, Vylet pony, Princewhateverer, Geekbrony, Djohn Mema, Stealing shad3z, MelodyBrony and many more.\n\nHe continues to drum for fandom's and internet music collaborations.",
         "Image": "/images/guests/drummershy.jpg",
@@ -67,27 +49,58 @@
             "Website": "https://drummershy.com/"
         }
     }, {
-        "Name": "RiffPonies",
-        "Desc": "The King of Kazoos, the madmen to blame for FUF, the riffers of Ponies; it's gotta be RIFFPONIES! Straight from the armpit of the country known simply as \"New Jersey\" comes the snarkiest comedy duo in the fandom, led by pony panelist extraordinaire Thoth Penswell & acclaimed pony fan-artist Acesential! After laying dormant in their homes & living on scraps of ramen noodles & taylor ham for 4 months, the horses from NJ are back to bring you more fuf than you're able to handle!",
-        "Image": "/images/guests/riffponies.jpg"
-    }, {
-        "Name": "Foal Papers",
-        "Desc": "Foaly has been a pony fan since early 2011. He hosts things, drinks tea, and is clinically incapable of describing himself well in 600 or fewer characters. You can find him on Twitter as @foalpapers. Be excellent to each other.",
-        "Image": "/images/guests/foalpapers.jpg",
+        "Name": "Bolt the Super-Pony",
+        "Desc": "When not contemplating the meaning of life, Bolt DJs on PonyvilleFM where his show Music is Timeless (Fridays @ 9 PM PDT), has been introducing Pony fans to great new music and old classics. Bolt even ran a request show on the Pony MMO Legends of Equestria! Outside of the airwaves Bolt is active in the fandom as well, continuing to volunteer and perform at conventions and parties across the west coast. Bolt loves the show and everything it stands for as well as the My Little Pony community. In his spare time, he can be found enjoying Pony content (and memes) on EqD, Derpibooru, and Twitter, as well as spending time with his friends.",
+        "Image": "/images/guests/boltthesuperpony.png",
         "Social": {
-            "Twitter": "https://twitter.com/foalpapers"
+            "Twitter": "https://twitter.com/SuperPonyBolt",
+            "YouTube": "https://www.youtube.com/c/BolttheSuperPony/videos",
+            "Mixcloud": "https://www.mixcloud.com/BoltTheSuperPony/",
+            "SoundCloud": "https://soundcloud.com/user-321595051"
         }
     }, {
-        "Name": "Igor / My Little Ties",
-        "Desc": "A fan of the show since 2011, Igor's main goal has long been to create unique and fashionable formal-wear accessories, though that's mostly turned into laser engraving ponies on all sorts of things, with the addition of two laser engraving machines, wood, silver, titanium, stainless steel and more, all will be emblazoned with diminutive equines, including a detailed, miniature, sterling silver pendant of the Elements of Harmony book. This hobby may be slightly all consuming, but it also sure is fun.\n\nHe has also created a VR demo of Ponyville, because it needed to exist.",
-        "Image": "/images/guests/mylittleties.png"
+        "Name": "Rod Steven",
+        "Desc": "Ever inspired by the OG Eurobeat Brony, Rod Steven I have recently taken it upon myself to start developing my own style of Eurobeat, bringing the energy of eurobeat from Italy to Japan now in the brony fandom.",
+        "Image": "/images/guests/rodsteven.jpg",
+        "Social": {
+            "YouTube": "https://www.youtube.com/c/RodSteven",
+            "Twitter": "https://twitter.com/Rod_St3v3n"
+        }
     }, {
-        "Name": "Fiaura the Tank Girl",
-        "Desc": "Fiaura The Tank Girl does scientific analysis of fandoms from 40K to My Little Pony. No fandom is beyond the look of the eye of science! In addition this, she is the writer and author of Fallout: Equestria Dead Tree and the Actress for Queen Quake of Babscon. Come see the insanity she has brought together or what science can wrought for Merchandise pieces from Glassware and Tins to Metallic Prints and Bottlecaps!",
-        "Image": "/images/guests/fiaura.png"
+        "Name": "Whirly Tail",
+        "Desc": "Whirly Tail is a smol hors with a big heart, and he loves to share the music he loves with others! Featured on prominent compilation albums from Ponies At Dawn to Equinity and A State Of Sugar his upbeat hardcore sound is versatile enough to provide happy vibes and powerful drops in equal measure. When he takes the stage, expect him to drive up the tempo with plenty of killer hardcore tunes!",
+        "Image": "/images/guests/whirlytail.png",
+        "Social": {
+            "YouTube": "https://youtube.com/c/WhirlyTail",
+            "Twitter": "https://twitter.com/WhirlyTail",
+            "Bandcamp": "https://whirlytail.bandcamp.com",
+            "SoundCloud": "https://soundcloud.com/whirly-tail"
+        }
     }, {
-        "Name": "Pirate Dash",
-        "Desc": "T.J. Carson, a.k.a. Pirate Dash, has done it all in the My Little Pony fandom. He's best known as the moderator of the Tumblr ask blog with the same name, along with a couple others based off original characters. PD has also been a community guest as a wide range of conventions; including TrotCon and Ponyville Ciderfest, where he's known to drop an annoyingly high amount of puns at everyone. And he's also been a staff member for many MLP conventions in a public relations role, drawing on his experience as a former news reporter. Come check him out on numerous panels at PonyFest!",
-        "Image": "/images/guests/piratedash.png"
+        "Name": "Khaliber",
+        "Desc": "You may not have heard of Khaliber before, but in PonyFest 2020, you most certainly will. After nearly 8 years of making music under many aliases, and with his new Ponies At Dawn debut single, \"Beyond\", the only way for this EDM rookie is UP. This is only the beginning!",
+        "Image": "/images/guests/khaliber.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/khaliberr",
+            "SoundCloud": "https://soundcloud.com/khaliber",
+            "YouTube": "https://www.youtube.com/c/KHALIBER",
+            "Facebook": "https://www.facebook.com/djkhaliber/",
+            "Instagram": "https://www.instagram.com/khalibermusic"
+        }
+    },{
+        "Name": "Prowox",
+        "Desc": "Just some random guy from Finland with a huge love for pony music that decided to pick up DJing during the pandemic.",
+        "Image": "/images/guests/prowox.png",
+        "Social": {
+            "Twitter": "https://twitter.com/prowox010",
+            "YouTube": "https://www.youtube.com/user/prowox010/"
+        }
+    }, {
+        "Name": "DeafBronyASL",
+        "Desc": "My name is Catrina I’m 21 years old and I’m Deaf I can speak with my hearing aid also love doing ASL along with my little pony song also love to make a new friends.",
+        "Image": "/images/guests/deafbronyasl.jpg",
+        "Social": {
+            "YouTube": "https://youtube.com/channel/UCxMJ0EULKahJ3B2of3O_0JA"
+        }
     }]
 }

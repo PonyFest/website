@@ -1,5 +1,23 @@
 {
     "guests": [{
+        "Name": "Faulty",
+        "Desc": "The Self proclaimed King of Progressive House in the current day Pony Fandom will be bringing you nothing but the best music of the Pony EDM scene! Where will he perform this time? Nopony knows!",
+        "Image": "/images/guests/faulty.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/FaultyMusic"
+        }
+    }, {
+        "Name": "PrinceWhateverer",
+        "Desc": "PrinceWhateverer is a long time musician in the fandom, he started writing horse-themed rock and metal in late 2011 and hasn't stopped yet!",
+        "Image": "/images/guests/princewhateverer.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/user/princewhateverer",
+            "Twitter": "https://twitter.com/PWhateverer",
+            "Spotify": "https://open.spotify.com/artist/3EeofeT3cdo0hY4lx23k7u",
+            "Twitch": "https://www.twitch.tv/prince_whateverer/",
+            "Bandcamp": "https://princewhateverer.bandcamp.com/"
+        }
+    },{
         "Name": "4EverfreeBrony",
         "Desc": "Hey, I'm Garrison, or 4EverfreeBrony. Been a musician in the fandom for about 7 years now. Love ponies, and I love music. I'd like to thank the guys at PonyFest for putting on this awesome event, and for inviting me to perform. Let's have a great show!",
         "Image":"/images/guests/4everfreebrony.jpg",
@@ -17,9 +35,19 @@
             "Twitter": "https://twitter.com/generalmumble",
             "YouTube": "https://youtube.com/mumbleetc"
         }
+    }, {
+        "Name": "Brilliant Venture",
+        "Desc": "Brilliant Venture's been with the Brony fandom since 2013. As a DJ of 17 years, and a producer of 9, little did he know his most treasured shows/gigs would come from his escapades at pony conventions! His love of the fandom is guaranteed to shine during his liveshows, as he takes you on a magical journey into the world of Equestrian dance music! Get ready for a 100% pony themed DJ set, with new tracks, fandom remixes, and unreleased material from his new EP \"Elements!\" You WON'T want to miss this! \n\n(Caution! Lighting effects will be in use!)",
+        "Image": "/images/guests/brilliantventure.png",
+        "Social": {
+            "YouTube": "https://youtube.com/BrilliantVenture",
+            "Twitter": "https://twitter.com/brillventure",
+            "Pony.FM": "https://pony.fm/brilliantventure",
+            "Bandcamp": "https://strictlyhorserecordings.bandcamp.com/"
+        }
     },{
         "Name": "BlackIceMusic",
-        "Desc": "Producing music since 2014, BlackIceMusic was originally inspired by Martin Garrix on the commercial side and Woodentoaster/Glaze on the fandom side and more recently created a similar sound to his current idol Dirty Palm.\nWith the goal to create pony-themed Bounce and Future House and being mostly known for tracks like \"\"Sweet and Sour\"\", \"\"Updraft\"\" and \"\"The Fuff\"\", he has come quite a long way.\n\nHe recently picked up DJing as a hobby and had his first live performances at two small conventions, followed by several online events like BABSConline, Burning Mare and Trotcon. With a set mostly featuring Melbourne/Future Bounce, as well as Future House, BlackIceMusic is guaranteed to bring energy to your speakers and headphones.",
+        "Desc": "Producing music since 2014, BlackIceMusic was originally inspired by Martin Garrix on the commercial side and Woodentoaster/Glaze on the fandom side and more recently created a similar sound to his current idol Dirty Palm.\nWith the goal to create pony-themed Bounce and Future House and being mostly known for tracks like \"Sweet and Sour\", \"Updraft\" and \"The Fuff\", he has come quite a long way.\n\nHe recently picked up DJing as a hobby and had his first live performances at two small conventions, followed by several online events like BABSConline, Burning Mare and Trotcon. With a set mostly featuring Melbourne/Future Bounce, as well as Future House, BlackIceMusic is guaranteed to bring energy to your speakers and headphones.",
         "Image": "/images/guests/blackicemusic.png",
         "Social": {
             "Social Media": "https://compiled.social/blackicemusic"
@@ -32,8 +60,8 @@
             "Twitter": "https://twitter.com/nevermournmusic"
         }
     }, {
-        "Name": "The One Galen",
-        "Desc": "The One Galen has been a musician in the My Little Pony fandom for many years. As a member of the band The Wonderbolts!, he performed at over twenty-five conventions and became a mainstay of the rock and roll concert scene in the fandom.",
+        "Name": "theoneGalen",
+        "Desc": "theoneGalen has been a musician in the My Little Pony fandom for many years. As a member of the band The Wonderbolts!, he performed at over twenty-five conventions and became a mainstay of the rock and roll concert scene in the fandom.",
         "Image": "/images/guests/theonegalen.png",
         "Social": {
             "Twitter": "http://twitter.com/theonegalen",
@@ -47,6 +75,15 @@
             "Twitter": "https://twitter.com/_Drummershy_",
             "YouTube": "https://www.youtube.com/user/DRUMMERSHY",
             "Website": "https://drummershy.com/"
+        }
+    },{
+        "Name": "Andy Feelin",
+        "Desc": "I became a brony musician in 2011 and was one of the founding member of Przewalski's Ponies which were one of the first and longest surviving brony rock bands. I am part of ILLUMNATION which is a dark-folk project with Velvet R. Wings. I play many kinds of music, mostly some kind of crossover between synthpop and gothic rock but when I perform solo I play acoustic guitar and sing.",
+        "Image": "/images/guests/andyfeelin.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/c/AndyFeelin/",
+            "Bandcamp": "https://andyfeelin.bandcamp.com/",
+            "VK": "https://vk.com/andyfeelinclub"
         }
     }, {
         "Name": "Bolt the Super-Pony",
@@ -65,6 +102,24 @@
         "Social": {
             "YouTube": "https://www.youtube.com/c/RodSteven",
             "Twitter": "https://twitter.com/Rod_St3v3n"
+        }
+    }, {
+        "Name": "Stinkanimal and the Bad Smells",
+        "Desc": "Stink Animal and the Bad Smells is a Queercore Pop Punk band based in Olympia, Washington.",
+        "Image": "/images/guests/stinkanimal.png",
+        "Social": {
+            "Bandcamp": "http://stinkanimalandthebadsmells.bandcamp.com",
+            "Twitter": "http://twitter.com/stinkanimal"
+        }
+    },{
+        "Name": "FilledSilhoutte",
+        "Desc": "FilledSilhoutte is a music producer from Salt Lake City, Utah who started making music in 2016, and has been dedicated to fill the void of French House and Future Funk in the brony fandom. He will be releasing his full-length album “Rarity’s Fashion Playlist” this December.",
+        "Image": "/images/guests/filledsilhoutte.jpg",
+        "Social": {
+            "YouTube": "https://www.youtube.com/c/FilledSilhoutte",
+            "Bandcamp": "https://filledsilhoutte.bandcamp.com/",
+            "SoundCloud": "https://soundcloud.com/filledsilhoutte",
+            "Twitter": "https://twitter.com/FilledSilhoutte"
         }
     }, {
         "Name": "Whirly Tail",
@@ -94,6 +149,15 @@
         "Social": {
             "Twitter": "https://twitter.com/prowox010",
             "YouTube": "https://www.youtube.com/user/prowox010/"
+        }
+    },{
+        "Name": "Whirlwind",
+        "Desc": "",
+        "Image": "/images/guests/whirlwind.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Whirlwind_DRUMS",
+            "YouTube": "https://www.youtube.com/channel/UCxH3y7TLkw25KQHkYk_6vMg",
+            "Bandcamp": "https://whirlwindstudios.bandcamp.com/"
         }
     }, {
         "Name": "DeafBronyASL",

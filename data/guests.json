@@ -27,6 +27,24 @@
             "Bandcamp": "https://4everfreebrony.bandcamp.com/music"
         }
     }, {
+        "Name": "John Kenza",
+        "Desc": "John Kenza is music producer and DJ specializing in melodic and electronic music. He is no stranger to the Brony fandom and has been creating pony content since 2013. Get ready for euphoric melodies, powerful basslines, and even some new unreleased music!",
+        "Image": "/images/guests/johnkenza.png",
+        "Social": {
+            "Twitter": "https://twitter.com/JohnKenza",
+            "YouTube": "https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww",
+            "SoundCloud": "https://soundcloud.com/kadenza-hitti"
+        }
+    }, {
+        "Name": "EQLIPSED by Elevative",
+        "Desc": "After preforming a visually packed set for Ponyfest3, Elevative has decided to take venture into an experimental concept of creating something more than just a DJ set. Tune in Saturday night to take part in a cinematic music experience traversing the world of hardstyle in a post apocalyptic lunar takeover. You don't want to miss this one.",
+        "Image": "/images/guests/elevative.png",
+        "Social": {
+            "Twitter": "https://twitter.com/DJElevative",
+            "Website": "http://elevativepro.com/",
+            "YouTube": "https://www.youtube.com/c/Elevative"
+        }
+    }, {
         "Name": "General Mumble",
         "Desc": "",
         "Image": "/images/guests/generalmumble.png",
@@ -44,6 +62,15 @@
             "Twitter": "https://twitter.com/brillventure",
             "Pony.FM": "https://pony.fm/brilliantventure",
             "Bandcamp": "https://strictlyhorserecordings.bandcamp.com/"
+        }
+    }, {
+        "Name": "Crusader!",
+        "Desc": "Making music for the fandom since 2013, Crusader! has performed at pony cons all around the United States, and even on the German countryside on one occasion. While animation in general has always been an inspiration, MLP has been one of the biggest inspirations for his work. His following started to take off in 2016 when he released “Power Ponies GO!”, along with a typography with it made by Izeer. Since then, he’s released many more songs in many different styles from punk, to rock, to pop. \n\nCrusader! Released a pop EP called “Super Duper Dance party” which highlights his influence from 80’s music. At the moment, he is working on a new EP that will be his first serious project where he branches off from pony related work. However, the pony will never stop. As president of the Rainbow Dash fan club, he has declared Dashie to be best pony.",
+        "Image": "/images/guests/crusader.png",
+        "Social": {
+            "Twitter": "https://twitter.com/crusaderpony",
+            "YouTube": "https://youtube.com/crusaderpony",
+            "Bandcamp": "https://crusaderpony.bandcamp.com"
         }
     },{
         "Name": "BlackIceMusic",
@@ -66,6 +93,21 @@
         "Social": {
             "Twitter": "http://twitter.com/theonegalen",
             "Twitch": "http://twitch.tv/theonegalen"
+        }
+    },{
+        "Name": "MelodyBrony",
+        "Desc": "MelodyBrony is a multi-instrumentalist musician based in southeast Michigan. He specializes in rock and metal but also does softer genres as well. With a track record of many performances, he has a sound for all audiences. Original album \"Origins\" available now",
+        "Image": "/images/guests/melodybrony.png",
+        "Social": {
+            "Social Media": "https://linktr.ee/MelodyBronyMusic"
+        }
+    }, {
+        "Name": "Sound Bandit",
+        "Desc": "Sound Bandit, previously \"Popperpony\", has been making songs in the fandom since 2014. After being a horse musician in the fandom's prime, yet never breaking through, Sound Bandit locked themselves away for 6 years to hone in on their craft. They released a series of hyperpop songs inspired by their experience in the brony fandom. Sound Bandit has been described as \"100 gecs for ex-bronies\" and has been featured in EQD and Horse Music Herald.",
+        "Image": "/images/guests/soundbandit.png",
+        "Social": {
+            "SoundCloud": "https://soundcloud.com/soundbanditmusic",
+            "YouTube": "https://youtube.com/popperpony"
         }
     },{
         "Name": "Drummershy",
@@ -102,6 +144,15 @@
         "Social": {
             "YouTube": "https://www.youtube.com/c/RodSteven",
             "Twitter": "https://twitter.com/Rod_St3v3n"
+        }
+    }, {
+        "Name": "TheTaZe",
+        "Desc": "My name is Kalie or TheTaZe online as my alias. I am also 22 years old. I have been doing music for 7 years and like to do chill music mostly. I also like to DJ sometimes during special events.",
+        "Image": "/images/guests/thetaze.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/TheTaZeee",
+            "YouTube": "https://www.youtube.com/channel/UCjJlB82tvM3lXOMp_Pk0dNQ",
+            "Bandcamp": "https://thetaze.bandcamp.com/"
         }
     }, {
         "Name": "Stinkanimal and the Bad Smells",
@@ -152,7 +203,7 @@
         }
     },{
         "Name": "Whirlwind",
-        "Desc": "",
+        "Desc": "Whirlwind is a multi talented musician who has played drums with many artists across the fandom live and recording. Whirlwind also has a catalog of unique electronic music in different styles. Ready to drop some sick beats for ponyfest!",
         "Image": "/images/guests/whirlwind.png",
         "Social": {
             "Twitter": "https://twitter.com/Whirlwind_DRUMS",

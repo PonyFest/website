@@ -1,5 +1,12 @@
 {
     "guests": [{
+        "Name": "Eurobeat Brony",
+        "Desc": "Eurobeat Brony is the earliest and longest-lasting pioneer of brony music. From penning the original \"Discord\" from which The Living Tombstone's remix was borne, to several other classics of the scene including \"Luna\", \"Diamond Dogs\", \"Batty\", and several lasting remixes of the show, Eurobeat Brony (or Odyssey, or T. Stebbins, or Ken Blast from the Initial D soundtrack…) knows a thing or two about how to string old classics, new hits, and cutting-edge tracks together into an unforgettable performance.",
+        "Image": "/images/guests/odyssey.png",
+        "Social": {
+            "Social Media": "https://linktr.ee/odysseyeurobeat"
+        }
+    },{
         "Name": "Faulty",
         "Desc": "The Self proclaimed King of Progressive House in the current day Pony Fandom will be bringing you nothing but the best music of the Pony EDM scene! Where will he perform this time? Nopony knows!",
         "Image": "/images/guests/faulty.jpg",
@@ -35,6 +42,16 @@
             "YouTube": "https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww",
             "SoundCloud": "https://soundcloud.com/kadenza-hitti"
         }
+    },{
+        "Name": "Lavender",
+        "Desc": "After performing back to back weekends throughout this past summer, Lavender is back for one more set in 2020! While her online 'tour' ended earlier this year she hasn't stopped making waves, coming out with new releases such as Gilded and her remix of Living in Color. With her debut LP 'Fragile Heart' in it's final stages of preparation, there is no end in sight for this UK based producer, DJ and lover of everything drum and bass.",
+        "Image": "/images/guests/lavender.jpg",
+        "Social": {
+            "Twitter": "https://www.twitter.com/LavAudio",
+            "Twitch": "https://www.twitch.tv/lavenderaudio",
+            "YouTube": "https://www.youtube.com/lavenderaudio",
+            "Bandcamp": "https://lavenderaudio.bandcamp.com"
+        }
     }, {
         "Name": "EQLIPSED by Elevative",
         "Desc": "After preforming a visually packed set for Ponyfest3, Elevative has decided to take venture into an experimental concept of creating something more than just a DJ set. Tune in Saturday night to take part in a cinematic music experience traversing the world of hardstyle in a post apocalyptic lunar takeover. You don't want to miss this one.",
@@ -62,6 +79,25 @@
             "Twitter": "https://twitter.com/brillventure",
             "Pony.FM": "https://pony.fm/brilliantventure",
             "Bandcamp": "https://strictlyhorserecordings.bandcamp.com/"
+        }
+    },{
+        "Name": "TCB",
+        "Desc": "TCB is an electronic music producer from Los Angeles, California bringing a blend of ponies and every EDM genre under the sun to your ears! Expect a full flavor set covering a wide array of the music the fandom has to offer that you can rage, jump, vibe, and cry to",
+        "Image": "/images/guests/tcb.jpg",
+        "Social": {
+            "YouTube": "https://www.youtube.com/TCBpon",
+            "Twitter": "https://twitter.com/TCBpon"
+        }
+    },{
+        "Name": "DoTheDaringDew",
+        "Desc": "DoTheDaringDew is a songwriter from Dallas, Texas and has been a part of this crazy ride since early 2012. He has been to his fair share of pony conventions, performing on both stages and out in the halls. Whether he is doing that or running silly pony panels, Dewie brings an energy and passion to the show and fandom he loves!",
+        "Image": "/images/guests/dothedaringdew.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/user/DoTheDaringDew",
+            "SoundCloud": "https://soundcloud.com/dothedaringdew",
+            "Facebook": "https://www.facebook.com/DoTheDaringDew/",
+            "Twitter": "https://twitter.com/DoTheDaringDew",
+            "Bandcamp": "https://dothedaringdew.bandcamp.com/"
         }
     }, {
         "Name": "Crusader!",
@@ -101,14 +137,6 @@
         "Social": {
             "Social Media": "https://linktr.ee/MelodyBronyMusic"
         }
-    }, {
-        "Name": "Sound Bandit",
-        "Desc": "Sound Bandit, previously \"Popperpony\", has been making songs in the fandom since 2014. After being a horse musician in the fandom's prime, yet never breaking through, Sound Bandit locked themselves away for 6 years to hone in on their craft. They released a series of hyperpop songs inspired by their experience in the brony fandom. Sound Bandit has been described as \"100 gecs for ex-bronies\" and has been featured in EQD and Horse Music Herald.",
-        "Image": "/images/guests/soundbandit.png",
-        "Social": {
-            "SoundCloud": "https://soundcloud.com/soundbanditmusic",
-            "YouTube": "https://youtube.com/popperpony"
-        }
     },{
         "Name": "Drummershy",
         "Desc": "Drummershy is a drummer/musician based out of Baltimore Maryland. He is a Certified Music and Audio Production Engineer. He is also the current drummer in the Baltimore band, Flying Jacob.\n\nHe has collaborated and Performed with many internet musicians such as Cyril The Wolf, 4Everfreebrony, Tarby, L Train, Luckrock, Vylet pony, Princewhateverer, Geekbrony, Djohn Mema, Stealing shad3z, MelodyBrony and many more.\n\nHe continues to drum for fandom's and internet music collaborations.",
@@ -145,6 +173,14 @@
             "YouTube": "https://www.youtube.com/c/RodSteven",
             "Twitter": "https://twitter.com/Rod_St3v3n"
         }
+    },{
+        "Name": "mycutiemarkisagun",
+        "Desc": "One of the fandom's premiere hip-hop producers since 2011! I make funny beats and do trippy concert sets...",
+        "Image": "/images/guests/mcmiag.jpg",
+        "Social": {
+            "Bandcamp": "https://free-zebras-and-black-power.bandcamp.com/",
+            "Twitter": "https://twitter.com/mcmiag"
+        }
     }, {
         "Name": "TheTaZe",
         "Desc": "My name is Kalie or TheTaZe online as my alias. I am also 22 years old. I have been doing music for 7 years and like to do chill music mostly. I also like to DJ sometimes during special events.",
@@ -153,6 +189,12 @@
             "Twitter": "https://twitter.com/TheTaZeee",
             "YouTube": "https://www.youtube.com/channel/UCjJlB82tvM3lXOMp_Pk0dNQ",
             "Bandcamp": "https://thetaze.bandcamp.com/"
+        }
+    }, {
+        "Name": "FlyoverRob",
+        "Desc": "Vylet Pony collaborator and Garnika manager FlyoverRob has been in the Bronysphere since 2013, working behind the scenes with lots of fandom creators, such as longtime collaborator BrainstormAlex as both a musician and VA. Following the cancellation of Trotcon's IRL music event, FlyoverRob's live debut is finally here!!",
+        "Social": {
+            "Spotify": "https://open.spotify.com/artist/2gPy0KDWUvAPRFvi4OgidJ?si=XUSV4xuDTUWrYiiN1cGIxw"
         }
     }, {
         "Name": "Stinkanimal and the Bad Smells",
@@ -173,6 +215,16 @@
             "Twitter": "https://twitter.com/FilledSilhoutte"
         }
     }, {
+        "Name": "BeatSpark",
+        "Desc": "I'm a Dubstep, horse musician that hails from the Upside Down land, most commonly known as Australia, and I've been at this since the beginning of 2018. I've also been at this performing thing since April, bringing classics from the past and bangers from the current age.",
+        "Image": "/images/guests/beatspark.png",
+        "Social": {
+            "Twitter": "https://twitter.com/beatsparkalpha",
+            "Patreon": "https://www.patreon.com/BeatSpark",
+            "YouTube": "https://www.youtube.com/c/BeatSpark/",
+            "SoundCloud": "https://soundcloud.com/humphrery-alpha"
+        }
+    }, {
         "Name": "Whirly Tail",
         "Desc": "Whirly Tail is a smol hors with a big heart, and he loves to share the music he loves with others! Featured on prominent compilation albums from Ponies At Dawn to Equinity and A State Of Sugar his upbeat hardcore sound is versatile enough to provide happy vibes and powerful drops in equal measure. When he takes the stage, expect him to drive up the tempo with plenty of killer hardcore tunes!",
         "Image": "/images/guests/whirlytail.png",
@@ -181,6 +233,14 @@
             "Twitter": "https://twitter.com/WhirlyTail",
             "Bandcamp": "https://whirlytail.bandcamp.com",
             "SoundCloud": "https://soundcloud.com/whirly-tail"
+        }
+    }, {
+        "Name": "Sound Bandit",
+        "Desc": "Sound Bandit, previously \"Popperpony\", has been making songs in the fandom since 2014. After being a horse musician in the fandom's prime, yet never breaking through, Sound Bandit locked themselves away for 6 years to hone in on their craft. They released a series of hyperpop songs inspired by their experience in the brony fandom. Sound Bandit has been described as \"100 gecs for ex-bronies\" and has been featured in EQD and Horse Music Herald.",
+        "Image": "/images/guests/soundbandit.png",
+        "Social": {
+            "SoundCloud": "https://soundcloud.com/soundbanditmusic",
+            "YouTube": "https://youtube.com/popperpony"
         }
     }, {
         "Name": "Khaliber",

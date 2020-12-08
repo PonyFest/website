@@ -2,8 +2,8 @@
 
 
 document.addEventListener('DOMContentLoaded', async function() {
-    const cellBlockHeight = 3; //em
-    const blockTimeUnit = 30; // minutes
+    const cellBlockHeight = 2; //em
+    const blockTimeUnit = 15; // minutes
     const schedRoot = $('.schedule-main');
     if(schedRoot.length == 0) { return; }
 

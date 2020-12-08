@@ -10,7 +10,7 @@ aliases: [/charity]
 
 <div style="text-align: center;">
 
-[![image of shirt charity shirt, front and back](/images/charity/shirt.jpg)](https://www.customink.com/fundraising/ponyfestconcert)
+[![image of shirt charity shirt, front and back](/images/charity/shirt.png)](https://www.customink.com/fundraising/ponyfestconcert)
 
 </div>
 

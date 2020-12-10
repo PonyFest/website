@@ -27,6 +27,10 @@ can make these shirts a reality!
 
 ## Q&A
 
+**Q: Are there only 50 shirts available?**
+
+A: No, there are an infinite number of shirts to be had! 50 is just an initial goal, and one we would very much like to beat!
+
 **Q: Do these shirts ship internationally?**
 
 A: Yes! Printing, processing and shipping is directly handled by CustomInk, and they offer worldwide shipping!

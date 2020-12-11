@@ -8,11 +8,19 @@ aliases: [/charity]
 
 <div class="text-box" style="text-align: left;">
 
-<div style="text-align: center;">
+<div style="text-align: center;" id="shirt-ad">
 
 [![image of shirt charity shirt, front and back](/images/charity/shirt.png)](https://www.customink.com/fundraising/ponyfestconcert)
 
 </div>
+
+<style type="text/css">
+
+#shirt-ad img {
+max-width: 100%;
+}
+
+</style>
 
 For our charity effort, PonyFest presents something a little different this time - A shirt fundraiser! To support our
 cause, simply buy our fabulous concert shirt at our CustomInk fundraiser. All profits go directly to our charity, the

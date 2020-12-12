@@ -31,7 +31,11 @@ However, there is a small catch - To make sure that these shirts get printed, we
 After that, the sky's the limit, and every cent helps people in real need. Bring some hype and spread the word, so we
 can make these shirts a reality!
 
+<span style="font-size: xx-large;">
+
 [Buy the shirts on CustomInk!](https://www.customink.com/fundraising/ponyfestconcert)
+
+</span>
 
 ## Q&A
 

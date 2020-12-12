@@ -62,13 +62,13 @@
             "YouTube": "https://www.youtube.com/c/Elevative"
         }
     }, {
-        "Name": "General Mumble",
-        "Desc": "",
-        "Image": "/images/guests/generalmumble.png",
+        "Name": "Luck Rock",
+        "Desc": "Luck Rock is a pop-punk musician known for high-energy songs as well as dumb memes and occasionally a heartfelt show-tune. In addition to making and performing brony songs, he works as a fandom music promoter and concert manager. Come join in the joy, the tears, and the fully encapsulating performance that will leave you saying “Yeah… it was alright”",
+        "Image": "/images/guests/luckrock.png",
         "Social": {
-            "Bandcamp": "http://mumbleetc.com",
-            "Twitter": "https://twitter.com/generalmumble",
-            "YouTube": "https://youtube.com/mumbleetc"
+            "Twitter": "https://twitter.com/LuckRockMusic",
+            "YouTube": "https://youtube.com/LuckRockMusic",
+            "Bandcamp": "https://luckrock.bandcamp.com"
         }
     }, {
         "Name": "Brilliant Venture",

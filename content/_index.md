@@ -43,7 +43,7 @@ p {
 		<!-- <div class="discord-box"> -->
 		<div>
             <p style="font-weight: bold;">Pick up your badge here!</p>
-			<p><a href="https://discord.gg/ponyfest" class="discord" style="height: 100px; width: 300px;"></a><br>
+			<p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
 			<span id="onlineSpan" style="font-weight: normal;"></span></p>
 		</div>
 	</div>

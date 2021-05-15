@@ -40,7 +40,7 @@
         if (Date.now() - lastUpdate < 300000) {
             return panels;
         }
-        const response = await fetch("/schedule.json");
+        const response = await fetch("https://schedule-api.ponyfest.horse/schedule");
         const roomJson = await response.json();
         const rooms = roomJson.rooms;
         const newPanels = {}

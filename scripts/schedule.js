@@ -2,8 +2,8 @@
 
 
 document.addEventListener('DOMContentLoaded', async function() {
-    const cellBlockHeight = 2; //em
-    const blockTimeUnit = 15; // minutes
+    const cellBlockHeight = 3; //em
+    const blockTimeUnit = 60; // minutes
     const schedRoot = $('.schedule-main');
     if(schedRoot.length == 0) { return; }
 
@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             }
         }
 
-        grid.append(col.clone());
+        // grid.append(col.clone());
 
         for(const pop of popDivs) {
             schedRoot.append(pop);

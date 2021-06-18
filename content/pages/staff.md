@@ -14,7 +14,6 @@ url: /staff
 
 ## Coordination
 - **Lycan** - Event Lead
-- **Katharine Berry** - Figurehead Princess
 
 </div>
 
@@ -40,8 +39,7 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Design
-- **Techycutie** - Lead
-- **cassettepunk** - Staff
+- **HauntedTube** - Staff
 
 </div>
 
@@ -69,6 +67,7 @@ url: /staff
 
 ## Changelings
 - **Jamis** - Staff
+- **Katharine Berry** - Staff
 
 </div>
 

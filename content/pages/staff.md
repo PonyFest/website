@@ -39,7 +39,7 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Design
-- **HauntedTube** - Staff
+- **HauntedTuba** - Staff
 
 </div>
 

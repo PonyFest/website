@@ -1,5 +1,46 @@
 {
     "guests": [{
+        "Name": "PrinceWhateverer",
+        "Desc": "Heyo! I'm Prince!\n\nMLP themed rock & metal musician since 2011 with no plans to stop... Ever!\nIf you like high-energy rock tunes then I'm your guy! >:D \n\nSee you in the pit! \\,,/,",
+        "Image": "/images/guests/princewhateverer.png",
+        "Social": {
+            "Twitter": "https://twitter.com/PWhateverer",
+            "YouTube": "https://www.youtube.com/user/princewhateverer",
+            "Twitch": "https://www.twitch.tv/prince_whateverer/",
+            "Bandcamp": "https://princewhateverer.bandcamp.com/"
+        }
+    },{
+        "Name": "Koa",
+        "Desc": "Koa is a serial collaborator in the brony fandom the resident yellow pegasus of electropop, striving to bring you a set full of variety and danceable tunes to keep your head bobbin'!",
+        "Image": "/images/guests/koa.png",
+        "Social": {
+            "Twitter": "https://twitter.com/KoaPony"
+        }
+    }, {
+        "Name": "General Mumble",
+        "Desc": "Hello! I'm General Mumble and I make and perform a wide range of stuff! I'll prolly be performing some of my more vocal-oriented things because I can't DJ.",
+        "Image": "/images/guests/generalmumble.png",
+        "Social": {
+            "Bandcamp": "https://mumbleetc.com/",
+            "Twitter": "https://twitter.com/generalmumble",
+            "YouTube": "https://www.youtube.com/MumbleEtc"
+        }
+    }, {
+        "Name": "Metajoker",
+        "Desc": "Metajoker has been writing and performing music in the Brony community for nearly ten years, having written songs such as \"Universe\" and \"Still Shy\" and collaborated with musicians such as UndreamedPanic, 4EverfreeBrony, and Gatopaint. He always aims to take listeners on an emotional journey with his music and lyrics, and can't wait to bring his unique brand of songwriting to PonyFest!",
+        "Image": "/images/guests/metajoker.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/c/Metajoker",
+            "Twitter": "https://www.twitter.com/MetajokerMusic"
+        }
+    }, {
+        "Name": "Luck Rock",
+        "Desc": "Luck Rock has been around the concert scene for a long time now, whether it be setting them  up, playing onstage, or just doing his one dance move in the crowd. Playing around with several genres, you can always expect some high-energy rock as well as some emotional surprises and maybe more!",
+        "Image": "/images/guests/luckrock.png",
+        "Social": {
+            "Twitter": "https://twitter.com/LuckRockMusic"
+        }
+    }, {
         "Name": "Prowox",
         "Desc": "One of the few Bronies left in Finland who didn’t move on to the Anime- or Furry Fandom. In 2020 he decided to take a more active part in the music side of the fandom of which he had always been an avid listener, by both picking up DJing, performing at various online events, and co-founding an online pony music festival. You can expect to hear either sets filled with Drum and Bass or sets going through various electronic genres, usually getting faster as it goes on.",
         "Image": "/images/guests/prowox.png",
@@ -15,6 +56,16 @@
             "YouTube": "https://www.youtube.com/channel/UC0FPGo7lj4gqauBnjptR2_Q",
             "Twitter": "https://twitter.com/Evershadee",
             "Bandcamp": "https://evershademusic.bandcamp.com/releases"
+        }
+    }, {
+        "Name": "AWal",
+        "Desc": "AWal hails from the not too far away polar vortex, bringing a sound that is both fast and energetic. Be sure to bring your kandi and glowsticks because his show is definitely not one to miss.",
+        "Image": "/images/guests/awal.png",
+        "Social": {
+            "AWal": "https://twitter.com/awal__",
+            "Soundcloud": "https://soundcloud.com/awalsc/",
+            "YouTube": "https://www.youtube.com/c/AWalYT",
+            "Twitch": "https://www.twitch.tv/awal_"
         }
     }, {
         "Name": "Beatspark",
@@ -39,20 +90,32 @@
             "Twitter": "https://twitter.com/mcmiag"
         }
     }, {
-        "Name": "Luck Rock",
-        "Desc": "Luck Rock has been around the concert scene for a long time now, whether it be setting them  up, playing onstage, or just doing his one dance move in the crowd. Playing around with several genres, you can always expect some high-energy rock as well as some emotional surprises and maybe more!",
-        "Image": "/images/guests/luckrock.png",
+        "Name": "Khaliber",
+        "Desc": "Hey there! May name is Khaliber! I'm a DJ / Producer from Maryland. Though I've been producing for 7 years, I' wouldn't start my Khaliber project until 2017. In 2020, I would find my break into the brony music scene with my single, Beyond, which would also be my debut on the Ponies At Dawn music group. Now, in 2021, this is my biggest year yet. With releases on ASOS, Equinity, even more Ponies At Dawn releases, and an Official Remix for Silva Hound's Root of All Evil Remix EP, I don't intend on slowing down this year. Meanwhile, I whip MLP conventions into a frenzy with my supercharged DJ sets along with breathtaking visuals and fx.",
+        "Image": "/images/guests/khaliber.png",
         "Social": {
-            "Twitter": "https://twitter.com/LuckRockMusic"
+            "Twitter": "https://twitter.com/khaliberr",
+            "Spotify": "https://open.spotify.com/artist/27uhOz3aj61Jbvnoc0yUrH?si=LSmDJVe-S2yfKO7qe8gPaQ",
+            "Youtube": "https://www.youtube.com/c/KHALIBER",
+            "Bandcamp": "https://khalibermusic.bandcamp.com"
         }
     }, {
-        "Name": "General Mumble",
-        "Desc": "Hello! I'm General Mumble and I make and perform a wide range of stuff! I'll prolly be performing some of my more vocal-oriented things because I can't DJ.",
-        "Image": "/images/guests/generalmumble.png",
+        "Name": "MC-Arch",
+        "Desc": "MC-Arch is a No nonsense taking Out-Of-The-Box thinking Brony Hiphop MC from the Netherlands who is more than willing to show what HE has to say/show/do for the Fandom he loves with all of his Heart. Arch is also a Huge Fluttershy fan and is more than happy to bring forward how the show inspires him to write, sing, rap, and perform the Magic and willpower found in his Music! And despite having a troubled past, he shows it does NOT define you. and that you can create a beautiful world aslong as YOU have the will to believe in one! \n\nYou are ALL welcome to witness the rise of a Musician who remembered who he is, and how he is going to change the game because of it! It's MC-Arch's turn to get on that Ponytown stage infront of the 1000's, FUFing around and having fun while he brings you music! \n\nScrew the box, he's not here to fit into it... He's here to show you don't need too. \nAnd that YOU can do it too! \n\nfor the people, by the people! /) Brony for LIFE! (And big-ups to ALL fluttershy fans! <3 )",
+        "Image": "/images/guests/mc-arch.png",
         "Social": {
-            "Bandcamp": "https://mumbleetc.com/",
-            "Twitter": "https://twitter.com/generalmumble",
-            "YouTube": "https://www.youtube.com/MumbleEtc"
+            "Twitter": "https://twitter.com/II_MCArch_II",
+            "YouTube": "https://www.youtube.com/user/TheMCArch",
+            "Bandcamp": "https://mc-arch.bandcamp.com/"
+        }
+    }, {
+        "Name": "Steryotype",
+        "Desc": "I'm just a hors that makes lofi hip hop, that sometimes fuses with hip hop and r&b",
+        "Image": "/images/guests/steryotype.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/Steryotype99",
+            "Bandcamp": "https://steryotypicalmusic.bandcamp.com/",
+            "YouTube": "https://www.youtube.com/channel/UC2ho4gW4vTkjie_DlL7B9Cw"
         }
     }]
 }

@@ -9,6 +9,13 @@
             "Twitch": "https://www.twitch.tv/prince_whateverer/",
             "Bandcamp": "https://princewhateverer.bandcamp.com/"
         }
+    }, {
+        "Name": "Eurobeat Brony (Odyssey Eurobeat)",
+        "Desc": "Eurobeat Brony is the earliest and longest-lasting pioneer of brony music. From penning the original \"Discord\" from which The Living Tombstone's remix was borne, to several other classics of the scene including \"Luna\", \"Diamond Dogs\", \"Batty\", and several lasting remixes of the show, Eurobeat Brony (or Odyssey, or T. Stebbins, or Ken Blast from the Initial D soundtrack…) knows a thing or two about how to string old classics, new hits, and cutting-edge tracks together into an unforgettable performance.",
+        "Image": "/images/guests/odyssey.png",
+        "Social": {
+            "Linktree": "https://linktr.ee/odysseyeurobeat"
+        }
     },{
         "Name": "Koa",
         "Desc": "Koa is a serial collaborator in the brony fandom the resident yellow pegasus of electropop, striving to bring you a set full of variety and danceable tunes to keep your head bobbin'!",
@@ -25,6 +32,15 @@
             "Twitter": "https://twitter.com/generalmumble",
             "YouTube": "https://www.youtube.com/MumbleEtc"
         }
+    },{
+        "Name": "Nevermourn",
+        "Desc": "Nevermourn is a drum and bass producer and a writer for Horse Music Herald. A regular on the A State of Sugar compilation albums, and a few Ponies at Dawn albums. He is known mainly for his drum and bass music, but he's no stranger to pushing the boundary on genres of music.",
+        "Image": "/images/guests/nevermourn.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/nevermourn",
+            "Twitter": "https://twitter.com/nevermournmusic",
+            "Soundcloud": "https://soundcloud.com/nevermourn"
+        }
     }, {
         "Name": "Metajoker",
         "Desc": "Metajoker has been writing and performing music in the Brony community for nearly ten years, having written songs such as \"Universe\" and \"Still Shy\" and collaborated with musicians such as UndreamedPanic, 4EverfreeBrony, and Gatopaint. He always aims to take listeners on an emotional journey with his music and lyrics, and can't wait to bring his unique brand of songwriting to PonyFest!",
@@ -39,6 +55,25 @@
         "Image": "/images/guests/luckrock.png",
         "Social": {
             "Twitter": "https://twitter.com/LuckRockMusic"
+        }
+    }, {
+        "Name": "DoTheDaringDew",
+        "Desc": "DoTheDaringDew is a songwriter from Dallas, Texas and has been a part of this crazy ride since early 2012. He has been to his fair share of pony conventions, performing on both stages and out in the halls. Whether he is doing that or running silly pony panels, Dewie brings an energy and passion to the show and fandom he loves!",
+        "Image": "/images/guests/dothedaringdew.png",
+        "Social": {
+            "YouTube": "https://www.youtube.com/user/DoTheDaringDew",
+            "Soundcloud": "https://soundcloud.com/dothedaringdew",
+            "Facebook": "https://www.facebook.com/DoTheDaringDew/",
+            "Twitter": "https://twitter.com/DoTheDaringDew",
+            "Bandcamp": "https://dothedaringdew.bandcamp.com/"
+        }
+    }, {
+        "Name": "Drummershy",
+        "Desc": "Drummershy is a drummer/musician based out of Baltimore, Maryland. He is a Certified Music and Audio Production Engineer. He is also the current drummer in the Baltimore band, Flying Jacob.\n\nHe continues to drum for fandom and internet music collaborations.",
+        "Image": "/images/guests/drummershy.png",
+        "Social": {
+            "Twitter": "https://twitter.com/_drummershy_",
+            "YouTube": "https://youtube.com/c/Drummershy"
         }
     }, {
         "Name": "Prowox",
@@ -68,6 +103,13 @@
             "Twitch": "https://www.twitch.tv/awal_"
         }
     }, {
+        "Name": "MelodyBrony",
+        "Desc": "MelodyBrony is a multi-instrumentalist musician based in southeast Michigan. Melody specializes in rock and metal but also does softer genres as well. With a track record of many performances, he has a sound for all audiences. Original album \"Wannabe Rockstar\" coming soon.",
+        "Image": "/images/guests/melodybrony.png",
+        "Social": {
+            "Linktree": "https://linktr.ee/MelodyBronyMusic"
+        }
+    }, {
         "Name": "Beatspark",
         "Desc": "For those of you who don't know him, BeatSpark is a turquoise Unicorn that hails from the Upside Down land of Australia, who often calls people \"bean\" instead of their actual names and is all around a friend to all. He first joined the fandom back in 2018 when he was introduced by a close friend, also having found out about musicians like Budzy, Glaze, The Living Tombstone, Silva Hound etc. around the same time, with his eventual start on music production towards the halfway point of 2019. (BeatSpark also tried his hand at DJing around then, but never actually started to invest time in such until recently.) Since then, he's had the privilege to be able to meet so many new people and in time call them his friends and create content for others to enjoy; With the show and the fandom to thank for it. BeatSpark hopes that he can keep the Magic of Friendship alive and kicking for years to come, and most importantly, he'll be doing it for y'all! <3",
         "Image": "/images/guests/beatspark.png",
@@ -80,6 +122,14 @@
         "Image": "/images/guests/tw3lv3.png",
         "Social": {
             "Linktree": "https://linktr.ee/Tw3Lv3"
+        }
+    }, {
+        "Name": "Whirly Tail",
+        "Desc": "Hello world! I am Whirly Tail, an up-and-coming happy hardcore producer in the fandom with a lot of love to give and a lot of fun to have!! If you like fast tunes and a lot of heart, I think you will enjoy what I have to offer!",
+        "Image": "/images/guests/whirlytail.png",
+        "Social": {
+            "Twitter": "https://twitter.com/whirlytail",
+            "YouTube": "https://youtube.com/whirlytail"
         }
     }, {
         "Name": "mycutiemarkisagun",
@@ -100,6 +150,17 @@
             "Bandcamp": "https://khalibermusic.bandcamp.com"
         }
     }, {
+        "Name": "PHES",
+        "Desc": "PHES is a music producer from the United States who started making music in 2016, and has been dedicated to fill the void of French House and Future Funk in the brony fandom. He used to go under FilledSilhoutte, before retiring it with his 3rd album “Rarity’s Fashion Playlist.",
+        "Image": "/images/guests/phes.png",
+        "Social": {
+            "YouTube": "https://youtube.com/c/phestunes",
+            "Bandcamp": "https://phes.bandcamp.com/",
+            "Soundcloud": "https://soundcloud.com/phes_tunes",
+            "Twitter": "https://twitter.com/PHES_Tunes",
+            "Instagram": "https://instagram.com/phes_tunes"
+        }
+    }, {
         "Name": "MC-Arch",
         "Desc": "MC-Arch is a No nonsense taking Out-Of-The-Box thinking Brony Hiphop MC from the Netherlands who is more than willing to show what HE has to say/show/do for the Fandom he loves with all of his Heart. Arch is also a Huge Fluttershy fan and is more than happy to bring forward how the show inspires him to write, sing, rap, and perform the Magic and willpower found in his Music! And despite having a troubled past, he shows it does NOT define you. and that you can create a beautiful world aslong as YOU have the will to believe in one! \n\nYou are ALL welcome to witness the rise of a Musician who remembered who he is, and how he is going to change the game because of it! It's MC-Arch's turn to get on that Ponytown stage infront of the 1000's, FUFing around and having fun while he brings you music! \n\nScrew the box, he's not here to fit into it... He's here to show you don't need too. \nAnd that YOU can do it too! \n\nfor the people, by the people! /) Brony for LIFE! (And big-ups to ALL fluttershy fans! <3 )",
         "Image": "/images/guests/mc-arch.png",
@@ -116,6 +177,14 @@
             "Twitter": "https://twitter.com/Steryotype99",
             "Bandcamp": "https://steryotypicalmusic.bandcamp.com/",
             "YouTube": "https://www.youtube.com/channel/UC2ho4gW4vTkjie_DlL7B9Cw"
+        }
+    }, {
+        "Name": "SOUND BANDIT",
+        "Desc": "Sound Bandit makes fast music. If you like music, then please listen to Sound Bandit's set at PonyFest 2021.",
+        "Image": "/images/guests/soundbandit.png",
+        "Social": {
+            "Website": "https://soundbandit.xyz",
+            "Twitter": "https://twitter.com/soundbandLt"
         }
     }]
 }

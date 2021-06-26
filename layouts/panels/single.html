@@ -126,7 +126,7 @@
 
 			async function updateMetadata() {
 				const event = await getCurrentEvent("{{.Params.StageName}}") || {};
-				document.getElementById('panel-title').innerText = event.title || "PonyFest Online! Anniversary Stream";
+				document.getElementById('panel-title').innerText = event.title || "PonyFest Online! 2021 Summer Concert";
 				document.getElementById('panel-panelists').innerText = event.panelists || "";
 				document.getElementById('panel-description').innerText = event.description || "";
 			}

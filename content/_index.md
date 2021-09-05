@@ -34,11 +34,11 @@ p {
 	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/music_mascot.png"></div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 2021 Summer Concert</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, June 26th, 2021</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 5.0</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, October 2nd</p>
 		</div>
 		<div>
-			<p>The PonyFest concert returns!</p>
+			<p><a href="https://docs.google.com/forms/d/1OtobdQkxWonS1FtjNaAVukSukZ2PsXUFPWpppFcFNg4/edit">Musician applications are open!</a></p>
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>

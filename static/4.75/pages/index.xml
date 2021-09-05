@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on PonyFest</title>
+    <link>https://ponyfest.horse/4.75/pages/</link>
+    <description>Recent content in Pages on PonyFest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ponyfest.horse/4.75/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ponyfest.horse/4.75/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ponyfest.horse/4.75/about/</guid>
+      <description>About PonyFest Online! Right! We know what you’re thinking: What the hay is PonyFest Online? Where did you come from? This wasn’t a thing a week ago!
+You’d be right! PonyFest Online is an online Pony Convention with a one week turnaround - Our entire organization, schedule, everything has been built this week! We were inspired by Ruef’s awesome online Vendor Hall for our friends and family who’ve been directly hurt by the loss of in-person pony conventions.</description>
+    </item>
+    
+    <item>
+      <title>Charity Concert T-Shirt</title>
+      <link>https://ponyfest.horse/4.75/shirt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ponyfest.horse/4.75/shirt/</guid>
+      <description>Charity T-Shirt 
+ #shirt-ad img { max-width: 100%; }  For the PonyFest Online 2021 Summer Concert, we have another fantastic concert shirt AND a powerful charity attached!
+Our charity this time is Black &amp;amp; Pink, an organization fighting systems of oppresion nationwide. Black &amp;amp; Pink is working to support those most affected by opressive systems such as homelessness, the prison system, systemic bigotry, and more. Especially in times of the Covid-19 pandemic, particularly BIPOC, members of the LGBTQIA+ community and patients of HIV/AIDS struggle with a lack of access to housing and stable living conditions.</description>
+    </item>
+    
+    <item>
+      <title>Guests</title>
+      <link>https://ponyfest.horse/4.75/guests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ponyfest.horse/4.75/guests/</guid>
+      <description>Musicians PrinceWhateverer  Heyo! I&#39;m Prince!
+MLP themed rock &amp; metal musician since 2011 with no plans to stop... Ever!
+If you like high-energy rock tunes then I&#39;m your guy! :D See you in the pit! \,,/,
+BandcampTwitchTwitterYouTube  Eurobeat Brony (Odyssey Eurobeat)  Eurobeat Brony is the earliest and longest-lasting pioneer of brony music. From penning the original &#34;Discord&#34; from which The Living Tombstone&#39;s remix was borne, to several other classics of the scene including &#34;</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://ponyfest.horse/4.75/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ponyfest.horse/4.75/schedule/</guid>
+      <description> pfoSchedApi = &#39;https:\/\/schedule-api.ponyfest.horse\/schedule&#39;;   Schedule Schedule Loading...  </description>
+    </item>
+    
+    <item>
+      <title>Staff</title>
+      <link>https://ponyfest.horse/4.75/staff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ponyfest.horse/4.75/staff/</guid>
+      <description>Staff  Coordination  Lycan - Event Lead   Music  Luck Rock - Staff ExplodingPonyToast - Staff Blackened Blue - Staff   A/V  Larscis - Lead   Design  HauntedTuba - Staff   Social Media  Kevin from TrotCon - Lead   Discord  Fizzbuzz - Lead Gajinka - Assistant Lead Midnight Aegis - Moderator   Changelings  Jamis - Staff Katharine Berry - Staff   Charity  Perrydotto - Lead      </description>
+    </item>
+    
+  </channel>
+</rss>

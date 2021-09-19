@@ -38,7 +38,7 @@ p {
 			<p style="font-size: 2em; margin: 0">Saturday, October 2nd</p>
 		</div>
 		<div>
-			<p><a href="https://docs.google.com/forms/d/1OtobdQkxWonS1FtjNaAVukSukZ2PsXUFPWpppFcFNg4/edit">Musician applications are open!</a></p>
+            <!-- <p> some sort of tag line here </p> -->
 		</div>
 		<!-- <div class="discord-box"> -->
 		<div>

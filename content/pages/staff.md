@@ -13,17 +13,16 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Coordination
-- **Lycan** - Event Lead
+- **Lycan** - Con Chair
 
 </div>
 
 
 <div style="break-inside: avoid;">
 
-## Music
-- **Luck Rock** - Staff
-- **ExplodingPonyToast** - Staff
-- **Blackened Blue** - Staff
+## Events
+- **Simul** - Lead
+- **Luck Rock** - Music Lead
 
 </div>
 
@@ -35,10 +34,28 @@ url: /staff
 </div>
 
 
+<div style="break-inside: avoid;">
+
+## Gaming
+- **Leslie** - Lead
+
+</div>
+
+
+<div style="break-inside: avoid;">
+
+## Tabletop
+- **Eliwood Sain** - Lead
+- **Steel** - Staff
+
+</div>
+
 
 <div style="break-inside: avoid;">
 
 ## Design
+- **TechyCutie** - Lead
+- **Dawnfire** - Bit Rate's Mom
 - **HauntedTuba** - Staff
 
 </div>
@@ -47,18 +64,32 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Social Media
-- **Kevin from TrotCon** - Lead
+- **Kevin** - Lead
 
 </div>
 
+
+<div style="break-inside: avoid;">
+
+## Vendors
+- **Screw Loose** - Lead
+
+</div>
+
+<div style="break-inside: avoid;">
+
+## VIP Relations
+- **Sirris** - Lead
+
+</div>
 
 
 <div style="break-inside: avoid;">
 
 ## Discord
 - **Fizzbuzz** - Lead
-- **Gajinka** - Assistant Lead
 - **Midnight Aegis** - Moderator
+- **Omegacreeper** - Moderator
 
 </div>
 
@@ -67,7 +98,8 @@ url: /staff
 
 ## Changelings
 - **Jamis** - Staff
-- **Katharine Berry** - Staff
+- **Katharine** - Staff
+- **Dexanth** - Staff
 
 </div>
 
@@ -78,6 +110,12 @@ url: /staff
 
 </div>
 
+<div style="break-inside: avoid;">
+
+## Eurostream
+- **Jamis** - Lead
+
+</div>
 
 </div>
 </div>

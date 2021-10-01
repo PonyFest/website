@@ -55,8 +55,8 @@ url: /staff
 
 ## Design
 - **TechyCutie** - Lead
-- **Dawnfire** - Bit Rate's Mom
 - **HauntedTuba** - Staff
+- **Dawnfire** - Bit Rate's Mom
 
 </div>
 

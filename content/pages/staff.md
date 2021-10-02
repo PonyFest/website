@@ -89,7 +89,12 @@ url: /staff
 ## Discord
 - **Fizzbuzz** - Lead
 - **Midnight Aegis** - Moderator
-- **Omegacreeper** - Moderator
+- **Phosphorshy** - Moderator
+- **PFC Rye of Shadows** - Watcher
+- **King_CreepaLot** - Watcher
+- **TheMostTopDog** - Watcher
+- **Lord Midnight** - Watcher
+- **Rarijack** - Watcher
 
 </div>
 

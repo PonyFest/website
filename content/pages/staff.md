@@ -30,6 +30,7 @@ url: /staff
 
 ## A/V
 - **Larscis** - Lead
+- **Reiuiji** - Staff
 
 </div>
 

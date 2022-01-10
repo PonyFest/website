@@ -31,11 +31,14 @@ p {
 }
 </style>
 <div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
-	<div style="text-align: center; flex-grow: 1;"><img id="bitrate" src="/images/music_mascot.png"></div>
+	<div style="text-align: center; flex-grow: 1;  max-width: 600px">
+        <img id="bitrate" src="/images/PFOGIF.gif" width="600px">
+        <img id="bitrate" src="/images/PVFMGIF.gif" width="600px">
+    </div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 5.0</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, October 2nd</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 5.5</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, January 15th</p>
 		</div>
 		<div>
             <!-- <p> some sort of tag line here </p> -->

@@ -37,8 +37,9 @@ p {
     </div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online! 5.5</h1>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest × PVFM <br> Concert 2022</h1>
 			<p style="font-size: 2em; margin: 0">Saturday, January 15th</p>
+			<p style="font-size: 2em; margin: 0">5PM EST</p>
 		</div>
 		<div>
             <!-- <p> some sort of tag line here </p> -->

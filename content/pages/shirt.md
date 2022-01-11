@@ -23,7 +23,7 @@ max-width: 100%;
 
 </style>
 
-For the PonyFest X PVFM Concert, we have another fantastic concert shirt AND a powerful charity attached!
+For the PonyFest × PVFM Concert, we have another fantastic concert shirt AND a powerful charity attached!
 
 Stay tuned for more details!!!
 

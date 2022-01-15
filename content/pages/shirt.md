@@ -10,7 +10,7 @@ aliases: [/charity]
 
 <div style="text-align: center;" id="shirt-ad">
 
-[![image of shirt charity shirt, front and back](/images/charity/pvfm_pfo_22.png)](https://www.customink.com/fundraising/ponyfest-pvfm-concert-2022)
+[![image of shirt charity shirt, front and back](/images/charity/pvfm_pfo_22.jpg)](https://www.customink.com/fundraising/ponyfest-pvfm-concert-2022)
 
 </div>
 

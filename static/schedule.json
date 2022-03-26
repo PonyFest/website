@@ -5,8 +5,8 @@
                 "id": "pv1",
                 "startTime": "2021-10-02T16:45:00-04:00",
                 "endTime": "2021-10-02T17:00:00-04:00",
-                "title": "PonyvilleFM Station 1",
-                "panelists": "",
+                "title": "PonyvilleFM Radio",
+                "panelists": "Audio from PVFM 1",
                 "description": "",
                 "isZoom": false
             },
@@ -15,7 +15,7 @@
                 "startTime": "2021-10-02T17:00:00-04:00",
                 "endTime": "2021-10-02T17:45:00-04:00",
                 "title": "Einsamkeitus Floof",
-                "panelists": "",
+                "panelists": "EDM/Electronic",
                 "description": "",
                 "isZoom": false
             },
@@ -24,7 +24,7 @@
                 "startTime": "2021-10-02T17:45:00-04:00",
                 "endTime": "2021-10-02T18:30:00-04:00",
                 "title": "Thunder_Kick",
-                "panelists": "",
+                "panelists": "Happy/UK Harcore and Drum \u0026 bass",
                 "description": "",
                 "isZoom": false
             },
@@ -51,7 +51,7 @@
                 "startTime": "2021-10-02T20:00:00-04:00",
                 "endTime": "2021-10-02T20:45:00-04:00",
                 "title": "Steryotype",
-                "panelists": "",
+                "panelists": "Lofi Hip-Hop/Instrumental Hip-Hop/R\u0026B",
                 "description": "",
                 "isZoom": false
             },
@@ -60,25 +60,25 @@
                 "startTime": "2021-10-02T20:45:00-04:00",
                 "endTime": "2021-10-02T21:15:00-04:00",
                 "title": "MYCUTIEMARKISAGUN ",
-                "panelists": "",
+                "panelists": "Horse hip-hop, horse reggae, horse trap",
                 "description": "",
                 "isZoom": false
             },
             {
                 "id": "as7",
                 "startTime": "2021-10-02T21:15:00-04:00",
-                "endTime": "2021-10-02T21:45:00-04:00",
+                "endTime": "2021-10-02T22:00:00-04:00",
                 "title": "Dropper Vampire",
-                "panelists": "",
+                "panelists": "Big Room, Psy-Trance, Big Room Trance and some Hardstyle",
                 "description": "",
                 "isZoom": false
             },
             {
                 "id": "as8",
-                "startTime": "2021-10-02T21:45:00-04:00",
+                "startTime": "2021-10-02T22:00:00-04:00",
                 "endTime": "2021-10-02T22:30:00-04:00",
                 "title": "Rod Steven",
-                "panelists": "",
+                "panelists": "Eurobeat",
                 "description": "",
                 "isZoom": false
             },
@@ -96,7 +96,16 @@
                 "startTime": "2021-10-02T23:15:00-04:00",
                 "endTime": "2021-10-03T00:00:00-04:00",
                 "title": "pocketjawa",
-                "panelists": "",
+                "panelists": "Hardcore",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "pv2",
+                "startTime": "2021-10-03T00:00:00-04:00",
+                "endTime": "2021-10-03T00:15:00-04:00",
+                "title": "PonyvilleFM Radio",
+                "panelists": "Audio from PVFM 1",
                 "description": "",
                 "isZoom": false
             }
@@ -116,7 +125,7 @@
                 "startTime": "2021-10-02T17:00:00-04:00",
                 "endTime": "2021-10-02T17:30:00-04:00",
                 "title": "Drummershy",
-                "panelists": "",
+                "panelists": "Prog Rock/Metal",
                 "description": "",
                 "isZoom": false
             },
@@ -125,7 +134,7 @@
                 "startTime": "2021-10-02T17:30:00-04:00",
                 "endTime": "2021-10-02T18:00:00-04:00",
                 "title": "Joshua of Mullet Music Productions",
-                "panelists": "",
+                "panelists": "Hard Rock and Metal",
                 "description": "",
                 "isZoom": false
             },
@@ -134,7 +143,7 @@
                 "startTime": "2021-10-02T18:00:00-04:00",
                 "endTime": "2021-10-02T18:30:00-04:00",
                 "title": "MC-Arch",
-                "panelists": "",
+                "panelists": "Soul / Hip hop / Dubstep",
                 "description": "",
                 "isZoom": false
             },
@@ -143,7 +152,7 @@
                 "startTime": "2021-10-02T18:30:00-04:00",
                 "endTime": "2021-10-02T19:00:00-04:00",
                 "title": "SOUND BANDIT",
-                "panelists": "",
+                "panelists": "Digicore",
                 "description": "",
                 "isZoom": false
             },
@@ -152,7 +161,7 @@
                 "startTime": "2021-10-02T19:00:00-04:00",
                 "endTime": "2021-10-02T19:30:00-04:00",
                 "title": "Evershade",
-                "panelists": "",
+                "panelists": "House, Pop, Bounce, Dance",
                 "description": "",
                 "isZoom": false
             },
@@ -161,7 +170,7 @@
                 "startTime": "2021-10-02T19:30:00-04:00",
                 "endTime": "2021-10-02T20:00:00-04:00",
                 "title": "Pagan Pegasus",
-                "panelists": "",
+                "panelists": "Upbeat Electronic Music",
                 "description": "",
                 "isZoom": false
             },
@@ -170,7 +179,7 @@
                 "startTime": "2021-10-02T20:00:00-04:00",
                 "endTime": "2021-10-02T20:30:00-04:00",
                 "title": "FORSAKE",
-                "panelists": "",
+                "panelists": "Progressive House",
                 "description": "",
                 "isZoom": false
             },
@@ -179,7 +188,7 @@
                 "startTime": "2021-10-02T20:30:00-04:00",
                 "endTime": "2021-10-02T21:00:00-04:00",
                 "title": "Glimm",
-                "panelists": "",
+                "panelists": "Various Electronic Music",
                 "description": "",
                 "isZoom": false
             },
@@ -188,7 +197,7 @@
                 "startTime": "2021-10-02T21:00:00-04:00",
                 "endTime": "2021-10-02T21:45:00-04:00",
                 "title": "DoTheDaringDew",
-                "panelists": "",
+                "panelists": "Acoustic, rock, and blues",
                 "description": "",
                 "isZoom": false
             },
@@ -197,7 +206,7 @@
                 "startTime": "2021-10-02T21:45:00-04:00",
                 "endTime": "2021-10-02T22:30:00-04:00",
                 "title": "MathematicPony",
-                "panelists": "",
+                "panelists": "Pop, pop-rock, musical theater, singer-songwriter",
                 "description": "",
                 "isZoom": false
             },
@@ -206,7 +215,7 @@
                 "startTime": "2021-10-02T22:30:00-04:00",
                 "endTime": "2021-10-02T23:15:00-04:00",
                 "title": "Prowox",
-                "panelists": "",
+                "panelists": "Various EDM genres/DnB. Depending on what kind of set I feel like doing",
                 "description": "",
                 "isZoom": false
             },
@@ -215,7 +224,7 @@
                 "startTime": "2021-10-02T23:15:00-04:00",
                 "endTime": "2021-10-03T00:00:00-04:00",
                 "title": "Nevermourn",
-                "panelists": "",
+                "panelists": "Drum and Bass / Full Flavor",
                 "description": "",
                 "isZoom": false
             },
@@ -233,15 +242,18 @@
             {
                 "id": "vend",
                 "startTime": "2021-10-02T17:00:00-04:00",
-                "endTime": "2021-10-02T22:30:00-04:00",
+                "endTime": "2021-10-03T00:15:00-04:00",
                 "title": "Vendor Hall Open",
                 "panelists": "",
-                "description": "",
+                "description": "The Vendor Hall can be found on the PonyFest Discord: discord.gg/nSDGJCg",
                 "isZoom": false
             }
         ]
     },
     "roomOrder": [
+        "",
+        "",
+        "",
         "Bit Rate's Stage",
         "Aerial Soundwave's Stage",
         "Vendor Hall"

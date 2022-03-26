@@ -1,202 +1,45 @@
 {
     "guests": [{
-        "Name": "AWal",
-        "Desc": "AWal hails from the not too far away polar vortex, bringing a sound that is both fast and energetic. Be sure to bring your kandi and glowsticks because his show is definitely not one to miss.",
-        "Image": "/images/guests/awal_logo.png",
+        "Name": "PrinceWhateverer",
+        "Desc": "Heyo! I'm Prince!\n\nMLP themed rock & metal musician since 2011 with no plans to stop... Ever!\nIf you like high-energy rock tunes then I'm your guy! >:D \n\nSee you in the pit! \\,,/,",
+        "Image": "/images/guests/princewhateverer.png",
         "Social": {
-            "Twitter": "https://twitter.com/awal__",
-            "Soundcloud": "https://soundcloud.com/awalsc/",
-            "YouTube": "https://www.youtube.com/c/AWalYT",
-            "Twitch": "https://www.twitch.tv/awal_"
+            "Twitter": "https://twitter.com/PWhateverer",
+            "YouTube": "https://www.youtube.com/user/princewhateverer",
+            "Twitch": "https://www.twitch.tv/prince_whateverer/",
+            "Bandcamp": "https://princewhateverer.bandcamp.com/"
         }
     }, {
-        "Name": "Bolt the Super-Pony",
-        "Desc": "When not being consumed by the void, Bolt DJs on PonyvilleFM where his show Music is Timeless (Fridays @ 9 PM PDT) has been introducing Pony fans to great new music and old classics since 2015. Bolt even ran a request show on the Pony MMO Legends of Equestria and occasionally takes requests in PonyTown after events! Outside of the airwaves, Bolt is active in the fandom as well, continuing to volunteer and perform at conventions and parties across the west coast. Bolt loves the show and everything it stands for as well as the My Little Pony community. In his spare time, he can be found enjoying Pony content (and memes) on EqD, Derpibooru, and Twitter (where you can follow him @SuperPonyBolt!), as well as spending time with his friends.",
-        "Image": "/images/guests/bolt_logo.png",
+        "Name": "Faulty",
+        "Desc": "The Self proclaimed King of Progressive House in the current day Pony Fandom will be bringing you nothing but the best music of the Pony EDM scene!",
+        "Image": "/images/guests/faulty.jpg",
         "Social": {
-            "YouTube": "https://www.youtube.com/c/BolttheSuperPony",
-            "Twitter": "https://twitter.com/SuperPonyBolt",
-            "Mixcloud": "https://www.mixcloud.com/BoltTheSuperPony/"
+            "YouTube": "https://www.youtube.com/faultyfelix",
+            "SoundCloud": "https://soundcloud.com/thefaultychangeling",
+            "BandCamp": "https://thefaultychangeling.bandcamp.com/releases",
+            "Twitter": "https://twitter.com/FaultyMusic"
         }
     }, {
-        "Name": "DJ Dashy",
-        "Desc": "I am DJ Dashy, AKA Dashy. I am making mixes with the latest tracks, the classics and the lost gems of the Brony Fandom. I am also doing a weekly show on fillydelphiaradio.net every Thursday. You can also find me vibin to the music at every FUF Pony Town event",
-        "Image": "/images/guests/DJDashy.png",
+        "Name": "RiffPonies",
+        "Desc": "Wherein some of the best in the Brony fandom converge and make fun of bad pony cartoons!",
+        "Image": "/images/guests/riffponies.png",
         "Social": {
-            "YouTube": "https://www.youtube.com/c/DJDashy",
-            "Twitter": "https://twitter.com/Dashy_the_Pony",
-            "Mixcloud": "https://www.mixcloud.com/DJ_Dashy/"
+            "Twitter": "https://twitter.com/riffponies"
         }
     }, {
-        "Name": "DoTheDaringDew",
-        "Desc": "DoTheDaringDew is a songwriter from Dallas, Texas and has been a part of this crazy ride since early 2012. He has been to his fair share of pony conventions, performing on both stages and out in the halls. Whether he is doing that or running silly pony panels, Dewie brings an energy and passion to the show and fandom he loves!",
-        "Image": "/images/guests/Dewey.png",
+        "Name": "Sleepypony",
+        "Desc": "Resident old git that runs online radio stations and does audio/video, AR and VR education. I'm also that teacher you always wanted in school.",
+        "Image": "/images/guests/sleepypony.jpg",
         "Social": {
-            "YouTube": "https://www.youtube.com/user/DoTheDaringDew",
-            "Soundcloud": "https://soundcloud.com/dothedaringdew",
-            "Facebook": "https://www.facebook.com/DoTheDaringDew/",
-            "Twitter": "https://twitter.com/DoTheDaringDew",
-            "Bandcamp": "https://dothedaringdew.bandcamp.com/"
+            "Twitter": "https://twitter.com/dj_sleepypony"
         }
     }, {
-        "Name": "Dropper Vampire",
-        "Desc": "In 2012 Dropper Vampire began his long journey through the pony music industry, releasing various tracks of the Dubstep genre but it was until 2015 that the vampire began his musical career oriented to the Big Room House genre from scratch. As of 2020, the Vampire's musical career has surprisingly increased thanks to great remixes such as \"Come Alive\" by Silva Hound, \"Cyberpink\" by Scraton, among others.\nAlso this year would be the debut of Dropper Vampire on pony labels such as Ponies at Dawn, A State of Sugar, Equinity but he has also taken a big step in the music industry in general by releasing his first track titled \"Stay\" on the House District Records label, a label that would open the doors for him. He, too, has released on other non-pony labels like Glow Records, Hearteat Records\nToday, Dropper Vampire has received the support of various artists of pony and non-pony music proving who´s the self-proclaimed \"The Vampire of the Big Room\".",
-        "Image": "/images/guests/dropper.png",
+        "Name": "BlepCon",
+        "Desc": "Something something blep. My Little Pony family friendly community Discord server",
+        "Image": "/images/guests/blepcon.jpg",
         "Social": {
-            "YouTube": "https://www.youtube.com/channel/UCGUgDaMXah43yXZpBlX4mZg",
-            "Soundcloud": "https://soundcloud.com/dropper-vampire",
-            "Facebook": "https://www.facebook.com/DjDropperVampire/",
-            "Twitter": "https://twitter.com/DropperVMusic",
-            "Bandcamp": "https://droppervampire.bandcamp.com",
-	    "Instagram": "https://www.instagram.com/dropper_vampire/",
-	    "Spotify": "https://open.spotify.com/artist/4jzkI8AUHmGmxTkgvq2fIq?si=tMOPVGTITJSVdEwFgV1BEw"
-        }
-    }, {
-        "Name": "Drummershy",
-        "Desc": "Drummershy is a drummer/musician based out of Baltimore Maryland. He is a Certified Music and Audio Production Engineer.\nHe has collaborated and Performed with many internet musicians such as Ponytown,Cyril The Wolf, 4Everfreebrony, Michelle Creber, Tarby, L Train, Luckrock, Vylet pony, Princewhateverer, Geekbrony, Stealing shad3z, MelodyBrony and many more.",
-        "Image": "/images/guests/Drummershy.png",
-        "Social": {
-            "Twitter": "https://twitter.com/_drummershy_",
-            "YouTube": "https://youtube.com/c/Drummershy"
-        }
-    }, {
-        "Name": "Einsamkeitus Floof",
-        "Desc": "Bonjour. Floofus here (the collie that draws art about doggos). I’m here to throw down some of the greatest EDM music of this scene. I may switch things up a bit, old and new to keep things spicy and fun~",
-        "Image": "/images/guests/floof.png",
-        "Social": {
-            "Twitter": "http://twitter.com/Einsamkeitus",
-            "Bandcamp": "http://inklingbear.bandcamp.com"
-        }
-    }, {
-        "Name": "Evershade",
-        "Desc": "Bring your party on to this vibin' music set by Evershade. Expect to be grooving to the electronic dance and pop tracks that he has planned for you. Experience some familiar and even some new tunes that will get you on your feet... er... hooves!",
-        "Image": "/images/guests/evershade.PNG",
-        "Social": {
-            "YouTube": "https://www.youtube.com/c/Evershade",
-            "Twitter": "https://twitter.com/Evershadee",
-            "Bandcamp": "https://evershademusic.bandcamp.com/"
-        }
-    }, {
-        "Name": "FORSAKE",
-        "Desc": "FORSAKE is a musician and DJ from central Ohio. Expect to hear some uplifting progressive house with some fun twists thrown in. ",
-        "Image": "/images/guests/forsake.png",
-        "Social": {
-            "YouTube": "https://www.youtube.com/c/Evershade",
-            "Spotify": "https://open.spotify.com/artist/7IlYrzvLis7kBxgcIUxeVZ?si=Fv900cVnTp6h1vR9AInrNA"
-        }
-    }, {
-        "Name": "Glimm",
-        "Desc": "Glimm is a newcomer in the pony music scene, starting in February 2021 with a decent start with hits like, Stony Pony, Izzy Pop (w Khaliber ft Dj Skystorm) , Cosmic, (w Khaliber ft StealingShad3z) , and ILLUMINATE MY NIGHT racking up thousands of views in only a few months. Featured in A State Of Sugar (Eclair), Ponies @ Dawn (Oceansong and Aurora) , and also VibePoniez (Plaza) In one year. Glimm is a multigenre producer with inspirations like: Porter Robinson, San Holo, Vylet Pony, C418, and more. ",
-        "Image": "/images/guests/GLIMM.png",
-        "Social": {
-            "Linktree": "https://linktr.ee/glimm"
-        }
-    }, {
-        "Name": "Joshua of Mullet Music Productions",
-        "Desc": "24 Years old making music by myself for almost 5 years now. Currently working on getting out first EP. Primarily Rock and Metal music but willing to dabble in just about anything. If you have questions, don't hesitate to reach out and ask. ",
-        "Image": "/images/guests/MMP_Black.png",
-        "Social": {
-            "YouTube": "https://www.youtube.com/channel/UCo1XBvu33T5Xt57F8HpL4CA",
-            "Facebook": "https://www.facebook.com/MulletMusicProductions",
-	    "Audius": "https://audius.co/mulletman7223"
-        }
-    }, {
-        "Name": "MathematicPony",
-        "Desc": "Math has been writing and producing pony music in the fandom since 2015. She is best known for her songs Just Waiting, Dealbreaker, and Destiny. Her favorite word is defenestration, and she sometimes drinks fast food hot sauce from the packet.",
-        "Image": "/images/guests/mathpony.jpg",
-        "Social": {
-            "YouTube": "https://www.youtube.com/mathematicpony",
-	    "Twitter": "https://twitter.com/mathematicpony",
-            "Spotify": "https://open.spotify.com/artist/2yf8kEYkBb8FRT8DGQwR4K?si=h70c2t4pRc-D58WLwhVw2w"
-        }
-    }, {
-        "Name": "MC-Arch",
-        "Desc": "MC-Arch is a No nonsense taking Out-Of-The-Box thinking Brony Hiphop MC from the Netherlands who is more than willing to show what HE has to say/show/do for the Fandom he loves with all of his Heart. Arch is also a Huge Fluttershy fan and is more than happy to bring forward how the show inspires him to write, sing, rap, and perform the Magic and willpower found in his Music! And despite having a troubled past, he shows it does NOT define you. and that you can create a beautiful world aslong as YOU have the will to believe in one! \n\nYou are ALL welcome to witness the rise of a Musician who remembered who he is, and how he is going to change the game because of it! It's MC-Arch's turn to get on that Ponytown stage infront of the 1000's, FUFing around and having fun while he brings you music! \n\nScrew the box, he's not here to fit into it... He's here to show you don't need too. \nAnd that YOU can do it too! \n\nfor the people, by the people! /) Brony for LIFE! (And big-ups to ALL fluttershy fans! <3 )",
-        "Image": "/images/guests/MC_Arch_Logo.png",
-        "Social": {
-            "Twitter": "https://twitter.com/II_MCArch_II",
-            "YouTube": "https://www.youtube.com/user/TheMCArch",
-            "Bandcamp": "https://mc-arch.bandcamp.com/"
-        }
-    }, {
-        "Name": "MYCUTIEMARKISAGUN",
-        "Desc": "One of the premiere hip-hop producers in the fandom since 2011! A master of dank memes and pony mashups and FLUTTERSHY YAYS",
-        "Image": "/images/guests/mcmiag_zebra.jpg",
-        "Social": {
-            "Bandcamp": "https://free-zebras-and-black-power.bandcamp.com/",
-            "Twitter": "https://twitter.com/mcmiag"
-        }
-    }, {
-        "Name": "Nevermourn",
-        "Desc": "Nevermourn is a drum and bass producer and a writer for Horse Music Herald. A regular on the A State of Sugar compilation albums, and a few Ponies at Dawn albums. He is known mainly for his drum and bass music, but he's no stranger to pushing the boundary on genres of music.",
-        "Image": "/images/guests/Nevermourn.jpg",
-        "Social": {
-            "YouTube": "https://www.youtube.com/nevermourn",
-            "Twitter": "https://twitter.com/nevermournmusic",
-            "Soundcloud": "https://soundcloud.com/nevermourn"
-        }
-    }, {
-        "Name": "Pagan Pegasus",
-        "Desc": "23 year old female music producer hoping to give back to the community and inspire the next generation of MLP fans, the same way pony musicians had inspired her back in 2012.",
-        "Image": "/images/guests/Pagan_Pega.png",
-        "Social": {
-            "YouTube": "https://www.youtube.com/channel/UCLpc4Bv433dZ1a-Qpm2oVUQ",
-            "Twitter": "https://twitter.com/PaganPegasus ",
-            "Soundcloud": "https://soundcloud.com/pagan-pegasus",
-	    "Linktree": "https://linktr.ee/PaganPegasus"
-        }
-    }, {
-        "Name": "pocketjawa",
-        "Desc": "Hailing from Ottawa, this DJ’s lifelong love of music has led them to start producing in 2010 and DJing in 2012. Specializing in Hardcore (in its various forms), and Liquid Drum & Bass, their sets will always be high energy, even when they are more chilled out.",
-        "Image": "/images/guests/pocketjawa.png",
-        "Social": {
-            "Bandcamp": "https://pocketjawa.bandcamp.com/",
-            "Twitter": "hhttps://twitter.com/pocketjawa",
-            "Soundcloud": "https://soundcloud.com/pocketjawa"
-        }
-    }, {
-        "Name": "Prowox",
-        "Desc": "One of the few Bronies left in Finland who didn’t move on to the Anime- or Furry Fandom. In 2020 he decided to take a more active part in the music side of the fandom of which he had always been an avid listener, by both picking up DJing, performing at various online events, and co-founding an online pony music festival. You can expect to hear either sets filled with Drum and Bass or sets going through various electronic genres, usually getting faster as it goes on.",
-        "Image": "/images/guests/prowox.png",
-        "Social": {
-            "Twitter": "https://twitter.com/prowox010",
-            "YouTube": "https://www.youtube.com/user/prowox010/"
-        }
-    }, {
-        "Name": "Rod Steven",
-        "Desc": "Rod Steven is a Mexican producer specializing in Eurobeat, he started producing music in 2017 inspired by big artists in the Eurobeat scene such as Odyssey Eurobeat, Dave Rodgers, DJ Command, etc.\n He has gained popularity for remixing popular songs such as Every time We Touch by Cascada, Barbie Girl by Aqua and Dynamite by BTS. Bringing the energy of Eurobeat from Italy to Japan now in the Brony fandom.",
-        "Image": "/images/guests/RodSteven.jpg",
-        "Social": {
-            "YouTube": "https://www.youtube.com/c/RodSteven",
-            "Twitter": "https://twitter.com/Rod_St3v3n",
-            "Bandcamp": "https://rodstevenmusic.bandcamp.com/"
-        }
-    }, {
-        "Name": "SOUND BANDIT",
-        "Desc": "Sound Bandit makes fast music. If you like music, then please listen to Sound Bandit's set at PonyFest 2021.",
-        "Image": "/images/guests/soundbandit.jpg",
-        "Social": {
-            "Website": "https://soundbandit.xyz",
-            "Twitter": "https://twitter.com/soundbandLt"
-        }
-    }, {
-        "Name": "Steryotype",
-        "Desc": "I'm just a hors that makes lofi hip hop, that sometimes fuses with hip hop and r&b",
-        "Image": "/images/guests/ArturoFemat.jpg",
-        "Social": {
-            "Twitter": "https://twitter.com/Steryotype99",
-            "Bandcamp": "https://steryotypicalmusic.bandcamp.com/",
-            "YouTube": "https://www.youtube.com/channel/UC2ho4gW4vTkjie_DlL7B9Cw"
-        }
-    }, {
-        "Name": "Thunder_Kick",
-        "Desc": "I've been DJing since 2018, and have been mixing live ever since on fandom radio, online venues and virtual clubs, including but not limited to PonyvilleFM, FurZona, Sierra Nevada Anime Fans Unite and Fillydelphia Radio. I specifically enjoy performing fully improvised mixes on the spot and have been doing so since I began DJing.",
-        "Image": "/images/guests/ThunderKick.png",
-        "Social": {
-            "Mixcloud": "https://www.mixcloud.com/miner_goes_crazz/",
-            "Twitter": "https://twitter.com/djthunderkick",
-            "Bandcamp": "https://thunderkick.bandcamp.com/",
-	    "Newgrounds": "https://minergoescrazz.newgrounds.com/"
+            "Twitter": "https://twitter.com/blepcon",
+            "Discord": "http://discord.gg/blepcon"
         }
     }]
 }

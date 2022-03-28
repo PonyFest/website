@@ -2,7 +2,10 @@
 {{ range $.Site.Data.guests.guests }}
     <div class="text-box guest-{{ .Type }}" style="margin-bottom: 20px; text-align: left">
         <h1>{{ .Name }} {{ if .Autographs }}(<a href="{{.Autographs}}">Autographs</a>){{end}}</h1>
-        <p><img src="{{ .Image }}" style="max-height: 350px; max-width: 250px; float: left; padding-right: 1.25em; padding-bottom: 1.25em">{{ replace .Desc "\n" "<br>" | safeHTML }}</p>
+        <p>
+            <img src="{{ .Image }}" style="max-height: 350px; max-width: 250px; width: 40vw; float: left; padding-right: 1.25em; padding-bottom: 1.25em">
+                {{ replace .Desc "\n" "<br>" | safeHTML }}
+        </p>
         <p class="guest-links" style="margin: 5px">
             {{ range $key, $value := .Social }}<a href="{{ $value }}">{{ $key }}</a>{{ end }}
         </p>

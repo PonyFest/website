@@ -36,7 +36,7 @@ p {
     </div>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest April Fools Event!!!</h1>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest April Fools!!!</h1>
 			<p style="font-size: 2em; margin: 0">Friday, April 1st 3022</p>
 			<p style="font-size: 2em; margin: 0">3PM EDT</p>
 		</div>

@@ -14,6 +14,7 @@ url: /staff
 
 ## Coordination
 - **Lycan** - Con Chair
+- **Reiuiji** - Vice Con Chair
 
 </div>
 

@@ -30,15 +30,15 @@ p {
 	display: flex;
 }
 </style>
-<div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
-	<div style="text-align: center; flex-grow: 1;  max-width: 600px">
-        <img id="schedule" src="/images/PonyconPonyFestTitle.png" width="80%">
+<div style="display: block; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
+	<div style="text-align: center; flex-grow: 1;  max-width: 1200px">
+        <img id="schedule" src="/images/PFO6announcement.png" width="90%">
     </div>
+    <br>
 	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">Japan Ponycon x PonyFest Online</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, June 18th 2022</p>
-			<p style="font-size: 2em; margin: 0">9:30PM EDT</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online 6: Hearth's Warming</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, December 3rd 2022</p>
 		</div>
 		<div>
             <!-- <p> some sort of tag line here </p> -->

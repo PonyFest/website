@@ -1,0 +1,410 @@
+{
+  "rooms": {
+    "Bit Rate's Stage": [
+      {
+        "id": "open",
+        "startTime": "2022-04-01T15:00:00-04:00",
+        "endTime": "2022-04-01T15:15:00-04:00",
+        "title": "Opening Ceremonies",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "bit1",
+        "startTime": "2022-04-01T15:00:00-04:00",
+        "endTime": "2022-04-01T16:00:00-04:00",
+        "title": "Sleepypony",
+        "panelists": "",
+        "description": "A compilation of songs to take you on a journey through dance... and April Fools",
+        "isZoom": false
+      },
+      {
+        "id": "bit2",
+        "startTime": "2022-04-01T16:00:00-04:00",
+        "endTime": "2022-04-01T16:30:00-04:00",
+        "title": "Faulty",
+        "panelists": "",
+        "description": "If you're hungry for some tasty tunes then be sure to join Faulty while he takes you for a drive around the sweetest tracks of the fandom!",
+        "isZoom": false
+      },
+      {
+        "id": "bit3",
+        "startTime": "2022-04-01T16:30:00-04:00",
+        "endTime": "2022-04-01T17:00:00-04:00",
+        "title": "Prince Whateverer",
+        "panelists": "",
+        "description": "HEY Y'ALL!! I'm back again to make some noise for all your unfortunate ears! Join me on the day of fools for a shorter, but higher energy set of Prince-flavoured sounds! OwO",
+        "isZoom": false
+      },
+      {
+        "id": "bit4",
+        "startTime": "2022-04-01T17:00:00-04:00",
+        "endTime": "2022-04-01T19:00:00-04:00",
+        "title": "RiffPonies Presents - Equestria's NEXT Top Artist!",
+        "panelists": "RiffPonies, BajaGryphon, Crunchy Crowe, Forward Progress, Gobiraptor, Inky Notebook, Nevaylin",
+        "description": "Art is subjective...unless you're drawing ponies, of course! Join the RiffPonies crew and an all-star cast of BajaGryphon, Crunchy Crowe, Forward Progress, Gobiraptor, Inky Notebook \u0026 Nevaylin as your FAVORITE My Little Pony fan-artists clash for artistic supremacy in a goofy gauntlet of art-based party games...with YOU as the judge!  Join the laughs, be an art critic, and help decide who truly is \"Equestria's NEXT Top Artist\"!",
+        "isZoom": false
+      },
+      {
+        "id": "bit5",
+        "startTime": "2022-04-01T19:00:00-04:00",
+        "endTime": "2022-04-01T23:15:00-04:00",
+        "title": "BlepCon",
+        "panelists": "",
+        "description": "Jackbox gaming? Check! Audience participation? Check! A ridiculous number of shenanigans? Definitely check! Be sure to join the PonyFest Discord to play along with everyone and enjoy the fuf!",
+        "isZoom": false
+      }
+    ],
+    "Neural Net's Stage": [
+      {
+        "id": "FUF1",
+        "startTime": "2022-04-01T15:00:00-04:00",
+        "endTime": "2022-04-01T15:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF2",
+        "startTime": "2022-04-01T15:00:00-04:00",
+        "endTime": "2022-04-01T15:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF3",
+        "startTime": "2022-04-01T15:15:00-04:00",
+        "endTime": "2022-04-01T15:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF4",
+        "startTime": "2022-04-01T15:30:00-04:00",
+        "endTime": "2022-04-01T15:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF5",
+        "startTime": "2022-04-01T15:45:00-04:00",
+        "endTime": "2022-04-01T16:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF6",
+        "startTime": "2022-04-01T16:00:00-04:00",
+        "endTime": "2022-04-01T16:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF7",
+        "startTime": "2022-04-01T16:15:00-04:00",
+        "endTime": "2022-04-01T16:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF8",
+        "startTime": "2022-04-01T16:30:00-04:00",
+        "endTime": "2022-04-01T16:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF9",
+        "startTime": "2022-04-01T16:45:00-04:00",
+        "endTime": "2022-04-01T17:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF10",
+        "startTime": "2022-04-01T17:00:00-04:00",
+        "endTime": "2022-04-01T17:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF11",
+        "startTime": "2022-04-01T17:15:00-04:00",
+        "endTime": "2022-04-01T17:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF12",
+        "startTime": "2022-04-01T17:30:00-04:00",
+        "endTime": "2022-04-01T17:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF13",
+        "startTime": "2022-04-01T17:45:00-04:00",
+        "endTime": "2022-04-01T18:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF14",
+        "startTime": "2022-04-01T18:00:00-04:00",
+        "endTime": "2022-04-01T18:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF15",
+        "startTime": "2022-04-01T18:15:00-04:00",
+        "endTime": "2022-04-01T18:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF16",
+        "startTime": "2022-04-01T18:30:00-04:00",
+        "endTime": "2022-04-01T18:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF17",
+        "startTime": "2022-04-01T18:45:00-04:00",
+        "endTime": "2022-04-01T19:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF18",
+        "startTime": "2022-04-01T19:00:00-04:00",
+        "endTime": "2022-04-01T19:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF19",
+        "startTime": "2022-04-01T19:15:00-04:00",
+        "endTime": "2022-04-01T19:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF20",
+        "startTime": "2022-04-01T19:30:00-04:00",
+        "endTime": "2022-04-01T19:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF21",
+        "startTime": "2022-04-01T19:45:00-04:00",
+        "endTime": "2022-04-01T20:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF22",
+        "startTime": "2022-04-01T20:00:00-04:00",
+        "endTime": "2022-04-01T20:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF23",
+        "startTime": "2022-04-01T20:15:00-04:00",
+        "endTime": "2022-04-01T20:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF24",
+        "startTime": "2022-04-01T20:30:00-04:00",
+        "endTime": "2022-04-01T20:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF25",
+        "startTime": "2022-04-01T20:45:00-04:00",
+        "endTime": "2022-04-01T21:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF26",
+        "startTime": "2022-04-01T21:00:00-04:00",
+        "endTime": "2022-04-01T21:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF27",
+        "startTime": "2022-04-01T21:15:00-04:00",
+        "endTime": "2022-04-01T21:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF28",
+        "startTime": "2022-04-01T21:30:00-04:00",
+        "endTime": "2022-04-01T21:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF29",
+        "startTime": "2022-04-01T21:45:00-04:00",
+        "endTime": "2022-04-01T22:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF30",
+        "startTime": "2022-04-01T22:00:00-04:00",
+        "endTime": "2022-04-01T22:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF31",
+        "startTime": "2022-04-01T22:15:00-04:00",
+        "endTime": "2022-04-01T22:30:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF32",
+        "startTime": "2022-04-01T22:30:00-04:00",
+        "endTime": "2022-04-01T22:45:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF33",
+        "startTime": "2022-04-01T22:45:00-04:00",
+        "endTime": "2022-04-01T23:00:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "FUF34",
+        "startTime": "2022-04-01T23:00:00-04:00",
+        "endTime": "2022-04-01T23:15:00-04:00",
+        "title": "FUF",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      }
+    ]
+  },
+  "roomOrder": [
+    "",
+    "",
+    "Bit Rate's Stage",
+    "Neural Net's Stage"
+  ],
+  "times": [
+    "2022-04-01T15:00:00-04:00",
+    "2022-04-01T15:00:00-04:00",
+    "2022-04-01T15:15:00-04:00",
+    "2022-04-01T15:30:00-04:00",
+    "2022-04-01T15:45:00-04:00",
+    "2022-04-01T16:00:00-04:00",
+    "2022-04-01T16:15:00-04:00",
+    "2022-04-01T16:30:00-04:00",
+    "2022-04-01T16:45:00-04:00",
+    "2022-04-01T17:00:00-04:00",
+    "2022-04-01T17:15:00-04:00",
+    "2022-04-01T17:30:00-04:00",
+    "2022-04-01T17:45:00-04:00",
+    "2022-04-01T18:00:00-04:00",
+    "2022-04-01T18:15:00-04:00",
+    "2022-04-01T18:30:00-04:00",
+    "2022-04-01T18:45:00-04:00",
+    "2022-04-01T19:00:00-04:00",
+    "2022-04-01T19:15:00-04:00",
+    "2022-04-01T19:30:00-04:00",
+    "2022-04-01T19:45:00-04:00",
+    "2022-04-01T20:00:00-04:00",
+    "2022-04-01T20:15:00-04:00",
+    "2022-04-01T20:30:00-04:00",
+    "2022-04-01T20:45:00-04:00",
+    "2022-04-01T21:00:00-04:00",
+    "2022-04-01T21:15:00-04:00",
+    "2022-04-01T21:30:00-04:00",
+    "2022-04-01T21:45:00-04:00",
+    "2022-04-01T22:00:00-04:00",
+    "2022-04-01T22:15:00-04:00",
+    "2022-04-01T22:30:00-04:00",
+    "2022-04-01T22:45:00-04:00",
+    "2022-04-01T23:00:00-04:00"
+  ]
+}

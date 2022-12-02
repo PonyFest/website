@@ -1,269 +1,258 @@
 {
     "vendors": [{
-        "Name": "Abigail Starling",
-        "Desc": "I'm a professional comic illustrator, but in addition to comics I have prints, keychains, buttons, plush, and stationery! I love working in a cute and colorful style, and also offer goods for multiple fandoms in addition to Pony!",
-        "Image": "/images/vendors/abigailstarling.jpg",
+        "Name": "Candled with Care",
+        "Desc": "Enjoy the wonderful scents of Equestria with our selection of hand poured pony candles. Each candle features a unique scent featuring some of your favorite characters.  Come by and check out our lovely selection of colorful candles!",
+        "Image": "/images/vendors/Candled_with_Care.jpg",
         "Social": {
-            "DeviantArt": "http://abbystarling.deviantart.com/",
-            "Instagram": "https://instagram.com/abigailstarling",
-            "Ko‑Fi": "https://ko-fi.com/abigailstarling",
-            "Patreon": "https://www.patreon.com/AbigailStarling",
-            "Tumblr": "http://abbystarling.tumblr.com/",
-            "Twitter": "https://twitter.com/Abby_Starling"
+            "Twitter": "https://twitter.com/candledcare"
         }
     }, {
-        "Name": "AfroThunder",
-        "Desc": "Heya everyone!  AfroThunder here, and ready to button you up!  You have a favorite pony/creature/purple-bellied snootfargle*, chances are that I may have a button for you!  With over 130 characters and styles to choose from, you may have want to pick up several!  I also have Art Prints, Enamel Pins, Badges and Stickers, as well as Commissions available.",
-        "Image": "/images/vendors/afrothunder.png",
-        "Social":
-        {
-            "Twitter": "https://twitter.com/LaschitaW",
-            "Facebook": "https://facebook.com/SuperSecretProjectX",
-            "DeviantArt": "https://deviantart.com/nubiankitten"
+        "Name": "Corey's Corner",
+        "Desc": "Pillows, plushies, acrylic charms, enamel pins, and facemasks for every geek and fandom from anime to video games and lots of ponies! If you want to cuddle up with a carry along style Luna or wake up with the iconic beginning with Ralof from Skyrim, I have you covered! The most popular thing I carry are the Discordant Harmony pillows that were seen in the show in real life form! But I also offer many other unique pony things like GummyLoki.",
+        "Image": "/images/vendors/Coreys_Corner.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Coreys_Crafts",
+            "Facebook": "https://www.facebook.com/CoreysCornerCrafts"
         }
     }, {
-        "Name": "Amodwithoutamark",
-        "Desc": "Swing on by for a little bit of everything! If you want LGBTQIA+ pony stickers, custom watercolors, reminders to wash your hands by your favorite ponies, or a bunch of pony charms, you're in right place!",
-        "Image": "/images/vendors/amodwithoutamark.png",
+        "Name": "CosmicKeyframe Productions",
+        "Desc": "Welcome! I sell prints, posters, buttons and handmade shadowboxes! If you're looking for MLP, My Hero, or Pokemon, Im your one stop shop! ",
+        "Image": "/images/vendors/CosmicKeyframe_Productions.png",
         "Social": {
-            "Twitter": "https://twitter.com/Amandyalmonds",
-            "Tumblr": "https://amodwithoutamark.tumblr.com/",
-            "Instagram": "https://www.instagram.com/amandyalmonds/",
-            "DeviantArt": "https://lilliesinthegarden.deviantart.com"
+            "Twitter": "https://twitter.com/CosmicKeyframe",
+            "Store": "https://www.cosmickeyframeshq.com/"
         }
     }, {
-        "Name": "AR.GI.BI. Creative Studio",
-        "Desc": "We're a couple of nerds selling our own original artwork featured on fine art prints, stickers, decals, enamel pins, face masks, patches, tote bags, cinch bags, fanny packs, sketchbooks, lanyards, wristbands, t-shirts, bandanas and more!",
-        "Image": "/images/vendors/argibi.png",
+        "Name": "CutePencilCase",
+        "Desc": "Check out my Etsy store for plushies, keychains, buttons, stickers and prints, all done with my art! I also have a 15% discount on any digital commissions requested during ponyfest and a rare opportunity to commission traditional art from me outside of physical conventions!",
+        "Image": "/images/vendors/CutePencilCase.png",
         "Social": {
-            "Twitter": "https://twitter.com/argibi_art/",
-            "Instagram": "https://www.instagram.com/argibi_art/"
-        }
-    }, {
-        "Name": "Baja Gryphon",
-        "Desc": "Welcome to the Baja Crew!\nI'm Baja Gryphon an freelance artist & Animator! Here we sell Charms (FOE & MLP), Button Packs (2 inch), Custom Badges, Prints Ranging from MLP to Transformers, and Stickers (3X3). Pre-orders will open for our Lunar & Celestial HandFans and PonyFest 4.0 Mugs! Digital Art Commission /YCH specials will happen through out the weekend!",
-        "Image": "/images/vendors/baja.png",
-        "Social": {
-            "Twitter": "https://twitter.com/BajaGryphon",
-            "DeviantArt": "https://www.deviantart.com/bajagryphon"
-        }
-    }, {
-        "Name": "Boiler3 & Sweetcream",
-        "Desc": "We have art and prints, books, and badges, enamel pins, shirts, scarves and much much more!",
-        "Image": "/images/vendors/boiler3.jpg",
-        "Social": {
-            "Hobbes": "https://twitter.com/Hobbes_Maxwell",
-            "Sweetcream": "https://twitter.com/SweetCreamArts"
-        }
-    }, {
-        "Name": "Choco Pony Tarot and Flags",
-        "Desc": "After a half year break we are returning with new items, special new flag and pins, as well as limited offerings for commissions of flags of your own design. As well we have some favorite pins and other merch from the previous con season including some exclusive items made for the final BronyCon.",
-        "Image": "/images/vendors/choco.png",
-        "Social": {
-            "Shop": "https://www.conhistory.com/shop",
-            "Twitter": "https://twitter.com/TransformARTive"
-        }
-    }, {
-        "Name": "Dawnfire's Art",
-        "Desc": "come get your hooves on some stickers, charms & crayon commissions!",
-        "Image": "/images/vendors/dawnfire.png",
-        "Social": {
-            "Twitter": "https://twitter.com/dawnf1re",
-            "DeviantArt": "https://www.deviantart.com/dawnf1re",
-            "Patreon": "https://www.patreon.com/Dawnfire"
+            "Twitter": "https://twitter.com/CutePencilCase",
+            "Store": "www.cutepencilcase.art",
+            "DeviantArt": "deviantart.com/cutepencilcase"
         }
     }, {
         "Name": "Earth-Pony Creations",
-        "Desc": "Ponies and lasers! Check out our selection of laser cut wooden ponies, made collaboratively with artists from around the fandom.",
-        "Image": "/images/vendors/earth-pony.jpg",
+        "Desc": "Earth-Pony is an artisan crafter creating wooden wall art, figurines and cosplay accessories, all done with a laser cutter! Check out the collection of characters and show locations made in collaboration with artists from around the fandom.",
+        "Image": "/images/vendors/Earth-Pony_Creations.png",
         "Social": {
             "Twitter": "https://twitter.com/Blazing_Beams",
-            "Etsy": "https://etsy.com/shop/EarthPonyCreations"
+            "DeviantArt": "earth-pony.deviantart.com/"
         }
     }, {
-        "Name": "Fiaura The Tank Girl",
-        "Desc": "Books, Plushies, Prints, Posters, Bottles, Bottlecaps, T-Shirts, Paintings, Collectables, Scarves, Dakimakura",
-        "Image": "/images/vendors/fiaura.png",
+        "Name": "Exobass",
+        "Desc": "Hoi Im Exo and I love to draw ponies and make different types of pony merch or other cute stuff <3\nYou can get from me stickers, prints, buttons, magnets and other cool stuff that this blue horsemade all by herself c:",
+        "Image": "/images/vendors/Exobass.png",
         "Social": {
-            "Twitter": "https://twitter.com/Fiaura_Tanks",
-            "YouTube": "https://www.youtube.com/channel/UC2O9STrT-GlNFEL-Yy85VgA",
-            "Facebook": "https://www.facebook.com/groups/827529650628610/"
+            "Twitter": "https://twitter.com/exobass",
+            "DeviantArt": "exobass.deviantart.com",
+            "Ko‑Fi": "ko-fi.com/exobass"
         }
     }, {
-        "Name": "Hearth & Home Woodcrafts",
-        "Desc": "Hand crafted wood pens, coasters, and laser engraved glassware",
-        "Image": "/images/vendors/hearth-home.jpg",
+        "Name": "fannytastical",
+        "Desc": "Get your fantastical pony merch here! We have a variety of apparel, keychains, body pillows, and more. Sport a comfy shirt or get cozy with a pillow featuring your favorite character.",
+        "Image": "/images/vendors/fannytastical.png",
         "Social": {
-            "DeviantArt": "https://ruirik.deviantart.com/",
-            "Twitter": "https://twitter.com/RuiriksHat"
+            "Twitter": "https://twitter.com/fannytastical"
+        }
+    }, {
+        "Name": "Floralsh*tpost",
+        "Desc": "Do you like cute poners? Do they make your heart sing? This is the shop for you~\nWe've got poners of all shape, sizes and levels of snowpity. Buy all your mare wares here. ",
+        "Image": "/images/vendors/Floralshtpost.png",
+        "Social": {
+            "Twitter": "https://twitter.com/floralsh_tpost",
+            "PortfolioBox": "https://floralshtpost.portfoliobox.net/",
+            "Derpibooru": "https://derpibooru.org/profiles/floralshitpost",
+            "LinkTree": "https://linktr.ee/floralshitpost"
+        }
+    }, {
+        "Name": "Geeky Pins N Things",
+        "Desc": "I specialize in Enamel Pins and pin accessories! Come find some jumbo pins of your favorite ponies and more! \n\nLove pins but don’t have a way to display them? You’ve come to the right place! Stop and take a look at different displays and even a special pony themed bag!",
+        "Image": "/images/vendors/Geeky_Pins_N_Things.jpeg",
+        "Social": {
+            "Store": "https://www.etsy.com/shop/GeekyPinsNThings",
+            "Instagram": "https://instagram.com/geekys_pins?igshid=YmMyMTA2M2Y=",
+            "Twitter": "https://twitter.com/Geekys_pins"
+        }
+    }, {
+        "Name": "Gleamy Dreams",
+        "Desc": "'Ello! I'm Gleamy Dreams, maybe you've heard of me, maybe you haven't but I sell stuff! Particularly, I'm selling some shiny stuff online! I will have a large selection of hard enamel pins for the online event as well as some handsewn 16\" plushies of you're hunting for a new best friend to call your very own!",
+        "Image": "/images/vendors/Gleamy_Dreams.png",
+        "Social": {
+            "Twitter": "https://twitter.com/GleamyD"
+        }
+    }, {
+        "Name": "Haywaiian Horse Productions",
+        "Desc": "My name is Miss Mele and I am an artist who sells at various MLP fan conventions all over the domestic United State's. Here at Haywaiian Horse Productions, we pride ourselves in cute pony knick knacks and creativity to bring new and exciting things to the fandom. Here you'll find exclusive enamel pins, acrylic charms, portable drinkware, art, pillows, stickers and SO MUCH MORE! If you can think it, we probably have it \uD83D\uDE09 Stop on by and say hi!",
+        "Image": "/images/vendorsHaywaiian_Horse_Productions.jpg/",
+        "Social": {
+            "Twitter": "https://twitter.com/HaywaiianHorse",
+            "DeviantArt": "https://www.deviantart.com/missbramblemele/gallery/69923486/vendor-hall-artist-alley-portfolio"
         }
     }, {
         "Name": "Hibiscus Stitch",
-        "Desc": "Hello I'm Hibiscus Stitch and I've been sewing for 16 years. I make handmade and professionally designed plushies of all shapes and sizes. My plushies are all made from soft minky with embroidered details and are made with the quality I've grown over the years. I also make buttons so you can still display your pony pride on a budget! I also take commissions.",
-        "Image": "/images/vendors/hibiscus.png",
+        "Desc": "Hibiscus Stitch creates expertly designed and loving crafted plushies of all shapes and sizes! Plush are designed to be soft and last through con travel, cuddles, and more.",
+        "Image": "/images/vendors/Hibiscus_Stitch.png",
         "Social": {
-            "Twitter": "http://twitter.com/hibiscusstitch",
-            "Instagram": "http://instagram.com/glacidea"
+            "Twitter": "https://twitter.com/hibiscusstitch",
+            "YouTube": "https://www.youtube.com/channel/UC5gRSTIoE8z2mc3IPmdvuBg?app=desktop"
         }
     }, {
-        "Name": "honeylatte shop",
-        "Desc": "Adorable painterly art, fun stickers, and collectible trinkets to commemorate PonyFest!",
-        "Image": "/images/vendors/honeylatte.png",
+        "Name": "Jelly Sketch",
+        "Desc": "Prints, stickers, keychains & other merch with ponies and more!",
+        "Image": "/images/vendors/Jelly_Sketch.png",
         "Social": {
-            "Store": "https://www.redbubble.com/people/honeylatteshop",
-            "Commissions": "https://commiss.io/lehlatte",
-            "Twitter": "https://twitter.com/lehlatte",
-            "Twitch": "twitch.tv/lehlatte",
-            "Patreon": "patreon.com/lehlatte"
+            "Twitter": "https://twitter.com/JellySketch",
+            "Carrd": "https://jellysketch.carrd.co",
+            "DeviantArt": "www.deviantart.com/Jelly-Sketch"
         }
     }, {
-        "Name": "InkKey Studios",
-        "Desc": "Seller of Prints, Acrylic Charms, Enamel Pins and the card game Mares! We also do custom commissions and fancy one of a kind badges!",
-        "Image": "/images/vendors/inkkey.jpg",
+        "Name": "Julunis14",
+        "Desc": "A lot of cool and adorable stuff here! From buttons, openers and charms to pillow cases, pencil cases and mousepads! I have magnets, stickers, mug coasters, lanyards and washi tapes with the best and cutest artworks of mine!... also... did someone say commissions? ♥ ",
+        "Image": "/images/vendors/Julunis14.png",
         "Social": {
-            "DeviantArt": "https://www.deviantart.com/bumblebun",
-            "FurAffinity": "https://www.furaffinity.net/user/bumblebun/",
-            "Twitter": "https://twitter.com/bumblebunn",
-            "Twitch": "https://www.twitch.tv/bumblebun",
-            "Instagram": "https://www.instagram.com/inkkeystudios/",
-            "Patreon": "https://www.patreon.com/Bumblebun"
+            "Twitter": "https://twitter.com/Julunis14",
+            "DeviantArt": "https://www.deviantart.com/julunis14",
+            "Ko‑Fi": "https://ko-fi.com/julunis14"
         }
     }, {
-        "Name": "KLPlushies",
-        "Desc": "We make the soft and cuddly pony plushies, we also make plushies of non pony related plushies as well, we do open for commissions feel free to message us on Etsy :D",
-        "Image": "/images/vendors/klplushies.png",
+        "Name": "Katie's Artsy Crafts ",
+        "Desc": "Katie's Artsy Crafts has a variety of pone! Art, including prints, and traditional one of a kind con badges. Lots of handcrafts- magnets, stickers, button badges, bookmarks & keychains. Cutie Mark pin badges, necklaces, pouches & cushions. Lastly, adorable custom chibi plush!",
+        "Image": "/images/vendors/Katies_Artsy_Crafts.png",
         "Social": {
-            "Store": "https://www.etsy.com/shop/KLPlushies/"
+            "Twitter": "https://twitter.com/katiecoolchic",
+            "Store": "https://www.etsy.com/uk/shop/KatiesArtsyCrafts",
+            "Ko‑Fi": "http://ko-fi.com/katiesartsycrafts"
         }
     }, {
-        "Name": "LunarShine",
-        "Desc": "We've been producing Brony products for 8 years now and we're bringing pillowcases, art books, TSSSF cards, and plushies, plushies, plushies! We will be giving out special discount coupons and doing secret short-term auctions during the event. Stop by for great toys at great prices!",
-        "Image": "/images/vendors/lunarshine.png",
+        "Name": "L'Jenndary Shores",
+        "Desc": "Off the southernmost coast of Equestria lies a sun-kissed archipelago where sea salt in your mane and a “beachy” attitude are just a way of life. Despite its carefree reputation, that hasn’t stopped the courageous wanderer from venturing beyond the wild waves and perusing through the rare treasures shimmering along the coastline.\n\nThrough shelves lined top-to-bottom with fun pieces featuring artwork by yours truly, L'Jenndary Shores is sure to spark your fancy.",
+        "Image": "/images/vendors/LJenndary_Shores.png",
         "Social": {
-            "Twitter": "https://twitter.com/LunarShineStore"
+            "DeviantArt": "the-last-jennicorn.deviantart.com"
+        }
+    }, {
+        "Name": "lRUSUart and friends",
+        "Desc": "From artists lRUSU, Anticular and NekoSnicker!\nStickers, buttons, prints, enamel pins, keychains and more!",
+        "Image": "/images/vendors/lRUSUart_and_friends.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/IRUSU_kun",
+            "Store": "https://lrusuart.bigcartel.com/",
+            "Patreon": "https://www.patreon.com/lrusujpg",
+            "Twitch": "https://www.twitch.tv/lrusu_kun"
+        }
+    }, {
+        "Name": "Meplushyou",
+        "Desc": "Handmade plush accessories, acrylic charms, lanyards, stickers, buttons, sewing pattern (special discount during PonyFest Online!)",
+        "Image": "/images/vendors/Meplushyou.png",
+        "Social": {
+            "Twitter": "https://twitter.com/meplushyou",
+            "Store": "https://meplushyou.com/",
+            "DeviantArt": "https://www.deviantart.com/meplushyou",
+            "Instagram": "https://www.instagram.com/meplushyou/",
+            "Facebook": "https://www.facebook.com/meplushyou"
         }
     }, {
         "Name": "MidnightPremiere",
-        "Desc": "Howdy from Texas! I'm MidPrem, coming at you with a brand new selection of MLP candybag charms, facemasks, and enamel pins; Animal Crossing and Pokemon collectibles; and exclusive Mystery Boxes and Commissions (Digital and Traditional)! Stop by for first dibs on my new stock, and get free stickers with every purchase over $10!",
-        "Image": "/images/vendors/midprem.png",
+        "Desc": "Howdy from Texas! I'm MidPrem, coming at you with a selection of MLP charms, facemasks, and enamel pins; Animal Crossing and Pokemon collectibles; and exclusive Mystery Boxes and Commissions (Digital and Traditional)! Grab a custom Mystery Box or ask about commissions!",
+        "Image": "/images/vendors/MidPrem_CG2.png",
         "Social": {
+            "Store": "https://www.etsy.com/shop/MidnightPremiere",
             "Twitter": "https://twitter.com/MidPrem",
-            "DeviantArt": "https://www.deviantart.com/midnightpremiere"
-        }
-    }, {
-        "Name": "Miss Mele's Madness",
-        "Desc": "Welcome to my Madness where you'll find one of a kind Bit Rate and Neural Net merchandise as well as an array of Miss Mele originals from buttons and stickers and prints to charms and of course dem butt mugs. ",
-        "Image": "/images/vendors/missmele.png",
-        "Social": {
-            "Store": "https://www.redbubble.com/people/missmelemadness/shop",
-            "Twitter": "https://twitter.com/MissBrambleMele",
-            "DeviantArt": "https://www.deviantart.com/melemadness"
+            "Beacons": "https://beacons.ai/midprem"
         }
     }, {
         "Name": "My Little Ties",
-        "Desc": "Ties, bow ties, lapel pins, keychains, necklaces, flasks, shot glasses, dog tags, bottle openers, omamori (japanese good luck charms), LED glowing badges, lots of other stuff",
-        "Image": "/images/vendors/mylittleties.jpg",
+        "Desc": "All sorts of fun and fancy stuff, formalwear to drinkware, and then some! Ties, bow-ties, jewelry (sterling silver, steel, and titanium), mugs, shotglasses lighters, keycaps, LED acrylic badges, dice, coins, bracelets, titanium bottle openers, omamori (Japanese good luck charms), dog tags, keychains, wood magnets, and pins of all types!",
+        "Image": "/images/vendors/My_Little_Ties.jpg",
         "Social": {
-            "Twitter": "http://www.twitter.com/mylittleties",
-            "Facebook": "http://www.facebook.com/MyLittleTies",
-            "Website": "http://www.mylittleties.com"
+            "Twitter": "https://twitter.com/mylittleties",
+            "Store": "https://www.mylittleties.com/",
+            "Facebook": "https://www.facebook.com/MyLittleTies/"
         }
     }, {
-        "Name": "RatofDrawn",
-        "Desc": "I love colorful cartoon characters and want to spread my love for them with my art! I sell prints, stickers, buttons, dakis, Omamori, microfiber cloths and more!",
-        "Image": "/images/vendors/ratofdrawn.png",
+        "Name": "Ponies At Dawn",
+        "Desc": "Ponies At Dawn are your one stop shop for the best music the fandom has to offer, with compilation albums regularly releasing full of music created by amazing artists all over the world. On top of our musical offerings, a variety of themed merchandise is available on our Redbubble store including clothing, stickers, mouse pads and more!",
+        "Image": "/images/vendors/Ponies_At_Dawn.jpeg",
         "Social": {
-            "Twitter": "https://twitter.com/RatofDrawn"
+            "Twitter": "https://twitter.com/PoniesAtDawn",
+            "BandCamp": "https://PoniesAtDawn.Bandcamp.com",
+            "YouTube": "https://www.youtube.com/c/PoniesAtDawn"
         }
     }, {
-        "Name": "Ruef n' Beeb",
-        "Desc": "Ruef n' Beeb are a fandom dynamic duo selling all sorts of merchandise, including t-shirts, enamel pins, body pillow covers and much, much more!",
-        "Image": "/images/vendors/ruef.jpg",
+        "Name": "Pucksterv",
+        "Desc": "Commissions, prints, stickers",
+        "Image": "/images/vendors/Pucksterv.png",
         "Social": {
-            "Twitter": "https://twitter.com/ruefnbeeb"
+            "Twitter": "twitter.com/Pucksterv",
+            "Store": "Pucksterv.studio",
+            "Twitch": "twitch.tv/Pucksterv"
         }
     }, {
-        "Name": "Sciggles",
-        "Desc": "Hello! We offer an incredible array of customizable options! From flasks to badges, shirts, mugs, and more! Whatever you want we can make! We also have the same amount available for show characters as well!",
-        "Image": "/images/vendors/sciggles.jpg",
+        "Name": "Red Palette Art",
+        "Desc": "My shop is quite well rounded with a main focus on My Little Pony G4 & G5. I sell my own artwork and merch from many other fandoms including: Pokemon, V-Tubers, Fire Emblem, Animal Crossing, Smiling Friends, Cute Animals, and LOTS of Rats. You'll find a wide variety of merch items including acrylic keychains and pins, high quality art prints, buttons, lanyards, vinyl stickers, books, and much more! Please come by for a look.",
+        "Image": "/images/vendors/Red_Palette_Art.png",
         "Social": {
-            "Twitter": "https://twitter.com/sciggles",
-            "Shop": "https://shop.sciggles.com",
-            "FurAffinity": "https://furaffinity.net/user/sciggles"
+            "Twitter": "https://twitter.com/redpaletteart",
+            "Store": "RedPaletteArt.com",
+            "DeviantArt": "https://www.deviantart.com/redpalette",
+            "Instagram": "instagram.com/red_palette"
         }
     }, {
-        "Name": "Taurson's Cafe",
-        "Desc": "I am an artist who draws some adorable pones and I will be selling pins, stickers, keychains, and traditional commissions.",
-        "Image": "/images/vendors/taurson.png",
+        "Name": "SkyRailroad",
+        "Desc": "Known for Prance,  a card game of fast reflexes and slapping.....AND Booze. We are the home of the MLP Cocktail collection, on plastic waterproof cards.  We're literally always adding new things, from booze accessories, and lanyards too Dakimakura and keychains.  We also have a wide variety of unholy things that probably shouldn't exist such as Pony toilet paper covers and eye masks to make you look like a horse.  WHY?  Simply because we can.",
+        "Image": "/images/vendors/SkyRailroad.jpg",
         "Social": {
-            "Twitter": "https://twitter.com/Taurson",
-            "DeviantArt": "https://www.deviantart.com/taurson"
+            "Twitter": "https://twitter.com/Sky_RailRoad"
         }
     }, {
-        "Name": "Techycutie",
-        "Desc": "Hey I'm Techy! I sell a large assortment of cute pony keychains as well as buttons, enamel pins, mouse pads, and body pillows. We get new stuff every few weeks, so there's always something new in store! Literally!",
-        "Image": "/images/vendors/techycutie.png",
+        "Name": "Sophie Scruggs",
+        "Desc": "I sell MLP enamel pins and plushies!",
+        "Image": "/images/vendors/Sophie_Scruggs.jpeg",
         "Social": {
-            "Twitter": "https://twitter.com/Techycutie",
-            "Shop": "https://shop.techycutie.com"
+            "Twitter": "https://twitter.com/sophieascruggs",
+            "Instagram": "www.Instagram.com/sophieascruggs",
+            "Tumblr": "www.tumblr.com/sophieascruggs "
+        }
+    }, {
+        "Name": "spacekitsch",
+        "Desc": "Hi, I'm spacekitsch! I sell cute and colorful enamel pins, charms, stickers, and more!",
+        "Image": "/images/vendors/spacekitsch.png",
+        "Social": {
+            "Twitter": "https://twitter.com/spacekitsch",
+            "Store": "https://www.etsy.com/shop/SpacekitschNL"
         }
     }, {
         "Name": "The Chimera's Den",
-        "Desc": "Welcome to The Chimera's Den! I'm Chimera and I sell a slowly growing variety of things, starting with charms and stickers! I will be expanding soon to pillows and pins as well and who knows? Maybe even umbrellas! Be sure to keep your eyes peeled! ♡",
-        "Image": "/images/vendors/chimera.jpg",
+        "Desc": "Hi hello and welcome to The Chimera's Den! My name is Chimera and I love to make art and merchandise to share with everyone! I'm a Hatsune Miku enthusiast and am in a variety of fandoms so I hope that you see something to your liking!",
+        "Image": "/images/vendors/The_Chimeras_Den.png",
         "Social": {
-            "Twitter": "https://www.twitter.com/thechimerasden",
-            "YouTube": "https://www.youtube.com/ChaoticChimera",
-            "Etsy": "https://www.etsy.com/shop/TheChimerasDen"
+            "Twitter": "twitter.com/thechimerasden"
         }
     }, {
-        "Name": "TomoCreations",
-        "Desc": "Charms ,stickers, pins, pillows, prints and commissions of fanart and nonfanart works. Some including loveable noodles.",
-        "Image": "/images/vendors/tomocreations.png",
+        "Name": "TokoKami",
+        "Desc": "TokoKamiArts Shop: Find awesome merch of your favorite characters from mlp, digimon and many other cartoons in our shop here! Check out the newest items such as moodbadges, keychains and snowglobes besides many other items such as buttons, pins, prints & posters, wallets, cuddly blankets and much more. Custom merch as well as commissions are also open! Contact Telegram @TokoKami",
+        "Image": "/images/vendors/Tomocreations.png",
         "Social": {
-            "Store": "https://www.etsy.com/shop/TomoCreation",
-            "FurAffinity": "https://www.furaffinity.net/user/tomoyuki/",
-            "Facebook": "https://facebook.com/TomoCreations"
+            "Twitter": "https://twitter.com/TokoKamiarts",
+            "DeviantArt": "https://www.deviantart.com/tokokami"
         }
     }, {
-        "Name": "Travelling Pony Museum",
-        "Desc": "The Traveling Pony Museum supports a collection of artists from around the world and has since 2012. Our shop has a little of everything and sales benefit the original artists! Minky soft artwork blankets, stickers and keychains, squishy cute mousepads, hardcover fanfiction books,  over 40 designs freshly pressed onto your choosing of size & color T-shirt or bag, and more! We pack every order with a free sticker (except Media Mail book orders, sorry - USPS rules!).",
-        "Image": "/images/vendors/tpm.png",
+        "Name": "Tomocreations",
+        "Desc": "TomoCreations sells prints, charms, lanyards, pins, shirts, commissions and some pillows stickers of personal artwork and fanart. Original creations includes Monster girls, reptiles and original characters.",
+        "Image": "/images/vendors/Tomocreations.png",
         "Social": {
-            "Twitter": "https://twitter.com/MLPFIMTPM",
-            "Instagram": "https://instagram.com/travelingponymuseum",
-            "Website": "http://www.travelingponymuseum.org",
-            "Store": "https://etsy.com/shop/LetYourArtTravel"
+            "Store": "https://www.etsy.com/shop/TomoCreatio",
+            "Instagram": "https://www.instagram.com/tomocreations/"
         }
     }, {
-        "Name": "Twisted Sketch Productions",
-        "Desc": "Commissions, masks, jewelry, stickers, decals, enamel pins, buttons, shirts, etc.",
-        "Image": "/images/vendors/twistedsketch.png",
+        "Name": "Vederlicht Art",
+        "Desc": "I sell many different kinds of merchandise, from buttons to stickers, from stationary to jewelry, from cute to absolutely silly. Many trinkets are handmade and one-of-a-kind. From gen 1 up until gen 5, I have a little bit of everything for everyone. ",
+        "Image": "/images/vendors/Vederlicht_Art.png",
         "Social": {
-            "Twitter": "https://twitter.com/ask_twisted",
-            "Store": "https://www.etsy.com/shop/TwistedSketch",
-            "Patreon": "https://www.patreon.com/twistedsketch",
-            "Ko‑Fi": "https://ko-fi.com/twistedsketch",
-            "Picarto": "https://picarto.tv/TwistedSketchProductions",
-            "Instagram": "https://www.instagram.com/twisted_sketch/",
-            "Facebook": "https://business.facebook.com/TwistedSketchProductions/",
-            "TikTok": "https://www.tiktok.com/@thepsychoticspork"
-        }
-    }, {
-        "Name": "Viw's Art",
-        "Desc": "Magnificent ultra soft blankets, neat puzzles & fancy shiny accessories await your discovery in #viws-art. Stop on by for stuff. Discounts on commissions and shipping for the duration of the con.",
-        "Image": "/images/vendors/viw.jpg",
-        "Social": {
-            "DeviantArt": "https://viwrastupr.deviantart.com/gallery/",
-            "Twitter": "https://twitter.com/viwrastupr"
-        }
-    }, {
-        "Name": "Waffle Wishes",
-        "Desc": "Heya! We make custom everything here! We're mostly focused on soft and fuzzy things like pillows and blankets, but we've done plenty of other things, so feel free and throw ideas our way, and we can hopefully make your wishes become reality!",
-        "Image": "/images/vendors/waffles.png",
-        "Social": {
-            "Twitter": "https://twitter.com/WishesWaffle",
-            "Website": "https://dakidreams.com"
+            "Twitter": "https://twitter.com/VederlichtArt",
+            "DeviantArt": "https://www.deviantart.com/vederlichtart",
+            "Instagram": "https://www.instagram.com/vederlichtart/"
         }
     }]
 }

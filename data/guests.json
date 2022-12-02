@@ -1,26 +1,5 @@
 {
     "guests": [{
-        "Name": "Koa",
-        "Desc": "Hiya, I'm Koa!\n\n I'm a yellow pega gremlin that makes music in a number of styles and doodles a whole bunch of bright, expressive horses (among other things). I'm always excited to connect with folks via my creative pursuits, and look forward to getting to do so again through PonyFest 6.0!",
-        "Image": "/images/guests/koa-logo.png",
-        "Social": {
-            "Twitter": "https://twitter.com/KoaPony"
-        }
-    }, {
-        "Name": "SOUND BANDIT",
-        "Desc": "SOUND BANDIT has been making horse tunes since the dawn of time. She knows how to click a mouse around on a computer to create noise that sometimes resembles music.",
-        "Image": "/images/guests/boorakun_fanart.jpg",
-        "Social": {
-            "Twitter": "https://twitter.com/soundbandLt "
-        }
-    }, {
-        "Name": "Forward Progress",
-        "Desc": "Where social science and pop culture meet, you'll find Forward Progress. Founder of the Keeping Friendship Magic project, Forward presents a wide array of content that ranges from the educational to the hilarious. His latest projects include have seen him diving into the world of Twitch streaming along with a soon-to-premiere webseries on self-reflection. From late night talk shows to character analysis panels, if you like your horses with a side of social science and humor, then look no further than Forward Progress!",
-        "Image": "/images/guests/Forward-Progress.png",
-        "Social": {
-            "Mastodon": "https://pettingzoo.co/@KFM"
-        }
-    }, {
         "Name": "CosmicKeyframe Productions",
         "Desc": "CosmicKeyframe is a jack of all trades! Streamer, artist, animator, VA -- She has had her hand in every aspect of the MLP Community and beyond! Besides her own works, she is also a main team member of famous nerdcore channel DAGames, and an active player in SaltyDKDans Pokemon Friendlocke! ",
         "Image": "/images/guests/Cosmic_Keyframe.png",
@@ -29,13 +8,6 @@
             "DeviantArt": "https://www.deviantart.com/cosmicchrissy",
             "Twitter": "https://twitter.com/CosmicKeyframe",
             "Website": "https://www.cosmickeyframeshq.com"
-        }
-    }, {
-        "Name": "RiffPonies!",
-        "Desc": "The makers of funny horse noises, the invaders of interwebs, the monsters that brought you \"fuf\"; it's not your grandmother's ponies; it's RIFFPONIES! Straight from the armpit of the country known as New Jersey comes the snarkiest pair of pony panelists in the fandom, led by Pony panelist extraordinaire Thoth Penswell & Pony fan-artist/animator Acesential! From mocking bad pony cartoons, to making YOU read bad fanfiction, to crowning the fandom's Next Top Artist and much much more, 11 out of 10 horse doctors STILL agree: RiffPonies is guaranteed to deliver you plenty of laughs and plenty of surprises!",
-        "Image": "/images/guests/bPSnjjj.jpeg",
-        "Social": {
-            "Twitter": "https://twitter.com/RiffPonies"
         }
     }, {
         "Name": "Crackle's Cousin Cosplay",
@@ -47,12 +19,40 @@
             "Twitter": "https://mobile.twitter.com/s_crackle"
         }
     }, {
+        "Name": "Forward Progress",
+        "Desc": "Where social science and pop culture meet, you'll find Forward Progress. Founder of the Keeping Friendship Magic project, Forward presents a wide array of content that ranges from the educational to the hilarious. His latest projects include have seen him diving into the world of Twitch streaming along with a soon-to-premiere webseries on self-reflection. From late night talk shows to character analysis panels, if you like your horses with a side of social science and humor, then look no further than Forward Progress!",
+        "Image": "/images/guests/Forward-Progress.png",
+        "Social": {
+            "Mastodon": "https://pettingzoo.co/@KFM"
+        }
+    }, {
+        "Name": "Koa",
+        "Desc": "Hiya, I'm Koa!\n\n I'm a yellow pega gremlin that makes music in a number of styles and doodles a whole bunch of bright, expressive horses (among other things). I'm always excited to connect with folks via my creative pursuits, and look forward to getting to do so again through PonyFest 6.0!",
+        "Image": "/images/guests/koa-logo.png",
+        "Social": {
+            "Twitter": "https://twitter.com/KoaPony"
+        }
+    }, {
         "Name": "MidnightPremiere",
         "Desc": "Howdy!\n\nI'm MidnightPremiere, a long-time artist and vendor for the MLP fandom. I run the Horsin' Around community Discord server, and I have created artwork for conventions such as BronyCon, BABSCon, and Ciderfest. I hope you enjoy my shenanigans!",
         "Image": "/images/guests/midprem_by_midnightpremiere_dfig9zn-pre.jpg",
         "Social": {
             "Beacons": "https://beacons.ai/midprem",
             "Twitter": "https://twitter.com/midprem/"
+        }
+    }, {
+        "Name": "RiffPonies!",
+        "Desc": "The makers of funny horse noises, the invaders of interwebs, the monsters that brought you \"fuf\"; it's not your grandmother's ponies; it's RIFFPONIES! Straight from the armpit of the country known as New Jersey comes the snarkiest pair of pony panelists in the fandom, led by Pony panelist extraordinaire Thoth Penswell & Pony fan-artist/animator Acesential! From mocking bad pony cartoons, to making YOU read bad fanfiction, to crowning the fandom's Next Top Artist and much much more, 11 out of 10 horse doctors STILL agree: RiffPonies is guaranteed to deliver you plenty of laughs and plenty of surprises!",
+        "Image": "/images/guests/bPSnjjj.jpeg",
+        "Social": {
+            "Twitter": "https://twitter.com/RiffPonies"
+        }
+    }, {
+        "Name": "SOUND BANDIT",
+        "Desc": "SOUND BANDIT has been making horse tunes since the dawn of time. She knows how to click a mouse around on a computer to create noise that sometimes resembles music.",
+        "Image": "/images/guests/boorakun_fanart.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/soundbandLt "
         }
     }]
 }

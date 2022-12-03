@@ -28,8 +28,8 @@
         "Image": "/images/vendors/CutePencilCase.png",
         "Social": {
             "Twitter": "https://twitter.com/CutePencilCase",
-            "Store": "www.cutepencilcase.art",
-            "DeviantArt": "deviantart.com/cutepencilcase"
+            "LinkTree": "https://linktr.ee/cutepencilcase",
+            "DeviantArt": "https://deviantart.com/cutepencilcase"
         }
     }, {
         "Name": "Earth-Pony Creations",
@@ -37,7 +37,7 @@
         "Image": "/images/vendors/Earth-Pony_Creations.png",
         "Social": {
             "Twitter": "https://twitter.com/Blazing_Beams",
-            "DeviantArt": "earth-pony.deviantart.com/"
+            "DeviantArt": "https://earth-pony.deviantart.com/"
         }
     }, {
         "Name": "Exobass",
@@ -45,8 +45,8 @@
         "Image": "/images/vendors/Exobass.png",
         "Social": {
             "Twitter": "https://twitter.com/exobass",
-            "DeviantArt": "exobass.deviantart.com",
-            "Ko‑Fi": "ko-fi.com/exobass"
+            "DeviantArt": "https://exobass.deviantart.com",
+            "Ko‑Fi": "https://ko-fi.com/exobass"
         }
     }, {
         "Name": "fannytastical",
@@ -122,14 +122,14 @@
         "Social": {
             "Twitter": "https://twitter.com/katiecoolchic",
             "Store": "https://www.etsy.com/uk/shop/KatiesArtsyCrafts",
-            "Ko‑Fi": "http://ko-fi.com/katiesartsycrafts"
+            "Ko‑Fi": "https://ko-fi.com/katiesartsycrafts"
         }
     }, {
         "Name": "L'Jenndary Shores",
         "Desc": "Off the southernmost coast of Equestria lies a sun-kissed archipelago where sea salt in your mane and a “beachy” attitude are just a way of life. Despite its carefree reputation, that hasn’t stopped the courageous wanderer from venturing beyond the wild waves and perusing through the rare treasures shimmering along the coastline.\n\nThrough shelves lined top-to-bottom with fun pieces featuring artwork by yours truly, L'Jenndary Shores is sure to spark your fancy.",
         "Image": "/images/vendors/LJenndary_Shores.png",
         "Social": {
-            "DeviantArt": "the-last-jennicorn.deviantart.com"
+            "DeviantArt": "https://the-last-jennicorn.deviantart.com"
         }
     }, {
         "Name": "lRUSUart and friends",
@@ -184,9 +184,9 @@
         "Desc": "Commissions, prints, stickers",
         "Image": "/images/vendors/Pucksterv.png",
         "Social": {
-            "Twitter": "twitter.com/Pucksterv",
-            "Store": "Pucksterv.studio",
-            "Twitch": "twitch.tv/Pucksterv"
+            "Twitter": "https://twitter.com/Pucksterv",
+            "Store": "https://Pucksterv.studio",
+            "Twitch": "https://twitch.tv/Pucksterv"
         }
     }, {
         "Name": "Red Palette Art",
@@ -194,9 +194,9 @@
         "Image": "/images/vendors/Red_Palette_Art.png",
         "Social": {
             "Twitter": "https://twitter.com/redpaletteart",
-            "Store": "RedPaletteArt.com",
+            "Store": "https://www.redpaletteart.com/",
             "DeviantArt": "https://www.deviantart.com/redpalette",
-            "Instagram": "instagram.com/red_palette"
+            "Instagram": "https://instagram.com/red_palette"
         }
     }, {
         "Name": "SkyRailroad",
@@ -211,8 +211,8 @@
         "Image": "/images/vendors/Sophie_Scruggs.jpeg",
         "Social": {
             "Twitter": "https://twitter.com/sophieascruggs",
-            "Instagram": "www.Instagram.com/sophieascruggs",
-            "Tumblr": "www.tumblr.com/sophieascruggs "
+            "Instagram": "https://Instagram.com/sophieascruggs",
+            "Tumblr": "https://tumblr.com/sophieascruggs "
         }
     }, {
         "Name": "spacekitsch",
@@ -227,7 +227,7 @@
         "Desc": "Hi hello and welcome to The Chimera's Den! My name is Chimera and I love to make art and merchandise to share with everyone! I'm a Hatsune Miku enthusiast and am in a variety of fandoms so I hope that you see something to your liking!",
         "Image": "/images/vendors/The_Chimeras_Den.png",
         "Social": {
-            "Twitter": "twitter.com/thechimerasden"
+            "Twitter": "https://twitter.com/thechimerasden"
         }
     }, {
         "Name": "TokoKami",

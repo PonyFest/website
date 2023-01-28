@@ -1,0 +1,535 @@
+{
+  "rooms": {
+    "Bit Rate's Stage": [
+      {
+        "id": "bit0",
+        "startTime": "2022-12-03T07:45:00-05:00",
+        "endTime": "2022-12-03T08:00:00-05:00",
+        "title": "Raising The Sun",
+        "panelists": "Staff",
+        "description": "Welcome to PonyFest Online!  Start out the day with a few of our friends from Europe as they kick things off with a brief welcome and introduction to PFO.",
+        "isZoom": false
+      },
+      {
+        "id": "bit1",
+        "startTime": "2022-12-03T08:00:00-05:00",
+        "endTime": "2022-12-03T09:00:00-05:00",
+        "title": "Gaming for Ponies",
+        "panelists": "New Leaf - NewLeaf#1346",
+        "description": "Ever wondered just how many options you have if your looking for the most awesome games but want ponies in them? Wonder no more! In this Panel will be highlighting and showcasing some of the most amazing choices and be playing some of course to get Ponies hyped! We have original games, games with ponies modded into them and many more ways that Pastel Ponies have invaded the gaming world and this Alicorn will be your guide!",
+        "isZoom": false
+      },
+      {
+        "id": "bit2",
+        "startTime": "2022-12-03T09:00:00-05:00",
+        "endTime": "2022-12-03T10:00:00-05:00",
+        "title": "Equestria at War",
+        "panelists": "VoidTemplar - VoidTemplar2000#4424\nPodrick Equus#0134\nBig Saij#1580",
+        "description": "Equestria at War is a total conversion mod for a popular World War II Grand Strategy Game called Hearts of Iron IV. The mod recreates the world of Friendship is Magic in an era of rapid industrialization, while expanding upon the show's themes of conflict, diplomacy, and magic. We will be exploring the world of Equestria, Hippogriffia, and over 70 other nations appropriate to the setting. Join us for an in-depth look at what this game has to offer.",
+        "isZoom": false
+      },
+      {
+        "id": "open",
+        "startTime": "2022-12-03T10:00:00-05:00",
+        "endTime": "2022-12-03T10:30:00-05:00",
+        "title": "Opening Ceremonies",
+        "panelists": "Staff",
+        "description": "Welcome to another Ponyfest!!!",
+        "isZoom": false
+      },
+      {
+        "id": "conb1",
+        "startTime": "2022-12-03T10:30:00-05:00",
+        "endTime": "2022-12-03T11:15:00-05:00",
+        "title": "Euro Concert\nPagan Pegaasus",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb2",
+        "startTime": "2022-12-03T11:15:00-05:00",
+        "endTime": "2022-12-03T12:00:00-05:00",
+        "title": "Euro Concert\nPrince Whateverer",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "bit4",
+        "startTime": "2022-12-03T12:00:00-05:00",
+        "endTime": "2022-12-03T13:30:00-05:00",
+        "title": "Equestria's Next Top Artist",
+        "panelists": "RiffPonies!\nThoth Penswell - Thoth#0070\nAcesential - acesential#0451\nNevaylin - Nevaylin#8124\nOther artists TBD",
+        "description": "Art is subjective...unless you're drawing PONIES, of course! Join the RiffPonies crew and an all-star cast of your FAVORITE My Little Pony fan-artists as they clash for artistic supremacy in a goofy gauntlet of art-based party games...with YOU as the judge! Join the laughs, be an art critic, and help decide who truly is \"Equestria's NEXT Top Artist\"!",
+        "isZoom": false
+      },
+      {
+        "id": "bit5",
+        "startTime": "2022-12-03T13:30:00-05:00",
+        "endTime": "2022-12-03T14:30:00-05:00",
+        "title": "How to make music with Pony vocal chops",
+        "panelists": "SOUND BANDIT - boby#2000",
+        "description": "Everyone knows how to download and open up FL studio, but are you familiar of the methods on how to create vocal chops? Sit down for an hour with SOUND BANDIT to explore the magical world of pony vocal chops! Learn the history and methodology of chops, and see first-hoof examples of how to make your own chops!",
+        "isZoom": false
+      },
+      {
+        "id": "bit6",
+        "startTime": "2022-12-03T14:30:00-05:00",
+        "endTime": "2022-12-03T15:00:00-05:00",
+        "title": "Makeup 101",
+        "panelists": "Terraklysh - Terraklysh#7717\nSeraselkie",
+        "description": "New to makeup and don't know where to begin? Come and join an experienced cosplayer as she goes over the basics of what to look for and how to apply makeup. ",
+        "isZoom": false
+      },
+      {
+        "id": "bit7",
+        "startTime": "2022-12-03T15:00:00-05:00",
+        "endTime": "2022-12-03T16:00:00-05:00",
+        "title": "Cosplay/Charity",
+        "panelists": "Terraklysh - terraklysh#7717",
+        "description": "Come see the amazing cosplayers in our community and have an opportunity to donate to a worthy cause as well. ",
+        "isZoom": true
+      },
+      {
+        "id": "bit9",
+        "startTime": "2022-12-03T16:30:00-05:00",
+        "endTime": "2022-12-03T17:30:00-05:00",
+        "title": "Q&A with Koa",
+        "panelists": "Koa - Koa#0029",
+        "description": "Koa both makes her own music and collaborates with many of the other musicians in the fandom with her distinct style.  Join us for a Q&A session.",
+        "isZoom": false
+      },
+      {
+        "id": "bit10",
+        "startTime": "2022-12-03T17:30:00-05:00",
+        "endTime": "2022-12-03T18:30:00-05:00",
+        "title": "Playing with Lasers with My Little Ties",
+        "panelists": "Igor - kaitou42#1342",
+        "description": "Laser etching ponies onto various metal things! Turning steel different color with lasers, and etching mugs, cups, and holiday ornaments, and more!",
+        "isZoom": false
+      },
+      {
+        "id": "bit11",
+        "startTime": "2022-12-03T18:30:00-05:00",
+        "endTime": "2022-12-03T19:30:00-05:00",
+        "title": "The Evolution of Pony Conventions (and Con-goers)",
+        "panelists": "Lycan - Lycanl#1401\nLarscis - Larscis#0001\nFoal Papers - foalpapers#7341",
+        "description": "Lycan, Larscis and Foal Papers: Three veterans of the fandom with over 25 years of ponycon experience between them talk about how ponycons have evolved over time. They will discuss early fandom in 2010s to current and future conventions in 2022 and beyond!",
+        "isZoom": false
+      },
+      {
+        "id": "bit12",
+        "startTime": "2022-12-03T19:30:00-05:00",
+        "endTime": "2022-12-03T21:00:00-05:00",
+        "title": "Painting and Ponies: Digital Version! ",
+        "panelists": "CosmicKeyframe - CosmicKeyframe#2470",
+        "description": "Are you into painting? Or just want to vibe? Well Painting and Ponies is for you! Join CosmicKeyframe as she gives a detailed step by step on a beautiful painting, utilizing surprisingly simple techniques to bring you a wonderful piece! And who knows, you may find a new hobby! ",
+        "isZoom": false
+      },
+      {
+        "id": "bit13",
+        "startTime": "2022-12-03T21:00:00-05:00",
+        "endTime": "2022-12-03T22:30:00-05:00",
+        "title": "Drawing Hacks With MidPrem",
+        "panelists": "MidnightPremiere - LittleMissSteak#6005",
+        "description": "Ever wonder how creative minds stay on top of their game? Turns out, we're all a bunch of con artists! Learn how to procrastinate, panic, and still look amazing on any canvas with MidnightPremiere!",
+        "isZoom": false
+      },
+      {
+        "id": "bit14",
+        "startTime": "2022-12-03T22:30:00-05:00",
+        "endTime": "2022-12-03T23:00:00-05:00",
+        "title": "Izzy Moonbow Fan Club",
+        "panelists": "Dani/Comfortizzyy - dani!#0449",
+        "description": "If you love Izzy, this is the place to be! We cover all things Izzy. Past, present, and what to expect in the future from the best horse!",
+        "isZoom": false
+      },
+      {
+        "id": "close",
+        "startTime": "2022-12-03T23:00:00-05:00",
+        "endTime": "2022-12-03T23:30:00-05:00",
+        "title": "Closing Ceremonies",
+        "panelists": "staff",
+        "description": "So Long, and Thanks for All the Fish",
+        "isZoom": false
+      },
+      {
+        "id": "conb3",
+        "startTime": "2022-12-03T23:30:00-05:00",
+        "endTime": "2022-12-04T00:15:00-05:00",
+        "title": "Mullet Music Productions",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb4",
+        "startTime": "2022-12-04T00:15:00-05:00",
+        "endTime": "2022-12-04T00:45:00-05:00",
+        "title": "Sound Bandit",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb5",
+        "startTime": "2022-12-04T00:45:00-05:00",
+        "endTime": "2022-12-04T01:30:00-05:00",
+        "title": "Koa",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb6",
+        "startTime": "2022-12-04T01:30:00-05:00",
+        "endTime": "2022-12-04T02:00:00-05:00",
+        "title": "Bolt the Super-Pony",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb7",
+        "startTime": "2022-12-04T02:00:00-05:00",
+        "endTime": "2022-12-04T02:45:00-05:00",
+        "title": "AWal Presents Happy Hearthswarming Core",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb8",
+        "startTime": "2022-12-04T02:45:00-05:00",
+        "endTime": "2022-12-04T03:30:00-05:00",
+        "title": "Khaliber",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conb9",
+        "startTime": "2022-12-04T03:30:00-05:00",
+        "endTime": "2022-12-04T04:30:00-05:00",
+        "title": "Dropper Vampire",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      }
+    ],
+    "E Gaming": [
+      {
+        "id": "gam1",
+        "startTime": "2022-12-03T15:00:00-05:00",
+        "endTime": "2022-12-03T18:00:00-05:00",
+        "title": "SSBU Battle Arena",
+        "panelists": "Izzy - LiliFloof#6366",
+        "description": "Choose your favorite fighter and battle it out.  Drop in as you can, come play some games and have fuf.",
+        "isZoom": false
+      }
+    ],
+    "Neural Net's Stage": [
+      {
+        "id": "conn1",
+        "startTime": "2022-12-03T10:30:00-05:00",
+        "endTime": "2022-12-03T11:15:00-05:00",
+        "title": "Euro Concert\nProwox",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn2",
+        "startTime": "2022-12-03T11:15:00-05:00",
+        "endTime": "2022-12-03T12:00:00-05:00",
+        "title": "Euro Concert\nTw3Lv3",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "net2",
+        "startTime": "2022-12-03T12:00:00-05:00",
+        "endTime": "2022-12-03T13:00:00-05:00",
+        "title": "Modern Underrated Brony Music",
+        "panelists": "Luck Rock - Luck Rock#4180",
+        "description": "There have been well over 1000 original brony songs released in the year 2022. It can be quite difficult to keep up with so much content, so here is a recap of at least some of the exciting, burgeoning talent that is out there! ",
+        "isZoom": false
+      },
+      {
+        "id": "net3",
+        "startTime": "2022-12-03T13:00:00-05:00",
+        "endTime": "2022-12-03T13:30:00-05:00",
+        "title": "Cosplay 101",
+        "panelists": "Crackle's Cousin Cosplay - Crackle's Cousin#7447",
+        "description": "Cosplay 101. This panel will cover the basics of cosplay for any skill level or budget with a focus on the elements looked at by the judges during a cosplay contest.  This panel's  helpful tips will make you a more confident cosplayer and inspire your creativity.",
+        "isZoom": false
+      },
+      {
+        "id": "net4",
+        "startTime": "2022-12-03T13:30:00-05:00",
+        "endTime": "2022-12-03T14:30:00-05:00",
+        "title": "On Building Better Worlds",
+        "panelists": "Nyronus - Nyronus#7709\nCynewulf - Alice (Cynewulf)#9941",
+        "description": "Join Cynewulf and Nyronus as they discuss the pitfalls (and opportunities!) many aspiring writers find when they first begin dreaming up fictional worlds.",
+        "isZoom": true
+      },
+      {
+        "id": "net5",
+        "startTime": "2022-12-03T14:30:00-05:00",
+        "endTime": "2022-12-03T15:30:00-05:00",
+        "title": "BlepCon: A Wholesome Community ",
+        "panelists": "Taylor Bowe-Mcardle - TaylorBMcardle#9533\nRed Card#3453 eliwood_sain#2196",
+        "description": "Did you need to find a place to spend time with friends during the pandemic? Worry not! Taylor and MLP fans run chill events in the BlepCon Discord server that use to be the old BronyCon server everyday weekly to make you feel like you're back at a con. Come hear how they started it all!",
+        "isZoom": false
+      },
+      {
+        "id": "net6",
+        "startTime": "2022-12-03T15:30:00-05:00",
+        "endTime": "2022-12-03T17:00:00-05:00",
+        "title": "Keeping Friendship Magic: Live!",
+        "panelists": "Forward Progress - Forward Progress#6891\nNova Rose - NovaRose#7242",
+        "description": "Live from PonyFest Online, it's the Keeping Friendship Magic Podcast! Join us for a live recording of our latest episode as Forward Progress, Nova Rose, and some very special guests discuss all things fandom, social science, and how to keep friendship magic!",
+        "isZoom": false
+      },
+      {
+        "id": "net7",
+        "startTime": "2022-12-03T17:00:00-05:00",
+        "endTime": "2022-12-03T17:30:00-05:00",
+        "title": "12 Days of Cosplay",
+        "panelists": "Crackle's Cousin Cosplay - Crackle's Cousin#7447",
+        "description": "Celebrate the 12 days of Cosplay with this holiday celebration of some amazing MLP fandom cosplayers. ",
+        "isZoom": false
+      },
+      {
+        "id": "bit8",
+        "startTime": "2022-12-03T17:30:00-05:00",
+        "endTime": "2022-12-03T18:00:00-05:00",
+        "title": "Wigworking 101",
+        "panelists": "Terraklysh - Terraklysh#7717\nSeraselkie",
+        "description": "Want to know how to properly care and style your cosplay wigs? Come and join us as we go over some basic wigworking techniques and tips to help your cosplay shine!",
+        "isZoom": false
+      },
+      {
+        "id": "conn3",
+        "startTime": "2022-12-03T23:30:00-05:00",
+        "endTime": "2022-12-04T00:15:00-05:00",
+        "title": "Nevermourn",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn4",
+        "startTime": "2022-12-04T00:15:00-05:00",
+        "endTime": "2022-12-04T00:45:00-05:00",
+        "title": "Royalpony",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn5",
+        "startTime": "2022-12-04T00:45:00-05:00",
+        "endTime": "2022-12-04T01:15:00-05:00",
+        "title": "AchieveHunter1",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn6",
+        "startTime": "2022-12-04T01:15:00-05:00",
+        "endTime": "2022-12-04T01:45:00-05:00",
+        "title": "Evershade",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn7",
+        "startTime": "2022-12-04T01:45:00-05:00",
+        "endTime": "2022-12-04T02:15:00-05:00",
+        "title": "DJSleepyHooves",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn8",
+        "startTime": "2022-12-04T02:15:00-05:00",
+        "endTime": "2022-12-04T03:00:00-05:00",
+        "title": "DJ Dashy",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn9",
+        "startTime": "2022-12-04T03:00:00-05:00",
+        "endTime": "2022-12-04T03:30:00-05:00",
+        "title": "BassPon3",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn10",
+        "startTime": "2022-12-04T03:30:00-05:00",
+        "endTime": "2022-12-04T04:00:00-05:00",
+        "title": "Drummershy",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      },
+      {
+        "id": "conn11",
+        "startTime": "2022-12-04T04:00:00-05:00",
+        "endTime": "2022-12-04T04:30:00-05:00",
+        "title": "Silly Filly Mopearound's Silly Fest",
+        "panelists": "",
+        "description": "",
+        "isZoom": false
+      }
+    ],
+    "Tabletop A": [
+      {
+        "id": "ta1",
+        "startTime": "2022-12-03T15:00:00-05:00",
+        "endTime": "2022-12-03T17:00:00-05:00",
+        "title": "Twilight Sparkle's Secret ShipFic Folder Online",
+        "panelists": "brambleshadow4",
+        "description": "Come play a game pairing different ponies with each other in a crazy competition to see who can earn points the fastest",
+        "isZoom": false
+      }
+    ],
+    "Tabletop B": [
+      {
+        "id": "tb1",
+        "startTime": "2022-12-03T10:00:00-05:00",
+        "endTime": "2022-12-03T13:00:00-05:00",
+        "title": "Dead Channel",
+        "panelists": "Undead Rattler",
+        "description": "a Straight-to-VHS Horror B-Movie RPG",
+        "isZoom": false
+      },
+      {
+        "id": "tb2",
+        "startTime": "2022-12-03T14:00:00-05:00",
+        "endTime": "2022-12-03T17:00:00-05:00",
+        "title": "Be Prepared",
+        "panelists": "Undead Rattler",
+        "description": "a horror game about camping",
+        "isZoom": false
+      },
+      {
+        "id": "tb3",
+        "startTime": "2022-12-03T18:00:00-05:00",
+        "endTime": "2022-12-03T23:00:00-05:00",
+        "title": "Try New Oneshot A Thon!",
+        "panelists": "Undead Rattler",
+        "description": "Where players can show up anytime, pick a random game from itch.io’s One-Page RPG Jams (2020-2022), and we’ll attempt to play it! There’s a few one player and two player RPGs in here, so don’t be shy!",
+        "isZoom": false
+      }
+    ]
+  },
+  "roomOrder": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Bit Rate's Stage",
+    "Neural Net's Stage",
+    "Tabletop A",
+    "Tabletop B",
+    "E Gaming"
+  ],
+  "times": [
+    "2022-12-03T07:45:00-05:00",
+    "2022-12-03T08:00:00-05:00",
+    "2022-12-03T08:15:00-05:00",
+    "2022-12-03T08:30:00-05:00",
+    "2022-12-03T08:45:00-05:00",
+    "2022-12-03T09:00:00-05:00",
+    "2022-12-03T09:15:00-05:00",
+    "2022-12-03T09:30:00-05:00",
+    "2022-12-03T09:45:00-05:00",
+    "2022-12-03T10:00:00-05:00",
+    "2022-12-03T10:15:00-05:00",
+    "2022-12-03T10:30:00-05:00",
+    "2022-12-03T10:45:00-05:00",
+    "2022-12-03T11:00:00-05:00",
+    "2022-12-03T11:15:00-05:00",
+    "2022-12-03T11:30:00-05:00",
+    "2022-12-03T11:45:00-05:00",
+    "2022-12-03T12:00:00-05:00",
+    "2022-12-03T12:15:00-05:00",
+    "2022-12-03T12:30:00-05:00",
+    "2022-12-03T12:45:00-05:00",
+    "2022-12-03T13:00:00-05:00",
+    "2022-12-03T13:15:00-05:00",
+    "2022-12-03T13:30:00-05:00",
+    "2022-12-03T13:45:00-05:00",
+    "2022-12-03T14:00:00-05:00",
+    "2022-12-03T14:15:00-05:00",
+    "2022-12-03T14:30:00-05:00",
+    "2022-12-03T14:45:00-05:00",
+    "2022-12-03T15:00:00-05:00",
+    "2022-12-03T15:15:00-05:00",
+    "2022-12-03T15:30:00-05:00",
+    "2022-12-03T15:45:00-05:00",
+    "2022-12-03T16:00:00-05:00",
+    "2022-12-03T16:15:00-05:00",
+    "2022-12-03T16:30:00-05:00",
+    "2022-12-03T16:45:00-05:00",
+    "2022-12-03T17:00:00-05:00",
+    "2022-12-03T17:15:00-05:00",
+    "2022-12-03T17:30:00-05:00",
+    "2022-12-03T17:45:00-05:00",
+    "2022-12-03T18:00:00-05:00",
+    "2022-12-03T18:15:00-05:00",
+    "2022-12-03T18:30:00-05:00",
+    "2022-12-03T18:45:00-05:00",
+    "2022-12-03T19:00:00-05:00",
+    "2022-12-03T19:15:00-05:00",
+    "2022-12-03T19:30:00-05:00",
+    "2022-12-03T19:45:00-05:00",
+    "2022-12-03T20:00:00-05:00",
+    "2022-12-03T20:15:00-05:00",
+    "2022-12-03T20:30:00-05:00",
+    "2022-12-03T20:45:00-05:00",
+    "2022-12-03T21:00:00-05:00",
+    "2022-12-03T21:15:00-05:00",
+    "2022-12-03T21:30:00-05:00",
+    "2022-12-03T21:45:00-05:00",
+    "2022-12-03T22:00:00-05:00",
+    "2022-12-03T22:15:00-05:00",
+    "2022-12-03T22:30:00-05:00",
+    "2022-12-03T22:45:00-05:00",
+    "2022-12-03T23:00:00-05:00",
+    "2022-12-03T23:15:00-05:00",
+    "2022-12-03T23:30:00-05:00",
+    "2022-12-03T23:45:00-05:00",
+    "2022-12-04T00:00:00-05:00",
+    "2022-12-04T00:15:00-05:00",
+    "2022-12-04T00:30:00-05:00",
+    "2022-12-04T00:45:00-05:00",
+    "2022-12-04T01:00:00-05:00",
+    "2022-12-04T01:15:00-05:00",
+    "2022-12-04T01:30:00-05:00",
+    "2022-12-04T01:45:00-05:00",
+    "2022-12-04T02:00:00-05:00",
+    "2022-12-04T02:15:00-05:00",
+    "2022-12-04T02:30:00-05:00",
+    "2022-12-04T02:45:00-05:00",
+    "2022-12-04T03:00:00-05:00",
+    "2022-12-04T03:15:00-05:00",
+    "2022-12-04T03:30:00-05:00",
+    "2022-12-04T03:45:00-05:00",
+    "2022-12-04T04:00:00-05:00",
+    "2022-12-04T04:15:00-05:00",
+    "2022-12-04T04:30:00-05:00"
+  ]
+}

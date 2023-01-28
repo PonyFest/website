@@ -40,7 +40,8 @@ Here's the process of creating a new version. Script TBD. In the meantime follow
    3. `sed -i "s/\/images\//\/${version}\/images\//g" content/pages/shirt.md`
 8. Type `hugo -D` to generate the site in "public"
 9. Copy the generated output (Minus the versioned folders) into your /static/$version folder
-   1. sed -i "s/\/images\//\/${version}\/images\//g" static/$version/css/main.css
+   1. cp public/* (minus versioned files) static/$version/.
+   2. sed -i "s/\/images\//\/${version}\/images\//g" static/$version/css/main.css
 10. Test the versioned output with `hugo server -D`
 11. Go to the new subdirectory (Bare in mine, dns resolve may point to 404)
 12. Verify the versioned sites point to the correct json file

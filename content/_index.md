@@ -30,15 +30,14 @@ p {
 	display: flex;
 }
 </style>
-<div style="display: block; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; align-items: center" class="main">
-	<div style="text-align: center; flex-grow: 1;  max-width: 1200px">
-        <img id="schedule" src="/images/PFO6announcement.png" width="90%">
+<div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
+	<div style="display:inline-block; text-align: center; flex-grow: 1;  max-width: 1200px">
+        <img id="schedule" src="/images/duo.png" style="width: 90%; max-width:600px;" >
     </div>
-    <br>
-	<div class="text-box" style="display: flex; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
+	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online 6: Hearth's Warming</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, December 3rd 2022</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest × PVFM <br> Concert 2023</h1>
+			<p style="font-size: 2em; margin: 0">Saturday/Sunday <br> January 28/29th</p>
 		</div>
 		<div>
             <!-- <p> some sort of tag line here </p> -->

@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    background-image: url("../6.0/images/PFO_background_flipped.jpg");
+    background-image: url("../images/PFO_background_flipped.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -166,7 +166,7 @@ a.discord
     color:#FFFFFF;
     background-color: #7289DA;
     text-decoration:none;
-    background-image: url(/6.0/6.0/images/discord.png);
+    background-image: url(/6.0/images/discord.png);
     background-size: contain;
     background-repeat: no-repeat;
     border-radius: 5px;
@@ -179,7 +179,7 @@ a.discord-icon
 {
     font-size:30pt;
     text-decoration:none;
-    background-image: url(/6.0/6.0/images/discord-icon.png);
+    background-image: url(/6.0/images/discord-icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

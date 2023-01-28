@@ -19,7 +19,7 @@ div.schedule-time-col {
 }
 div.schedule-room-col {
     min-width: 10em;
-    width: 10em;
+    width: 45em;
 }
 
 div.schedule-cell {
@@ -66,10 +66,10 @@ div.schedule-event-pop {
 }
 
 div.schedule-r1-odd {
-    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-r1-even {
-    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-r2-odd {
     background: repeating-linear-gradient(to bottom, rgba(58, 105, 181, 0.71), rgba(58, 105, 181, 0.71) calc(2em - 1px), #aebbea 2em);
@@ -96,10 +96,10 @@ div.schedule-r5-even {
     background: repeating-linear-gradient(to bottom, rgba(255, 168, 115, 0.71), rgba(255, 168, 115, 0.71) calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-r6-odd {
-    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-r6-even {
-    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-r7-odd {
     background: repeating-linear-gradient(to bottom, rgba(204, 61, 175, 0.71), rgba(204, 61, 175, 0.71) calc(2em - 1px), #aebbea 2em);

@@ -124,6 +124,27 @@ url: /staff
 
 </div>
 
+<div style="break-inside: avoid;">
+
+## Special Thanks
+- **Twilight//RainbowDerpy** - Streaming OPS, Resident Pony Town Expert
+- **Sleepy** - PVFM Owner, Mentor
+- **Industrialice** - PonyTown Project Lead Programmer
+- **PonyTown Team** - For being supported for all these years
+- **Reiuiji** - Our Resident Sylveon
+</div>
+
+<div style="break-inside: avoid;">
+
+## PonyTown Server Design Team
+- **Twilight//RainbowDerpy**
+- **Cloudburst**
+- **Delfynx**
+- **Onyx Deadshot**
+- **TheRealDashy**
+
+</div>
+
 </div>
 </div>
 </div>

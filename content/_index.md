@@ -1,6 +1,7 @@
 ---
 
 ---
+
 <style type="text/css">
 .discord-box {
 	margin-left: auto;
@@ -32,24 +33,24 @@ p {
 </style>
 <div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
 	<div style="display:inline-block; text-align: center; flex-grow: 1;  max-width: 1200px">
-        <img id="schedule" src="/images/duo.png" style="width: 90%; max-width:600px;" >
+        <img id="schedule" src="/images/AnthroDogs.png" style="width: 90%; max-width:900px;" >
     </div>
 	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
-		<div>
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest × PVFM <br> Concert 2023</h1>
-			<p style="font-size: 2em; margin: 0">Saturday/Sunday <br> January 28/29th</p>
-		</div>
-		<div>
-            <!-- <p> some sort of tag line here </p> -->
-		</div>
-		<!-- <div class="discord-box"> -->
-		<div>
-            <p style="font-weight: bold;">Pick up your badge here!</p>
-			<p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
-			<span id="onlineSpan" style="font-weight: normal;"></span></p>
-		</div>
-	</div>
+			<h1 style="font-size: 2.8em; margin: 0">BlueyFest!</h1>
+			<p style="font-size: 2em; margin: 0">Saturday <br> April 1st</p>
+            <p><a href="https://blueyfest.dog/"> BlueyFest.dog</a></p>
+    </div>
+    <div>
+        <!-- <p> some sort of tag line here </p> -->
+    </div>
+    <!-- <div class="discord-box"> -->
+    <div>
+        <p style="font-weight: bold;">Pick up your badge here!</p>
+        <p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
+        <span id="onlineSpan" style="font-weight: normal;"></span></p>
+    </div>
 </div>
+
 
 <script type="text/javascript">
 var onlineSpan = document.getElementById('onlineSpan');

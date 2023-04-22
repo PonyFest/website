@@ -18,7 +18,7 @@ The website utilizes GitHub pages (static website). The repo is configured with 
 # How to save the site for historical version retention
 Here's the process of creating a new version. Script TBD. In the meantime follow in a linux shell. Example uses bash syntax. 
 2. Pick the version name ($version)
-   1. `version=5.5`
+   1. `version=6.25`
 3. Create the versioned folder
    1. `mkdir static/${version}`
 4. Open the site and save the resulting json for schedule/guest/vendors/panels/etc. See examples below:

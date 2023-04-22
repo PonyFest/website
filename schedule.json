@@ -1,293 +1,273 @@
 {
     "rooms": {
-        "Aerial Soundwave's Stage": [
-            {
-                "id": "pv1",
-                "startTime": "2021-10-02T16:45:00-04:00",
-                "endTime": "2021-10-02T17:00:00-04:00",
-                "title": "PonyvilleFM Radio",
-                "panelists": "Audio from PVFM 1",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as1",
-                "startTime": "2021-10-02T17:00:00-04:00",
-                "endTime": "2021-10-02T17:45:00-04:00",
-                "title": "Einsamkeitus Floof",
-                "panelists": "EDM/Electronic",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as2",
-                "startTime": "2021-10-02T17:45:00-04:00",
-                "endTime": "2021-10-02T18:30:00-04:00",
-                "title": "Thunder_Kick",
-                "panelists": "Happy/UK Harcore and Drum \u0026 bass",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as3",
-                "startTime": "2021-10-02T18:30:00-04:00",
-                "endTime": "2021-10-02T19:15:00-04:00",
-                "title": "DJ Dashy",
-                "panelists": "Dance, House, Bounce, D\u0026B",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as4",
-                "startTime": "2021-10-02T19:15:00-04:00",
-                "endTime": "2021-10-02T20:00:00-04:00",
-                "title": "Bolt the Super-Pony",
-                "panelists": "Most likely House, Melbourne Bounce, and or Happy Hardcore",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as5",
-                "startTime": "2021-10-02T20:00:00-04:00",
-                "endTime": "2021-10-02T20:45:00-04:00",
-                "title": "Steryotype",
-                "panelists": "Lofi Hip-Hop/Instrumental Hip-Hop/R\u0026B",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as6",
-                "startTime": "2021-10-02T20:45:00-04:00",
-                "endTime": "2021-10-02T21:15:00-04:00",
-                "title": "MYCUTIEMARKISAGUN ",
-                "panelists": "Horse hip-hop, horse reggae, horse trap",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as7",
-                "startTime": "2021-10-02T21:15:00-04:00",
-                "endTime": "2021-10-02T22:00:00-04:00",
-                "title": "Dropper Vampire",
-                "panelists": "Big Room, Psy-Trance, Big Room Trance and some Hardstyle",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as8",
-                "startTime": "2021-10-02T22:00:00-04:00",
-                "endTime": "2021-10-02T22:30:00-04:00",
-                "title": "Rod Steven",
-                "panelists": "Eurobeat",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as9",
-                "startTime": "2021-10-02T22:30:00-04:00",
-                "endTime": "2021-10-02T23:15:00-04:00",
-                "title": "AWal",
-                "panelists": "UK \u0026 Happy Hardcore",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "as10",
-                "startTime": "2021-10-02T23:15:00-04:00",
-                "endTime": "2021-10-03T00:00:00-04:00",
-                "title": "pocketjawa",
-                "panelists": "Hardcore",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "pv2",
-                "startTime": "2021-10-03T00:00:00-04:00",
-                "endTime": "2021-10-03T00:15:00-04:00",
-                "title": "PonyvilleFM Radio",
-                "panelists": "Audio from PVFM 1",
-                "description": "",
-                "isZoom": false
-            }
-        ],
         "Bit Rate's Stage": [
             {
-                "id": "open",
-                "startTime": "2021-10-02T16:45:00-04:00",
-                "endTime": "2021-10-02T17:00:00-04:00",
-                "title": "Opening Ceremonies",
+                "id": "bit0",
+                "startTime": "2023-01-28T12:30:00-05:00",
+                "endTime": "2023-01-28T13:00:00-05:00",
+                "title": "Karcsesz - Into the Vortex ",
+                "panelists": "",
+                "description": "A short Drum & Bass DJ set made entirely of pony tracks. Catchy tunes guaranteed!",
+                "isZoom": false
+            },
+            {
+                "id": "bit1",
+                "startTime": "2023-01-28T13:00:00-05:00",
+                "endTime": "2023-01-28T14:00:00-05:00",
+                "title": "Emma aka TheMadhatterbrony - Emma's Hardstyle Hour",
+                "panelists": "",
+                "description": "Within an hour I'll walk you through all the facets of Hardstyle, from the soft upbeat stuff to stuff that makes you get noise complaints with a bass that causes earthquakes!\nCome to my set and experience all that Hardstyle has to offer, featuring both non fandom and fandom tracks!",
+                "isZoom": false
+            },
+            {
+                "id": "bit2",
+                "startTime": "2023-01-28T14:00:00-05:00",
+                "endTime": "2023-01-28T15:00:00-05:00",
+                "title": "DJ Dashy - Dashy's mix for Aerial - Party FUF",
+                "panelists": "",
+                "description": "Doing a FUF DnB set",
+                "isZoom": false
+            },
+            {
+                "id": "bit3",
+                "startTime": "2023-01-28T15:00:00-05:00",
+                "endTime": "2023-01-28T16:00:00-05:00",
+                "title": "PHES - French-ship Is Magic: 1 Hour of Groovy Tunes!",
+                "panelists": "",
+                "description": "A DJ set full of nothing but groovy tunes from the fandom. From French House and Future Funk to Nu Disco and Electro.",
+                "isZoom": false
+            },
+            {
+                "id": "bit4",
+                "startTime": "2023-01-28T16:00:00-05:00",
+                "endTime": "2023-01-28T17:00:00-05:00",
+                "title": "Nicolas Dominique - Lantern in the Dark 079 - PonyvilleFM 12th Anniversary",
+                "panelists": "",
+                "description": "Trance set filled with addictive wonders.",
+                "isZoom": false
+            },
+            {
+                "id": "bit5",
+                "startTime": "2023-01-28T17:00:00-05:00",
+                "endTime": "2023-01-28T18:00:00-05:00",
+                "title": "Thorinair - Glory of The Night 171",
+                "panelists": "",
+                "description": "Reprise of Thorinair’s Glory of The Night 171, the night continues in some deep vibes",
+                "isZoom": false
+            },
+            {
+                "id": "bit6",
+                "startTime": "2023-01-28T18:00:00-05:00",
+                "endTime": "2023-01-28T19:00:00-05:00",
+                "title": "DJ Sleepypony - A Journey Through Dance",
+                "panelists": "",
+                "description": "A DJ from rainy England with decades of DJ experience bringing you a mixed bag of dance styles sure to deliver some surprises!",
+                "isZoom": false
+            },
+            {
+                "id": "bit7",
+                "startTime": "2023-01-28T19:00:00-05:00",
+                "endTime": "2023-01-28T20:00:00-05:00",
+                "title": "pocketjawa - Better Sounding With Cake",
+                "panelists": "",
+                "description": "Happy Hardcore DJ Set",
+                "isZoom": false
+            },
+            {
+                "id": "bit8",
+                "startTime": "2023-01-28T20:00:00-05:00",
+                "endTime": "2023-01-28T21:00:00-05:00",
+                "title": "Khaliber - my dear sweet melancholy!",
+                "panelists": "",
+                "description": "Bass / Club Music",
+                "isZoom": false
+            },
+            {
+                "id": "bit9",
+                "startTime": "2023-01-28T21:00:00-05:00",
+                "endTime": "2023-01-28T22:00:00-05:00",
+                "title": "TripDiam - Elements of Style with TripDiam PVFM 12 Year Birthday Celebration Mix",
                 "panelists": "",
                 "description": "",
                 "isZoom": false
             },
             {
-                "id": "cb1",
-                "startTime": "2021-10-02T17:00:00-04:00",
-                "endTime": "2021-10-02T17:30:00-04:00",
-                "title": "Drummershy",
-                "panelists": "Prog Rock/Metal",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb2",
-                "startTime": "2021-10-02T17:30:00-04:00",
-                "endTime": "2021-10-02T18:00:00-04:00",
-                "title": "Joshua of Mullet Music Productions",
-                "panelists": "Hard Rock and Metal",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb3",
-                "startTime": "2021-10-02T18:00:00-04:00",
-                "endTime": "2021-10-02T18:30:00-04:00",
-                "title": "MC-Arch",
-                "panelists": "Soul / Hip hop / Dubstep",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb4",
-                "startTime": "2021-10-02T18:30:00-04:00",
-                "endTime": "2021-10-02T19:00:00-04:00",
-                "title": "SOUND BANDIT",
-                "panelists": "Digicore",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb5",
-                "startTime": "2021-10-02T19:00:00-04:00",
-                "endTime": "2021-10-02T19:30:00-04:00",
-                "title": "Evershade",
-                "panelists": "House, Pop, Bounce, Dance",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb6",
-                "startTime": "2021-10-02T19:30:00-04:00",
-                "endTime": "2021-10-02T20:00:00-04:00",
-                "title": "Pagan Pegasus",
-                "panelists": "Upbeat Electronic Music",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb7",
-                "startTime": "2021-10-02T20:00:00-04:00",
-                "endTime": "2021-10-02T20:30:00-04:00",
-                "title": "FORSAKE",
-                "panelists": "Progressive House",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb8",
-                "startTime": "2021-10-02T20:30:00-04:00",
-                "endTime": "2021-10-02T21:00:00-04:00",
-                "title": "Glimm",
-                "panelists": "Various Electronic Music",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb9",
-                "startTime": "2021-10-02T21:00:00-04:00",
-                "endTime": "2021-10-02T21:45:00-04:00",
-                "title": "DoTheDaringDew",
-                "panelists": "Acoustic, rock, and blues",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb10",
-                "startTime": "2021-10-02T21:45:00-04:00",
-                "endTime": "2021-10-02T22:30:00-04:00",
-                "title": "MathematicPony",
-                "panelists": "Pop, pop-rock, musical theater, singer-songwriter",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb11",
-                "startTime": "2021-10-02T22:30:00-04:00",
-                "endTime": "2021-10-02T23:15:00-04:00",
-                "title": "Prowox",
-                "panelists": "Various EDM genres/DnB. Depending on what kind of set I feel like doing",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "cb12",
-                "startTime": "2021-10-02T23:15:00-04:00",
-                "endTime": "2021-10-03T00:00:00-04:00",
-                "title": "Nevermourn",
-                "panelists": "Drum and Bass / Full Flavor",
-                "description": "",
-                "isZoom": false
-            },
-            {
-                "id": "close",
-                "startTime": "2021-10-03T00:00:00-04:00",
-                "endTime": "2021-10-03T00:15:00-04:00",
-                "title": "Closing Ceremonies",
+                "id": "bit10",
+                "startTime": "2023-01-28T22:00:00-05:00",
+                "endTime": "2023-01-28T23:00:00-05:00",
+                "title": "BlueIntellect - Riddim",
                 "panelists": "",
-                "description": "",
+                "description": "Heavy dubstep, house, and other miscellaneous songs.",
                 "isZoom": false
-            }
-        ],
-        "Vendor Hall": [
+            },
             {
-                "id": "vend",
-                "startTime": "2021-10-02T17:00:00-04:00",
-                "endTime": "2021-10-03T00:15:00-04:00",
-                "title": "Vendor Hall Open",
+                "id": "bit11",
+                "startTime": "2023-01-28T23:00:00-05:00",
+                "endTime": "2023-01-29T00:00:00-05:00",
+                "title": "Cod3breaker - brony & commercial EDM bangers!",
                 "panelists": "",
-                "description": "The Vendor Hall can be found on the PonyFest Discord: discord.gg/nSDGJCg",
+                "description": "The rising talented EDM Artist Cod3breaker is back on his first DJ performance of 2023. Come and join to enjoy of amazing Brony and commercial EDM bangers!.",
+                "isZoom": false
+            },
+            {
+                "id": "bit12",
+                "startTime": "2023-01-29T00:00:00-05:00",
+                "endTime": "2023-01-29T01:00:00-05:00",
+                "title": "Rock Fox - Classics on the fly ",
+                "panelists": "",
+                "description": "Rock Fox is a resident DJ for PVFM, having been spinning records every week on the station since 2017! Expect fandom classics mixed live and on the fly-and maybe some absolute nonsense on the way",
+                "isZoom": false
+            },
+            {
+                "id": "bit13",
+                "startTime": "2023-01-29T01:00:00-05:00",
+                "endTime": "2023-01-29T02:00:00-05:00",
+                "title": "AchieveHunter1 - ~ ",
+                "panelists": "",
+                "description": "I play a Variety of Music, DJing different types such as Dubstep, Eurobeat, Hardstyle, EDM, House and Brony Classes music.",
+                "isZoom": false
+            },
+            {
+                "id": "bit14",
+                "startTime": "2023-01-29T10:00:00-05:00",
+                "endTime": "2023-01-29T11:00:00-05:00",
+                "title": "DELTARYZ - DELTAMIX",
+                "panelists": "",
+                "description": "DJ set of catchy, melodic electronica & high-energy bangers",
+                "isZoom": false
+            },
+            {
+                "id": "bit15",
+                "startTime": "2023-01-29T11:00:00-05:00",
+                "endTime": "2023-01-29T11:30:00-05:00",
+                "title": "Bolt the Super-Pony - Happy Horsecore Horsaversary!",
+                "panelists": "",
+                "description": "UK/Happy Hardcore with possibly a little DnB mixed in",
+                "isZoom": false
+            },
+            {
+                "id": "bit17",
+                "startTime": "2023-01-29T12:00:00-05:00",
+                "endTime": "2023-01-29T13:00:00-05:00",
+                "title": "Drixale - Bop your mane",
+                "panelists": "",
+                "description": "To DJ, Complextro of BPMs 110-115.",
+                "isZoom": false
+            },
+            {
+                "id": "bit18",
+                "startTime": "2023-01-29T13:00:00-05:00",
+                "endTime": "2023-01-29T14:00:00-05:00",
+                "title": "Thunder_Kick - Most Thunderous Anniversary mix",
+                "panelists": "",
+                "description": "Hardcore and Drum n Bass",
+                "isZoom": false
+            },
+            {
+                "id": "bit19",
+                "startTime": "2023-01-29T14:00:00-05:00",
+                "endTime": "2023-01-29T15:00:00-05:00",
+                "title": "AWal - Celebrating 12 Years of Pony Radio With Happy Horsecore",
+                "panelists": "",
+                "description": "Resident DJ AWal returns once again for the 12th anniversary of PonyvilleFM. bringing his usual flavor of fast, energetic music showcasing some of the best the fandom has to offer in the realm of Happy Horsecore. Make sure to bring plenty of kandi and glowsticks, as you'll be raving the night away.",
+                "isZoom": false
+            },
+            {
+                "id": "bit20",
+                "startTime": "2023-01-29T15:00:00-05:00",
+                "endTime": "2023-01-29T16:00:00-05:00",
+                "title": "Prowox - Prowox's Phenomenal Pony Party",
+                "panelists": "",
+                "description": "Gonna be playing a bunch of pony bangers. Also I really should have decided to not give in to FOMO and focus on my Harmonycon set, but here I am.",
+                "isZoom": false
+            },
+            {
+                "id": "bit21",
+                "startTime": "2023-01-29T16:00:00-05:00",
+                "endTime": "2023-01-29T17:00:00-05:00",
+                "title": "Burning Gryphon - Try Not To Bug - IMPOSSIBLE",
+                "panelists": "",
+                "description": "Pure unchained Neurofunk madness from the buggiest of bugs to ever bug.",
+                "isZoom": false
+            },
+            {
+                "id": "bit22",
+                "startTime": "2023-01-29T17:00:00-05:00",
+                "endTime": "2023-01-29T18:00:00-05:00",
+                "title": "Korroki_Aternak - Tearout Dubstep/ Deathstep + Midtempo",
+                "panelists": "",
+                "description": "DJ set- focusing on Tearout Dubstep, Deathstep, and Midtempo",
                 "isZoom": false
             }
         ]
     },
     "roomOrder": [
         "",
-        "",
-        "",
-        "Bit Rate's Stage",
-        "Aerial Soundwave's Stage",
-        "Vendor Hall"
+        "Bit Rate's Stage"
     ],
     "times": [
-        "2021-10-02T16:45:00-04:00",
-        "2021-10-02T17:00:00-04:00",
-        "2021-10-02T17:15:00-04:00",
-        "2021-10-02T17:30:00-04:00",
-        "2021-10-02T17:45:00-04:00",
-        "2021-10-02T18:00:00-04:00",
-        "2021-10-02T18:15:00-04:00",
-        "2021-10-02T18:30:00-04:00",
-        "2021-10-02T18:45:00-04:00",
-        "2021-10-02T19:00:00-04:00",
-        "2021-10-02T19:15:00-04:00",
-        "2021-10-02T19:30:00-04:00",
-        "2021-10-02T19:45:00-04:00",
-        "2021-10-02T20:00:00-04:00",
-        "2021-10-02T20:15:00-04:00",
-        "2021-10-02T20:30:00-04:00",
-        "2021-10-02T20:45:00-04:00",
-        "2021-10-02T21:00:00-04:00",
-        "2021-10-02T21:15:00-04:00",
-        "2021-10-02T21:30:00-04:00",
-        "2021-10-02T21:45:00-04:00",
-        "2021-10-02T22:00:00-04:00",
-        "2021-10-02T22:15:00-04:00",
-        "2021-10-02T22:30:00-04:00",
-        "2021-10-02T22:45:00-04:00",
-        "2021-10-02T23:00:00-04:00",
-        "2021-10-02T23:15:00-04:00",
-        "2021-10-02T23:30:00-04:00",
-        "2021-10-02T23:45:00-04:00",
-        "2021-10-03T00:00:00-04:00"
+        "2023-01-28T12:00:00-05:00",
+        "2023-01-28T12:30:00-05:00",
+        "2023-01-28T13:00:00-05:00",
+        "2023-01-28T13:30:00-05:00",
+        "2023-01-28T14:00:00-05:00",
+        "2023-01-28T14:30:00-05:00",
+        "2023-01-28T15:00:00-05:00",
+        "2023-01-28T15:30:00-05:00",
+        "2023-01-28T16:00:00-05:00",
+        "2023-01-28T16:30:00-05:00",
+        "2023-01-28T17:00:00-05:00",
+        "2023-01-28T17:30:00-05:00",
+        "2023-01-28T18:00:00-05:00",
+        "2023-01-28T18:30:00-05:00",
+        "2023-01-28T19:00:00-05:00",
+        "2023-01-28T19:30:00-05:00",
+        "2023-01-28T20:00:00-05:00",
+        "2023-01-28T20:30:00-05:00",
+        "2023-01-28T21:00:00-05:00",
+        "2023-01-28T21:30:00-05:00",
+        "2023-01-28T22:00:00-05:00",
+        "2023-01-28T22:30:00-05:00",
+        "2023-01-28T23:00:00-05:00",
+        "2023-01-28T23:30:00-05:00",
+        "2023-01-29T00:00:00-05:00",
+        "2023-01-29T00:30:00-05:00",
+        "2023-01-29T01:00:00-05:00",
+        "2023-01-29T01:30:00-05:00",
+        "2023-01-29T02:00:00-05:00",
+        "2023-01-29T02:30:00-05:00",
+        "2023-01-29T03:00:00-05:00",
+        "2023-01-29T03:30:00-05:00",
+        "2023-01-29T04:00:00-05:00",
+        "2023-01-29T04:30:00-05:00",
+        "2023-01-29T05:00:00-05:00",
+        "2023-01-29T05:30:00-05:00",
+        "2023-01-29T06:00:00-05:00",
+        "2023-01-29T06:30:00-05:00",
+        "2023-01-29T07:00:00-05:00",
+        "2023-01-29T07:30:00-05:00",
+        "2023-01-29T08:00:00-05:00",
+        "2023-01-29T08:30:00-05:00",
+        "2023-01-29T09:00:00-05:00",
+        "2023-01-29T09:30:00-05:00",
+        "2023-01-29T10:00:00-05:00",
+        "2023-01-29T10:30:00-05:00",
+        "2023-01-29T11:00:00-05:00",
+        "2023-01-29T11:30:00-05:00",
+        "2023-01-29T12:00:00-05:00",
+        "2023-01-29T12:30:00-05:00",
+        "2023-01-29T13:00:00-05:00",
+        "2023-01-29T13:30:00-05:00",
+        "2023-01-29T14:00:00-05:00",
+        "2023-01-29T14:30:00-05:00",
+        "2023-01-29T15:00:00-05:00",
+        "2023-01-29T15:30:00-05:00",
+        "2023-01-29T16:00:00-05:00",
+        "2023-01-29T16:30:00-05:00",
+        "2023-01-29T17:00:00-05:00",
+        "2023-01-29T17:30:00-05:00",
+        "2023-01-29T18:00:00-05:00",
+        "2023-01-29T18:30:00-05:00",
+        "2023-01-29T19:00:00-05:00"
     ]
 }

@@ -1,5 +1,5 @@
 'use strict';
-const TARGET_DATE = new Date('2022-12-03T07:45:00-0500');
+const TARGET_DATE = new Date(pfoScheduleCountdown);
 const el = document.getElementById('countdown');
 
 /* Want a custom style for the countdown that pops */

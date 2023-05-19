@@ -51,7 +51,7 @@ p {
 /* Bottom right text */
 .bottom-center {
     position: absolute;
-    bottom: 8px;
+    bottom: 15%;
     left: 50%;
     transform: translate(-50%, 0%);
 }

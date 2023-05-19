@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', async function() {
     const cellBlockHeight = 2; //em
-    const blockTimeUnit = 15; // minutes
+    const blockTimeUnit = pfoSchedInterval; // minutes
     const schedRoot = $('.schedule-main');
     if(schedRoot.length == 0) { return; }
 
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         eventDesc.append(div);
         // Time
         div = $('<div class="schedule-event-pop-time"></div>');
-        div.text(`${myEvent.startTime.tz(userTz).format('h:mm A')} - ${myEvent.endTime.tz(userTz).format('h:mm A')}`);
+        div.text(`${myEvent.startTime.tz(userTz).format('YYYY-MM-DD h:mm A')} -- ${myEvent.endTime.tz(userTz).format('YYYY-MM-DD h:mm A')}`);
         eventDesc.append(div);
         // Time
         div = $('<div class="schedule-event-pop-panelists"></div>');

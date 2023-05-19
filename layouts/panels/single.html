@@ -2,6 +2,7 @@
 	<head>
 		<title>PonyFest Online! — {{.Params.StageName}}</title>
 		{{partial "head.html" .}}
+		{{partial "variables.html" .}}
 		<link href="https://vjs.zencdn.net/7.6.6/video-js.css" rel="stylesheet" />
 		<style>
 		body {
@@ -94,7 +95,7 @@
 		(function() {
 			const now = Math.round((new Date()).getTime() / 1000);
 			// We switch over 15 min till we go live
-			const live = Math.round((new Date("2022-12-03T07:30:00-0500").getTime() / 1000))
+			const live = Math.round((new Date(pfoScheduleCountdown).getTime() / 1000))
 			let player = null;
 			if (now < live) {
 				console.log("it's too early, waiting...")
@@ -102,7 +103,7 @@
 				var script = document.createElement("script");
 				script.setAttribute('src', "{{ $.Site.BaseURL }}scripts/countdown.js");
 				document.body.appendChild(script);
-				document.getElementById('stream-holder').innerHTML = "<div class=\"countdown\"><img src='/images/PFO6announcement.png' ><p class='bottom-center' id='countdown'></p></div>";
+				document.getElementById('stream-holder').innerHTML = "<div class=\"countdown\"><img src='/images/PFOxJPCannouncement.png' ><p class='bottom-center' id='countdown'></p></div>";
 
 	console.log("waiting " + timeout + "s to start");
 				setTimeout(() => { location.reload(); }, timeout * 1000 );

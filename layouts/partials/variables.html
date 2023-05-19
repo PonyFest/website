@@ -1,0 +1,3 @@
+<script type="text/javascript">pfoSchedApi = '{{ if $.Site.IsServer }}{{ index $.Site.Params "scheduleApiUri" }}{{ else }}{{ index $.Site.Params "scheduleApiUri" }}{{ end }}';</script>
+<script type="text/javascript">pfoSchedInterval = '{{ index $.Site.Params "scheduleInterval" }}';</script>
+<script type="text/javascript">pfoScheduleCountdown = '{{ index $.Site.Params "scheduleCountdown" }}';</script>

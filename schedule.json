@@ -3,11 +3,20 @@
         "Bit Rate's Stage": [
             {
                 "id": "open",
-                "startTime": "2023-05-20T22:00:00-04:00",
-                "endTime": "2023-05-20T22:05:00-04:00",
+                "startTime": "2023-05-20T21:45:00-04:00",
+                "endTime": "2023-05-20T22:00:00-04:00",
                 "title": "Opening",
                 "panelists": "",
                 "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "open1",
+                "startTime": "2023-05-20T22:00:00-04:00",
+                "endTime": "2023-05-20T22:05:00-04:00",
+                "title": "JPC Opening Animation",
+                "panelists": "",
+                "description": "Special Animation done for Japan PonyCon\nぱぴぷぺポニコ！オープニング",
                 "isZoom": false
             },
             {
@@ -86,9 +95,9 @@
                 "id": "close",
                 "startTime": "2023-05-21T03:00:00-04:00",
                 "endTime": "2023-05-21T03:05:00-04:00",
-                "title": "Closing",
+                "title": "JPC Closing Animation",
                 "panelists": "",
-                "description": "",
+                "description": "エンディング GOODBYE JAPAN",
                 "isZoom": false
             }
         ]
@@ -98,6 +107,9 @@
         "Bit Rate's Stage"
     ],
     "times": [
+        "2023-05-20T21:45:00-04:00",
+        "2023-05-20T21:50:00-04:00",
+        "2023-05-20T21:55:00-04:00",
         "2023-05-20T22:00:00-04:00",
         "2023-05-20T22:00:00-04:00",
         "2023-05-20T22:05:00-04:00",

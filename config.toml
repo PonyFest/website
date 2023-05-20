@@ -7,7 +7,7 @@ googleAnalytics = "UA-161603031-1"
   scheduleApiUriDev = "/schedule.json"
   scheduleApiUri = "/schedule.json"
   scheduleInterval = "5"
-  scheduleCountdown = "2023-05-20T22:00:00-04:00"
+  scheduleCountdown = "2023-05-20T21:45:00-04:00"
 
 # this lets use use HTML in our pages if we are so inclined.
 [markup.goldmark.renderer]

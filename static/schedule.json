@@ -2,6 +2,15 @@
     "rooms": {
         "Bit Rate's Stage": [
             {
+                "id": "open",
+                "startTime": "2023-05-20T22:00:00-04:00",
+                "endTime": "2023-05-20T22:05:00-04:00",
+                "title": "Opening",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
                 "id": "conc1",
                 "startTime": "2023-05-20T22:00:00-04:00",
                 "endTime": "2023-05-20T22:35:00-04:00",
@@ -72,6 +81,15 @@
                 "panelists": "Eksoka ",
                 "description": "",
                 "isZoom": false
+            },
+            {
+                "id": "close",
+                "startTime": "2023-05-21T03:00:00-04:00",
+                "endTime": "2023-05-21T03:05:00-04:00",
+                "title": "Closing",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
             }
         ]
     },
@@ -80,6 +98,7 @@
         "Bit Rate's Stage"
     ],
     "times": [
+        "2023-05-20T22:00:00-04:00",
         "2023-05-20T22:00:00-04:00",
         "2023-05-20T22:05:00-04:00",
         "2023-05-20T22:10:00-04:00",

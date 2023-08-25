@@ -1,0 +1,57 @@
+@font-face {
+    src: url("/fonts/mont-heavy.woff2");
+    font-family: "Mont";
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: center;
+    background-color: #FFFFFF ;
+}
+
+img {
+    max-width: 100%;
+    max-height: calc(100vh - 200px);
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-stream {
+    background-color: transparent;
+}
+
+p {
+    position: absolute;
+    text-align: center;
+    transition: opacity 300ms;
+    padding: 0;
+    margin: 0;
+    font-family: Mont, sans-serif;
+    font-weight: bold;
+    font-size: 7.5vw;
+    color: white;
+    font-variant-numeric: tabular-nums;
+    -webkit-text-stroke-width: 0.3vw;
+    -webkit-text-stroke-color: #0d1a5f;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+/* https://www.w3schools.com/howto/howto_css_image_text.asp */
+/* Container holding the image and the text */
+.countdown {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom right text */
+.bottom-center {
+    position: absolute;
+    bottom: 15%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}

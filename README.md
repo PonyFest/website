@@ -35,13 +35,15 @@ Here's the process of creating a new version. Script TBD. In the meantime follow
 6. Update the java scripts to point to the correct details
    3. `sed -i "s/https:\/\/schedule-api.ponyfest.horse\/schedule/\/${version}\/schedule.json/g" static/scripts/menu-script.js`
 7. Update the css static file for new version
-   1. `sed -i "s/\/images\//\/${version}\/images\//g" static/css/main.css`
+   1. `sed -i "s/\.\.\/images\//\/${version}\/images\//g" static/css/main.css`
+   1. `sed -i "s/url(\/images\//url(\/${version}\/images\//g" static/css/main.css`
    2. `sed -i "s/\/images\//\/${version}\/images\//g" content/_index.md`
    3. `sed -i "s/\/images\//\/${version}\/images\//g" content/pages/shirt.md`
 8. Type `hugo -D` to generate the site in "public"
 9. Copy the generated output (Minus the versioned folders) into your /static/$version folder
    1. cp public/* (minus versioned files) static/$version/.
-   2. sed -i "s/\/images\//\/${version}\/images\//g" static/$version/css/main.css
+      1. `find public -maxdepth 1 -type f -exec cp -t static/$version {} +`
+      2. `find public -maxdepth 1 -type d  -regextype posix-basic -regex 'public/\w*' -exec cp -r -t static/$version {} +`
 10. Test the versioned output with `hugo server -D`
 11. Go to the new subdirectory (Bare in mine, dns resolve may point to 404)
 12. Verify the versioned sites point to the correct json file
@@ -55,4 +57,8 @@ Here's the process of creating a new version. Script TBD. In the meantime follow
 15. Inspect few files to make sure pathing is correct
 16. Regenerate the new base version
     1. hugo server -D
+17. Add the new static files in
+    1. `git add static/$version/*`
+    2. `git add layouts/partials/footer.html`
+    3. `git commit -m "Added version $version into archive"`
 17. Save and push to GitHub. Don't forget to test the new website once it's deployed.

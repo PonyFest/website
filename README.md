@@ -43,7 +43,7 @@ Here's the process of creating a new version. Script TBD. In the meantime follow
 9. Copy the generated output (Minus the versioned folders) into your /static/$version folder
    1. cp public/* (minus versioned files) static/$version/.
       1. `find public -maxdepth 1 -type f -exec cp -t static/$version {} +`
-      2. `find public -maxdepth 1 -type d  -regextype posix-basic -regex 'public/\w*' -exec cp -r -t static/$version {} +`
+      2. `find public -maxdepth 1 -type d  -regextype posix-basic -regex 'public\/[a-zA-Z-]*' -exec cp -r -t static/$version {} +`
 10. Test the versioned output with `hugo server -D`
 11. Go to the new subdirectory (Bare in mine, dns resolve may point to 404)
 12. Verify the versioned sites point to the correct json file

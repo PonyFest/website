@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    background-image: url("../images/PFO_background_flipped.jpg");
+    background-image: url("/images/HalloweenPFObackground.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -39,7 +39,6 @@ html {
     /* width: 500px; */
     max-width: 80vw;
     border: 1px solid #aebbea;
-    background-color: #193568d2;
     border-radius: 5px;
     padding: 20px;
     text-align: center;
@@ -116,7 +115,7 @@ footer a {
 }
 
 .logo img {
-    height: 90px;
+    height: 150px;
 }
 
 nav {

@@ -39,6 +39,7 @@ html {
     /* width: 500px; */
     max-width: 80vw;
     border: 1px solid #aebbea;
+    background-color: #111111;
     border-radius: 5px;
     padding: 20px;
     text-align: center;

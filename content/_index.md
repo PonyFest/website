@@ -32,8 +32,8 @@ p {
 }
 </style>
 <div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
-	<div style="display:inline-block; text-align: center; flex-grow: 1;  max-width: 1200px">
-        <img id="schedule" src="/images/PFO7.png" style="width: 90%; max-width:900px;" >
+	<div style="display:inline-block; text-align: center; flex-grow: 1;">
+        <img id="schedule" src="/images/HalloweenPFOAlpha.png" style="width: 90%;" >
     </div>
 	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 			<h1 style="font-size: 2.8em; margin: 0">PonyFest 7</h1>

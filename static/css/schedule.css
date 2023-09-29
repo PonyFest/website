@@ -25,7 +25,7 @@ div.schedule-room-col {
 div.schedule-cell {
     box-sizing: border-box;
     height: 2em;
-    padding: 0.15em 0.25em;
+    padding: 0.25em 0.25em;
     background: repeating-linear-gradient(to bottom, transparent, transparent calc(2em - 1px), #aebbea 2em);
 }
 div.schedule-time-header, div.schedule-room-header {
@@ -128,10 +128,10 @@ div.schedule-r8-odd, div.schedule-r8-even {
     margin-top: 10px;
 }
 
-.event-opening-ceremonies, .event-closing-ceremonies {
-    background-color: red !important;
-    font-weight: bold !important;
-}
+/*.event-opening-ceremonies, .event-closing-ceremonies {*/
+/*    background-color: red !important;*/
+/*    font-weight: bold !important;*/
+/*}*/
 
 .euroline {
     position: absolute;

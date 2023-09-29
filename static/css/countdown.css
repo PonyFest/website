@@ -45,13 +45,16 @@ p {
 .countdown {
     position: relative;
     text-align: center;
-    color: white;
+    color: #3f00ea;
 }
 
 /* Bottom right text */
 .bottom-center {
+    border: 2px solid #3f00ea;
+    background-color: #111111;
+    border-radius: 5px;
     position: absolute;
-    bottom: 15%;
+    bottom: -25%;
     left: 50%;
     transform: translate(-50%, 0%);
 }

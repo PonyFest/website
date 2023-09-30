@@ -284,6 +284,11 @@ a.discord-icon
     flex-wrap: wrap;
     flex-direction: row;
     text-align: left;
+    justify-content: center;
+}
+
+.p > .guest-container {
+    max-width: 50%;
 }
 
 .guest-container > div {
@@ -305,8 +310,22 @@ a.discord-icon
     padding: 0 .5em;
     border-right: 2px solid white
 }
+
 .guest-links > a:last-child {
     border-right: none;
+}
+.guest-image > img  {
+    max-height: 250px;
+    max-width: 100%;
+    display:inline-block;
+    overflow: auto;
+    width: 80%;
+    /*border: 4px solid indigo;*/
+}
+
+.guest-VIP > .guest-image > img {
+    max-height: 600px;
+    /*border: 4px solid gold;*/
 }
 
 /* General mobile styles */

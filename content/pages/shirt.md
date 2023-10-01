@@ -1,7 +1,6 @@
 ---
 title: Charity Concert T-Shirt
 url: /shirt
-aliases: [/charity]
 ---
 
 # Charity T-Shirt

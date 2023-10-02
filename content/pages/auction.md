@@ -14,6 +14,8 @@ A charity organization providing supportive guide dogs to veterans, disabled peo
 
 Have something to donate? [Fill out this form!](https://forms.gle/HZuN8nP2bsZDGfdF9)
 
+We also have a Tiltify page! [Tiltify - PonyFest 7 Charity Auction](https://tiltify.com/@ponyfest/ponyfest-7-charity-auction) 
+
 ## Disclaimer
 Please be aware that you, as the prize donor, will be fully responsible for getting the prize to the recipient, whether it is a physical item or a service/digital good. Auction winners will cover shipping costs. We know issues can arise, but please make sure you are able to do what's reasonably in your power to get your donated prize to the auction winner. PonyFest is in no way liable for any part of the donating or shipping process. (See Disclaimer)
 

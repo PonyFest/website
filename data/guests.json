@@ -29,7 +29,7 @@
         "Type": "musician",
         "Name": "Chang31ing",
         "Style": "Electronic",
-        "Desc": "Box Musician",
+        "Desc": "📦",
         "Image": "/images/guests/Chang31ing.png",
         "Social": {
             "Twitter": "https://twitter.com/Chang31ing"
@@ -173,6 +173,7 @@
         "Type": "musician",
         "Name": "Thunder_Kick",
         "Style": "Drum n Bass and Hardcore",
+        "Desc": "Thunder_Kick is a hardcore and drum 'n bass DJ currently doing weekly shows on PonyvilleFM, and recently getting into the online VR scene. Active since 2018, she always performs live when possible.",
         "Image": "/images/guests/ThunderKick.png",
         "Social": {
             "Twitter": "https://twitter.com/djthunderkick"

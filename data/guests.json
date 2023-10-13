@@ -153,12 +153,12 @@
         }
     },{
         "Type": "musician",
-        "Name": "SOUND BANDIT",
-        "Style": "Hyperpop",
-        "Desc": "Sound Bandit has been rocking the waves of pony music since 2014. She came back after a half-decade long hiatus to bring forward thinking pony music to the scene. Come dance from across the globe to her energetic hits! She's here to bring the magic of G3 plunderphonics and hyperpop to your eardrums. Known in the scene for her heavy 808s and catchy high-pitched hooks, you can be sure that her tunes will steal the show!",
-        "Image": "/images/guests/bea.png",
+        "Name": "Blue Intellect",
+        "Style": "dubstep",
+        "Desc": "Hi. I'm BlueIntellect.\nI play heavy dubstep food people to headbang to.",
+        "Image": "/images/guests/BlueIntellect.png",
         "Social": {
-            "Twitter": "https://twitter.com/SOUNDBANDlT"
+            "Twitter": "https://twitter.com/IntellectBlue"
         }
     },{
         "Type": "musician",

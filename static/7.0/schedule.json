@@ -1,0 +1,483 @@
+{
+    "rooms": {
+        "Bit Rate's Stage": [
+            {
+                "id": "open",
+                "startTime": "2023-10-14T10:00:00-04:00",
+                "endTime": "2023-10-14T10:15:00-04:00",
+                "title": "Opening Ceremonies",
+                "panelists": "Staff",
+                "description": "Welcome to another Ponyfest!!!",
+                "isZoom": false
+            },
+            {
+                "id": "conb1",
+                "startTime": "2023-10-14T10:15:00-04:00",
+                "endTime": "2023-10-14T11:00:00-04:00",
+                "title": "Prowox",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb2",
+                "startTime": "2023-10-14T11:00:00-04:00",
+                "endTime": "2023-10-14T11:30:00-04:00",
+                "title": "Pagan Pegasus",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb3",
+                "startTime": "2023-10-14T11:30:00-04:00",
+                "endTime": "2023-10-14T12:00:00-04:00",
+                "title": "rawrity",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "bit1",
+                "startTime": "2023-10-14T12:00:00-04:00",
+                "endTime": "2023-10-14T13:30:00-04:00",
+                "title": "Jackbox with Taylor & Co",
+                "panelists": "Taylor Bowe-Mcardle",
+                "description": "Everybody loves a good game of Jackbox during any con weekend, what happens when you put eight people together with eight different personalities in one room? It's sure to be a good time. Come join Taylor and his crew for some fun and craziness!",
+                "isZoom": false
+            },
+            {
+                "id": "bit2",
+                "startTime": "2023-10-14T13:30:00-04:00",
+                "endTime": "2023-10-14T14:30:00-04:00",
+                "title": "Charity Auction",
+                "panelists": "Perrydotto",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "bit3",
+                "startTime": "2023-10-14T14:30:00-04:00",
+                "endTime": "2023-10-14T16:00:00-04:00",
+                "title": "SFM Ponies Nostalgia",
+                "panelists": "ACLP Films",
+                "description": "Come in to relax, get some comfort, and watch some of the fandom's oldest and most notable SFM ponies videos from the 2010s to the 2020s. As we celebrate 10 years of SFM Ponies animation. We'll review some of the history or recollections of these classic SFM Ponies along the road",
+                "isZoom": false
+            },
+            {
+                "id": "bit4",
+                "startTime": "2023-10-14T16:00:00-04:00",
+                "endTime": "2023-10-14T17:30:00-04:00",
+                "title": "Far-Fetched: Creating Indie Animation",
+                "panelists": "Ashley Nichols",
+                "description": "The creators of the indie animated show Far-Fetched, Ashley Nichols and Dave Capdevielle, will offer a look into what goes into the process of creating characters and world-building for indie cartoons!",
+                "isZoom": false
+            },
+            {
+                "id": "bit6",
+                "startTime": "2023-10-14T17:30:00-04:00",
+                "endTime": "2023-10-14T19:30:00-04:00",
+                "title": "Drawing 4 Exposure",
+                "panelists": "Midnight Premiere",
+                "description": "A panel of starving artists. A bloodthirsty crowd. Free requests... MidnightPremiere and the Dootz Crew challenge the audience in a desperate battle of wills! Participation will guarantee you the chance to win art!",
+                "isZoom": false
+            },
+            {
+                "id": "bit7",
+                "startTime": "2023-10-14T19:30:00-04:00",
+                "endTime": "2023-10-14T20:30:00-04:00",
+                "title": "How It's Made: Pony Fan Merch!",
+                "panelists": "Gleamy Dreams",
+                "description": "Are you a fan of pony fans and their fantabulous creations? Would you like to see how a lot of artists in this fandom produce their works at home? Whether you're just a fan of seeing how different products you enjoy are made at home or are interested in becoming a fandom artist/vendor, this panel may be just the one for you!",
+                "isZoom": false
+            },
+            {
+                "id": "bit8",
+                "startTime": "2023-10-14T20:30:00-04:00",
+                "endTime": "2023-10-14T21:30:00-04:00",
+                "title": "My Little Match Game",
+                "panelists": "Taylor Bowe-Mcardle",
+                "description": "A classic game show from the early 70's and 80's \"Match Game\" is getting ponified where contestants must match panelists answers exactly, join in for some fun as panelists try to come up with hilarious answers",
+                "isZoom": false
+            },
+            {
+                "id": "bit9",
+                "startTime": "2023-10-14T21:30:00-04:00",
+                "endTime": "2023-10-14T23:00:00-04:00",
+                "title": "Discussing the My Little Pony Deck-Building Game",
+                "panelists": "Christopher Chung",
+                "description": "Chris Chung from Renegade Game Studios' Game Design team will answer questions about the acclaimed game that's sweeping Equestria!",
+                "isZoom": false
+            },
+            {
+                "id": "close",
+                "startTime": "2023-10-14T23:00:00-04:00",
+                "endTime": "2023-10-14T23:15:00-04:00",
+                "title": "Closing Ceremonies",
+                "panelists": "Staff",
+                "description": "So Long and Thanks for all the Fish!",
+                "isZoom": false
+            },
+            {
+                "id": "conb4",
+                "startTime": "2023-10-14T23:15:00-04:00",
+                "endTime": "2023-10-15T00:00:00-04:00",
+                "title": "Foozogz",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb5",
+                "startTime": "2023-10-15T00:00:00-04:00",
+                "endTime": "2023-10-15T00:45:00-04:00",
+                "title": "Haunts, Howls and Happy Horsecore",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb6",
+                "startTime": "2023-10-15T00:45:00-04:00",
+                "endTime": "2023-10-15T01:30:00-04:00",
+                "title": "Bolt the Super-Pony",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb7",
+                "startTime": "2023-10-15T01:30:00-04:00",
+                "endTime": "2023-10-15T02:00:00-04:00",
+                "title": "Chang31ing",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb8",
+                "startTime": "2023-10-15T02:00:00-04:00",
+                "endTime": "2023-10-15T02:30:00-04:00",
+                "title": "Trey Husk",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb9",
+                "startTime": "2023-10-15T02:30:00-04:00",
+                "endTime": "2023-10-15T03:00:00-04:00",
+                "title": "SCR4TCHK4T",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conb10",
+                "startTime": "2023-10-15T03:00:00-04:00",
+                "endTime": "2023-10-15T03:30:00-04:00",
+                "title": "PHES",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            }
+        ],
+        "E Gaming": [
+            {
+                "id": "vrchat",
+                "startTime": "2023-10-14T20:30:00-04:00",
+                "endTime": "2023-10-15T03:30:00-04:00",
+                "title": "VRChat Hangout",
+                "panelists": "Derps456",
+                "description": "Wanna hang out with other bronies in VR? This meetup is just for you which takes place in VRChat. Even those who don't have VR headsets can still join this meetup.  Connect with Derps456 on VRChat to join the instance",
+                "isZoom": false
+            }
+        ],
+        "Neural Net's Stage": [
+            {
+                "id": "openn",
+                "startTime": "2023-10-14T10:00:00-04:00",
+                "endTime": "2023-10-14T10:15:00-04:00",
+                "title": "Opening Ceremonies",
+                "panelists": "Staff",
+                "description": "Welcome to another Ponyfest!!!",
+                "isZoom": false
+            },
+            {
+                "id": "conn1",
+                "startTime": "2023-10-14T10:15:00-04:00",
+                "endTime": "2023-10-14T10:45:00-04:00",
+                "title": "MC-Arch",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn2",
+                "startTime": "2023-10-14T10:45:00-04:00",
+                "endTime": "2023-10-14T11:15:00-04:00",
+                "title": "Blue Intellect",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn3",
+                "startTime": "2023-10-14T11:15:00-04:00",
+                "endTime": "2023-10-14T12:00:00-04:00",
+                "title": "Thunder_Kick",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "net1",
+                "startTime": "2023-10-14T12:00:00-04:00",
+                "endTime": "2023-10-14T12:30:00-04:00",
+                "title": "Do You Wanna Voice Act?",
+                "panelists": "Flitterkriz",
+                "description": "You curious to how to start voice acting, then let flitterkriz show you the basics of basic!",
+                "isZoom": false
+            },
+            {
+                "id": "net2",
+                "startTime": "2023-10-14T12:30:00-04:00",
+                "endTime": "2023-10-14T14:00:00-04:00",
+                "title": "PonyTube: New Faces of Content Creators",
+                "panelists": "ACLP Films",
+                "description": "This panel features the new faces of My Little Pony content creators that have entered the scene. Join as they detail their various experiences when building a social media platform in the modern MLP fandom, and offer great advice for those who want to start and expand their own channels (Q&A to follow). New creators type like, Graphic Artist, Musicans, Voice Acting, Streamers, and Animators. Be sure to come and ask any questions you have too! ",
+                "isZoom": false
+            },
+            {
+                "id": "net3",
+                "startTime": "2023-10-14T14:00:00-04:00",
+                "endTime": "2023-10-14T15:00:00-04:00",
+                "title": "So You Wanna Be A Community Guest",
+                "panelists": "Taylor Bowe-Mcardle",
+                "description": "Have you ever considered wanting to be a community guest for a convention but don't know where to begin? You will hear from a variety of folks in the fandom that have been guests at events and what it takes to being a CG with helpful tips to grow your audience",
+                "isZoom": false
+            },
+            {
+                "id": "net4",
+                "startTime": "2023-10-14T15:00:00-04:00",
+                "endTime": "2023-10-14T16:00:00-04:00",
+                "title": "Leatherworking 101",
+                "panelists": "DuncanKlysh",
+                "description": "Duncan will show everyone the key basic skills of leatherworking by making something on screen and explaining it and core tools used. These skills can then be applied to costumes, props, and other things.",
+                "isZoom": false
+            },
+            {
+                "id": "net5",
+                "startTime": "2023-10-14T16:00:00-04:00",
+                "endTime": "2023-10-14T17:00:00-04:00",
+                "title": "Use Your Words with Taylor & Co",
+                "panelists": "Taylor Bowe-Mcardle",
+                "description": "Get ready to play the sister version of Jackbox \"Use Your Words\" with Taylor and his crew. From quoting movie subtitles, newspaper headlines and filling in the blank answers that are sure to give you a good laugh. Come join in the craziness with this bunch",
+                "isZoom": false
+            },
+            {
+                "id": "net6",
+                "startTime": "2023-10-14T17:00:00-04:00",
+                "endTime": "2023-10-14T18:30:00-04:00",
+                "title": "Ponyville Party Pack",
+                "panelists": "ACLP Films",
+                "description": "Get ready for a wild and hilarious horse-themed experience that combines the beloved world of My Little Pony with the raucous fun of Jackbox Games.  In this unique panel, we'll dive into the funny side of Equestria as we play a series of irreverent and risqué games from the Jackbox Party Pack. Join your fellow bronies and pegasisters as we explore hilarious prompts, outrageous challenges, and indulge in some pony-themed adult humor.",
+                "isZoom": false
+            },
+            {
+                "id": "net7",
+                "startTime": "2023-10-14T18:30:00-04:00",
+                "endTime": "2023-10-14T19:30:00-04:00",
+                "title": "BlepCon: A Wholesome Community",
+                "panelists": "Taylor Bowe-Mcardle",
+                "description": "Did you need to find a place to spend time with friends during the pandemic? Worry not! Taylor and MLP fans run chill events in the BlepCon Discord server that use to be the old BronyCon server everyday weekly to make you feel like you're back at a con. Come hear how they started it all!",
+                "isZoom": false
+            },
+            {
+                "id": "net8",
+                "startTime": "2023-10-14T19:30:00-04:00",
+                "endTime": "2023-10-14T21:30:00-04:00",
+                "title": "Taski.sai Except It's PonyFest",
+                "panelists": "Taski",
+                "description": "A reactive draw stream powered by a dobbit full of cheese.\n\nthrow requests and suggestions at Taski (https://www.furaffinity.net/user/furseiseki) to draw pony actions and reactions",
+                "isZoom": false
+            },
+            {
+                "id": "net9",
+                "startTime": "2023-10-14T21:30:00-04:00",
+                "endTime": "2023-10-14T23:00:00-04:00",
+                "title": "Arting Starvist: A Digital Art Demo",
+                "panelists": "Midnight Premiere",
+                "description": "A comprehensive demonstration of MidnightPremiere’s digital art programs, process, and poor posture. Multiply, Layers, and Creating Art to Sell. Learn to draw on the computer!",
+                "isZoom": false
+            },
+            {
+                "id": "closen",
+                "startTime": "2023-10-14T23:00:00-04:00",
+                "endTime": "2023-10-14T23:15:00-04:00",
+                "title": "Closing Ceremonies",
+                "panelists": "Staff",
+                "description": "So Long and Thanks for all the Fish!",
+                "isZoom": false
+            },
+            {
+                "id": "conn4",
+                "startTime": "2023-10-14T23:15:00-04:00",
+                "endTime": "2023-10-14T23:45:00-04:00",
+                "title": "DoTheDaringDew",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn5",
+                "startTime": "2023-10-14T23:45:00-04:00",
+                "endTime": "2023-10-15T00:15:00-04:00",
+                "title": "Thrack",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn6",
+                "startTime": "2023-10-15T00:15:00-04:00",
+                "endTime": "2023-10-15T00:45:00-04:00",
+                "title": "Evershade",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn7",
+                "startTime": "2023-10-15T00:45:00-04:00",
+                "endTime": "2023-10-15T01:15:00-04:00",
+                "title": "Get Silly, Everypony!",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn8",
+                "startTime": "2023-10-15T01:15:00-04:00",
+                "endTime": "2023-10-15T02:00:00-04:00",
+                "title": "Achievehunter1",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn9",
+                "startTime": "2023-10-15T02:00:00-04:00",
+                "endTime": "2023-10-15T02:45:00-04:00",
+                "title": "Korroki_Aternak",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            },
+            {
+                "id": "conn10",
+                "startTime": "2023-10-15T02:45:00-04:00",
+                "endTime": "2023-10-15T03:30:00-04:00",
+                "title": "Cod3breaker",
+                "panelists": "",
+                "description": "",
+                "isZoom": false
+            }
+        ],
+        "Tabletop": [
+            {
+                "id": "ta1",
+                "startTime": "2023-10-14T15:00:00-04:00",
+                "endTime": "2023-10-14T17:00:00-04:00",
+                "title": "Twilight Sparkle's Secret ShipFic Folder Online",
+                "panelists": "brambleshadow4",
+                "description": "Come play a game pairing different ponies with each other in a crazy competition to see who can earn points the fastest",
+                "isZoom": false
+            }
+        ]
+    },
+    "roomOrder": [
+        "",
+        "",
+        "",
+        "",
+        "Bit Rate's Stage",
+        "Neural Net's Stage",
+        "Tabletop",
+        "E Gaming"
+    ],
+    "times": [
+        "2023-10-14T10:00:00-04:00",
+        "2023-10-14T10:15:00-04:00",
+        "2023-10-14T10:30:00-04:00",
+        "2023-10-14T10:45:00-04:00",
+        "2023-10-14T11:00:00-04:00",
+        "2023-10-14T11:15:00-04:00",
+        "2023-10-14T11:30:00-04:00",
+        "2023-10-14T11:45:00-04:00",
+        "2023-10-14T12:00:00-04:00",
+        "2023-10-14T12:15:00-04:00",
+        "2023-10-14T12:30:00-04:00",
+        "2023-10-14T12:45:00-04:00",
+        "2023-10-14T13:00:00-04:00",
+        "2023-10-14T13:15:00-04:00",
+        "2023-10-14T13:30:00-04:00",
+        "2023-10-14T13:45:00-04:00",
+        "2023-10-14T14:00:00-04:00",
+        "2023-10-14T14:15:00-04:00",
+        "2023-10-14T14:30:00-04:00",
+        "2023-10-14T14:45:00-04:00",
+        "2023-10-14T15:00:00-04:00",
+        "2023-10-14T15:15:00-04:00",
+        "2023-10-14T15:30:00-04:00",
+        "2023-10-14T15:45:00-04:00",
+        "2023-10-14T16:00:00-04:00",
+        "2023-10-14T16:15:00-04:00",
+        "2023-10-14T16:30:00-04:00",
+        "2023-10-14T16:45:00-04:00",
+        "2023-10-14T17:00:00-04:00",
+        "2023-10-14T17:15:00-04:00",
+        "2023-10-14T17:30:00-04:00",
+        "2023-10-14T17:45:00-04:00",
+        "2023-10-14T18:00:00-04:00",
+        "2023-10-14T18:15:00-04:00",
+        "2023-10-14T18:30:00-04:00",
+        "2023-10-14T18:45:00-04:00",
+        "2023-10-14T19:00:00-04:00",
+        "2023-10-14T19:15:00-04:00",
+        "2023-10-14T19:30:00-04:00",
+        "2023-10-14T19:45:00-04:00",
+        "2023-10-14T20:00:00-04:00",
+        "2023-10-14T20:15:00-04:00",
+        "2023-10-14T20:30:00-04:00",
+        "2023-10-14T20:45:00-04:00",
+        "2023-10-14T21:00:00-04:00",
+        "2023-10-14T21:15:00-04:00",
+        "2023-10-14T21:30:00-04:00",
+        "2023-10-14T21:45:00-04:00",
+        "2023-10-14T22:00:00-04:00",
+        "2023-10-14T22:15:00-04:00",
+        "2023-10-14T22:30:00-04:00",
+        "2023-10-14T22:45:00-04:00",
+        "2023-10-14T23:00:00-04:00",
+        "2023-10-14T23:15:00-04:00",
+        "2023-10-14T23:30:00-04:00",
+        "2023-10-14T23:45:00-04:00",
+        "2023-10-15T00:00:00-04:00",
+        "2023-10-15T00:15:00-04:00",
+        "2023-10-15T00:30:00-04:00",
+        "2023-10-15T00:45:00-04:00",
+        "2023-10-15T01:00:00-04:00",
+        "2023-10-15T01:15:00-04:00",
+        "2023-10-15T01:30:00-04:00",
+        "2023-10-15T01:45:00-04:00",
+        "2023-10-15T02:00:00-04:00",
+        "2023-10-15T02:15:00-04:00",
+        "2023-10-15T02:30:00-04:00",
+        "2023-10-15T02:45:00-04:00",
+        "2023-10-15T03:00:00-04:00",
+        "2023-10-15T03:15:00-04:00",
+        "2023-10-15T03:30:00-04:00",
+        "2023-10-15T03:45:00-04:00"
+    ]
+}

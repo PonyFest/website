@@ -1,0 +1,191 @@
+{
+    "guests": [{
+        "Type": "VIP",
+        "Name": "Ashley Nichols",
+        "Desc": "Ashley Nichols is an American animator and director. Some of her animation credits include TOO LOUD, Hazbin Hotel (Pilot), Ollie & Scoops, and Lackadaisy. Ashley is the Creator of the highly anticipated animated Horror / Comedy series Far-fetched. As well as the creator of the popular podcast \"Hunicast\".",
+        "Image": "/images/guests/Ashley_Nichols_Announcement.png",
+        "Social": {
+            "Twitter": "https://twitter.com/AshNicholsArt"
+        }
+    },{
+        "Type": "musician",
+        "Name": "AchieveHunter1",
+        "Style": "House, EDM, Hardstyle, Eurobeat and Brony Classes",
+        "Desc": "Hello everybody, I'm AchieveHunter1 and I'm happy to be here with all of you. I'm just a regular guy who likes to do different things in life. I'm originally known for Video Vlogs for Conventions on YouTube to wherever Conventions I go to. I also love to Perform on the Renegade Stage as a DJ for everyone who loves Music. I'm hoping to see you all at any Convention wherever I go to.\n\n LET'S DO THIS!",
+        "Image": "/images/guests/AchieveHunter1.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/AchieveHunter1"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Bolt the Super-Pony",
+        "Style": "Anything between fast House (140 BPM) to Eurobeat and Happy Hardcore",
+        "Desc": "Get ready for spooky classic Pony hits and new favorites, all tested for maximum dance-ability and performed live! Requests will be taken!",
+        "Image": "/images/guests/bolt.png",
+        "Social": {
+            "Twitter": "https://twitter.com/SuperPonyBolt"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Chang31ing",
+        "Style": "Electronic",
+        "Desc": "📦",
+        "Image": "/images/guests/Chang31ing.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Chang31ing"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Cod3breaker",
+        "Style": "Electronic Music",
+        "Desc": "Cod3breaker is a DJ & Music Producer of EDM. He has released music on Brony labels since 2021 like A State of Sugar, Equinity and VibePoniez.\nHe has performances on Brony online conventions like Whinny City Pony Con 2020, Sugarfest 2021, PonyFest Online 6 (Renegade Stage) & Dropper Vampire's Birthday DJ Party, and a guestmix on PonyvilleFM 10th Anniversary.\"",
+        "Image": "/images/guests/Cod3breaker.png",
+        "Social": {
+            "Twitter": "https://twitter.com/cod3breakrmusic"
+        }
+    },{
+        "Type": "musician",
+        "Name": "DoTheDaringDew",
+        "Style": "Acoustic, rock, blues, and folk",
+        "Desc": "DoTheDaringDew is a rock and acoustic musician from Dallas, Texas who plans on starting his own music business soon. He fell in love with the show back in early 2012 and since then, has performed at numerous pony conventions over the years, including past PonyFests! This water-carrying, hat-wearing horse brings a fun and passionate energy to the fandom he dearly loves, and has a blast with these online concerts!",
+        "Image": "/images/guests/DoTheDaringDew.png",
+        "Social": {
+            "Twitter": "https://twitter.com/DoTheDaringDew"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Evershade",
+        "Style": "pop, house, electronic",
+        "Desc": "Releasing music since 2019, Evershade has always been up for bringing a vibin' music set to the public. Expect to be grooving to the electronic dance and pop tracks in a spectacle that they have planned for you. Experience some familiar and even some new tunes that will get you on your feet… er… hooves!",
+        "Image": "/images/guests/Evershade.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Evershadee"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Foozogz",
+        "Style": "Happy Hardcore, Breakbeat, Drum & Bass, EDM",
+        "Desc": "Heavy hitters and saccharine beats, a living relic from the pony fandom approaches once again! Since 2011 until now, Foozogz has delivered time and time again his signature sound for ravers all around the world. From .~*Smile!*~. Rmx VIP to Make It Special to everything in between, his euphoric melodies are sure to brighten up your day!",
+        "Image": "/images/guests/foozogz.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Foozogz"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Get Silly, Everypony!",
+        "Style": "I'll be performing mainly experimental EDM (plunderphonics, complextro, house) and dance music (jerk, bounce, pop, etc.).",
+        "Desc": "Hi, everypony! I'm mopearound, a 19 year old multi-genre musician from the southern United States and a board-certified silly filly. I make all kinds of sounds!",
+        "Image": "/images/guests/mopeicon.png",
+        "Social": {
+            "Twitter": "https://twitter.com/mopearoundd"
+        }
+    },{
+        "Type": "musician",
+        "Name": "AWal",
+        "Style": "UK & Happy Hardcore",
+        "Desc": "AWal hails from the east, bringing a sound that is both fast and energetic. Be sure to bring your kandi and glowsticks because his show is definitely not one to miss.",
+        "Image": "/images/guests/awal.png",
+        "Social": {
+            "Twitter": "https://twitter.com/awal__"
+        }
+    },{
+        "Type": "musician",
+        "Name": "MC-Arch",
+        "Style": "HipHop, electronic, hybrid trap",
+        "Desc": "MC-Arch is a hiphop artist all the way from the Netherlands, who has a Passion for these Ponies. Him not being a Brony anymore, DOESN'T stop him from spreading that Love, hope, and joy to the crowd. Come celebrate with him what the Fandom is capable off and let's build that Bridge!  ",
+        "Image": "/images/guests/MC-Arch.png",
+        "Social": {
+            "Twitter": "https://twitter.com/II_MCArch_II"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Pagan Pegasus",
+        "Style": "Dubstep, Drum and Bass, Bass House",
+        "Desc": "Pagan Pegasus is a 25 year old trans DJ and Producer from Scotland who has recently broken into the Brony Musician scene, debuting at multiple conventions across North America earlier this year.",
+        "Image": "/images/guests/Pagan_Logo_White_Text.png",
+        "Social": {
+            "Twitter": "https://twitter.com/PaganPegasus"
+        }
+    },{
+        "Type": "musician",
+        "Name": "PHES",
+        "Style": "French House, Future Funk, Nu-Disco, Electro",
+        "Desc": "PHES is a music producer and DJ who has been making music since 2016, and has been dedicated to adding his own dash of French House, Future Funk and Disco songs in the Brony fandom. He used to be formerly known as FilledSilhoutte.",
+        "Image": "/images/guests/PHES.png",
+        "Social": {
+            "Twitter": "https://twitter.com/PHES_Tunes"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Prowox",
+        "Style": "Edm and/or DnB",
+        "Desc": "One of the few Finnish Bronies left who didn’t leave for the Anime- or Furry Fandom. In 2020 he started DJ'ing, performing at various online events, and co-founded an online pony music festival, all with the goal of spreading the magic of our fandoms music to anyone willing to listen. You can expect to hear either some Drum and Bass or a mix of various electronic genres, usually getting faster as it goes on.",
+        "Image": "/images/guests/prowox.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Prowox010"
+        }
+    },{
+        "Type": "musician",
+        "Name": "rawrity",
+        "Style": "Pop - the kind that ponies can dance and sing to! ",
+        "Desc": "rawrity makes unapologetic pony music from the comfort of her bedroom. with hints of indie rock, r&b, and bedroom pop, rawrity immerses you in a world of her imagination and helps you dance the night away!",
+        "Image": "/images/guests/rawrlogo.png",
+        "Social": {
+            "Twitter": "https://twitter.com/rawrityx3"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Korroki_Aternak",
+        "Style": "Dark Bass Genres (deathstep, tearout, minatory, Midtempo, etc) ",
+        "Desc": "Alien Cyberpony, Deathstep DJ/ Music Producer",
+        "Image": "/images/guests/KORROKILOGO.png",
+        "Social": {
+            "Twitter": "https://twitter.com/Korroki_Aternak"
+        }
+    },{
+        "Type": "musician",
+        "Name": "SCR4TCHK4T",
+        "Style": "I'll be performing a mix of Progressive House, Bass House, and Progressive Trance",
+        "Desc": "SCR4TCHK4T is an electronic music producer and DJ from Seattle, WA. She first started out in 2014 right around the same time she joined the Brony fandom. She's best known for her widely popular remixes and original songs, including collaborations with musicians like, SOUND BANDIT, CantoAcrylic, rawrity and many others. \nShe's also known for her fun energetic DJ sets, and has performed at various pony conventions and events like PonyFest Online, Burning Mare, Everfree Northwest, and many more!",
+        "Image": "/images/guests/SCR4TCHK4T.png",
+        "Social": {
+            "Twitter": "https://twitter.com/SCR4TCHK4T"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Blue Intellect",
+        "Style": "dubstep",
+        "Desc": "Hi. I'm BlueIntellect.\nI play heavy dubstep food people to headbang to.",
+        "Image": "/images/guests/BlueIntellect.png",
+        "Social": {
+            "Twitter": "https://twitter.com/IntellectBlue"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Thrack",
+        "Style": "Mostly solo acoustic content with some rock, Originals and covers with a few spooky surprises. CantoAcrylic, Jesh PK, and Ocean Breeze will likely join me digitally",
+        "Desc": "Yarr! The name's Captain Thrack and ya best believe I be creating the pony themed pirate music for the past year! Join me and friends in these shanties and be ready for a few spooky acoustic surprises mixed into my jumble of a rock/acoustic/piratey set.",
+        "Image": "/images/guests/thrack.png",
+        "Social": {
+            "Twitter": "https://twitter.com/CaptainThrack"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Thunder_Kick",
+        "Style": "Drum n Bass and Hardcore",
+        "Desc": "Thunder_Kick is a hardcore and drum 'n bass DJ currently doing weekly shows on PonyvilleFM, and recently getting into the online VR scene. Active since 2018, she always performs live when possible.",
+        "Image": "/images/guests/ThunderKick.png",
+        "Social": {
+            "Twitter": "https://twitter.com/djthunderkick"
+        }
+    },{
+        "Type": "musician",
+        "Name": "Trey Husk",
+        "Style": "House, Trance, Bounce",
+        "Desc": "Trey Husk is a Music Producer and DJ based out of Columbus, Ohio. He has been up and coming in the Brony and Furry fandoms, with various music releases on Ponies At Dawn, and many live performances at fan conventions across the country, from HarmonyCon to AnthroCon. Prepare to get lost in the sound, with his mix of uplifting dance and feel good vibes.",
+        "Image": "/images/guests/TreyHusk.jpg",
+        "Social": {
+            "Twitter": "https://twitter.com/TreyHuskMusic"
+        }
+    }]
+}

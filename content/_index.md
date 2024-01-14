@@ -33,11 +33,11 @@ p {
 </style>
 <div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
 	<div style="display:inline-block; text-align: center; flex-grow: 1;">
-        <img id="schedule" src="/images/HalloweenPFOAlpha.png" style="width: 90%;" >
+        <img id="schedule" src="/images/PVFM13.png" style="width: 90%;" >
     </div>
 	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest 7</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, October 14th 2023</p>
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 13th Birthday</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, January 27th 2024</p>
 			<!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
     </div>
     <div>

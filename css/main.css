@@ -1,11 +1,12 @@
 body {
     font-family: Helvetica, sans-serif;
-    background-image: url("/images/HalloweenPFObackground.png");
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    color: #f5d899;
-    text-shadow: 1px 1px 3px black;
+    /*background-image: url("/images/HalloweenPFObackground.png");*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    background-color: #89add7;
+    color: #fdfcf4;
+    text-shadow: 2px 2px 3px #5674bc;
     margin: 0;
 }
 
@@ -38,8 +39,8 @@ html {
 .text-box {
     /* width: 500px; */
     max-width: 80vw;
-    border: 1px solid #aebbea;
-    background-color: #111111;
+    border: 1px solid #90c9f0;
+    background-color: #90c9f0;
     border-radius: 5px;
     padding: 20px;
     text-align: center;
@@ -47,7 +48,8 @@ html {
 }
 
 footer {
-    color: lightgray;
+    color: #fdfcf4;
+    text-shadow: 2px 2px 3px #5674bc;
     text-align: center;
     overflow: hidden;
     width: 100%;
@@ -76,18 +78,18 @@ footer a {
 
 .topbar {
     height: 100%;
-  width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #90c9f0;
+    overflow-x: hidden;
+    padding-top: 20px;
 }
 
 .topbar a:hover {
-    color: #f39ccc;
+    color: #38393a;
 }
 
 .menu {
@@ -130,6 +132,7 @@ nav {
 
     min-width:100px;
     text-align:center;
+    font-weight: bold;
     align-items: center;
 }
 
@@ -140,19 +143,21 @@ a {
 nav a
 {
     padding: 6px 8px 6px 8px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #a1a1a1;
-  display: block;
+    text-decoration: none;
+    font-size: 25px;
+    text-shadow: 2px 2px 3px #5674bc;
+    color: #fdfcf4;
+    display: block;
 }
 
 div a {
-    color: #f17bac;
+    color: #38393a;
     font-weight: bold;
 }
 
 footer a {
-    color: lightgray;
+    color: #fdfcf4;
+    text-shadow: 2px 2px 3px #5674bc;
     font-weight: 400;
 }
 

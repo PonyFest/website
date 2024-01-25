@@ -127,6 +127,7 @@ footer a {
 }
 
 .logo object {
+    pointer-events: none;
     height: 150px;
 }
 

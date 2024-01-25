@@ -8,6 +8,7 @@ googleAnalytics = "UA-161603031-1"
   scheduleApiUri = "https://schedule-api.ponyfest.horse/schedule"
   scheduleInterval = "15"
   scheduleCountdown = "2024-01-27T13:45:00-05:00"
+  scheduleTransition = "5"
 
 # this lets use use HTML in our pages if we are so inclined.
 [markup.goldmark.renderer]

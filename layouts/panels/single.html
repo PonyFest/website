@@ -94,18 +94,19 @@
 
 		(function() {
 			const now = Math.round((new Date()).getTime() / 1000);
-			// We switch over 15 min till we go live
-			const live = Math.round((new Date(pfoScheduleCountdown).getTime() / 1000))
+			// We switch over N min till we go live
+			const switchTime = Math.round(pfoScheduleTransition) * 60
+			const live = Math.round((new Date(pfoScheduleCountdown).getTime() / 1000)) - switchTime
 			let player = null;
 			if (now < live) {
 				console.log("it's too early, waiting...")
-				const timeout = (live - now);
+				const timeout = (live - now) ;
 				var script = document.createElement("script");
 				script.setAttribute('src', "{{ $.Site.BaseURL }}scripts/countdown.js");
 				document.body.appendChild(script);
 				document.getElementById('stream-holder').innerHTML = "<div class=\"countdown\"><img src='/images/PVFM13.png' ><p class='bottom-center' id='countdown'></p></div>";
 
-	console.log("waiting " + timeout + "s to start");
+				console.log("waiting " + timeout + "s to start");
 				setTimeout(() => { location.reload(); }, timeout * 1000 );
 				return;
 			}

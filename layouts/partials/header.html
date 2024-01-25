@@ -1,7 +1,11 @@
 <header class="topbar closed">
     <div class="top">
-        <div class="logo">
-            <a href="/"><img src="{{ $.Site.BaseURL }}images/logo-white.png"></a>
+        <div class="logo img">
+            <a href="/">
+                <object class="svgClass" type="image/svg+xml" data="{{ $.Site.BaseURL }}images/PonyFestLogoFlat.svg"></object>
+<!--                <script type="text/javascript">document.querySelector(".svgClass").contentDocument.getElementById("svgInternalID").setAttribute("style", "fill: blue; stroke: black")</script>-->
+<!--                <svg> <use xlink:href="{{ $.Site.BaseURL }}images/PonyFestLogoFlat.svg#logo"></use></svg>-->
+            </a>
         </div>
         <div class="button-container" style="width: 74px; text-align: center">
             <button class="button-menu">Menu</button>

@@ -122,7 +122,12 @@ footer a {
 }
 
 .logo {
+    height: 150px;
     text-align: center;
+}
+
+.logo object {
+    height: 150px;
 }
 
 .logo img {

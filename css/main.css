@@ -1,12 +1,14 @@
+@import url("//fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic");
+
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: Arvo;
+    /*font-family: Helvetica, sans-serif;*/
     /*background-image: url("/images/HalloweenPFObackground.png");*/
     /*background-attachment: fixed;*/
     /*background-size: cover;*/
     /*background-position: center;*/
     background-color: #89add7;
-    color: #fdfcf4;
-    text-shadow: 2px 2px 3px #5674bc;
+    color: #182f7b;
     margin: 0;
 }
 
@@ -19,6 +21,10 @@ hr {
     border-width: 1px;
     width: 50%;
   }
+
+header {
+    text-shadow: -1px 3px #f0f0f0;
+}
 
 /* header {
     display: flex;
@@ -39,8 +45,9 @@ html {
 .text-box {
     /* width: 500px; */
     max-width: 80vw;
-    border: 1px solid #90c9f0;
+    border: 1px solid #182f7b;
     background-color: #90c9f0;
+    color: #182f7b;
     border-radius: 5px;
     padding: 20px;
     text-align: center;
@@ -48,8 +55,6 @@ html {
 }
 
 footer {
-    color: #fdfcf4;
-    text-shadow: 2px 2px 3px #5674bc;
     text-align: center;
     overflow: hidden;
     width: 100%;
@@ -74,6 +79,8 @@ footer a {
 
 .content h1 {
     text-align: center;
+    text-shadow: -2px 4px #f0f0f0;
+    color: #182f7b;
 }
 
 .topbar {
@@ -89,7 +96,8 @@ footer a {
 }
 
 .topbar a:hover {
-    color: #38393a;
+    color: #182f7b;
+    text-shadow: -2px 3px #733d6f00;
 }
 
 .menu {
@@ -114,7 +122,13 @@ footer a {
 }
 
 .logo {
+    height: 150px;
     text-align: center;
+}
+
+.logo object {
+    pointer-events: none;
+    height: 150px;
 }
 
 .logo img {
@@ -145,19 +159,17 @@ nav a
     padding: 6px 8px 6px 8px;
     text-decoration: none;
     font-size: 25px;
-    text-shadow: 2px 2px 3px #5674bc;
-    color: #fdfcf4;
+    color: #182f7b;
     display: block;
 }
 
 div a {
-    color: #38393a;
+    color: inherit;
     font-weight: bold;
 }
 
 footer a {
-    color: #fdfcf4;
-    text-shadow: 2px 2px 3px #5674bc;
+    color: inherit;
     font-weight: 400;
 }
 

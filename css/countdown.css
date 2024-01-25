@@ -1,14 +1,12 @@
 @font-face {
-    src: url("/fonts/mont-heavy.woff2");
-    font-family: "Mont";
+    font-family: Arvo;
 }
 
 body {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    position: center;
-    background-color: #FFFFFF ;
+    background-color: #89add7;
 }
 
 img {
@@ -27,13 +25,12 @@ p {
     transition: opacity 300ms;
     padding: 0;
     margin: 0;
-    font-family: Mont, sans-serif;
+    font-family: Arvo;
+    text-shadow: -2px 6px #733d6f;
     font-weight: bold;
     font-size: 7.5vw;
-    color: white;
+    color: #f6f6f7;
     font-variant-numeric: tabular-nums;
-    -webkit-text-stroke-width: 0.3vw;
-    -webkit-text-stroke-color: #0d1a5f;
 }
 
 .hidden {
@@ -50,8 +47,6 @@ p {
 
 /* Bottom right text */
 .bottom-center {
-    border: 2px solid #3f00ea;
-    background-color: #111111;
     border-radius: 5px;
     position: absolute;
     bottom: -25%;

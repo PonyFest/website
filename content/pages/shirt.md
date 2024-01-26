@@ -9,7 +9,8 @@ url: /shirt
 
 <div style="text-align: center;" id="shirt-ad">
 
-[![image of shirt charity shirt, front and back](/images/charity/pvfm_pfo_22.jpg)](https://www.customink.com/fundraising/ponyfest-pvfm-concert-2022)
+[![image of shirt charity shirt, front and back](/images/charity/pvfmpfo24shirtfront.jpg)](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
+[![image of shirt charity shirt, front and back](/images/charity/pvfmpfo24shirtback.jpg)](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
 
 </div>
 
@@ -17,20 +18,23 @@ url: /shirt
 
 #shirt-ad img {
 border-radius: 10px;
-max-width: 100%;
+max-width: 45%;
 }
 
 </style>
 
-For the PonyFest × PVFM Concert, we have another fantastic concert shirt AND a powerful charity attached!
+Hey fellow ponies and music lovers! Get ready to celebrate the 13th birthday of PonyvilleFM in style with our exclusive limited edition charity shirt! Get your hooves on this specially designed shirt that captures the magic and vibrancy of PonyFest Online × PonyvilleFM's 13th Birthday Concert!
 
-Our charity this time around is The Trevor Project, the world’s largest suicide prevention and crisis intervention organization for LGBTQ+ youth. Providing free counseling over chat, phone, and text as well as doing important advocacy and activist work, Trevor Project has supported gay, lesbian, bisexual, transgender, non-binary, gender-nonconforming, and questioning young people across the entire United States since 1998. Their counseling services are available 24/7 and staffed by trained volunteers and experts.
+This shirt will act as a keepsake to remember this truly wonderful collaboration concert. These shirts are highly popular and have been seen all around the world! Featuring art from HauntedTuba, this shirt includes both Aerial Soundwaves (the mascot for PonyvilleFM) and Bit Rate (the mascot for PonyFest Online). On the back, the names of all the musicians who performed at the event are also included. It is a must-have for every true fan!
 
-Particularly during the Covid-19 pandemic, the risk for LGBTQ+ youth to lose safety nets, become homeless, get abused, or be otherwise at high risk of personal crisis has increased massively. All money benefiting The Trevor Project will go directly into providing crucial resources and crisis support for youth in need.
+Also, all money raised from this shirt not used for production, handling and shipping goes directly to Guide Dogs For America: https://www.guidedogsofamerica.org/
+
+PonyvilleFM is an online radio station and community that focuses on My Little Pony-themed content, including music, podcasts, and other related programming. They were established in 2011 and is celebrating their 13th birthday. PonyvilleFM often collaborates with artists and creators within the brony community, providing a platform for sharing music and content inspired by the My Little Pony franchise. The station has been a hub for fans to connect, share their passion for the show, and enjoy a variety of music genres.
+PonyFest Online is an online Pony Convention. They were established in 2020 and have already had 7 full pony conventions and numerous concert events since their creation.
 
 <span style="font-size: xx-large;">
 
-[Buy the shirts on CustomInk!](https://www.customink.com/fundraising/ponyfest-pvfm-concert-2022)
+[Buy the shirts on CustomInk!](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
 
 </span>
 
@@ -38,16 +42,15 @@ Particularly during the Covid-19 pandemic, the risk for LGBTQ+ youth to lose saf
 
 **Q: Are there only 100 shirts available?**
 
-A: No, there are an infinite number of shirts to be had! 100 is just an initial goal, and one we would very much like to beat!
+A: No, there are an infinite number of shirts to be had! 50 is just an initial goal, and one we would very much like to beat!
 
 **Q: Do these shirts ship internationally?**
 
 A: Yes! Printing, processing and shipping is directly handled by CustomInk, and they offer worldwide shipping!
 
-
 **Q: Does the shirt come in a different fit?**
 
-A: Unfortunately not! We offer the shirt at a unisex fit, avaible in sizes YXS to 4XL. Please check out the fundraiser page for a more detailed sizing guide!
+A: Unfortunately not! We offer the shirt at a unisex fit, available in sizes YXS to 4XL. Please check out the fundraiser page for a more detailed sizing guide!
 
 
 </div>

@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         
         eventDesc.hide();
         eventDesc.click(eventPopClick);
+        eventDesc.hover(eventPopClick);
         return eventDesc;
     }
     
@@ -152,6 +153,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                     cell.height(`${height}em`);
                     if(block.id !== '-blank-') {
                         cell.click( (e) => schedClick(e, block.event) );
+                        cell.hover( (e) => schedClick(e, block.event));
                     }
                     roomCol.append(cell);
                 }

@@ -83,6 +83,12 @@ footer a {
     color: #182f7b;
 }
 
+.content h3 {
+    text-align: center;
+    text-shadow: -2px 4px #f0f0f0;
+    color: #182f7b;
+}
+
 .topbar {
     height: 100%;
     width: 200px;

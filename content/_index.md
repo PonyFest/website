@@ -38,6 +38,8 @@ p {
 	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
 			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 13th Birthday</h1>
 			<p style="font-size: 2em; margin: 0">Saturday, January 27th 2024</p>
+			<h3 style="font-size: 2em; margin: 0">Encore</h3>
+			<p style="font-size: 2em; margin: 0">Sunday, January 28th 2024</p>
 			<!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
     </div>
     <div>

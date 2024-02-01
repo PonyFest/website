@@ -1,0 +1,668 @@
+{
+  "rooms": {
+    "Aerial Soundwaves Stage": [
+      {
+        "id": "open",
+        "startTime": "2024-01-27T13:45:00-05:00",
+        "endTime": "2024-01-27T14:00:00-05:00",
+        "title": "Opening Ceremonies",
+        "panelists": "Staff",
+        "description": "PonyFest Online x PVFM 13th Birthday!!!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit1",
+        "startTime": "2024-01-27T14:00:00-05:00",
+        "endTime": "2024-01-27T15:00:00-05:00",
+        "title": "Prowox",
+        "panelists": "Prowox's pony party",
+        "description": "Prowox is bringing a set filled with pony tunes, ranging from old classics to new bangers, with some overlooked gems sprinkled in. ",
+        "type": "Live"
+      },
+      {
+        "id": "bit2",
+        "startTime": "2024-01-27T15:00:00-05:00",
+        "endTime": "2024-01-27T16:00:00-05:00",
+        "title": "AWal",
+        "panelists": "In For The Long Haul: 13 Years of Happy Horsecore",
+        "description": "DJ set where I play my favorite and some of the best UK \u0026 Happy Hardcore tracks from the fandom, and maybe a few of my own productions as well.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit3",
+        "startTime": "2024-01-27T16:00:00-05:00",
+        "endTime": "2024-01-27T17:00:00-05:00",
+        "title": "Nicholas Dominique",
+        "panelists": "Lantern in the Dark",
+        "description": "Chillout and Trance",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit4",
+        "startTime": "2024-01-27T17:00:00-05:00",
+        "endTime": "2024-01-27T17:45:00-05:00",
+        "title": "VinylTastic",
+        "panelists": "All is fair in Crab and Memes",
+        "description": "You like Crabs? You love memes? Then DJ VinylTastic is the musician for you! Get ready for a jam packed performance full of Electro House, dubstep and most importantly......crabs! ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit5",
+        "startTime": "2024-01-27T17:45:00-05:00",
+        "endTime": "2024-01-27T18:30:00-05:00",
+        "title": "PRPL_KTTY",
+        "panelists": "Dark Techno",
+        "description": "Dark Techno Electronic Music Set",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit6",
+        "startTime": "2024-01-27T18:30:00-05:00",
+        "endTime": "2024-01-27T19:00:00-05:00",
+        "title": "AchieveHunter1",
+        "panelists": "House, Hardstyle, Eurobeat and Brony Classic Music",
+        "description": "I Perform as a DJ for the Brony Fandom",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit7",
+        "startTime": "2024-01-27T19:00:00-05:00",
+        "endTime": "2024-01-27T19:30:00-05:00",
+        "title": "DJ SoundBreaker",
+        "panelists": "Musics in  the clouds",
+        "description": "A mix with a lot of style brony and non brony but always in full improvisation",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit8",
+        "startTime": "2024-01-27T19:30:00-05:00",
+        "endTime": "2024-01-27T20:15:00-05:00",
+        "title": "Royalpony",
+        "panelists": "Harddance (Hardstyle and happy hardcore)",
+        "description": "Ill be performing a mix of euphoric Rawstyle, extra raw and happy hardcore.",
+        "type": "Live"
+      },
+      {
+        "id": "bit9",
+        "startTime": "2024-01-27T20:15:00-05:00",
+        "endTime": "2024-01-27T21:00:00-05:00",
+        "title": "PegasYs",
+        "panelists": "Gameboy Beebop",
+        "description": "Lately PegasYs has been on a kick. A chiptune low-bit kick. Expect him to incorporate hard-hitting bass and classic 8-bit sounds in a set that will definitely leave you saying \"that sure sounded like what our parents warned us Pacman was going to do to our brains\".",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit10",
+        "startTime": "2024-01-27T21:00:00-05:00",
+        "endTime": "2024-01-27T22:00:00-05:00",
+        "title": "Thunder_Kick",
+        "panelists": "Friendship is Rave",
+        "description": "Live hardcore and drum n bass mix",
+        "type": "Live"
+      },
+      {
+        "id": "bit11",
+        "startTime": "2024-01-27T22:00:00-05:00",
+        "endTime": "2024-01-27T23:00:00-05:00",
+        "title": "Bolt",
+        "panelists": "PVFM 13th Birth-aversary Request Set!",
+        "description": "Bolt will be taking your requests LIVE in a set containing anything from Electro-Swing to Eurobeat, mostly made up on the spot!",
+        "type": "Live"
+      },
+      {
+        "id": "bit12",
+        "startTime": "2024-01-27T23:00:00-05:00",
+        "endTime": "2024-01-28T00:00:00-05:00",
+        "title": "Sleepypony",
+        "panelists": "PonyvilleFM Owner",
+        "description": "Doing a special guest appearance",
+        "type": "PreRecord"
+      },
+      {
+        "id": "close",
+        "startTime": "2024-01-28T00:00:00-05:00",
+        "endTime": "2024-01-28T00:15:00-05:00",
+        "title": "Closing Ceremonies",
+        "panelists": "Staff",
+        "description": "Thank you for all the fish",
+        "type": "PreRecord"
+      },
+      {
+        "id": "bit13",
+        "startTime": "2024-01-28T00:15:00-05:00",
+        "endTime": "2024-01-28T01:45:00-05:00",
+        "title": "Scootaloose",
+        "panelists": "Surpise DJ",
+        "description": "",
+        "type": ""
+      },
+      {
+        "id": "2open",
+        "startTime": "2024-01-28T13:45:00-05:00",
+        "endTime": "2024-01-28T14:00:00-05:00",
+        "title": "Opening Ceremonies",
+        "panelists": "Staff",
+        "description": "PonyFest Online x PVFM 13th Birthday!!!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit1",
+        "startTime": "2024-01-28T14:00:00-05:00",
+        "endTime": "2024-01-28T15:00:00-05:00",
+        "title": "Prowox",
+        "panelists": "Prowox's pony party",
+        "description": "Prowox is bringing a set filled with pony tunes, ranging from old classics to new bangers, with some overlooked gems sprinkled in. ",
+        "type": "Live"
+      },
+      {
+        "id": "2bit2",
+        "startTime": "2024-01-28T15:00:00-05:00",
+        "endTime": "2024-01-28T16:00:00-05:00",
+        "title": "AWal",
+        "panelists": "In For The Long Haul: 13 Years of Happy Horsecore",
+        "description": "DJ set where I play my favorite and some of the best UK \u0026 Happy Hardcore tracks from the fandom, and maybe a few of my own productions as well.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit3",
+        "startTime": "2024-01-28T16:00:00-05:00",
+        "endTime": "2024-01-28T17:00:00-05:00",
+        "title": "Nicholas Dominique",
+        "panelists": "Lantern in the Dark",
+        "description": "Chillout and Trance",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit4",
+        "startTime": "2024-01-28T17:00:00-05:00",
+        "endTime": "2024-01-28T17:45:00-05:00",
+        "title": "VinylTastic",
+        "panelists": "All is fair in Crab and Memes",
+        "description": "You like Crabs? You love memes? Then DJ VinylTastic is the musician for you! Get ready for a jam packed performance full of Electro House, dubstep and most importantly......crabs! ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit5",
+        "startTime": "2024-01-28T17:45:00-05:00",
+        "endTime": "2024-01-28T18:30:00-05:00",
+        "title": "PRPL_KTTY",
+        "panelists": "Dark Techno",
+        "description": "Dark Techno Electronic Music Set",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit6",
+        "startTime": "2024-01-28T18:30:00-05:00",
+        "endTime": "2024-01-28T19:00:00-05:00",
+        "title": "AchieveHunter1",
+        "panelists": "House, Hardstyle, Eurobeat and Brony Classic Music",
+        "description": "I Perform as a DJ for the Brony Fandom",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit7",
+        "startTime": "2024-01-28T19:00:00-05:00",
+        "endTime": "2024-01-28T19:30:00-05:00",
+        "title": "DJ SoundBreaker",
+        "panelists": "Musics in  the clouds",
+        "description": "A mix with a lot of style brony and non brony but always in full improvisation",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit8",
+        "startTime": "2024-01-28T19:30:00-05:00",
+        "endTime": "2024-01-28T20:15:00-05:00",
+        "title": "Royalpony",
+        "panelists": "Harddance (Hardstyle and happy hardcore)",
+        "description": "Ill be performing a mix of euphoric Rawstyle, extra raw and happy hardcore.",
+        "type": "Live"
+      },
+      {
+        "id": "2bit9",
+        "startTime": "2024-01-28T20:15:00-05:00",
+        "endTime": "2024-01-28T21:00:00-05:00",
+        "title": "PegasYs",
+        "panelists": "Gameboy Beebop",
+        "description": "Lately PegasYs has been on a kick. A chiptune low-bit kick. Expect him to incorporate hard-hitting bass and classic 8-bit sounds in a set that will definitely leave you saying \"that sure sounded like what our parents warned us Pacman was going to do to our brains\".",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit10",
+        "startTime": "2024-01-28T21:00:00-05:00",
+        "endTime": "2024-01-28T22:00:00-05:00",
+        "title": "Thunder_Kick",
+        "panelists": "Friendship is Rave",
+        "description": "Live hardcore and drum n bass mix",
+        "type": "Live"
+      },
+      {
+        "id": "2bit11",
+        "startTime": "2024-01-28T22:00:00-05:00",
+        "endTime": "2024-01-28T23:00:00-05:00",
+        "title": "Bolt",
+        "panelists": "PVFM 13th Birth-aversary Request Set!",
+        "description": "Bolt will be taking your requests LIVE in a set containing anything from Electro-Swing to Eurobeat, mostly made up on the spot!",
+        "type": "Live"
+      },
+      {
+        "id": "2bit12",
+        "startTime": "2024-01-28T23:00:00-05:00",
+        "endTime": "2024-01-29T00:00:00-05:00",
+        "title": "Sleepypony",
+        "panelists": "PonyvilleFM Owner",
+        "description": "Doing a special guest appearance",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2close",
+        "startTime": "2024-01-29T00:00:00-05:00",
+        "endTime": "2024-01-29T00:15:00-05:00",
+        "title": "Closing Ceremonies",
+        "panelists": "Staff",
+        "description": "Thank you for all the fish",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2bit13",
+        "startTime": "2024-01-29T00:15:00-05:00",
+        "endTime": "2024-01-29T01:45:00-05:00",
+        "title": "Scootaloose",
+        "panelists": "Surpise DJ",
+        "description": "",
+        "type": ""
+      }
+    ],
+    "Bit Rate Stage": [
+      {
+        "id": "openn",
+        "startTime": "2024-01-27T13:45:00-05:00",
+        "endTime": "2024-01-27T14:00:00-05:00",
+        "title": "Opening Ceremonies",
+        "panelists": "Staff",
+        "description": "Welcome to another Ponyfest!!!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net1",
+        "startTime": "2024-01-27T14:00:00-05:00",
+        "endTime": "2024-01-27T14:30:00-05:00",
+        "title": "MC-Arch",
+        "panelists": "HipHop/Soul/HybridTrap",
+        "description": "All the way from the Netherlands with a heart full of Passion and Willpower, MC-Arch is happy to make Ponyfest completely rise up with Hiphop music to the fullest of volumes and joy! the Power of Brony hiphop is STILL HERE! And it’ll be shown through a heartfelt show full of Passion, heartwarming, and energetic mix of Rap/Electronic/Soul music! and is happy to be there and contribute to yet again to spreading the power of Music and connecting people together with it!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net2",
+        "startTime": "2024-01-27T14:30:00-05:00",
+        "endTime": "2024-01-27T15:00:00-05:00",
+        "title": "Pipetka",
+        "panelists": "The Big Bang",
+        "description": "A variety of Dubstep, Drum and Bass, and EDM",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net3",
+        "startTime": "2024-01-27T15:00:00-05:00",
+        "endTime": "2024-01-27T15:30:00-05:00",
+        "title": "Trey Husk",
+        "panelists": "House",
+        "description": "Trey Husk is a Music Producer and DJ based in Columbus, Ohio. He has been up and coming in the Brony and Furry fandoms, having various music releases on Ponies At Dawn, StarlingEDM, and Aural Alliance. Not to be confined to the online space, Trey has performed live at many fandom conventions nationwide, including AnthroCon, HarmonyCon, TrotCon, and many others. Prepare to get lost in the sound, with his catalog of uplifting dance and feel-good vibes.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net4",
+        "startTime": "2024-01-27T15:30:00-05:00",
+        "endTime": "2024-01-27T16:30:00-05:00",
+        "title": "Kakofonous A. Dischord",
+        "panelists": "Noisy, Irreverent Hardcore Techno \u0026 More",
+        "description": "A DJ set of the hardcore techno music of the Pinkamena Party compilation scene. With over 10 years of music, we would love to share a PG-13 exploration of our groups' tunes with PVFM!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net5",
+        "startTime": "2024-01-27T16:30:00-05:00",
+        "endTime": "2024-01-27T17:30:00-05:00",
+        "title": "∆•RYZ",
+        "panelists": " ∆•MIX",
+        "description": "Celebrating 13 years of PVFM and 10 years of ∆•RYZ, join us for an immersive earth-shattering experience of high-energy, melodic dance music.",
+        "type": "Live"
+      },
+      {
+        "id": "net6",
+        "startTime": "2024-01-27T17:30:00-05:00",
+        "endTime": "2024-01-27T18:30:00-05:00",
+        "title": "Acid Applejack",
+        "panelists": "Hard dance set for the fandom",
+        "description": "Hard dance DJ set. Which means genres like hardstyle, uk/happy hardcore, frenchcore, maybe uptempo hardcore and maybe some 90s hardcore/happy hardcore",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net7",
+        "startTime": "2024-01-27T18:30:00-05:00",
+        "endTime": "2024-01-27T19:30:00-05:00",
+        "title": "RezKue!",
+        "panelists": "Variety EDM",
+        "description": "Tune in for an hour of heavy, melodic, and rowdy electronic music from RezKue! celebrating the 13th Anniversary of PVFM. ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net8",
+        "startTime": "2024-01-27T19:30:00-05:00",
+        "endTime": "2024-01-27T20:00:00-05:00",
+        "title": "BlueIntellect",
+        "panelists": "Miscellaneous Music ",
+        "description": "DJ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net9",
+        "startTime": "2024-01-27T20:00:00-05:00",
+        "endTime": "2024-01-27T20:30:00-05:00",
+        "title": "Thrack",
+        "panelists": "Acoustic/folk",
+        "description": "Piratey music typically all acoustic",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net10",
+        "startTime": "2024-01-27T20:30:00-05:00",
+        "endTime": "2024-01-27T21:00:00-05:00",
+        "title": "DoTheDaringDew",
+        "panelists": "Acoustic and Folk",
+        "description": "Simple acoustic guitar and mic setup with some potential pedals. Primarily, though, it's my acoustic guitar and my vocals.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net11",
+        "startTime": "2024-01-27T21:00:00-05:00",
+        "endTime": "2024-01-27T21:45:00-05:00",
+        "title": "Metajoker",
+        "panelists": "Alt-Rock/Electronic",
+        "description": "An alt-rock/EDM blend of classic and new Metajoker tunes!",
+        "type": "Live"
+      },
+      {
+        "id": "net12",
+        "startTime": "2024-01-27T21:45:00-05:00",
+        "endTime": "2024-01-27T22:15:00-05:00",
+        "title": "SCR4TCHK4T",
+        "panelists": "Hyper Heaven!",
+        "description": "Hyper Heaven! A playful mix that features all sorts of hyperpop and happy hardcore tracks that are sure to be enjoyed by everypony! ♡",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net13",
+        "startTime": "2024-01-27T22:15:00-05:00",
+        "endTime": "2024-01-27T23:00:00-05:00",
+        "title": "Steryotype",
+        "panelists": "AudioVisualHipHopEuphoria",
+        "description": "Lofi Hip Hop + an assortment of remixes",
+        "type": "PreRecord"
+      },
+      {
+        "id": "net14",
+        "startTime": "2024-01-27T23:00:00-05:00",
+        "endTime": "2024-01-28T00:00:00-05:00",
+        "title": "pocketjawa",
+        "panelists": "Various flavours of Happy Hardcore",
+        "description": "Happy Hardcore to close out the night",
+        "type": "PreRecord"
+      },
+      {
+        "id": "closen",
+        "startTime": "2024-01-28T00:00:00-05:00",
+        "endTime": "2024-01-28T00:15:00-05:00",
+        "title": "Closing Ceremonies",
+        "panelists": "Staff",
+        "description": "Thank you for all the fish",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2openn",
+        "startTime": "2024-01-28T13:45:00-05:00",
+        "endTime": "2024-01-28T14:00:00-05:00",
+        "title": "Opening Ceremonies",
+        "panelists": "Staff",
+        "description": "Welcome to another Ponyfest!!!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net1",
+        "startTime": "2024-01-28T14:00:00-05:00",
+        "endTime": "2024-01-28T14:30:00-05:00",
+        "title": "MC-Arch",
+        "panelists": "HipHop/Soul/HybridTrap",
+        "description": "All the way from the Netherlands with a heart full of Passion and Willpower, MC-Arch is happy to make Ponyfest completely rise up with Hiphop music to the fullest of volumes and joy! the Power of Brony hiphop is STILL HERE! And it’ll be shown through a heartfelt show full of Passion, heartwarming, and energetic mix of Rap/Electronic/Soul music! and is happy to be there and contribute to yet again to spreading the power of Music and connecting people together with it!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net2",
+        "startTime": "2024-01-28T14:30:00-05:00",
+        "endTime": "2024-01-28T15:00:00-05:00",
+        "title": "Pipetka",
+        "panelists": "The Big Bang",
+        "description": "A variety of Dubstep, Drum and Bass, and EDM",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net3",
+        "startTime": "2024-01-28T15:00:00-05:00",
+        "endTime": "2024-01-28T15:30:00-05:00",
+        "title": "Trey Husk",
+        "panelists": "House",
+        "description": "Trey Husk is a Music Producer and DJ based in Columbus, Ohio. He has been up and coming in the Brony and Furry fandoms, having various music releases on Ponies At Dawn, StarlingEDM, and Aural Alliance. Not to be confined to the online space, Trey has performed live at many fandom conventions nationwide, including AnthroCon, HarmonyCon, TrotCon, and many others. Prepare to get lost in the sound, with his catalog of uplifting dance and feel-good vibes.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net4",
+        "startTime": "2024-01-28T15:30:00-05:00",
+        "endTime": "2024-01-28T16:30:00-05:00",
+        "title": "Kakofonous A. Dischord",
+        "panelists": "Noisy, Irreverent Hardcore Techno \u0026 More",
+        "description": "A DJ set of the hardcore techno music of the Pinkamena Party compilation scene. With over 10 years of music, we would love to share a PG-13 exploration of our groups' tunes with PVFM!",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net5",
+        "startTime": "2024-01-28T16:30:00-05:00",
+        "endTime": "2024-01-28T17:30:00-05:00",
+        "title": "∆•RYZ",
+        "panelists": " ∆•MIX",
+        "description": "Celebrating 13 years of PVFM and 10 years of ∆•RYZ, join us for an immersive earth-shattering experience of high-energy, melodic dance music.",
+        "type": "Live"
+      },
+      {
+        "id": "2net6",
+        "startTime": "2024-01-28T17:30:00-05:00",
+        "endTime": "2024-01-28T18:30:00-05:00",
+        "title": "Acid Applejack",
+        "panelists": "Hard dance set for the fandom",
+        "description": "Hard dance DJ set. Which means genres like hardstyle, uk/happy hardcore, frenchcore, maybe uptempo hardcore and maybe some 90s hardcore/happy hardcore",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net7",
+        "startTime": "2024-01-28T18:30:00-05:00",
+        "endTime": "2024-01-28T19:30:00-05:00",
+        "title": "RezKue!",
+        "panelists": "Variety EDM",
+        "description": "Tune in for an hour of heavy, melodic, and rowdy electronic music from RezKue! celebrating the 13th Anniversary of PVFM. ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net8",
+        "startTime": "2024-01-28T19:30:00-05:00",
+        "endTime": "2024-01-28T20:00:00-05:00",
+        "title": "BlueIntellect",
+        "panelists": "Miscellaneous Music ",
+        "description": "DJ",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net9",
+        "startTime": "2024-01-28T20:00:00-05:00",
+        "endTime": "2024-01-28T20:30:00-05:00",
+        "title": "Thrack",
+        "panelists": "Acoustic/folk",
+        "description": "Piratey music typically all acoustic",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net10",
+        "startTime": "2024-01-28T20:30:00-05:00",
+        "endTime": "2024-01-28T21:00:00-05:00",
+        "title": "DoTheDaringDew",
+        "panelists": "Acoustic and Folk",
+        "description": "Simple acoustic guitar and mic setup with some potential pedals. Primarily, though, it's my acoustic guitar and my vocals.",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net11",
+        "startTime": "2024-01-28T21:00:00-05:00",
+        "endTime": "2024-01-28T21:45:00-05:00",
+        "title": "Metajoker",
+        "panelists": "Alt-Rock/Electronic",
+        "description": "An alt-rock/EDM blend of classic and new Metajoker tunes!",
+        "type": "Live"
+      },
+      {
+        "id": "2net12",
+        "startTime": "2024-01-28T21:45:00-05:00",
+        "endTime": "2024-01-28T22:15:00-05:00",
+        "title": "SCR4TCHK4T",
+        "panelists": "Hyper Heaven!",
+        "description": "Hyper Heaven! A playful mix that features all sorts of hyperpop and happy hardcore tracks that are sure to be enjoyed by everypony! ♡",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net13",
+        "startTime": "2024-01-28T22:15:00-05:00",
+        "endTime": "2024-01-28T23:00:00-05:00",
+        "title": "Steryotype",
+        "panelists": "AudioVisualHipHopEuphoria",
+        "description": "Lofi Hip Hop + an assortment of remixes",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2net14",
+        "startTime": "2024-01-28T23:00:00-05:00",
+        "endTime": "2024-01-29T00:00:00-05:00",
+        "title": "pocketjawa",
+        "panelists": "Various flavours of Happy Hardcore",
+        "description": "Happy Hardcore to close out the night",
+        "type": "PreRecord"
+      },
+      {
+        "id": "2closen",
+        "startTime": "2024-01-29T00:00:00-05:00",
+        "endTime": "2024-01-29T00:15:00-05:00",
+        "title": "Closing Ceremonies",
+        "panelists": "Staff",
+        "description": "Thank you for all the fish",
+        "type": "PreRecord"
+      }
+    ]
+  },
+  "roomOrder": [
+    "Aerial Soundwaves Stage",
+    "Bit Rate Stage"
+  ],
+  "times": [
+    "2024-01-27T13:45:00-05:00",
+    "2024-01-27T14:00:00-05:00",
+    "2024-01-27T14:15:00-05:00",
+    "2024-01-27T14:30:00-05:00",
+    "2024-01-27T14:45:00-05:00",
+    "2024-01-27T15:00:00-05:00",
+    "2024-01-27T15:15:00-05:00",
+    "2024-01-27T15:30:00-05:00",
+    "2024-01-27T15:45:00-05:00",
+    "2024-01-27T16:00:00-05:00",
+    "2024-01-27T16:15:00-05:00",
+    "2024-01-27T16:30:00-05:00",
+    "2024-01-27T16:45:00-05:00",
+    "2024-01-27T17:00:00-05:00",
+    "2024-01-27T17:15:00-05:00",
+    "2024-01-27T17:30:00-05:00",
+    "2024-01-27T17:45:00-05:00",
+    "2024-01-27T18:00:00-05:00",
+    "2024-01-27T18:15:00-05:00",
+    "2024-01-27T18:30:00-05:00",
+    "2024-01-27T18:45:00-05:00",
+    "2024-01-27T19:00:00-05:00",
+    "2024-01-27T19:15:00-05:00",
+    "2024-01-27T19:30:00-05:00",
+    "2024-01-27T19:45:00-05:00",
+    "2024-01-27T20:00:00-05:00",
+    "2024-01-27T20:15:00-05:00",
+    "2024-01-27T20:30:00-05:00",
+    "2024-01-27T20:45:00-05:00",
+    "2024-01-27T21:00:00-05:00",
+    "2024-01-27T21:15:00-05:00",
+    "2024-01-27T21:30:00-05:00",
+    "2024-01-27T21:45:00-05:00",
+    "2024-01-27T22:00:00-05:00",
+    "2024-01-27T22:15:00-05:00",
+    "2024-01-27T22:30:00-05:00",
+    "2024-01-27T22:45:00-05:00",
+    "2024-01-27T23:00:00-05:00",
+    "2024-01-27T23:15:00-05:00",
+    "2024-01-27T23:30:00-05:00",
+    "2024-01-27T23:45:00-05:00",
+    "2024-01-28T00:00:00-05:00",
+    "2024-01-28T00:15:00-05:00",
+    "2024-01-28T00:30:00-05:00",
+    "2024-01-28T00:45:00-05:00",
+    "2024-01-28T01:00:00-05:00",
+    "2024-01-28T01:15:00-05:00",
+    "2024-01-28T01:30:00-05:00",
+    "2024-01-28T13:45:00-05:00",
+    "2024-01-28T14:00:00-05:00",
+    "2024-01-28T14:15:00-05:00",
+    "2024-01-28T14:30:00-05:00",
+    "2024-01-28T14:45:00-05:00",
+    "2024-01-28T15:00:00-05:00",
+    "2024-01-28T15:15:00-05:00",
+    "2024-01-28T15:30:00-05:00",
+    "2024-01-28T15:45:00-05:00",
+    "2024-01-28T16:00:00-05:00",
+    "2024-01-28T16:15:00-05:00",
+    "2024-01-28T16:30:00-05:00",
+    "2024-01-28T16:45:00-05:00",
+    "2024-01-28T17:00:00-05:00",
+    "2024-01-28T17:15:00-05:00",
+    "2024-01-28T17:30:00-05:00",
+    "2024-01-28T17:45:00-05:00",
+    "2024-01-28T18:00:00-05:00",
+    "2024-01-28T18:15:00-05:00",
+    "2024-01-28T18:30:00-05:00",
+    "2024-01-28T18:45:00-05:00",
+    "2024-01-28T19:00:00-05:00",
+    "2024-01-28T19:15:00-05:00",
+    "2024-01-28T19:30:00-05:00",
+    "2024-01-28T19:45:00-05:00",
+    "2024-01-28T20:00:00-05:00",
+    "2024-01-28T20:15:00-05:00",
+    "2024-01-28T20:30:00-05:00",
+    "2024-01-28T20:45:00-05:00",
+    "2024-01-28T21:00:00-05:00",
+    "2024-01-28T21:15:00-05:00",
+    "2024-01-28T21:30:00-05:00",
+    "2024-01-28T21:45:00-05:00",
+    "2024-01-28T22:00:00-05:00",
+    "2024-01-28T22:15:00-05:00",
+    "2024-01-28T22:30:00-05:00",
+    "2024-01-28T22:45:00-05:00",
+    "2024-01-28T23:00:00-05:00",
+    "2024-01-28T23:15:00-05:00",
+    "2024-01-28T23:30:00-05:00",
+    "2024-01-28T23:45:00-05:00",
+    "2024-01-29T00:00:00-05:00",
+    "2024-01-29T00:15:00-05:00",
+    "2024-01-29T00:30:00-05:00",
+    "2024-01-29T00:45:00-05:00",
+    "2024-01-29T01:00:00-05:00",
+    "2024-01-29T01:15:00-05:00",
+    "2024-01-29T01:30:00-05:00"
+  ]
+}

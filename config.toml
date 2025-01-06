@@ -1,7 +1,6 @@
 baseURL = "https://ponyfest.horse/"
 languageCode = "en-us"
 title = "PonyFest"
-googleAnalytics = "UA-161603031-1"
 
 [params]
   scheduleApiUriDev = "/schedule.json"

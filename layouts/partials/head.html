@@ -1,5 +1,9 @@
 <link rel="stylesheet" type="text/css" href="{{ $.Site.BaseURL }}css/main.css">
-{{ template "_internal/google_analytics_async.html" . }}
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "434aa8688a9740769f1cb3d05bebd0ef"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <script src="{{ $.Site.BaseURL }}scripts/lib/moment-locales.js" type="text/javascript"></script>
 <script src="{{ $.Site.BaseURL }}scripts/lib/moment-tz.js" type="text/javascript"></script>

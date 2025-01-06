@@ -1,0 +1,158 @@
+<html>
+	<head>
+	<meta name="generator" content="Hugo 0.135.0">
+		<title>PonyFest</title>
+		<link rel="stylesheet" type="text/css" href="https://ponyfest.horse/7.25/css/main.css">
+
+
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "434aa8688a9740769f1cb3d05bebd0ef"}'></script>
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<script src="https://ponyfest.horse/7.25/scripts/lib/moment-locales.js" type="text/javascript"></script>
+<script src="https://ponyfest.horse/7.25/scripts/lib/moment-tz.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ponyfest.horse/7.25/scripts/menu-script.js"></script>
+		<script type="text/javascript">pfoSchedApi = '\/schedule.json';</script>
+<script type="text/javascript">pfoSchedInterval = '15';</script>
+<script type="text/javascript">pfoScheduleCountdown = '2024-01-27T13:45:00-05:00';</script>
+<script type="text/javascript">pfoScheduleTransition = '5';</script>
+
+		
+		
+	</head>
+	<body>
+		<header class="topbar closed">
+    <div class="top">
+        <div class="logo img">
+            <a style="pointer-events: fill; display: flex; justify-content: center; align-items: center;" href="/">
+            <object class="svgClass" type="image/svg+xml" data="https://ponyfest.horse/7.25/images/PonyFestLogoFlat.svg"></object>
+            </a>
+
+
+        </div>
+        <div class="button-container" style="width: 74px; text-align: center">
+            <button class="button-menu">Menu</button>
+        </div>
+    </div>
+    <nav class="menu">
+
+
+
+
+
+
+
+        <a href="https://ponyfest.horse/7.25/aerial-soundwaves-stage">Aerial Soundwaves's Stage</a>
+        <p class="menu-room-current-event" data-room="Aerial Soundwaves's Stage"></p>
+        <a href="https://ponyfest.horse/7.25/bit-rate" style="font-weight: bold;">Bitrate Stream</a>
+        <p class="menu-room-current-event" data-room="Bit Rate's Stage"></p>
+
+
+        <a href="https://ponyfest.horse/7.25/schedule">Schedule</a>
+        <a href="https://ponyfest.horse/7.25/musicians">Musicians</a>
+
+
+        <a href="https://ponyfest.horse/7.25/shirt">Charity Shirt</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://event.pony.town">Pony Town</a>
+        
+        <a href="https://ponyfest.horse/7.25/about">About</a>
+        
+        
+        
+        
+        
+        
+
+
+        <a rel="me" href="https://twitter.com/PonyFestOnline">Twitter</a>
+        <a rel="me" href="https://bsky.app/profile/ponyfest.horse">Bluesky</a>
+        <a rel="me" href="https://equestria.social/@PonyFest">Mastodon</a>
+        <a href="https://discord.gg/nSDGJCg" class="discord-icon" style="margin-top: 10px;"></a>
+    </nav>
+</header>
+
+		<div class="content">
+			<div>
+				<style type="text/css">
+.discord-box {
+	margin-left: auto;
+	margin-right: auto;
+	width: 480px;
+	max-width: 90vw;
+	border: 1px solid #aebbea;
+	background-color: #104466;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+}
+
+p {
+	font-size: 1.3em;
+}
+
+.vendors h2 {
+	margin-top: 0;
+}
+
+.vendors p:last-child {
+	margin-bottom: 0;
+}
+
+.content > div {
+	display: flex;
+}
+</style>
+<div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
+	<div style="display:inline-block; text-align: center; flex-grow: 1;">
+        <img id="schedule" src="/7.25/images/PVFM13.png" style="width: 90%;" >
+    </div>
+	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
+			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 13th Birthday</h1>
+			<p style="font-size: 2em; margin: 0">Saturday, January 27th 2024</p>
+			<h3 style="font-size: 2em; margin: 0">Encore</h3>
+			<p style="font-size: 2em; margin: 0">Sunday, January 28th 2024</p>
+			<!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
+    </div>
+    <div>
+        <!-- <p> some sort of tag line here </p> -->
+    </div>
+    <!-- <div class="discord-box"> -->
+    <div>
+        <p style="font-weight: bold;">Pick up your badge here!</p>
+        <p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
+        <span id="onlineSpan" style="font-weight: normal;"></span></p>
+    </div>
+</div>
+<script type="text/javascript">
+var onlineSpan = document.getElementById('onlineSpan');
+if (window.fetch) {
+	async function update() {
+		let result = await fetch("https://discordapp.com/api/guilds/690991376514547754/widget.json");
+		let json = await result.json();
+		let online = json['presence_count'];
+		if (online) {
+			if (online.toLocaleString) {
+				online = online.toLocaleString();
+			} else {
+				online = online.toString();
+			}
+			onlineSpan.innerHTML =  online + ' online now!';
+		}
+	}
+	update();
+	setTimeout(update, 300000);
+}
+</script>
+
+			</div>
+			<footer>
+    <p>&copy; 2023 <a href="https://ponyfest.horse/7.25/staff/">PonyFest Online Staff</a><br>
+    Looking for <a href="/7.0/">PonyFest Online 7.0 website</a>?</p>
+    <p><a href="https://linktr.ee/PonyFest">Link Tree</a></p>
+</footer>
+
+		</div>
+		
+	</body>
+</html>
+

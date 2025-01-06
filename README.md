@@ -43,6 +43,7 @@ Here's the process of creating a new version. Script TBD. In the meantime follow
    1. Vendor / Guest - Make sure to change the image links
       1. `sed -i "s:\"/images/guests:\"/$version/images/guests:g" static/$version/vendors/index.html`
       2. `sed -i "s:\"/images/guests:\"/$version/images/guests:g" static/$version/guests/index.html`
+      3. `sed -i "s:\"/images/guests:\"/$version/images/guests:g" static/$version/musicians/index.html`
    2. cp public/* (minus versioned files) static/$version/.
       1. `find public -maxdepth 1 -type f -exec cp -t static/$version {} +`
       2. `find public -maxdepth 1 -type d  -regextype posix-basic -regex 'public\/[a-zA-Z-]*' -exec cp -r -t static/$version {} +`

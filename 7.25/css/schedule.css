@@ -1,0 +1,156 @@
+body, div.content, div.content > div, div.text-box, div.schedule-main {
+    position: relative;
+}
+div.schedule-grid {
+    position: relative;
+    overflow: auto;
+    display: flex;
+}
+
+div.schedule-grid:first-child{
+    border-left: 1px solid #aebbea;
+}
+div.schedule-column {
+    border-right: 1px solid #aebbea;
+}
+
+div.schedule-time-col {
+    min-width: 8em;
+}
+div.schedule-room-col {
+    min-width: 10em;
+    width: 45em;
+}
+
+div.schedule-cell {
+    box-sizing: border-box;
+    height: 2em;
+    padding: 0.25em 0.25em;
+    background: repeating-linear-gradient(to bottom, transparent, transparent calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
+    border-bottom: 1px solid #aebbea;
+    padding-top: 0.75em;
+    font-weight: bold;
+}
+/* div.schedule-time-cell {
+    padding-top: 0.1em;
+} */
+div.schedule-room-cell {
+    text-align: center;
+    color: #DFDFDF;
+    text-shadow: none;
+    /* font-weight: bold; */
+}
+div.schedule-room-blank {
+
+}
+div.schedule-room-event {
+    /* border-bottom: 1px solid #aebbea; */
+    background-color: #444e6eb4;/*rgb(40, 76, 143);*/
+}
+
+.schedule-room-cell:not(.schedule-blank) {
+    cursor: pointer;
+}
+
+div.schedule-event-pop {
+    position: absolute;
+    border: 1px solid #aebbea;
+    /* background-color: #193568; */
+    background-color: #f5d899;
+    color: #000;
+    text-shadow: none;
+    border-radius: 5px;
+    padding: 20px;
+    width: 350px;
+}
+
+div.schedule-r1-odd {
+    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r1-even {
+    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r2-odd {
+    background: repeating-linear-gradient(to bottom, rgba(58, 105, 181, 0.71), rgba(58, 105, 181, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r2-even {
+    background: repeating-linear-gradient(to bottom, rgba(74, 134, 232, 0.71), rgba(74, 134, 232, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r3-odd {
+    background: repeating-linear-gradient(to bottom, rgba(173, 80, 80, 0.71), rgba(173, 80, 80, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r3-even {
+    background: repeating-linear-gradient(to bottom, rgba(224, 102, 102, 0.71), rgba(224, 102, 102, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r4-odd {
+    background: repeating-linear-gradient(to bottom, rgba(61, 173, 70, 0.71), rgba(61, 173, 70, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r4-even {
+    background: repeating-linear-gradient(to bottom, rgba(126, 214, 134, 0.71), rgba(126, 214, 134, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r5-odd {
+    background: repeating-linear-gradient(to bottom, rgba(204, 135, 92, 0.71), rgba(204, 135, 92, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r5-even {
+    background: repeating-linear-gradient(to bottom, rgba(255, 168, 115, 0.71), rgba(255, 168, 115, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r6-odd {
+    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r6-even {
+    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r7-odd {
+    background: repeating-linear-gradient(to bottom, rgba(204, 61, 175, 0.71), rgba(204, 61, 175, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r7-even {
+    background: repeating-linear-gradient(to bottom, rgba(255, 33, 223, 0.71), rgba(255, 33, 223, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+div.schedule-r8-odd, div.schedule-r8-even {
+    background: repeating-linear-gradient(to bottom, rgba(43, 133, 49, 0.71), rgba(43, 133, 49, 0.71) calc(2em - 1px), #aebbea 2em);
+}
+
+.schedule-event-pop-title {
+    font-weight: bold;
+}
+
+.schedule-event-pop-panelists {
+    font-style: italic;
+}
+
+.text-box {
+    max-width: inherit;
+    padding: 0;
+}
+
+.schedule-event-pop-desc {
+    margin-top: 10px;
+}
+
+/*.event-opening-ceremonies, .event-closing-ceremonies {*/
+/*    background-color: red !important;*/
+/*    font-weight: bold !important;*/
+/*}*/
+
+.euroline {
+    position: absolute;
+    display: block;
+    width: 1735px;
+    height: 2px;
+    top: 525px;
+    left: 2px;
+    background-color: white;
+}
+
+.euroexplanation {
+    position: absolute;
+    display: block;
+    width: 200px;
+    top: 496px;
+    left: 300px;
+    text-align: left;
+    color: white;
+    line-height: 30px;
+}

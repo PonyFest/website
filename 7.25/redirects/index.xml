@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redirects on PonyFest</title>
+    <link>https://ponyfest.horse/7.25/redirects/</link>
+    <description>Recent content in Redirects on PonyFest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ponyfest.horse/7.25/redirects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ponyfest.horse/7.25/art-theater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ponyfest.horse/7.25/art-theater/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ponyfest.horse/7.25/e-gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ponyfest.horse/7.25/e-gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ponyfest.horse/7.25/tabletop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ponyfest.horse/7.25/tabletop/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

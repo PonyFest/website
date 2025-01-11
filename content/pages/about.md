@@ -3,25 +3,14 @@ title: About
 url: /about
 ---
 
-# About PonyFest Online!
 <div class="text-box" style="text-align: left">
 
-Right! We know what you’re thinking: What the _hay_ is PonyFest Online? Where did you come from? This wasn’t a thing a week ago!
+# About PonyFest Online!
 
-You’d be right! PonyFest Online is an online Pony Convention with a one-week turnaround - Our entire organization, schedule,
-everything has been built this week! We were inspired by Ruef’s awesome [online Vendor Hall](https://bit.ly/SupportVendors) for our
-friends and family who’ve been directly hurt by the loss of in-person pony conventions.
+What the _hay_ is PonyFest Online?
 
-PonyFest Online is a celebration of our community, a space for us to come together in challenging times and find a way to love,
-live, and laugh together while we’re all indoors keeping each other safe.
+PonyFest Online started in 2020 as an online Pony Convention with a one-week turnaround to survive Covid - Our entire organization, schedule, everything was built in a week! We were inspired to create an online Vendor Hall for our friends and family who were hurt by the loss of in-person pony conventions.
 
-We’re going to present a full day including:
-1. A vendor hall for you to buy awesome things and support our amazing content creators!
-2. A full Mane Events panel schedule from 10:00 AM - 3:30 AM EST with awesome Community Guests!
-3. Video Gaming & Tabletop spaces with both official events as well an encouraging everyone to run their own games and play together!
-4. Come and watch Panelist, Artist & Musicians this week on both of our stages!
-5. Open chat & voice channels for community-driven content
-
-This Saturday, come join us and spend all day with your fellow friends and fans! Together, well once again demonstrate that Friendship is Magic!
+Since then, PonyFest Online has grown to host multiple conventions and concerts over the years as a celebration of our community. A space for us to come together regardless of distance from one another and find a way to love, live, and laugh together.
 
 </div>

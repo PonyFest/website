@@ -32,24 +32,23 @@ p {
 }
 </style>
 <div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
-	<div style="display:inline-block; text-align: center; flex-grow: 1;">
-        <img id="schedule" src="/images/PVFM13.png" style="width: 90%;" >
+	<div class="adventure">
+        <img class="aerial_soundwaves" src="/images/Aerial_Soundwaves_winter.png" >
+        <img class="bit_rate" src="/images/BitRate_winter.png" >
+        <img class="neural_net" src="/images/NeuralNet_winter.png" >
     </div>
 	<div class="text-box" style="display:inline-block; flex-grow: 1; flex-direction: column; justify-content: space-around; text-align: center; flex-grow: 1; width: 500px;">
-			<h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 13th Birthday</h1>
-			<p style="font-size: 2em; margin: 0">Saturday, January 27th 2024</p>
-			<h3 style="font-size: 2em; margin: 0">Encore</h3>
-			<p style="font-size: 2em; margin: 0">Sunday, January 28th 2024</p>
-			<!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
-    </div>
-    <div>
-        <!-- <p> some sort of tag line here </p> -->
-    </div>
-    <!-- <div class="discord-box"> -->
-    <div>
-        <p style="font-weight: bold;">Pick up your badge here!</p>
-        <p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
-        <span id="onlineSpan" style="font-weight: normal;"></span></p>
+        <h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 14th Birthday</h1>
+        <p style="font-size: 2em; margin: 0">Saturday, January 25th 2025</p>
+        <p style="font-size: 2em; margin: 0">Sunday, January 26th 2025</p>
+        <!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
+        <br>
+        <!-- <div class="discord-box"> -->
+        <div>
+            <p style="font-weight: bold;">Pick up your badge here!</p>
+            <p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
+            <span id="onlineSpan" style="font-weight: normal;"></span></p>
+        </div>
     </div>
 </div>
 

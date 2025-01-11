@@ -3,11 +3,11 @@
 body {
     font-family: Arvo;
     /*font-family: Helvetica, sans-serif;*/
-    /*background-image: url("/images/HalloweenPFObackground.png");*/
-    /*background-attachment: fixed;*/
-    /*background-size: cover;*/
-    /*background-position: center;*/
-    background-color: #89add7;
+    background-image: url("/images/Background_winter.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    /*background-color: #89add7;*/
     color: #182f7b;
     margin: 0;
 }

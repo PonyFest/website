@@ -1,0 +1,33 @@
+
+/*.adventure {*/
+/*    position: relative; !* Make the container the reference point for absolute positioning *!*/
+/*    width: 100%; !* Set the width of the container *!*/
+/*    height: 500px; !* Set a height for the container *!*/
+/*}*/
+.adventure {
+    position: fixed; /* Fixed to the viewport */
+    top: 50px; /* Distance from the top of the viewport */
+    left: 50px; /* Distance from the left of the viewport */
+    z-index: 1000; /* Ensure it appears above other elements */
+}
+
+img {
+    position: absolute;
+    width: 400px; /* Set a fixed width for the images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.aerial_soundwaves {
+    top: 0; /* Offset image 1 from the top */
+    left: 300px; /* Offset image 1 from the left */
+}
+
+.bit_rate {
+    top: -50px; /* Offset image 2 from the top */
+    left: 1400px; /* Offset image 2 to the right of image 1 */
+}
+
+.neural_net {
+    top: 200px; /* Offset image 2 from the top */
+    left: 1100px; /* Offset image 2 to the right of image 1 */
+}

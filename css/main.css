@@ -43,7 +43,11 @@ html {
 }
 
 .text-box {
-    /* width: 500px; */
+    width: 500px;
+    display:inline-block;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: space-around;
     max-width: 80vw;
     border: 1px solid #182f7b;
     background-color: #90c9f0;
@@ -71,6 +75,7 @@ footer a {
     display: flex;
     flex-direction: column;
     min-height: calc(100vh - 2em);
+    text-align: center;
 }
 
 .content > div {

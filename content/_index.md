@@ -12,12 +12,11 @@
         <h1 style="font-size: 2.8em; margin: 0">PonyFest Online x PVFM 14th Birthday</h1>
         <p style="font-size: 2em; margin: 0">Saturday, January 25th 2025</p>
         <p style="font-size: 2em; margin: 0">Sunday, January 26th 2025</p>
-        <!--<p style="font-size: 2em; margin: 0">10:00PM EDT</p>-->
         <br>
         <!-- <div class="discord-box"> -->
         <div>
             <p style="font-weight: bold;">Pick up your badge here!</p>
-            <p><a href="https://discord.gg/nSDGJCg" class="discord" style="height: 100px; width: 300px;"></a><br>
+            <p><a href="https://discord.gg/nSDGJCg" class="discord"></a><br>
             <span id="onlineSpan" style="font-weight: normal;"></span></p>
         </div>
     </div>

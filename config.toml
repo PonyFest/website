@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "PonyFest"
 
 [params]
-  scheduleApiUriDev = "/schedule.json"
-  scheduleApiUri = "/schedule.json"
+  scheduleApiUriDev = "https://schedule-api.ponyfest.horse/schedule"
+  scheduleApiUri = "https://schedule-api.ponyfest.horse/schedule"
   scheduleInterval = "15"
   scheduleCountdown = "2024-01-27T13:45:00-05:00"
   scheduleTransition = "5"

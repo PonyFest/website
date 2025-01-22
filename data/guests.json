@@ -105,6 +105,15 @@
         }
     },{
         "Type": "musician",
+        "Name": "Karcsesz",
+        "Style": "Trance",
+        "Desc": "Let Kar take you on a journey through history. From lush sounds of fandom legends to fresh tunes of the present, these are the songs that have kept our heart pumping and our hooves thumping.",
+        "Image": "/images/guests/brackets_with_vinyl.png",
+        "Social": {
+            "Fediverse": "https://equestria.social/@Karcsesz"
+        }
+    },{
+        "Type": "musician",
         "Name": "Mare in the Rain",
         "Style": "Metalcore",
         "Desc": "Melancholy metal pony noises since 2021. Crying often, headbanging always.",

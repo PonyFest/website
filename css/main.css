@@ -44,10 +44,6 @@ html {
 
 .text-box {
     width: 500px;
-    display:inline-block;
-    flex-grow: 1;
-    flex-direction: column;
-    justify-content: space-around;
     max-width: 80vw;
     border: 1px solid #182f7b;
     background-color: #90c9f0;
@@ -321,7 +317,7 @@ a.discord-icon
 }
 
 .guest-container > div {
-    width: calc(49% - 40px);
+    width: calc(49% - 50px);
     min-height: 500px;
     display: flex;
     flex-direction: column;

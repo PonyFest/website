@@ -28,15 +28,15 @@ max-width: 45%;
 &lt;div class="guest-container">
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>AWal &lt;/h1>
+ &lt;h1>∆•RYZ &lt;/h1>
  &lt;p class="guest-image">
- &lt;img src="https://ponyfest.horse/images/guests/awal.png" >
+ &lt;img src="https://ponyfest.horse/images/guests/deltaryz.png" >
  &lt;/p>
  &lt;p class="guest-text">
- AWal hails from the east, bringing a sound that is both fast and energetic. Be sure to bring your kandi and glowsticks because his show is definitely not one to miss.
+ ∆•MIX is a high-energy showcase of melodic house, electro, hardcore, DnB, and more. I have been DJing for PVFM for over 10 years, sharing my love of music with the world.
  &lt;/p>
  &lt;p class="guest-links" style="margin: 5px">
- &lt;a href="https://bsky.app/profile/awal.bsky.social">BlueSky&lt;/a>&lt;a href="https://mastodon.xyz/@AWal">Fediverse&lt;/a>&lt;a href="https://pony.fm/playlist/3258-twisty-tunes">PonyFM&lt;/a>&lt;a href="https://twitter.com/awal__">Twitter&lt;/a>
+ &lt;a href="https://deltaryz.com">HomePage&lt;/a>
  &lt;/p>
  &lt;/div>
 
@@ -46,21 +46,21 @@ max-width: 45%;
  &lt;img src="https://ponyfest.horse/images/guests/AchieveHunter1.jpg" >
  &lt;/p>
  &lt;p class="guest-text">
- Hello everybody, I'm AchieveHunter1 and I'm happy to be here with all of you. I'm just a regular guy who likes to do different things in life. I'm originally known for Video Vlogs for Conventions on YouTube to wherever Conventions I go to. I also love to Perform on the Renegade Stage as a DJ for everyone who loves Music. I'm hoping to see you all at any Convention wherever I go to.&lt;br>&lt;br> LET'S DO THIS!
+ Hello everybody, I'm AchieveHunter1 and I'm happy to be here with all of you. I'm just a regular guy who likes to do different things in life. I'm originally known for Video Vlogs for Conventions on YouTube. I do love playing sports like Baseball, Basketball and Hockey. I also love to DJ for everyone at Conventions wherever I go to. (Mostly Renegade Stage) I hope I get to see each other at any Convention I go to in the coming years.&lt;br>&lt;br> LET'S DO THIS!
  &lt;/p></description></item><item><title>Musicians</title><link>https://ponyfest.horse/musicians/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/musicians/</guid><description>&lt;h1>Musicians&lt;/h1>
 
 &lt;div class="guest-container">
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>AWal &lt;/h1>
+ &lt;h1>∆•RYZ &lt;/h1>
  &lt;p class="guest-image">
- &lt;img src="https://ponyfest.horse/images/guests/awal.png" >
+ &lt;img src="https://ponyfest.horse/images/guests/deltaryz.png" >
  &lt;/p>
  &lt;p class="guest-text">
- AWal hails from the east, bringing a sound that is both fast and energetic. Be sure to bring your kandi and glowsticks because his show is definitely not one to miss.
+ ∆•MIX is a high-energy showcase of melodic house, electro, hardcore, DnB, and more. I have been DJing for PVFM for over 10 years, sharing my love of music with the world.
  &lt;/p>
  &lt;p class="guest-links" style="margin: 5px">
- &lt;a href="https://bsky.app/profile/awal.bsky.social">BlueSky&lt;/a>&lt;a href="https://mastodon.xyz/@AWal">Fediverse&lt;/a>&lt;a href="https://pony.fm/playlist/3258-twisty-tunes">PonyFM&lt;/a>&lt;a href="https://twitter.com/awal__">Twitter&lt;/a>
+ &lt;a href="https://deltaryz.com">HomePage&lt;/a>
  &lt;/p>
  &lt;/div>
 
@@ -70,7 +70,7 @@ max-width: 45%;
  &lt;img src="https://ponyfest.horse/images/guests/AchieveHunter1.jpg" >
  &lt;/p>
  &lt;p class="guest-text">
- Hello everybody, I'm AchieveHunter1 and I'm happy to be here with all of you. I'm just a regular guy who likes to do different things in life. I'm originally known for Video Vlogs for Conventions on YouTube to wherever Conventions I go to. I also love to Perform on the Renegade Stage as a DJ for everyone who loves Music. I'm hoping to see you all at any Convention wherever I go to.&lt;br>&lt;br> LET'S DO THIS!
+ Hello everybody, I'm AchieveHunter1 and I'm happy to be here with all of you. I'm just a regular guy who likes to do different things in life. I'm originally known for Video Vlogs for Conventions on YouTube. I do love playing sports like Baseball, Basketball and Hockey. I also love to DJ for everyone at Conventions wherever I go to. (Mostly Renegade Stage) I hope I get to see each other at any Convention I go to in the coming years.&lt;br>&lt;br> LET'S DO THIS!
  &lt;/p></description></item><item><title>Schedule</title><link>https://ponyfest.horse/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/schedule/</guid><description>&lt;link rel="stylesheet" type="text/css" href="https://ponyfest.horse/css/schedule.css">
  &lt;script src="https://ponyfest.horse/scripts/lib/jquery.js" type="text/javascript">&lt;/script>
  &lt;script src="https://ponyfest.horse/scripts/schedule.js" type="text/javascript">&lt;/script>

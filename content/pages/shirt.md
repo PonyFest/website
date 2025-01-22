@@ -31,7 +31,7 @@ This shirt will act as a keepsake to remember this truly wonderful collaboration
 
 Also, all money raised from this shirt not used for production, handling and shipping goes directly to Guide Dogs For America: https://www.guidedogsofamerica.org/
 
-PonyvilleFM is an online radio station and community that focuses on My Little Pony-themed content, including music, podcasts, and other related programming. They were established in 2011 and is celebrating their 13th birthday. PonyvilleFM often collaborates with artists and creators within the brony community, providing a platform for sharing music and content inspired by the My Little Pony franchise. The station has been a hub for fans to connect, share their passion for the show, and enjoy a variety of music genres.
+PonyvilleFM is an online radio station and community that focuses on My Little Pony-themed content, including music, podcasts, and other related programming. They were established in 2011 and is celebrating their 14th birthday. PonyvilleFM often collaborates with artists and creators within the brony community, providing a platform for sharing music and content inspired by the My Little Pony franchise. The station has been a hub for fans to connect, share their passion for the show, and enjoy a variety of music genres.
 PonyFest Online is an online Pony Convention. They were established in 2020 and have already had 7 full pony conventions and numerous concert events since their creation.
 
 <span style="font-size: xx-large;">

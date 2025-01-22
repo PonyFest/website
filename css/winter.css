@@ -7,7 +7,6 @@
 .adventure {
     top: 0; /* Distance from the top of the viewport */
     left: 0; /* Distance from the left of the viewport */
-    height: 60%;
     width: 100%;
 }
 

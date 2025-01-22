@@ -5,13 +5,14 @@ url: /shirt
 
 # Charity T-Shirt
 
-<div class="text-box" style="text-align: left;">
+<div class="text-box" style="text-align: left; width: 100%; max-width: 90%;">
 
 <div style="text-align: center;" id="shirt-ad">
 
-[![image of shirt charity shirt, front and back](/images/charity/pvfmpfo24shirtfront.jpg)](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
-[![image of shirt charity shirt, front and back](/images/charity/pvfmpfo24shirtback.jpg)](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
+[![image of shirt charity shirt, front](/images/charity/pvfmpfo25shirtfront.png)](https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday)
+[![image of shirt charity shirt, back](/images/charity/pvfmpfo25shirtback.png)](https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday)
 
+[CustomInk](https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday)
 </div>
 
 <style type="text/css">
@@ -23,7 +24,8 @@ max-width: 45%;
 
 </style>
 
-Hey fellow ponies and music lovers! Get ready to celebrate the 13th birthday of PonyvilleFM in style with our exclusive limited edition charity shirt! Get your hooves on this specially designed shirt that captures the magic and vibrancy of PonyFest Online × PonyvilleFM's 13th Birthday Concert!
+
+Hey fellow ponies and music lovers! Get ready to celebrate the 14th birthday of PonyvilleFM in style with our exclusive limited edition charity shirt! Get your hooves on this specially designed shirt that captures the magic and vibrancy of PonyFest Online × PonyvilleFM's 14th Birthday Concert!
 
 This shirt will act as a keepsake to remember this truly wonderful collaboration concert. These shirts are highly popular and have been seen all around the world! Featuring art from HauntedTuba, this shirt includes both Aerial Soundwaves (the mascot for PonyvilleFM) and Bit Rate (the mascot for PonyFest Online). On the back, the names of all the musicians who performed at the event are also included. It is a must-have for every true fan!
 

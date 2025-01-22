@@ -10,7 +10,7 @@
     width: 100%;
 }
 
-img {
+.adventure img  {
     /*position: absolute;*/
     width: 25%; /* Set a fixed width for the images */
     height: auto; /* Maintain aspect ratio */

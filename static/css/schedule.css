@@ -68,50 +68,56 @@ div.schedule-event-pop {
     width: 350px;
 }
 
+:root {
+    --gradient-line:#aebbea00;
+    --gradient-line-size:0em;
+}
+
+
 div.schedule-r1-odd {
-    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(122, 93, 183, 0.71), rgba(122, 93, 183, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r1-even {
-    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(163, 125, 245, 0.71), rgba(163, 125, 245, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r2-odd {
-    background: repeating-linear-gradient(to bottom, rgba(58, 105, 181, 0.71), rgba(58, 105, 181, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(58, 105, 181, 0.71), rgba(58, 105, 181, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r2-even {
-    background: repeating-linear-gradient(to bottom, rgba(74, 134, 232, 0.71), rgba(74, 134, 232, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(74, 134, 232, 0.71), rgba(74, 134, 232, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r3-odd {
-    background: repeating-linear-gradient(to bottom, rgba(173, 80, 80, 0.71), rgba(173, 80, 80, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(173, 80, 80, 0.71), rgba(173, 80, 80, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r3-even {
-    background: repeating-linear-gradient(to bottom, rgba(224, 102, 102, 0.71), rgba(224, 102, 102, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(224, 102, 102, 0.71), rgba(224, 102, 102, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r4-odd {
-    background: repeating-linear-gradient(to bottom, rgba(61, 173, 70, 0.71), rgba(61, 173, 70, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(61, 173, 70, 0.71), rgba(61, 173, 70, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r4-even {
-    background: repeating-linear-gradient(to bottom, rgba(126, 214, 134, 0.71), rgba(126, 214, 134, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(126, 214, 134, 0.71), rgba(126, 214, 134, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r5-odd {
-    background: repeating-linear-gradient(to bottom, rgba(204, 135, 92, 0.71), rgba(204, 135, 92, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(204, 135, 92, 0.71), rgba(204, 135, 92, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r5-even {
-    background: repeating-linear-gradient(to bottom, rgba(255, 168, 115, 0.71), rgba(255, 168, 115, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(255, 168, 115, 0.71), rgba(255, 168, 115, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r6-odd {
-    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(143, 90, 117, 0.71), rgba(143, 90, 117, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r6-even {
-    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(194, 123, 160, 0.71), rgba(194, 123, 160, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r7-odd {
-    background: repeating-linear-gradient(to bottom, rgba(204, 61, 175, 0.71), rgba(204, 61, 175, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(204, 61, 175, 0.71), rgba(204, 61, 175, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r7-even {
-    background: repeating-linear-gradient(to bottom, rgba(255, 33, 223, 0.71), rgba(255, 33, 223, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(255, 33, 223, 0.71), rgba(255, 33, 223, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 div.schedule-r8-odd, div.schedule-r8-even {
-    background: repeating-linear-gradient(to bottom, rgba(43, 133, 49, 0.71), rgba(43, 133, 49, 0.71) calc(2em - 1px), #aebbea 2em);
+    background: repeating-linear-gradient(to bottom, rgba(43, 133, 49, 0.71), rgba(43, 133, 49, 0.71) calc(2em - 1px), var(--gradient-line) var(--gradient-line-size));
 }
 
 .schedule-event-pop-title {

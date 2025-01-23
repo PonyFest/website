@@ -8,9 +8,9 @@
         <img class="bit_rate" src="/images/BitRate_winter.png" >
         <img class="neural_net" src="/images/NeuralNet_winter.png" >
     </div>
-	<div class="text-box" style="max-width: 80vw;" >
+	<div class="text-box" >
         <h1 style="font-size: 2.8em; margin: 0">PonyFest x PVFM <br> 14th Birthday</h1>
-        <p style="font-size: 2em; margin: 0">Saturday/Sunday</p>
+        <p style="font-size: 2em; margin: 0">Saturday / Sunday</p>
         <p style="font-size: 2em; margin: 0">January 25/26th, 2025</p>
         <!-- <div class="discord-box"> -->
         <div>

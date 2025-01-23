@@ -5,7 +5,7 @@ url: /shirt
 
 # Charity T-Shirt
 
-<div class="text-box" style="text-align: left; width: 100%; max-width: 90%;">
+<div class="text-box" style="text-align: left; width: 60vw;">
 
 <div style="text-align: center;" id="shirt-ad">
 

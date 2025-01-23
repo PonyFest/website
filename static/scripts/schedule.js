@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', async function() {
     const cellBlockHeight = 2; //em
-    const eventPopupOffset = 20;
+    const eventPopupOffset = 30;
     const calSkipHeight = 2;
     const blockTimeUnit = pfoSchedInterval; // minutes
     const schedRoot = $('.schedule-main');

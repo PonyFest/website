@@ -17,9 +17,10 @@ div.schedule-column {
 div.schedule-time-col {
     min-width: 8em;
 }
+
 div.schedule-room-col {
-    min-width: 10em;
-    width: 45em;
+    min-width: 14em;
+    width: 100%;
 }
 
 div.schedule-cell {
@@ -30,7 +31,6 @@ div.schedule-cell {
 }
 div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
     border-bottom: 1px solid #aebbea;
-    padding-top: 0.75em;
     font-weight: bold;
 }
 /* div.schedule-time-cell {
@@ -56,9 +56,10 @@ div.schedule-room-event {
 
 div.schedule-event-pop {
     position: absolute;
+    opacity: 50;
     border: 1px solid #aebbea;
     /* background-color: #193568; */
-    background-color: #f5d899;
+    background-color: #fde0f6;
     color: #000;
     text-shadow: none;
     border-radius: 5px;
@@ -120,6 +121,20 @@ div.schedule-r8-odd, div.schedule-r8-even {
     font-style: italic;
 }
 
+.schedule-text-box {
+    width: 70vw;
+}
+
+.schedule-block {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60em;
+    flex-grow: 1;
+    align-items: center
+}
+
 .text-box {
     max-width: inherit;
     padding: 0;
@@ -153,4 +168,11 @@ div.schedule-r8-odd, div.schedule-r8-even {
     text-align: left;
     color: white;
     line-height: 30px;
+}
+
+/* General mobile styles */
+@media screen and (max-width: 1020px) {
+    .schedule-text-box {
+        width: 90%;
+    }
 }

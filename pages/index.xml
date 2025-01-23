@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on PonyFest</title><link>https://ponyfest.horse/pages/</link><description>Recent content in Pages on PonyFest</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://ponyfest.horse/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://ponyfest.horse/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/about/</guid><description>&lt;div class="text-box" style="text-align: left">
-&lt;h1 id="about-ponyfest-online">About PonyFest Online!&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on PonyFest</title><link>https://ponyfest.horse/pages/</link><description>Recent content in Pages on PonyFest</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://ponyfest.horse/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://ponyfest.horse/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/about/</guid><description>&lt;h1 id="about-ponyfest-online">About PonyFest Online!&lt;/h1>
+&lt;div class="text-box" style="text-align: left">
 &lt;p>What the &lt;em>hay&lt;/em> is PonyFest Online?&lt;/p>
 &lt;p>PonyFest Online started in 2020 as an online Pony Convention with a one-week turnaround to survive Covid - Our entire organization, schedule, everything was built in a week! We were inspired to create an online Vendor Hall for our friends and family who were hurt by the loss of in-person pony conventions.&lt;/p>
 &lt;p>Since then, PonyFest Online has grown to host multiple conventions and concerts over the years as a celebration of our community. A space for us to come together regardless of distance from one another and find a way to love, live, and laugh together.&lt;/p></description></item><item><title>Charity Auction</title><link>https://ponyfest.horse/auction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/auction/</guid><description>&lt;h1 id="ponyfest-charity-auction">PonyFest Charity Auction&lt;/h1>
@@ -10,13 +10,17 @@
 &lt;p>We also have a Tiltify page! &lt;a href="https://tiltify.com/@ponyfest/ponyfest-7-charity-auction">Tiltify - PonyFest 7 Charity Auction&lt;/a>&lt;/p>
 &lt;h2 id="disclaimer">Disclaimer&lt;/h2>
 &lt;p>Please be aware that you, as the prize donor, will be fully responsible for getting the prize to the recipient, whether it is a physical item or a service/digital good. Auction winners will cover shipping costs. We know issues can arise, but please make sure you are able to do what&amp;rsquo;s reasonably in your power to get your donated prize to the auction winner. PonyFest is in no way liable for any part of the donating or shipping process. (See Disclaimer)&lt;/p></description></item><item><title>Charity Concert T-Shirt</title><link>https://ponyfest.horse/shirt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/shirt/</guid><description>&lt;h1 id="charity-t-shirt">Charity T-Shirt&lt;/h1>
-&lt;div class="text-box" style="text-align: left; width: 100%; max-width: 90%;">
+&lt;div class="text-box" style="text-align: left; width: 60vw;">
 &lt;div style="text-align: center;" id="shirt-ad">
 &lt;p>&lt;a href="https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday">&lt;img src="https://ponyfest.horse/images/charity/pvfmpfo25shirtfront.png" alt="image of shirt charity shirt, front">&lt;/a>
 &lt;a href="https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday">&lt;img src="https://ponyfest.horse/images/charity/pvfmpfo25shirtback.png" alt="image of shirt charity shirt, back">&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday">CustomInk&lt;/a>&lt;/p>
 &lt;/div>
-&lt;style type="text/css">
+&lt;style>
+
+#shirt-ad a {
+ padding: 20px;
+}
 
 #shirt-ad img {
 border-radius: 10px;
@@ -78,10 +82,10 @@ max-width: 45%;
 
 
 &lt;h1>Schedule&lt;/h1>
-&lt;div style="display: flex; flex-wrap: wrap; margin-left: auto; margin-right: auto; max-width: 905px; flex-grow: 1; align-items: center" class="main">
-&lt;div class="text-box" style="width: 80vw;">
+&lt;div class="main schedule-block">
+ &lt;div class="text-box schedule-text-box">
  &lt;div class="schedule-main">Schedule Loading...&lt;/div>
-&lt;/div>
+ &lt;/div>
 &lt;/div></description></item><item><title>Staff</title><link>https://ponyfest.horse/staff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/staff/</guid><description>&lt;h1 id="staff">Staff&lt;/h1>
 &lt;div style="text-align: center">
 &lt;div>

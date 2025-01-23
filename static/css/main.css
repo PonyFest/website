@@ -22,9 +22,9 @@ hr {
     width: 50%;
   }
 
-header {
-    text-shadow: -1px 3px #f0f0f0;
-}
+/*header {*/
+/*    text-shadow: -1px 3px #8088de;*/
+/*}*/
 
 /* header {
     display: flex;
@@ -46,7 +46,7 @@ html {
     width: 500px;
     max-width: 80vw;
     border: 1px solid #182f7b;
-    background-color: #90c9f0;
+    background-color: #d0d7e3;
     color: #182f7b;
     border-radius: 5px;
     padding: 20px;
@@ -81,13 +81,13 @@ footer a {
 
 .content h1 {
     text-align: center;
-    text-shadow: -2px 4px #f0f0f0;
-    color: #182f7b;
+    /*text-shadow: -2px 4px #f0f0f0;*/
+    color: #d0d7e3;
 }
 
 .content h3 {
     text-align: center;
-    text-shadow: -2px 4px #f0f0f0;
+    /*text-shadow: -2px 4px #f0f0f0;*/
     color: #182f7b;
 }
 
@@ -98,14 +98,14 @@ footer a {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #90c9f0;
+    background-color: #d0d7e3;
     overflow-x: hidden;
     padding-top: 20px;
 }
 
 .topbar a:hover {
-    color: #182f7b;
-    text-shadow: -2px 3px #733d6f00;
+    color: #e200a7;
+    /*text-shadow: -2px 3px #733d6f00;*/
 }
 
 .menu {

@@ -30,7 +30,6 @@ div.schedule-cell {
 }
 div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
     border-bottom: 1px solid #aebbea;
-    padding-top: 0.75em;
     font-weight: bold;
 }
 /* div.schedule-time-cell {

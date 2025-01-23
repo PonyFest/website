@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         const col = makeColumn('schedule-time-col');
         grid.append(col);
 
-        { // Add time header
+        { // Header Row 1 - Add TimeZone
             const colhead = makeCell('schedule-time-header');
             colhead.text(`Time (${moment.tz(userTz).format('z')})`);
             col.append(colhead);
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             times[i] = moment.tz(times[i], 'America/New_York');
 
             //if(times[i].tz. - times[i-1])
-            if (i != 0) {
+            if (i !== 0) {
                 let dur = moment.duration(times[i].diff(times[i-1]));
                 if(dur.asMinutes() > blockTimeUnit) {
                     if(timeSkip < calSkipHeight) {
@@ -146,6 +146,11 @@ document.addEventListener('DOMContentLoaded', async function() {
                         timeSkip=0
                     }
                 }
+            } else {
+                // Header Row 2 - Add Date Field
+                const cell1 = makeCell('schedule-time-header');
+                cell1.text(times[i].tz(userTz).format('MMM Do'))
+                col.append(cell1);
             }
 
             if(printTime) {
@@ -153,6 +158,11 @@ document.addEventListener('DOMContentLoaded', async function() {
                 cell.text(times[i].tz(userTz).format('h:mm A'))
                 col.append(cell);
             }
+        }
+        { // Footer Row - Add TimeZone
+            const colhead = makeCell('schedule-time-header');
+            colhead.text(`Time (${moment.tz(userTz).format('z')})`);
+            col.append(colhead);
         }
 
         let colNum = 1;
@@ -204,9 +214,13 @@ document.addEventListener('DOMContentLoaded', async function() {
                 const roomCol = makeColumn('schedule-room-col');
                 grid.append(roomCol);
 
-                { // header
+                { // Header Row 1 - Add Room Name
                     const colhead = makeCell('schedule-room-header');
                     colhead.text(key);
+                    roomCol.append(colhead);
+                }
+                { // Header Row 2 - Skip for Date Field
+                    const colhead = makeCell('schedule-room-header');
                     roomCol.append(colhead);
                 }
                 // cells

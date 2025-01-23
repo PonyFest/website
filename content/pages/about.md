@@ -3,9 +3,9 @@ title: About
 url: /about
 ---
 
-<div class="text-box" style="text-align: left">
-
 # About PonyFest Online!
+
+<div class="text-box" style="text-align: left">
 
 What the _hay_ is PonyFest Online?
 

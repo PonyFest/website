@@ -38,7 +38,8 @@ div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
 } */
 div.schedule-room-cell {
     text-align: center;
-    color: #DFDFDF;
+    color: #182f7b;
+    font-weight: bold;
     text-shadow: none;
     /* font-weight: bold; */
 }

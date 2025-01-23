@@ -43,8 +43,8 @@ html {
 }
 
 .text-box {
-    width: 600px;
-    max-width: 80vw;
+    width: 60vw;
+    max-width: 600px;
     border: 1px solid #182f7b;
     background-color: #d0d7e3;
     color: #182f7b;

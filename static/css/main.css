@@ -52,6 +52,7 @@ html {
     padding: 20px;
     text-align: center;
     margin: auto;
+    word-break: break-word;
 }
 
 footer {

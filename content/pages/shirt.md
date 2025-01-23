@@ -15,7 +15,11 @@ url: /shirt
 [CustomInk](https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday)
 </div>
 
-<style type="text/css">
+<style>
+
+#shirt-ad a {
+    padding: 20px;
+}
 
 #shirt-ad img {
 border-radius: 10px;

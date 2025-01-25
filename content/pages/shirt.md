@@ -40,7 +40,7 @@ PonyFest Online is an online Pony Convention. They were established in 2020 and 
 
 <span style="font-size: xx-large;">
 
-[Buy the shirts on CustomInk!](https://www.customink.com/fundraising/pfo-x-pvfm-2024)
+[Buy the shirts on CustomInk!](https://www.customink.com/fundraising/ponyfest-online-x-ponyvillefm-14th-birthday)
 
 </span>
 

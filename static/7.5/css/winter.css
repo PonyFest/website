@@ -1,0 +1,21 @@
+
+.adventure img  {
+    /*position: absolute;*/
+    width: 25%; /* Set a fixed width for the images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.aerial_soundwaves {
+    top: 30%; /* Offset image 1 from the top */
+    left: 15%; /* Offset image 1 from the left */
+}
+
+.bit_rate {
+    top: 10%; /* Offset image 2 from the top */
+    left: 75%; /* Offset image 2 to the right of image 1 */
+}
+
+.neural_net {
+    top: 30%; /* Offset image 2 from the top */
+    left: 60%; /* Offset image 2 to the right of image 1 */
+}

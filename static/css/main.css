@@ -49,7 +49,7 @@ html {
     background-color: #d0d7e3;
     color: #182f7b;
     border-radius: 5px;
-    padding: 20px;
+    /*padding: 20px;*/
     text-align: center;
     margin: auto;
     word-break: break-word;
@@ -491,7 +491,6 @@ a.discord-icon
 }
 
 .front-image img  {
-    /*position: absolute;*/
-    width: 50%; /* Set a fixed width for the images */
+    width: 100%; /* Set a fixed width for the images */
     height: auto; /* Maintain aspect ratio */
 }

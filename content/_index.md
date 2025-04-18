@@ -2,11 +2,11 @@
 
 ---
 
-<div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
-	<div class="front-image">
-        <img src="/images/neighhem_card.jpg" >
+<div class="front-page-container">
+	<div class="front-image" style="display: inline-block;">
+        <img src="/images/PinkaboosNeighhem.png" style="max-width: 900px">
     </div>
-	<div class="text-box" >
+	<div>
         <h1 style="font-size: 2.8em; margin: 0">PonyFest Presents <br> PINKABOO's <br> NEIGHHEM</h1>
         <p style="font-size: 2em; margin: 0">Sunday</p>
         <p style="font-size: 2em; margin: 0">April 20th, 2025</p>

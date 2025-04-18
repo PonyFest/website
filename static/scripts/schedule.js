@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         for(let i = 0; i < times.length; i++) {
             let printTime = true
             // convert times to moments
-            times[i] = moment.tz(times[i], 'America/New_York');
+            times[i] = moment.tz(times[i], 'America/Los_Angeles');
 
             //if(times[i].tz. - times[i-1])
             if (i !== 0) {
@@ -170,8 +170,8 @@ document.addEventListener('DOMContentLoaded', async function() {
             if (rooms.hasOwnProperty(key)) {
                 const events = rooms[key];
                 events.forEach( (value, index) => {
-                    value.startTime = moment.tz(value.startTime, 'America/New_York');
-                    value.endTime = moment.tz(value.endTime, 'America/New_York');
+                    value.startTime = moment.tz(value.startTime, 'America/Los_Angeles');
+                    value.endTime = moment.tz(value.endTime, 'America/Los_Angeles');
                     value.color = `r${colNum}-${(index%2)==0?'even':'odd'}`;
                     value.pop = makeEventPop(value, '');
                     popDivs.push(value.pop);

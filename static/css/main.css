@@ -489,3 +489,9 @@ a.discord-icon
 .donator {
     margin-top: 2px;
 }
+
+.front-image img  {
+    /*position: absolute;*/
+    width: 50%; /* Set a fixed width for the images */
+    height: auto; /* Maintain aspect ratio */
+}

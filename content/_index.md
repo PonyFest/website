@@ -3,15 +3,13 @@
 ---
 
 <div style="display: inline-block; list-style: none; margin-left: auto; margin-right: auto; max-width: 1200px; flex-grow: 1; text-align: center; align-items: center " class="main">
-	<div class="adventure">
-        <img class="aerial_soundwaves" src="/images/Aerial_Soundwaves_winter.png" >
-        <img class="bit_rate" src="/images/BitRate_winter.png" >
-        <img class="neural_net" src="/images/NeuralNet_winter.png" >
+	<div class="front-image">
+        <img src="/images/neighhem_card.jpg" >
     </div>
 	<div class="text-box" >
-        <h1 style="font-size: 2.8em; margin: 0">PonyFest x PVFM <br> 14th Birthday</h1>
-        <p style="font-size: 2em; margin: 0">Saturday / Sunday</p>
-        <p style="font-size: 2em; margin: 0">January 25/26th, 2025</p>
+        <h1 style="font-size: 2.8em; margin: 0">PonyFest Presents <br> PINKABOO's <br> NEIGHHEM</h1>
+        <p style="font-size: 2em; margin: 0">Sunday</p>
+        <p style="font-size: 2em; margin: 0">April 20th, 2025</p>
         <!-- <div class="discord-box"> -->
         <div>
             <p style="font-weight: bold;">Pick up your badge here!</p>

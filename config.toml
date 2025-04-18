@@ -6,7 +6,7 @@ title = "PonyFest"
   scheduleApiUriDev = "/schedule.json"
   scheduleApiUri = "/schedule.json"
   scheduleInterval = "15"
-  scheduleCountdown = "2024-01-27T13:45:00-05:00"
+  scheduleCountdown = "2025-04-20T17:00:00-07:00"
   scheduleTransition = "5"
 
 # this lets use use HTML in our pages if we are so inclined.

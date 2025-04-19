@@ -6,7 +6,7 @@
 	<div class="front-image" style="display: inline-block;">
         <img src="/images/PinkaboosNeighhem.png" style="max-width: 900px">
     </div>
-	<div>
+	<div style="padding: 20px;">
         <h1 style="font-size: 2.8em; margin: 0">PonyFest Presents <br> PINKABOO's <br> NEIGHHEM</h1>
         <p style="font-size: 2em; margin: 0">Sunday</p>
         <p style="font-size: 2em; margin: 0">April 20th, 2025</p>

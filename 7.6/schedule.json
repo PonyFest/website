@@ -1,0 +1,171 @@
+{
+  "rooms": {
+    "Neighhem Stage": [
+      {
+        "id": "bit1",
+        "startTime": "2025-04-20T17:00:00-07:00",
+        "endTime": "2025-04-20T17:45:00-07:00",
+        "title": "WonderStrom",
+        "panelists": "Wonderbolts, Maerstrom",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit2",
+        "startTime": "2025-04-20T17:45:00-07:00",
+        "endTime": "2025-04-20T18:15:00-07:00",
+        "title": "SplashMeta4",
+        "panelists": "Turquoise Splash, Metajoker, 4EverfreeBrony",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit3",
+        "startTime": "2025-04-20T18:15:00-07:00",
+        "endTime": "2025-04-20T19:00:00-07:00",
+        "title": "ponyphonic",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit4",
+        "startTime": "2025-04-20T19:00:00-07:00",
+        "endTime": "2025-04-20T19:45:00-07:00",
+        "title": "Dawn Seekers",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit5",
+        "startTime": "2025-04-20T19:45:00-07:00",
+        "endTime": "2025-04-20T20:15:00-07:00",
+        "title": "Pony Rap Gods",
+        "panelists": "MicTheMicrophone, Rhymeflow, Nexgen",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit6",
+        "startTime": "2025-04-20T20:15:00-07:00",
+        "endTime": "2025-04-20T20:45:00-07:00",
+        "title": "Starcrush!",
+        "panelists": "Namiiimaa, Evershade",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit7",
+        "startTime": "2025-04-20T20:45:00-07:00",
+        "endTime": "2025-04-20T21:15:00-07:00",
+        "title": "PegaElement",
+        "panelists": "Seventh Element, Pegasys",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit8",
+        "startTime": "2025-04-20T21:15:00-07:00",
+        "endTime": "2025-04-20T21:45:00-07:00",
+        "title": "Vinyltastic & Shuffle",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit9",
+        "startTime": "2025-04-20T21:45:00-07:00",
+        "endTime": "2025-04-20T22:15:00-07:00",
+        "title": "Chang31ng & TAPS",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit10",
+        "startTime": "2025-04-20T22:15:00-07:00",
+        "endTime": "2025-04-20T22:45:00-07:00",
+        "title": "TCB & loophoof",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit11",
+        "startTime": "2025-04-20T22:45:00-07:00",
+        "endTime": "2025-04-20T23:15:00-07:00",
+        "title": "John Kenza X Trey Husk",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit12",
+        "startTime": "2025-04-20T23:15:00-07:00",
+        "endTime": "2025-04-20T23:45:00-07:00",
+        "title": "Garnika & Chi-Chi",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit13",
+        "startTime": "2025-04-20T23:45:00-07:00",
+        "endTime": "2025-04-21T00:45:00-07:00",
+        "title": "Vylet Pony",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      },
+      {
+        "id": "bit14",
+        "startTime": "2025-04-21T00:45:00-07:00",
+        "endTime": "2025-04-21T01:30:00-07:00",
+        "title": "Odyssey Eurobeat Brony",
+        "panelists": "",
+        "description": "",
+        "type": "Live"
+      }
+    ]
+  },
+  "roomOrder": [
+    "Neighhem Stage"
+  ],
+  "times": [
+    "2025-04-20T17:00:00-07:00",
+    "2025-04-20T17:15:00-07:00",
+    "2025-04-20T17:30:00-07:00",
+    "2025-04-20T17:45:00-07:00",
+    "2025-04-20T18:00:00-07:00",
+    "2025-04-20T18:15:00-07:00",
+    "2025-04-20T18:30:00-07:00",
+    "2025-04-20T18:45:00-07:00",
+    "2025-04-20T19:00:00-07:00",
+    "2025-04-20T19:15:00-07:00",
+    "2025-04-20T19:30:00-07:00",
+    "2025-04-20T19:45:00-07:00",
+    "2025-04-20T20:00:00-07:00",
+    "2025-04-20T20:15:00-07:00",
+    "2025-04-20T20:30:00-07:00",
+    "2025-04-20T20:45:00-07:00",
+    "2025-04-20T21:00:00-07:00",
+    "2025-04-20T21:15:00-07:00",
+    "2025-04-20T21:30:00-07:00",
+    "2025-04-20T21:45:00-07:00",
+    "2025-04-20T22:00:00-07:00",
+    "2025-04-20T22:15:00-07:00",
+    "2025-04-20T22:30:00-07:00",
+    "2025-04-20T22:45:00-07:00",
+    "2025-04-20T23:00:00-07:00",
+    "2025-04-20T23:15:00-07:00",
+    "2025-04-20T23:30:00-07:00",
+    "2025-04-20T23:45:00-07:00",
+    "2025-04-21T00:00:00-07:00",
+    "2025-04-21T00:15:00-07:00",
+    "2025-04-21T00:30:00-07:00",
+    "2025-04-21T00:45:00-07:00",
+    "2025-04-21T01:00:00-07:00",
+    "2025-04-21T01:15:00-07:00"
+  ]
+}

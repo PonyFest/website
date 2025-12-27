@@ -1,0 +1,13 @@
+
+body {
+    background-image: none;
+    background-color: #293241;
+    color: #70d2fa;
+}
+
+.front-page-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}

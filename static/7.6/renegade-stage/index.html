@@ -144,7 +144,7 @@
 
 				<iframe
 					id="twitch"
-				    src="https://player.twitch.tv/?channel=ponyfest&autoplay&parent=localhost"
+				    src="https://player.twitch.tv/?channel=ponyfest2&autoplay&parent=ponyfest.horse"
 				    height="480"
 				    width="640"
 				    frameborder="0"
@@ -170,7 +170,7 @@
 				console.log("it's too early, waiting...")
 				const timeout = (live - now) ;
 				var script = document.createElement("script");
-				script.setAttribute('src', "http:\/\/localhost:1313\/7.6\/scripts/countdown.js");
+				script.setAttribute('src', "https:\/\/ponyfest.horse\/7.6\/scripts/countdown.js");
 				document.body.appendChild(script);
 				document.getElementById('stream-holder').innerHTML = "<div class=\"countdown\"><img src='/images/PinkaboosNeighhem.png' ><p class='bottom-center' id='countdown'></p></div>";
 

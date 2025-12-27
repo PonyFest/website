@@ -3,13 +3,10 @@
 ---
 
 <div class="front-page-container">
-	<div class="front-image" style="display: inline-block;">
-        <img src="/images/PinkaboosNeighhem.png" style="max-width: 900px">
-    </div>
-	<div style="padding: 20px;">
-        <h1 style="font-size: 2.8em; margin: 0">PonyFest Presents <br> PINKABOO's <br> NEIGHHEM</h1>
-        <p style="font-size: 2em; margin: 0">Sunday</p>
-        <p style="font-size: 2em; margin: 0">April 20th, 2025</p>
+	<div class="text-box" style="padding: 20px;">
+        <h1 style="font-size: 2.8em; margin: 0">PonyFest x PVFM <br> 15th Birthday</h1>
+        <p style="font-size: 2em; margin: 0">Saturday / Sunday</p>
+        <p style="font-size: 2em; margin: 0">January 24/25th, 2026</p>
         <!-- <div class="discord-box"> -->
         <div>
             <p style="font-weight: bold;">Pick up your badge here!</p>

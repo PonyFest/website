@@ -3,6 +3,10 @@
 ---
 
 <div class="front-page-container">
+	<div class="index">
+        <img class="aerial_soundwaves" src="/images/Aerial_Soundwaves_Music.png" >
+        <img class="bit_rate" src="/images/BitRate_Music.png" >
+    </div>
 	<div class="text-box" style="padding: 20px;">
         <h1 style="font-size: 2.8em; margin: 0">PonyFest x PVFM <br> 15th Birthday</h1>
         <p style="font-size: 2em; margin: 0">Saturday / Sunday</p>

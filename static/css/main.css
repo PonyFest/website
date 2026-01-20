@@ -22,6 +22,12 @@ hr {
     width: 50%;
   }
 
+.index img  {
+    /*position: absolute;*/
+    width: 25%; /* Set a fixed width for the images */
+    height: auto; /* Maintain aspect ratio */
+}
+
 /*header {*/
 /*    text-shadow: -1px 3px #8088de;*/
 /*}*/

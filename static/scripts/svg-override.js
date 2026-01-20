@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     svgObject.addEventListener('load', updateSVGColors);
+    
+    svgObject.classList.add('loaded');
 
     // Optional: Watch for theme changes
     const observer = new MutationObserver(updateSVGColors);

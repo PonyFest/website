@@ -1,0 +1,69 @@
+
+@import url("//fonts.googleapis.com/css?family=Oswald:400,700,400italic,700italic");
+
+body {
+    font-family: Oswald;
+    background-image: none;
+    background-color: #14065b;
+    color: #ffffff;
+}
+
+:root {
+    /* Override the logo SVG */
+    --logo-color: #ffffff;
+    --logo-fill: #ffffff;
+}
+
+
+.front-page-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.text-box {
+    border: 1px solid #000000;
+    background-color: #6805bd;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+.content h1 {
+    color: #ffffff;
+}
+
+.text-box h1 {
+    color: #ffffff;
+}
+
+.content h3 {
+    color: #ffffff;
+}
+
+.topbar {
+    background-color: #000000;
+}
+
+.topbar a:hover {
+    color: #e200a7;
+}
+
+a {
+    color: #ffffff;
+}
+
+nav a
+{
+    color: #ffffff;
+}
+
+.guest {
+    background-color: #e5ebff;
+}
+
+.schedule-room-cell {
+    color: #ffffff;
+}

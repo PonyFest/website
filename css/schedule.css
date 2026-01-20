@@ -38,13 +38,13 @@ div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
 } */
 div.schedule-room-cell {
     text-align: center;
-    color: #182f7b;
     font-weight: bold;
     text-shadow: none;
     /* font-weight: bold; */
 }
-div.schedule-room-blank {
 
+div.schedule-room-blank {
+    border: none;
 }
 div.schedule-room-event {
     /* border-bottom: 1px solid #aebbea; */

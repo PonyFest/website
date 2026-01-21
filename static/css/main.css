@@ -342,6 +342,8 @@ a.discord-icon
     justify-content: center;
     word-wrap: break-word;
     word-break: break-word;
+    border-radius: 20px;
+    margin: 20px;
 }
 
 .guest-container > div.guest-VIP {

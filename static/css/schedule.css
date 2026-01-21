@@ -45,6 +45,7 @@ div.schedule-room-cell {
     font-weight: bold;
     text-shadow: none;
     /* font-weight: bold; */
+    overflow: auto;
 }
 
 div.schedule-room-blank {
@@ -126,12 +127,11 @@ div.schedule-r8-odd, div.schedule-r8-even {
 }
 
 .schedule-event-pop-title {
-    font-weight: bold;
-    font-size:larger;
+    font-weight: bolder;
 }
 
 .schedule-event-pop-panelists {
-    font-weight: bold;
+    font-weight:lighter;
 }
 
 .schedule-text-box {
@@ -187,5 +187,9 @@ div.schedule-r8-odd, div.schedule-r8-even {
 @media screen and (max-width: 1020px) {
     .schedule-text-box {
         width: 90%;
+        font-size:auto;
     }
+    /* .schedule-event-pop-title {
+        font-size:auto;
+    } */
 }

@@ -29,6 +29,10 @@ div.schedule-cell {
     padding: 0.25em 0.25em;
     background: repeating-linear-gradient(to bottom, transparent, transparent calc(2em - 1px), #aebbea 2em);
 }
+div.schedule-cell:hover:not(.schedule-blank) {
+   background-color: #9ca7cdb4;/
+}
+
 div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
     border-bottom: 1px solid #aebbea;
     font-weight: bold;
@@ -45,6 +49,7 @@ div.schedule-room-cell {
 
 div.schedule-room-blank {
     border: none;
+    background: repeating-linear-gradient(to bottom, transparent, transparent calc(2em - 1px));
 }
 div.schedule-room-event {
     /* border-bottom: 1px solid #aebbea; */
@@ -122,10 +127,11 @@ div.schedule-r8-odd, div.schedule-r8-even {
 
 .schedule-event-pop-title {
     font-weight: bold;
+    font-size:larger;
 }
 
 .schedule-event-pop-panelists {
-    font-style: italic;
+    font-weight: bold;
 }
 
 .schedule-text-box {

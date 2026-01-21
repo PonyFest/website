@@ -225,10 +225,39 @@ document.addEventListener('DOMContentLoaded', async function() {
                 }
                 // cells
                 for(const block of renderBlocks) {
+                    // Boring math to see how many cells we take up for the slot
+                    const cellBlockCount = moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit
+                    const height = cellBlockHeight * cellBlockCount;
+
+                    // Check if we have data or this is a blank cell
+                    if (block.id === '-blank-') {
+                        const cell = makeCell(`schedule-room-blank schedule-${block.event.color}`);
+                        cell.height(`${height}em`);
+                        roomCol.append(cell);
+                        continue
+                    }
+
+
+                    // Create the Cell that will hold all the data for this time block
                     const cell = makeCell(`schedule-room-cell schedule-${block.event.color} event-${(block.event.title || "").toLowerCase().replace(/[^a-z]/g, '-')}`);
-                    cell.text(block.event.title);
-                    const height = cellBlockHeight * (moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit);
                     cell.height(`${height}em`);
+
+
+                    if (cellBlockCount > 1) {
+                        let div = $('<div class="schedule-event-pop-title"></div>');
+                        div.text( block.event.title || "");
+                        cell.append(div);
+
+                        if (block.event.panelists !== undefined) {
+                            div = $('<div class="schedule-event-pop-panelists"></div>');
+                            div.text("[" + block.event.panelists + "]");
+                            cell.append(div);
+                        }
+                    } else {
+                        cell.text(block.event.title || "");
+                    }
+
+                    // Handle clicks/hovers for the cell
                     if(block.id !== '-blank-') {
                         cell.click( (e) => clickSchedule(e, block.event) );
                         cell.hover( (e) => hoverSchedule(e, block.event));

@@ -29,12 +29,12 @@ div.schedule-cell {
     padding: 0.25em 0.25em;
     background: repeating-linear-gradient(to bottom, transparent, transparent calc(2em - 1px), #aebbea 2em);
 }
-div.schedule-cell:hover:not(.schedule-blank) {
+div.schedule-room-cell:hover:not(.schedule-blank) {
    background-color: #9ca7cdb4;/
 }
 
 div.schedule-time-header, div.schedule-room-header, div.schedule-room-footer {
-    border-bottom: 1px solid #aebbea;
+    border: 1px solid #aebbea;
     font-weight: bold;
 }
 /* div.schedule-time-cell {

@@ -47,7 +47,7 @@ PonyFest Online is an online Pony Convention. They were established in 2020 and 
 
 **Q: Are there only 100 shirts available?**
 
-A: No, there are an infinite number of shirts to be had! 50 is just an initial goal, and one we would very much like to beat!
+A: No, there are an infinite number of shirts to be had! 100 is just an initial goal, and one we would very much like to beat!
 
 **Q: Do these shirts ship internationally?**
 

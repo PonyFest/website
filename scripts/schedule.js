@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                         timeSkip++
                     } else if (timeSkip === calSkipHeight) {
                         // On the Skip Height, we add the date to differentiate the days
-                        times.splice(i, 0, moment(times[i - 1]).add(Number(blockTimeUnit), 'minutes'))
+                        times.splice(i, 0, moment(times[i]).add(Number(blockTimeUnit), 'minutes'))
                         const cell = makeCell('schedule-time-header');
                         cell.text(times[i].tz(userTz).format('MMM Do'))
                         col.append(cell);

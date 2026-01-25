@@ -43,6 +43,8 @@ body {
 
 .content h2 {
     color: #ffffff;
+    -webkit-text-stroke: 4px #000;
+    paint-order: stroke fill;
 }
 
 .text-box h2 {
@@ -57,12 +59,27 @@ body {
     background-color: #000000;
 }
 
-.topbar a:hover {
+/* .topbar a:hover {
     color: #e200a7;
-}
+} */
 
+
+
+
+.content h1 {
+    color: #ffffff;
+    -webkit-text-stroke: 4px #000;
+    paint-order: stroke fill;
+}
 a {
     color: #ffffff;
+    -webkit-text-stroke: 2px #000;
+    paint-order: stroke fill;
+}
+
+p {
+    -webkit-text-stroke: 2px #000;
+    paint-order: stroke fill;
 }
 
 nav a
@@ -76,4 +93,16 @@ nav a
 
 .schedule-room-cell {
     color: #ffffff;
+}
+
+.shirt-link {
+    color: #e81767;
+}
+
+/* This was a painful tweak XD */
+.shirt-link:hover,
+.topbar .shirt-link:hover,
+.shirt-link a:hover,
+.topbar .shirt-link a:hover {
+    color: #e2d700;
 }

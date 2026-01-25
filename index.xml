@@ -32,7 +32,7 @@
 &lt;div class="guest-container">
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>∆•RYZ &lt;/h1>
+ &lt;h2>∆•RYZ &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/deltaryz.png" >
  &lt;/p>
@@ -45,7 +45,7 @@
  &lt;/div>
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>Acid Applejack &lt;/h1>
+ &lt;h2>Acid Applejack &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/AcidApplejack.png" >
  &lt;/p>
@@ -58,7 +58,7 @@
  &lt;/div>
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>AWal &lt;/h1>
+ &lt;h2>AWal &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/awal_15_years_of_happy_horsecore.png" >
  &lt;/p>
@@ -69,7 +69,7 @@
 &lt;div class="guest-container">
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>∆•RYZ &lt;/h1>
+ &lt;h2>∆•RYZ &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/deltaryz.png" >
  &lt;/p>
@@ -82,7 +82,7 @@
  &lt;/div>
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>Acid Applejack &lt;/h1>
+ &lt;h2>Acid Applejack &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/AcidApplejack.png" >
  &lt;/p>
@@ -95,7 +95,7 @@
  &lt;/div>
 
  &lt;div class="text-box guest-musician" style="margin-bottom: 20px">
- &lt;h1>AWal &lt;/h1>
+ &lt;h2>AWal &lt;/h2>
  &lt;p class="guest-image">
  &lt;img src="https://ponyfest.horse/images/guests/awal_15_years_of_happy_horsecore.png" >
  &lt;/p>

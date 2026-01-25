@@ -30,8 +30,13 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## A/V
-- **Larscis** - Lead
-- **Reiuiji** - Staff
+- **Reiuiji** - Lead
+- **Beakie Birb** - Staff
+- **DuncanKlysh** - Staff
+- **Hypno** - Staff
+- **Fizzbuzz** - Staff
+- **Jamis** - Staff
+- **Sirris** - Staff
 
 </div>
 
@@ -56,9 +61,8 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Design
-- **TechyCutie** - Lead
-- **HauntedTuba** - Staff
-- **Dawnfire** - Bit Rate's Mom
+- **HauntedTuba** - Lead
+- **Reiuiji** - Staff
 
 </div>
 
@@ -127,9 +131,12 @@ url: /staff
 <div style="break-inside: avoid;">
 
 ## Special Thanks
+- **Larscis** - AV/Stream Expert, super supportive on new projects every year!
 - **Twilight//RainbowDerpy** - Streaming OPS, Resident Pony Town Expert
 - **Sleepy** - PVFM Owner, Mentor
 - **Industrialice** - PonyTown Project Lead Programmer
+- **TechyCutie** - Helped bring life to the Amazing assets for Early PFO. Moved on to bigger and greater projects
+- **Dawnfire** - Bit Rate's Mom
 - **PonyTown Team** - For being supported for all these years
 - **Reiuiji** - Our Resident Sylveon
 </div>

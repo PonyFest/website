@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     const eventPopupOffset = 30;            // Pixel offset for event popup positioning
     const calSkipHeight = 4;                // Number of blank cells to insert before showing date header during gaps
     const blockTimeUnit = pfoSchedInterval; // Duration of each time block in minutes (from global config)
+    const SOURCE_TIMEZONE = 'America/Los_Angeles'; // Timezone of the source schedule data
 
     const schedRoot = $('.schedule-main');
     if(schedRoot.length == 0) { return; }   // Exit if schedule container doesn't exist
@@ -49,7 +50,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     // DOM HELPER FUNCTIONS
     // ========================================================================
     const grid = $('<div class="schedule-grid"></div>');
-    schedRoot.empty();schedRoot.text('');
+    schedRoot.empty();
     schedRoot.append(grid);
 
     /** Creates a column container element */
@@ -64,14 +65,15 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     /** Handle click on a schedule event - locks popup open */
     const clickSchedule = function(e, event) {
+        e.stopPropagation(); // Prevent document click handler from immediately closing
         isClicked = true;
-        showEvent(e,event);
+        showEvent(e, event);
     }
 
     /** Handle hover on a schedule event - shows popup if not clicked */
     const hoverSchedule = function(e, event) {
         if(!isClicked) {
-            showEvent(e,event);
+            showEvent(e, event);
         }
     };
 
@@ -88,8 +90,8 @@ document.addEventListener('DOMContentLoaded', async function() {
         // Calculate grid boundaries for positioning
         let calOffset = targetCal.offset();
         calOffset.right = calOffset.left + targetCal.width();
-        calOffset.width = calOffset.right - calOffset.left
-        calOffset.mid = calOffset.left + calOffset.width / 2
+        calOffset.width = calOffset.right - calOffset.left;
+        calOffset.mid = calOffset.left + calOffset.width / 2;
 
         // Position popup on opposite side of cursor from grid center
         let offsetX = e.pageX - calOffset.left + eventPopupOffset;
@@ -104,27 +106,39 @@ document.addEventListener('DOMContentLoaded', async function() {
         offsetY = Math.min(offsetY, targetCal.height() - event.pop.get()[0].getBoundingClientRect().height);
 
         // Apply position (left or right depending on cursor location)
-        const domPop = event.pop.get()[0]
+        // Reset both properties first to avoid conflicts
+        const domPop = event.pop.get()[0];
+        domPop.style.left = '';
+        domPop.style.right = '';
         if(e.clientX < calOffset.mid) {
-            domPop.style.left = offsetX;
+            domPop.style.left = offsetX + 'px';
         } else {
-            domPop.style.right = offsetX;
+            domPop.style.right = offsetX + 'px';
         }
-        domPop.style.top = offsetY;
+        domPop.style.top = offsetY + 'px';
     };
 
     /** Close popup when clicked */
-    const eventPopClick = function() {
+    const eventPopClick = function(e) {
+        e.stopPropagation(); // Prevent event bubbling
         $('.schedule-event-pop').hide();
         isClicked = false;
     }
 
     /** Close popup on hover-out (only if not clicked open) */
-    const eventPopHoover = function() {
+    const eventPopHover = function() {
         if(!isClicked) {
             $('.schedule-event-pop').hide();
         }
     }
+
+    /** Close popups when clicking outside (for mobile support) */
+    $(document).on('click', function(e) {
+        if(isClicked && !$(e.target).closest('.schedule-event-pop, .schedule-room-cell').length) {
+            $('.schedule-event-pop').hide();
+            isClicked = false;
+        }
+    });
 
     /**
      * Create the popup element for an event
@@ -155,17 +169,54 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         eventDesc.hide();
         eventDesc.click(eventPopClick);
-        eventDesc.hover(eventPopHoover);
+        eventDesc.hover(eventPopHover);
         return eventDesc;
     }
 
     // ========================================================================
+    // UTILITY FUNCTIONS
+    // ========================================================================
+
+    /**
+     * Binary search to find event containing a given time
+     * Events must be sorted by startTime
+     * @param {Array} events - Sorted array of events
+     * @param {moment} targetTime - Time to search for
+     * @returns {Object|null} - Event containing targetTime, or null
+     */
+    const findEventAtTime = function(events, targetTime) {
+        if (events.length === 0) return null;
+
+        let low = 0;
+        let high = events.length - 1;
+
+        while (low <= high) {
+            const mid = Math.floor((low + high) / 2);
+            const event = events[mid];
+
+            if (targetTime.isBefore(event.startTime)) {
+                // Target is before this event, search left
+                high = mid - 1;
+            } else if (targetTime.isSameOrAfter(event.endTime)) {
+                // Target is after this event, search right
+                low = mid + 1;
+            } else {
+                // Target is within [startTime, endTime)
+                return event;
+            }
+        }
+
+        return null;
+    };
+
+    // ========================================================================
     // SCHEDULE GRID RENDERING
     // ========================================================================
-    let times = sched.times;        // Array of time slot strings from API
-    let rooms = sched.rooms;        // Object mapping room names to event arrays
-    let roomOrder = sched.roomOrder; // Array defining column order for rooms
-    let popDivs = [];               // Collect all popup elements to append later
+    // Work with copies to avoid mutating original data
+    let times = sched.times.slice();  // Copy array of time slot strings
+    let rooms = sched.rooms;          // Object mapping room names to event arrays
+    let roomOrder = sched.roomOrder;  // Array defining column order for rooms
+    let popDivs = [];                 // Collect all popup elements to append later
 
     {
         // --------------------------------------------------------------------
@@ -182,49 +233,49 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
 
         // Process each time slot and handle gaps between events
-        let timeSkip = 0  // Counter for blank cells inserted during gaps
+        let timeSkip = 0;  // Counter for blank cells inserted during gaps
         for(let i = 0; i < times.length; i++) {
-            let printTime = true
+            let printTime = true;
 
-            // Convert time string to moment object in Pacific time (event source timezone)
-            times[i] = moment.tz(times[i], 'America/Los_Angeles');
+            // Convert time string to moment object in source timezone
+            times[i] = moment.tz(times[i], SOURCE_TIMEZONE);
 
             if (i !== 0) {
                 // Check for gaps between consecutive time slots
                 let dur = moment.duration(times[i].diff(times[i-1]));
-                if(dur.asMinutes()> blockTimeUnit) {
+                if(dur.asMinutes() > blockTimeUnit) {
                     // Gap detected - insert filler cells
                     if(timeSkip < calSkipHeight) {
                         // Insert blank spacer cell (no time label)
-                        times.splice(i, 0, times[i - 1].clone().add(Number(blockTimeUnit), 'minutes'))
+                        times.splice(i, 0, times[i - 1].clone().add(Number(blockTimeUnit), 'minutes'));
                         const cell = makeCell('schedule-time-cell');
                         col.append(cell);
-                        printTime = false
-                        timeSkip++
+                        printTime = false;
+                        timeSkip++;
                     } else if (timeSkip === calSkipHeight) {
                         // After enough spacers, insert date header to show day change
-                        times.splice(i, 0, times[i - 1].clone().add(Number(blockTimeUnit), 'minutes'))
+                        times.splice(i, 0, times[i - 1].clone().add(Number(blockTimeUnit), 'minutes'));
                         const cell = makeCell('schedule-time-header');
-                        cell.text(times[i + 1].tz(userTz).format('MMM Do'))
+                        cell.text(times[i + 1].tz(userTz).format('MMM Do'));
                         col.append(cell);
-                        printTime = false
-                        timeSkip++
+                        printTime = false;
+                        timeSkip++;
                     } else {
                         // Reset counter after date header, resume normal time display
-                        timeSkip=0
+                        timeSkip = 0;
                     }
                 }
             } else {
-                // First row: placeholder for date field alignment
+                // First row: date header for alignment
                 const cell1 = makeCell('schedule-time-header');
-                cell1.text(times[i].tz(userTz).format('MMM Do'))
+                cell1.text(times[i].tz(userTz).format('MMM Do'));
                 col.append(cell1);
             }
 
             // Print the time label for this slot (unless we're in a gap)
             if(printTime) {
                 const cell = makeCell('schedule-time-cell');
-                cell.text(times[i].tz(userTz).format('h:mm A'))
+                cell.text(times[i].tz(userTz).format('h:mm A'));
                 col.append(cell);
             }
         }
@@ -242,13 +293,18 @@ document.addEventListener('DOMContentLoaded', async function() {
         let colNum = 1;  // Track column number for alternating colors
         for (const key of roomOrder) {
             if (rooms.hasOwnProperty(key)) {
-                const events = rooms[key];
+                // Create a copy of events array to avoid mutating original
+                const events = rooms[key].map(function(evt) {
+                    return {
+                        ...evt,
+                        startTime: moment.tz(evt.startTime, SOURCE_TIMEZONE),
+                        endTime: moment.tz(evt.endTime, SOURCE_TIMEZONE)
+                    };
+                });
 
-                // Convert event times to moments and assign colors
-                events.forEach( (value, index) => {
-                    value.startTime = moment.tz(value.startTime, 'America/Los_Angeles');
-                    value.endTime = moment.tz(value.endTime, 'America/Los_Angeles');
-                    value.color = `r${colNum}-${(index%2)==0?'even':'odd'}`;  // Alternating colors per room
+                // Assign colors and create popups
+                events.forEach(function(value, index) {
+                    value.color = `r${colNum}-${(index % 2) == 0 ? 'even' : 'odd'}`;  // Alternating colors per room
                     value.pop = makeEventPop(value, '');
                     popDivs.push(value.pop);
                 });
@@ -258,28 +314,17 @@ document.addEventListener('DOMContentLoaded', async function() {
                 // This handles multi-slot events and fills gaps with blank blocks
                 const renderBlocks = [];
                 for(const atTime of times) {
-                    let atEvent = null;
-
-                    // Find event that contains this time slot
-                    for (const event of events) {
-                        if(atTime.isBetween(event.startTime, event.endTime, null, '[)')) {
-                            // Time is within event [start, end)
-                            atEvent = event;
-                            break;
-                        } else if(atTime.isBefore(event.startTime)) {
-                            // Past all possible events (events are sorted)
-                            break;
-                        }
-                    }
+                    // Use binary search to find event at this time
+                    let atEvent = findEventAtTime(events, atTime);
 
                     // No event at this time - create a blank placeholder
                     if(atEvent === null) {
                         const endTime = atTime.clone().add(blockTimeUnit, 'm');
-                        atEvent = { id: '-blank-', color: 'blank', startTime: atTime, endTime: endTime};
+                        atEvent = { id: '-blank-', color: 'blank', startTime: atTime, endTime: endTime };
                     }
 
                     // Merge consecutive blocks of the same event (for multi-slot events)
-                    if(renderBlocks.length > 0 && renderBlocks[renderBlocks.length - 1].id === atEvent.id ) {
+                    if(renderBlocks.length > 0 && renderBlocks[renderBlocks.length - 1].id === atEvent.id) {
                         renderBlocks[renderBlocks.length - 1].endTime = atEvent.endTime;
                     } else {
                         renderBlocks.push({
@@ -310,7 +355,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 // Render each block (event or blank)
                 for(const block of renderBlocks) {
                     // Calculate height based on duration
-                    const cellBlockCount = moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit
+                    const cellBlockCount = moment.duration(block.endTime.diff(block.startTime)).asMinutes() / blockTimeUnit;
                     const height = cellBlockHeight * cellBlockCount;
 
                     // Blank cells just take up space
@@ -318,7 +363,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                         const cell = makeCell(`schedule-room-blank schedule-${block.event.color}`);
                         cell.height(`${height}em`);
                         roomCol.append(cell);
-                        continue
+                        continue;
                     }
 
                     // Event cell with title and optional panelists
@@ -328,7 +373,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                     // Show more detail for longer events
                     if (cellBlockCount > 1) {
                         let div = $('<div class="schedule-event-pop-title"></div>');
-                        div.text( block.event.title || "");
+                        div.text(block.event.title || "");
                         cell.append(div);
 
                         if (block.event.panelists !== undefined) {
@@ -343,8 +388,8 @@ document.addEventListener('DOMContentLoaded', async function() {
 
                     // Attach click/hover handlers for popup
                     if(block.id !== '-blank-') {
-                        cell.click( (e) => clickSchedule(e, block.event) );
-                        cell.hover( (e) => hoverSchedule(e, block.event));
+                        cell.click(function(e) { clickSchedule(e, block.event); });
+                        cell.hover(function(e) { hoverSchedule(e, block.event); });
                     }
                     roomCol.append(cell);
                 }

@@ -93,11 +93,22 @@ footer a {
 
 .content h1 {
     text-align: center;
+    font-size: 4em;
     /*text-shadow: -2px 4px #f0f0f0;*/
     color: #d0d7e3;
 }
-
 .text-box h1 {
+    text-align: center;
+    color: #182f7b;
+}
+
+.content h2 {
+    text-align: center;
+    font-size: 2em;
+    /*text-shadow: -2px 4px #f0f0f0;*/
+    color: #d0d7e3;
+}
+.text-box h2 {
     text-align: center;
     color: #182f7b;
 }
@@ -376,6 +387,14 @@ a.discord-icon
 @media screen and (max-width: 1020px) {
     .guest-container > div {
         width: unset;
+    }
+
+    .h1 {
+        font-size: larger;
+    }
+
+    .h2 {
+        font-size: larger;
     }
 }
 

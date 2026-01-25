@@ -33,9 +33,19 @@ body {
 
 .content h1 {
     color: #ffffff;
+    -webkit-text-stroke: 4px #000;
+    paint-order: stroke fill;
 }
 
 .text-box h1 {
+    color: #ffffff;
+}
+
+.content h2 {
+    color: #ffffff;
+}
+
+.text-box h2 {
     color: #ffffff;
 }
 

@@ -1,7 +1,7 @@
 <div class="guest-container">
 {{ range $.Site.Data.guests.guests }}
     <div class="text-box guest-{{ .Type }}" style="margin-bottom: 20px">
-        <h1>{{ .Name }} {{ if .Autographs }}(<a href="{{.Autographs}}">Autographs</a>){{end}}</h1>
+        <h2>{{ .Name }} {{ if .Autographs }}(<a href="{{.Autographs}}">Autographs</a>){{end}}</h2>
         <p class="guest-image">
             <img  src="{{ .Image }}" >
         </p>

@@ -55,7 +55,7 @@ A: Yes! Printing, processing and shipping is directly handled by CustomInk, and 
 
 **Q: Does the shirt come in a different fit?**
 
-A: Unfortunately not! We offer the shirt at a unisex fit, available in sizes YXS to 4XL. Please check out the fundraiser page for a more detailed sizing guide!
+A: Unfortunately not! We offer the shirt at a unisex fit, available in sizes Adult XS to 3XL. Please check out the fundraiser page for a more detailed sizing guide!
 
 
 </div>

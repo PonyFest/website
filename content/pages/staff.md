@@ -8,7 +8,7 @@ url: /staff
 
 <div>
 
-<div style="columns: 2; text-align: left" class="staff-list text-box">
+<div class="text-box staff-page staff-list ">
 
 <div style="break-inside: avoid;">
 

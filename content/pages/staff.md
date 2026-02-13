@@ -12,6 +12,16 @@ url: /staff
 
 <div style="break-inside: avoid;">
 
+## Executive Staff
+- **Fizzbuzz**
+- **Luck Rock**
+- **Lycan**
+- **Reiuiji**
+- **Sirris**
+- **Sleepy**
+
+</div>
+
 ## Coordination
 - **Lycan** - Con Chair
 - **Reiuiji** - Vice Con Chair
@@ -63,6 +73,7 @@ url: /staff
 ## Design
 - **HauntedTuba** - Lead
 - **Reiuiji** - Staff
+- **The Armoured Brony** - Pony Town Content Lead
 
 </div>
 

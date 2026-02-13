@@ -22,6 +22,9 @@ url: /staff
 
 </div>
 
+
+<div style="break-inside: avoid;">
+
 ## Coordination
 - **Lycan** - Con Chair
 - **Reiuiji** - Vice Con Chair

@@ -284,8 +284,18 @@ a.discord-icon
     border-radius: 3px;
 }
 
+.staff-list {
+    text-align: left;
+}
+
 .staff-list h2 {
     margin-top: 0;
+}
+
+.staff-page {
+    columns: 4;
+    text-align: left;
+    max-width: 100%;
 }
 
 #schedule-frame {
@@ -455,6 +465,12 @@ a.discord-icon
     }
 } */
 
+@media screen and (max-width: 1000px) {
+    .staff-page {
+        columns: 3;
+    }
+}
+
 /* Mobile menu closed styles */
 @media screen and (max-width: 730px) {
     .logo {
@@ -507,6 +523,16 @@ a.discord-icon
         justify-content: space-around;
     }
 
+    .staff-page {
+        columns: 2;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .staff-page {
+        columns: 1;
+    }
 }
 
 .donation-title {

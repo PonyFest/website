@@ -114,7 +114,7 @@
 &lt;/div></description></item><item><title>Staff</title><link>https://ponyfest.horse/staff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ponyfest.horse/staff/</guid><description>&lt;h1 id="staff">Staff&lt;/h1>
 &lt;div style="text-align: center">
 &lt;div>
-&lt;div style="columns: 2; text-align: left" class="staff-list text-box">
+&lt;div class="text-box staff-page staff-list ">
 &lt;div style="break-inside: avoid;">
 &lt;h2 id="executive-staff">Executive Staff&lt;/h2>
 &lt;ul>
